@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p136277349",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "xxADrbbo2wRgFois1H6hyP",
+    "dateCreated": "2024-06-25 15:52:34+00:00",
+    "dateUpdated": "2024-07-01 18:21:19+00:00",
+    "postBody": "Today, Amazon Web Services, Inc. (AWS) announces a new Migration Acceleration Program (MAP) template in AWS Partner Central with streamlined funding and approval processes to better support partner-led migrations. Eligible AWS Partners can leverage MAP to accelerate more customer migration opportunities, now scaling to support migrations up to $10M in annual recurring revenue, with a simple approval workflow and access to new Strategic Partner Incentives (SPIs).\nThe new MAP template helps partners accelerate migration opportunities by providing better speed to market with fewer AWS approval stages. The simplified partner experience for submitting fund requests and cash claims in AWS Partner Funding Portal (APFP) automatically creates claim milestones and associates them with realized revenue outcomes for the MAP Mobilize phase. This improves overall partner productivity by avoiding the need to manually create individual claim milestones. The new MAP template also supports additional SPIs for new customer engagement and modernization opportunities. Partners can now easily get visibility to their funding investment status through Analytics tab in AWS Partner Central.\nThe MAP template can be accessed by all partners at the Validated Stage in AWS Partner Central and AWS Migration Competency Partners. To learn more, review the 2024 MAP program guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/streamlined-map-funding-approval-aws-partner-central",
+    "postDateTime": "2024-07-01 14:20:00-04:00",
+    "postDate": "2024-07-01",
+    "contentType": "launch announcement",
+    "headline": "Announcing streamlined Migration Acceleration Program (MAP) funding and approval process in AWS Partner Central",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#partner-network",
+            "name": "partner-network",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/partner-network"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#aws-marketplace-and-partners",
+            "name": "aws-marketplace-and-partners",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/aws-marketplace-and-partners"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

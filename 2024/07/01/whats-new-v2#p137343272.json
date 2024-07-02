@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p137343272",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "khLeUYQieHVQuRi3c5RznL",
+    "dateCreated": "2024-07-01 17:38:09+00:00",
+    "dateUpdated": "2024-07-01 19:58:30+00:00",
+    "postBody": "Amazon OpenSearch Ingestion now allows you to ingest data from self-managed OpenSearch, Elasticsearch and Apache Kafka clusters, eliminating the need to run and manage 3rd party tools like Logstash to migrate your data from self-managed sources into Amazon OpenSearch Service. Now you can seamlessly migrate or continuously replicate your data from all OpenSearch versions and Elasticsearch 7.x versions either on Amazon EC2 or on-premises environments into Amazon OpenSearch Service managed clusters or Serverless collections.\nYou can now migrate data from all indices, or just specific indices, from one or more self-managed OpenSearch/Elasticsearch clusters to one or more Amazon OpenSearch Service managed clusters or Serverless collections. Amazon OpenSearch Ingestion will continually detect new indices in the self-managed source cluster that need to be processed and can even be scheduled to reprocess indices at a configurable interval to pick up on new documents. Similarly, Amazon OpenSearch Ingestion pipelines can consume data from one or more topics in your self-managed Kafka cluster and transform the data before writing it to Amazon OpenSearch Service or Amazon S3. You can check out the complete list of features in this blog post.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-ingesting-data-self-managed-sources",
+    "postDateTime": "2024-07-01 15:55:00-04:00",
+    "postDate": "2024-07-01",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon OpenSearch Ingestion adds support for ingesting data from self-managed sources",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#serverless",
+            "name": "serverless",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/serverless"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-opensearch-service",
+            "name": "amazon-opensearch-service",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-opensearch-service"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

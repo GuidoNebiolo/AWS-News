@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1423495634",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-rkwpYYZXd9ixmtnpszjz9X",
+    "dateCreated": "2024-06-28 16:48:12+00:00",
+    "dateUpdated": "2024-07-01 19:09:30+00:00",
+    "postBody": "Amazon S3 Access Grants now integrate with Amazon SageMaker Studio for machine learning (ML) model training. S3 Access Grants help you to map identities in Identity Provider (IdPs) such as Active Directory, or AWS Identity and Access Management (IAM) principals, to your ML datasets in S3. Using the AWS SDK for Python (Boto3) plugin within Amazon SageMaker Studio notebooks helps you easily use S3 Access Grants for ML training and inference.\nGet started with S3 Access Grants in SageMaker Studio by launching a JupyterLab notebook. Next, import the Amazon S3 Access Grants Boto3 plugin into your notebook to start accessing your ML datasets in S3. The Boto3 plugin automatically requests, caches, and refreshes temporary credential tokens for all S3 requests that you run in your notebook. S3 Access Grants automatically update S3 permissions based on end-user group membership as users are added and removed from groups in the IdP.\nAmazon S3 Access Grants with Amazon SageMaker Studio are available in all AWS Regions where SageMaker Studio is available. For pricing details, visit Amazon S3 pricing and Amazon SageMaker pricing. To learn more about S3 Access Grants, refer to the documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-s3-access-grants-integrate-sagemaker-studio/",
+    "postDateTime": "2024-07-01 10:00:00-07:00",
+    "postDate": "2024-07-01",
+    "contentType": null,
+    "headline": "Amazon S3 Access Grants now integrate with Amazon SageMaker Studio",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-s3",
+            "name": "amazon-s3",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-s3"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1413903829",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-cPRkmcajTTbV4HwmSk4PXc",
+    "dateCreated": "2024-06-28 16:40:26+00:00",
+    "dateUpdated": "2024-07-01 18:39:27+00:00",
+    "postBody": "Amazon S3 Access Grants now integrate with open source Python frameworks using the AWS SDK for Python (Boto3) plugin. S3 Access Grants help you to map identities in Identity Providers (IdPs) such as Active Directory, or AWS Identity and Access Management (IAM) principals, to your datasets in S3. Importing the Boto3 plugin to your client replaces any custom code required to manage data permissions, so you can use S3 Access Grants in open source Python frameworks such as Django, TensorFlow, NumPy, Pandas, and more.\nGet started with S3 Access Grants using the AWS SDK for Python by importing the Boto3 plugin as a module in your Python code. The Boto3 plugin now has the ability to automatically request, cache, and refresh temporary credentials issued by S3, based on an Access Grant. As a result, the permissions for your Python-based S3 clients will be determined based on user group membership in an IdP.\nAmazon S3 Access Grants are available in all AWS Regions where AWS IAM Identity Center is available. To learn more about the Boto3 plugin, visit the GitHub repository. For pricing details, visit Amazon S3 pricing. To learn more, refer to the documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-s3-access-grants-integrate-open-source-python/",
+    "postDateTime": "2024-07-01 10:00:00-07:00",
+    "postDate": "2024-07-01",
+    "contentType": null,
+    "headline": "Amazon S3 Access Grants now integrate with open source Python frameworks",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-s3",
+            "name": "amazon-s3",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-s3"
+        }
+    ]
+}

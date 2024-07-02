@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p137189994",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-3oJ81LY35SsQBro5Rzrukr",
+    "dateCreated": "2024-07-01 15:48:56+00:00",
+    "dateUpdated": "2024-07-01 18:33:26+00:00",
+    "postBody": "Amazon RDS for PostgreSQL now supports new PL/Rust crates such as serde and serde_json crates, allowing you to exchange information between server and client or between servers by serializing and deserializing data structures in your PL/Rust user-defined functions. The release also includes support for regex crate that allow you to search strings for matches of a regular expression and url crate that implements the URL standard to provide parsing and deparsing of URL strings. With support for additional crates, you can now build more types of extensions on RDS for PostgreSQL using Trusted Language Extensions for PostgreSQL (pg_tle).\npg_tle is an open source development kit to help you build extensions written in a trusted language, such as PL/Rust, that run safely on PostgreSQL. Support for serde, serde_json, regex, and url crates is available on database instances in Amazon RDS running PostgreSQL 16.3-R2 and higher, 15.7-R2 and higher, 14.12-R2 and higher, and 13.15-R2 and higher in all applicable AWS Regions. To learn more about using pg_tle, see our documentation.\nAmazon RDS for PostgreSQL makes it simple to set up, operate, and scale PostgreSQL deployments in the cloud. See Amazon RDS for PostgreSQL Pricing for pricing details and regional availability. Create or update a fully managed Amazon RDS database in the Amazon RDS Management Console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/rds-postgresql-pl-rust-crates-serde-json-regex-url/",
+    "postDateTime": "2024-07-01 10:00:00-07:00",
+    "postDate": "2024-07-01",
+    "contentType": null,
+    "headline": "RDS for PostgreSQL supports PL/Rust crates serde, serde_json, regex, and url",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds",
+            "name": "amazon-rds",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds"
+        }
+    ]
+}

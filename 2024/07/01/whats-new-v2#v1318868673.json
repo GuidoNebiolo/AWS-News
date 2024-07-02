@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1318868673",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "kWGYSPUw3XPeFSVpDajyP5",
+    "dateCreated": "2024-06-25 19:43:08+00:00",
+    "dateUpdated": "2024-07-01 17:02:11+00:00",
+    "postBody": "Amazon Connect now supports the ability to preferentially route a contact within a queue to specific agents. Using this new feature, you can now set the preferred agent(s) for a given contact, and if that agent is unavailable, fall back to the next set of routing criteria. You can also use this feature to integrate Amazon Connect’s routing with your own custom business logic or machine learning models to personalize matching each contact to the most suitable agent, resulting in better business outcomes and increased customer satisfaction. For example, you could route repeat contacts to the agent who previously handled the customer, and if that specific agent isn’t available, offer the contact to another available agent within the same queue.\nThis feature is available in all AWS regions where Amazon Connect is offered. To learn more about routing criteria, see the Amazon Connect Administrator Guide. To learn more about Amazon Connect, the AWS cloud-based contact center, please visit the Amazon Connect website.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-preferentially-route-contacts-agents-queue",
+    "postDateTime": "2024-07-01 13:00:00-04:00",
+    "postDate": "2024-07-01",
+    "contentType": "launch announcement",
+    "headline": "Amazon Connect launches the ability to preferentially route contacts to specific agents within a queue",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#business-productivity",
+            "name": "business-productivity",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/business-productivity"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        }
+    ]
+}

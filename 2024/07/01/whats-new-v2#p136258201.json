@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p136258201",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "fSVDWwxd4eor1RwUNaLwF3",
+    "dateCreated": "2024-06-24 20:44:22+00:00",
+    "dateUpdated": "2024-07-12 02:56:25+00:00",
+    "postBody": "AWS Direct Connect now offers native 400 Gbps Dedicated Connections to support your private connectivity needs to the cloud.\nAWS Direct Connect provides private, high-bandwidth connectivity between AWS and your data center, office, or colocation facility. Native 400 Gbps connections provide higher bandwidth, without the operational overhead of managing multiple 100 Gbps connections in a link aggregation group. The increased capacity delivered by 400 Gbps connections is particularly beneficial to applications that transfer large-scale datasets, such as for machine learning and large language model training or advanced driver assistance systems for autonomous vehicles.\nFor production workloads, AWS recommends using connections in more than one AWS Direct Connect location to ensure resilience against device or colocation failure. To get started, follow our Resiliency Recommendations to determine the best resiliency model for your use case. After selecting a resiliency model, the AWS Direct Connect Resiliency Toolkit can guide you through the process for ordering redundant connectivity through the AWS Direct Connect Console or CLI/APIs. AWS encourages you to use the Resiliency Toolkit failover test feature to test your configurations before going live and set up active health monitoring using Amazon CloudWatch Network Monitor.\nStarting today, 400 Gbps Dedicated Connections are available at these locations. This list will be updated as 400 Gbps Dedicated Connections are made available at additional locations. The AWS Direct Connect pricing page has pricing information for 400 Gbps Dedicated Connections and the Direct Connect User Guide provides setup instructions.\nSign into the Direct Connect Console today to order your 400 Gbps Dedicated Connection!\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-direct-connect-native-400-gbps-dedicated-connections-select-locations",
+    "postDateTime": "2024-07-01 18:00:00-04:00",
+    "postDate": "2024-07-01",
+    "contentType": "launch announcement",
+    "headline": "AWS Direct Connect announces native 400 Gbps Dedicated Connections at select locations",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#networking",
+            "name": "networking",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/networking"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-direct-connect",
+            "name": "aws-direct-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-direct-connect"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p125959677",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "nfAi7bkmCRxMyxeuhrKkiy",
+    "dateCreated": "2024-05-23 17:19:21+00:00",
+    "dateUpdated": "2024-07-01 17:00:27+00:00",
+    "postBody": "Today, Amazon API Gateway has expanded the availability of WebSocket APIs to 7 additional AWS Regions: Asia Pacific (Jakarta), Europe (Zurich), Europe (Spain), Asia Pacific (Hyderabad), Asia Pacific (Melbourne), Israel (Tel Aviv), and Canada West (Calgary). With this launch, customers can build APIs with real-time bi-directional communication across all commercial AWS Regions.\nAmazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. WebSocket APIs enable real-time bi-directional communication, resulting in richer client-server interactions where services can push data to clients without requiring clients to make an explicit request. They are often used in real-time applications such as chat applications, collaboration platforms, multiplayer games, and financial trading platforms. WebSocket APIs have routes that can be integrated with backend HTTP endpoints, Lambda functions, or other AWS services.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-api-gateway-websocket-apis-additional-aws-regions",
+    "postDateTime": "2024-07-01 13:00:00-04:00",
+    "postDate": "2024-07-01",
+    "contentType": "launch announcement",
+    "headline": "Amazon API Gateway WebSocket APIs now available in 7 additional AWS Regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#networking",
+            "name": "networking",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/networking"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#serverless",
+            "name": "serverless",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/serverless"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-api-gateway",
+            "name": "amazon-api-gateway",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-api-gateway"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}
