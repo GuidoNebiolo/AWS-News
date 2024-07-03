@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p136192333",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-sGE7popFoEzaM3ouRLgrUX",
+    "dateCreated": "2024-06-24 18:06:45+00:00",
+    "dateUpdated": "2024-07-12 02:55:57+00:00",
+    "postBody": "You can now use Amazon EC2 instances reserved using Capacity Blocks for ML natively in Amazon EKS clusters with managed node groups. EKS managed node groups make it easy to run highly-available and secure Kubernetes clusters by automating the provisioning and lifecycle of cluster worker nodes. EC2 Capacity Blocks provide you with assured and predictable access to GPU instances for your artificial intelligence / machine learning (AI/ML) workloads.\nCustomers increasingly choose Kubernetes as the platform for their AI/ML workloads and Amazon EKS lets them combine the benefits of Kubernetes with the security, scalability, and availability of the AWS cloud. Native support for EC2 Capacity Blocks in Amazon EKS simplifies capacity planning for cutting-edge AI/ML workloads in Kubernetes clusters, helping to ensure that GPU capacity is available when and where it’s needed. To get started, create an EKS managed node group with an EC2 Launch Template targeting a Capacity Block reservation so that the reserved GPU capacity will be accessible in the EKS cluster when the reservation becomes active. EC2 Capacity Blocks can be reserved up to eight weeks in advance and for just the amount of time that you require the instances.\nNative EKS support for EC2 Capacity Blocks via managed node groups is available in the US East (Ohio), US East (N. Virginia), and US West (Oregon) AWS Regions. Read more about Amazon EKS support for EC2 Capacity Blocks for ML in the Amazon EKS User Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-eks-natively-ec2-capacity-blocks-for-ml/",
+    "postDateTime": "2024-07-02 10:00:00-07:00",
+    "postDate": "2024-07-02",
+    "contentType": null,
+    "headline": "Amazon EKS natively supports EC2 capacity blocks for ML",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-eks",
+            "name": "amazon-eks",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-eks"
+        }
+    ]
+}

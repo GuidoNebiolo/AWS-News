@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p131860771",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-bpLSuzJhLAWVycgv7Ni7j2",
+    "dateCreated": "2024-06-24 17:23:30+00:00",
+    "dateUpdated": "2024-07-12 02:54:46+00:00",
+    "postBody": "Amazon MQ now provides support for RabbitMQ version 3.13, which includes several fixes and performance improvements to the previous versions of RabbitMQ supported by Amazon MQ. Starting from RabbitMQ 3.13, Amazon MQ will manage patch version upgrades for your brokers. All brokers on version 3.13 will be automatically upgraded to the latest compatible and secure patch version in your scheduled maintenance window.\nIf you are running earlier versions of RabbitMQ, such as 3.8, 3.9, 3.10, 3.11 or 3.12, we strongly encourage you to upgrade to RabbitMQ 3.13. This can be accomplished with just a few clicks in the AWS Management Console. Amazon MQ for RabbitMQ will soon end support for RabbitMQ versions 3.8, 3.9 and 3.10. To learn more about upgrading, see Managing Amazon MQ for RabbitMQ engine versions in the Amazon MQ Developer Guide. To learn more about the changes in RabbitMQ 3.13, see the Amazon MQ release notes. This version is available in all the regions Amazon MQ is available in. For a full list of available regions see the AWS Region Table.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-mq-rabbitmq-version-3-13/",
+    "postDateTime": "2024-07-02 10:00:00-07:00",
+    "postDate": "2024-07-02",
+    "contentType": null,
+    "headline": " Amazon MQ now supports RabbitMQ version 3.13",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-mq",
+            "name": "amazon-mq",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-mq"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#application-services",
+            "name": "application-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/application-services"
+        }
+    ]
+}

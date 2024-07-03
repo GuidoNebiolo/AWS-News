@@ -1,0 +1,28 @@
+{
+    "id": "whats-new-v2#v1417701038",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "5JgNxev3BBGh8mmHRCcuqM",
+    "dateCreated": "2024-06-26 21:37:42+00:00",
+    "dateUpdated": "2024-07-12 02:54:07+00:00",
+    "postBody": "AWS Private Certificate Authority (AWS Private CA) is now available in the AWS China (Beijing) Region, operated by Sinnet, and in the AWS China (Ningxia) Region, operated by NWCD. AWS Private CA is a managed, highly-available, cloud certificate authority (CA) with private keys secured in AWS-managed hardware security modules (HSMs). By using AWS Private CA, you can reduce the operational costs and complexity of using public key infrastructure (PKI) at scale across industries and use cases including financial services, automotive, manufacturing, healthcare, electronics, technology, energy, and smart home.\nAWS Private CA enables you to create customizable private certificates for a broad range of scenarios. AWS services such as AWS Certificate Manager, Amazon Managed Streaming for Apache Kafka (MSK), AWS IAM Roles Anywhere and Amazon Elastic Kubernetes Service (EKS) can all leverage private certificates from AWS Private CA. You can use AWS Private CA to create private certificates for Internet of Things (IoT) devices including Matter smart home devices.\nFor regions where AWS Private CA is available, see AWS Services by Region.\nTo learn more about AWS Private CA, visit the product page and documentation. To learn how to use AWS Private CA to create and operate Matter-compliant CAs, see Using the Matter standard.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-private-ca-beijing-ningxia-regions",
+    "postDateTime": "2024-07-02 14:00:00-04:00",
+    "postDate": "2024-07-02",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Private CA is now available in the Beijing and Ningxia Regions in China",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        }
+    ]
+}

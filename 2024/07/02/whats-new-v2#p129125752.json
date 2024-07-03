@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p129125752",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-fhhVv61YZ8qfgN9UDZqbUd",
+    "dateCreated": "2024-06-18 16:58:19+00:00",
+    "dateUpdated": "2024-07-12 02:56:19+00:00",
+    "postBody": "We are excited to announce that AWS now supports cross-subnet communication between Elastic Fabric Adapter (EFA) interfaces for Amazon EC2 instances within the same Availability Zone (AZ). This enhancement makes it possible to communicate with EC2 instances across subnets while benefiting from the low latency and high throughput provided by EFA. EFA is a network device that you can attach to your Amazon EC2 instance to accelerate High Performance Computing (HPC) and Machine Learning (ML) applications.\nPreviously, EFA traffic was limited to the same subnet, thus requiring all instances to be configured within a single subnet. With this update, you have the option to send traffic over EFA across subnets for both existing and new instances. To take advantage of this capability, you need to configure your security group rules to allow traffic to and from security groups of instances from other subnets. You will also need to ensure your application configuration and orchestration logic accounts for hosts from other subnets when provisioning and managing EFA-enabled instances to communicate across subnets over EFA.\nThe cross-subnet communication support over EFA is available in all AWS commercial regions, the AWS GovCloud (US) regions, and the Amazon Web Services China (Beijing) region, operated by Sinnet, and the Amazon Web Services China (Ningxia) region, operated by NWCD. For more information about EFA, please visit EFA documentation page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/elastic-fabric-adapter-cross-subnet-communication/",
+    "postDateTime": "2024-07-02 10:00:00-07:00",
+    "postDate": "2024-07-02",
+    "contentType": null,
+    "headline": "Elastic Fabric Adapter (EFA) now supports cross-subnet communication ",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#elastic-fabric-adapter",
+            "name": "elastic-fabric-adapter",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/elastic-fabric-adapter"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#networking-and-content-delivery",
+            "name": "networking-and-content-delivery",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/networking-and-content-delivery"
+        }
+    ]
+}
