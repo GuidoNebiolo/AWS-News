@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p134936742",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "9hy6pUCp5ys8DRCG3e1h9k",
+    "dateCreated": "2024-06-26 17:51:20+00:00",
+    "dateUpdated": "2024-07-12 02:51:06+00:00",
+    "postBody": "Snapshot Export to S3 for Amazon Aurora and Amazon RDS snapshots is now available in Asia Pacific (Hyderabad), Asia Pacific (Jakarta), Asia Pacific (Melbourne), Canada West (Calgary), Europe (Spain), Europe (Zurich), Israel (Tel Aviv), and Middle East (UAE) regions. Snapshot export to S3 exports snapshot data as Apache Parquet, an efficient open columnar storage format. Snapshot export to S3 allows ingestion of data stored in Amazon RDS and Amazon Aurora for purposes such as populating data lakes for analytics or for training machine learning models.\nYou can create an export with just a few clicks on the Amazon RDS Management Console or using the AWS SDK or CLI. Extracting data from a snapshot doesn’t impact the performance of your database, as the export operation is performed on your snapshot and not your database. The extracted data in Apache Parquet format is portable, so you can consume it with other AWS services such as Amazon Athena, Amazon SageMaker, or Amazon Redshift Spectrum or with big data processing frameworks such as Apache Spark.\nAmazon RDS Snapshot Export to S3 can export data from Amazon RDS for PostgreSQL, Amazon RDS for MariaDB, Amazon RDS for MySQL, Amazon Aurora PostgreSQL-Compatible Edition and Amazon Aurora MySQL snapshots. For more information, including instructions on getting started, read the Aurora documentation or Amazon RDS documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-snapshot-export-s3-additional-aws-regions",
+    "postDateTime": "2024-07-03 17:55:00-04:00",
+    "postDate": "2024-07-03",
+    "contentType": "launch announcement",
+    "headline": "Amazon RDS Snapshot Export to S3 now available in eight additional AWS regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds",
+            "name": "amazon-rds",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-aurora",
+            "name": "amazon-aurora",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-aurora"
+        }
+    ]
+}

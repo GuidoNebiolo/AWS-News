@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p136164672",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-b8BQ3PBZqeDcH2fMrMB2tD",
+    "dateCreated": "2024-06-24 17:32:07+00:00",
+    "dateUpdated": "2024-07-12 02:52:34+00:00",
+    "postBody": "Amazon Relational Database Service (Amazon RDS) for PostgreSQL, MySQL, and MariaDB now supports AWS Graviton2-based M6gd and R6gd database instances in the AWS GovCloud (US) Regions.\nWith this regional expansion, M6gd instances are now available for Amazon RDS for PostgreSQL, MySQL, and MariaDB in US East (Ohio, N. Virginia), US West (Oregon), Asia Pacific (Hong Kong, Hyderabad, Jakarta, Melbourne, Mumbai, Osaka, Seoul, Singapore, Sydney, Tokyo), Canada (Calgary, Central), Europe (Frankfurt, Ireland, London, Milan, Paris, Spain, Stockholm, Zurich), Middle East (Bahrain, UAE), and the AWS GovCloud (US) Regions. R6gd instances are available for Amazon RDS for PostgreSQL, MySQL, and MariaDB in US East (Ohio, N. Virginia), US West (Oregon), Asia Pacific (Jakarta, Mumbai, Singapore, Sydney, Tokyo), Canada (Central), Europe (Frankfurt, Ireland, Paris), and the AWS GovCloud (US) Regions. For complete information on pricing and regional availability, please refer to the Amazon RDS pricing page.\nM6gd and R6gd database instances are available on Amazon RDS for PostgreSQL version 16.1 and higher, 15.2 and higher, 14.5 and higher, and 13.4 and higher. M6gd and R6gd database instances are available on Amazon RDS for MySQL version 8.0.32 and higher, and Amazon RDS for MariaDB version 10.11.4 and higher, 10.6.13 and higher, 10.5.20 and higher, and 10.4.29 and higher. Get started by creating a fully managed M6gd database instance using the Amazon RDS Management Console. For more details, refer to the Amazon RDS User Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-m6gd-r6gd-database-instances-govcloud/",
+    "postDateTime": "2024-07-03 10:00:00-07:00",
+    "postDate": "2024-07-03",
+    "contentType": null,
+    "headline": "Amazon RDS now supports M6gd and R6gd database instances in the AWS GovCloud (US) Regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-rds",
+            "name": "amazon-rds",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

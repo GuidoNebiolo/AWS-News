@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1394604858",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-76qQmFL4Ybg5PFn4sx3ybN",
+    "dateCreated": "2024-06-26 16:22:33+00:00",
+    "dateUpdated": "2024-07-12 02:52:27+00:00",
+    "postBody": "AWS Launch Wizard now enables customers to programmatically deploy workloads on AWS using Application Programming Interface (API) or CloudFormation templates while still leveraging built-in automation and best practice recommendations. With this launch, customers now have a choice to deploy third-party applications on AWS such as SQL Server - SingleNode, HA, or FCI, SAP, and all supported workloads through AWS Launch Wizard APIs or CloudFormation resources, in addition to the existing console-based experience. Additionally, AWS Launch Wizard has also introduced APIs to programmatically retrieve application specifications for a simplified deployment experience.\nAWS Launch Wizard offers a guided way of sizing, configuring, and deploying AWS resources for third party applications, such as Microsoft SQL Server Always On and HANA based SAP systems, without the need to manually identify and provision individual AWS resources.\nAWS Launch Wizard is available in 29 Regions including US East (N. Virginia, Ohio), Europe (Frankfurt, Ireland, London, Paris, Stockholm and Milan), South America (Sao Paulo), US West (N. California, Oregon), Canada (Central), Asia Pacific (Mumbai, Seoul, Tokyo, Hong Kong, Hyderabad, Singapore, and Sydney), Middle East (Bahrain, UAE), Africa (Cape Town), Europe (Spain), Europe (Zurich), Asia Pacific (Melbourne), China (Beijing, operated by Sinnet), China (Ningxia, operated by NWCD), and the AWS GovCloud (US) Regions.\nTo learn more about AWS Launch Wizard, visit the Launch Wizard Page. To get started, check out the Launch Wizard User Guide and the API Page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-launch-wizard-deployments-apis-cloudformation-templates/",
+    "postDateTime": "2024-07-03 10:00:00-07:00",
+    "postDate": "2024-07-03",
+    "contentType": null,
+    "headline": "AWS Launch Wizard now adds programmatic deployments through APIs and Cloudformation templates",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-launch-wizard",
+            "name": "aws-launch-wizard",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-launch-wizard"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        }
+    ]
+}

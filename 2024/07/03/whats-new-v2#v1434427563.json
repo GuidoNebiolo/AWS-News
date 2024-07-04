@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1434427563",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "uRpQnk76Dy5bCcKcs8fPNv",
+    "dateCreated": "2024-07-02 17:02:20+00:00",
+    "dateUpdated": "2024-07-12 02:55:33+00:00",
+    "postBody": "AWS Lambda announces advanced logging controls that enable you to natively capture logs in JSON structured format, adjust log levels, and select the Amazon CloudWatch log group for your Lambda functions.\nYou can now capture your Lambda logs in JSON structured format without having to bring your own logging libraries. JSON format allows logs to be structured as a series of key-value pairs, enabling you to quickly search, filter, and analyze your function logs. You can also control the log level (e.g. ERROR, DEBUG, INFO, etc.) of your Lambda logs without making any code changes. This enables you to choose the desired logging granularity level for your function, eliminating the need to sift through large volumes of logs while debugging and troubleshooting critical errors. Lastly, you can choose the CloudWatch log group to which Lambda sends your logs. This allows you to easily aggregate logs from multiple functions within an application in one place, and apply security, governance, and retention policies at the application level, rather than applying them individually to every function.\nTo get started, you can specify advanced logging controls for your Lambda functions using Lambda API, Lambda console, AWS CLI, AWS Serverless Application Model (SAM), and AWS CloudFormation. To learn more, visit the launch blog post or Lambda Developer Guide.\nLambda advanced logging controls are now available in AWS GovCloud (US) Regions, at no additional cost. For more information, see the AWS Region table.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-search-filter-aggregate-function-logs",
+    "postDateTime": "2024-07-03 13:00:00-04:00",
+    "postDate": "2024-07-03",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Lambda introduces new controls to make it easier to search, filter, and aggregate Lambda function logs",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#serverless",
+            "name": "serverless",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/serverless"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-lambda",
+            "name": "aws-lambda",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-lambda"
+        }
+    ]
+}

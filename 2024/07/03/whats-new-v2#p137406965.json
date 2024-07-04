@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p137406965",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "aq2hEPFxhr3JV1MXUeiyKm",
+    "dateCreated": "2024-06-28 15:47:38+00:00",
+    "dateUpdated": "2024-07-12 02:53:58+00:00",
+    "postBody": "Today, Amazon Web Services, Inc. launches the general availability of Amazon Q Developer in the Visual Studio IDE, available as part of the AWS Toolkit extension. You can now chat with Amazon Q about your project and ask Amazon Q to scan your project for security vulnerabilities.\nAmazon Q Developer helps simplify the software development lifecycle by answering questions about technical topics, generating code, and explaining code. You can ask Amazon Q to answer questions such as “How do I debug issues with my Lambda functions locally before deploying to AWS?”. You can also request Amazon Q to generate code with prompts like “Generate test cases for [function name]”, where you reference a function name in an open file.\nAmazon Q Developer can also keep your software secure by highlighting security vulnerabilities. You can click “Run Security Scan” from the margin menu, which will return with a list of vulnerabilities. Currently, security scans only support C#.\nYou can ask Amazon Q questions, update your code, and initiate actions with quick commands all from the Amazon Q chat panel in your IDE. When you ask Amazon Q a question, it uses the current file that is open in your IDE as context, including the programming language and the file path.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-developer-ga-visual-studio-ide",
+    "postDateTime": "2024-07-03 13:00:00-04:00",
+    "postDate": "2024-07-03",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon Q Developer is now generally available (GA) in the Visual Studio IDE",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-q",
+            "name": "amazon-q",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-q"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#developer-tools",
+            "name": "developer-tools",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/developer-tools"
+        }
+    ]
+}

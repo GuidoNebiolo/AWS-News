@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p130982964",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "p1eRHy9BK81cAQiY6wumiW",
+    "dateCreated": "2024-06-20 12:12:39+00:00",
+    "dateUpdated": "2024-07-12 02:54:25+00:00",
+    "postBody": "AWS Lambda now supports runtime management controls in the AWS GovCloud (US) Regions. The operational simplicity of automatic runtime updates is one of the features customers most like about Lambda. This release provides customers running critical production workloads with more visibility and control over when runtime updates are applied to their functions.\nFor each runtime, Lambda provides a managed execution environment which includes the underlying Amazon Linux OS, programming language runtime, and SDKs. Lambda takes care of applying patches and security updates to all these components. These runtime updates allow customers to delegate responsibility for patching from the customer to Lambda. With this release, the updates made to the managed runtimes provided by Lambda are now visible to customers as distinct runtime versions. Customers also have more control over when Lambda updates their functions to a new runtime version, either automatically or synchronized with customer-driven function updates. In the very rare event of an unexpected runtime incompatibility with an existing function, they can also roll back to an earlier runtime version.\nVisit our product documentation for more information about runtime management controls. Sign in to the AWS Lambda console to get started.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-runtime-management-controls-govcloud-regions",
+    "postDateTime": "2024-07-03 13:00:00-04:00",
+    "postDate": "2024-07-03",
+    "contentType": "launch announcement",
+    "headline": "AWS Lambda adds support for runtime management controls in the AWS GovCloud (US) Regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-lambda",
+            "name": "aws-lambda",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-lambda"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#serverless",
+            "name": "serverless",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/serverless"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

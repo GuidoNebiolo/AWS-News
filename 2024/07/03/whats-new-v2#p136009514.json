@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p136009514",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-vDSb4WW2uev2zQpBtmbt45",
+    "dateCreated": "2024-06-24 17:50:26+00:00",
+    "dateUpdated": "2024-07-12 02:52:06+00:00",
+    "postBody": "Today, Amazon DataZone has introduced fine-grained access control, providing data owners granular control over their data at row and column levels. Customers use Amazon DataZone to catalog, discover, analyze, share, and govern data at scale across organizational boundaries with governance and access controls. Data owners can now restrict access to specific records of data, instead of granting access to the entire dataset. For example, if your table contains data for multiple regions, you can create row filters to grant access to rows with different regions to different projects. Additionally, column filters allow you to restrict access to specific columns, such as those containing Personally Identifiable Information (PII), ensuring that subscribers can only access the necessary and less sensitive data.\nTo get started, you can create row and column filters within the Amazon DataZone portal. When a user requests access to your data asset, you can approve the subscription by applying the appropriate filters. Amazon DataZone enforces these filters using AWS Lake Formation and Amazon Redshift, ensuring that the subscriber can only access the rows and columns that you have authorized.\nFine-grained access control support for both Amazon Redshift and AWS Lake Formation is now generally available in the following AWS Regions: US East (Ohio), US East (N. Virginia), US West (Oregon), Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Asia Pacific (Seoul), Canada (Central), Europe (Frankfurt), Europe (Ireland), Europe (Stockholm), Europe (London), and South America (São Paulo).\nLearn more about fine-grained access control in the user documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-datazone-fine-grained-access-control/",
+    "postDateTime": "2024-07-03 10:00:00-07:00",
+    "postDate": "2024-07-03",
+    "contentType": null,
+    "headline": "Amazon DataZone introduces fine-grained access control",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-datazone",
+            "name": "amazon-datazone",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-datazone"
+        }
+    ]
+}
