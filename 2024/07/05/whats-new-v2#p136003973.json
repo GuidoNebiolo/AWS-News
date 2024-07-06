@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p136003973",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "qhnzr9DzETwTSd6Q2dBwjS",
+    "dateCreated": "2024-06-24 19:28:50+00:00",
+    "dateUpdated": "2024-07-08 20:52:29+00:00",
+    "postBody": "Amazon Simple Queue Service introduces two new Amazon CloudWatch metrics to improve the usage visibility of FIFO queues. Amazon SQS is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications.\nWith the new metrics, SQS customers have greater visibility into their FIFO usage. The new metrics are:\nNumberOfDeduplicatedSentMessages - The number of messages sent to a queue that were deduplicated. This metric helps in determining if a producer is sending duplicate messages to an SQS FIFO queue.\nApproximateNumberOfGroupsWithInflightMessages - The approximate number of message groups with inflight messages, where a message is considered to be in flight after it is received from a queue by a consumer, but not yet deleted from the queue. This metric helps you troubleshoot and optimise your FIFO queue throughput by either increasing FIFO message groups or scaling your consumers.\n\nMetrics are available on a per-queue basis, and can be accessed through SQS and CloudWatch consoles. These metrics are available in all AWS regions where Amazon SQS is available.\nTo learn more, see SQS Metrics Documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-sqs-cloudwatch-metrics-fifo-queues",
+    "postDateTime": "2024-07-05 16:50:00-04:00",
+    "postDate": "2024-07-05",
+    "contentType": "launch announcement",
+    "headline": "Amazon SQS introduces new Amazon CloudWatch metrics for FIFO queues",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#serverless",
+            "name": "serverless",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/serverless"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-cloudwatch",
+            "name": "amazon-cloudwatch",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-cloudwatch"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}
