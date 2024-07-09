@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p136565959",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-3u2tY9eaN8EzaSGreT3bEE",
+    "dateCreated": "2024-07-03 19:18:25+00:00",
+    "dateUpdated": "2024-07-08 17:37:13+00:00",
+    "postBody": "We are excited to announce that backup and restore for Apache HBase Tables is now available in the AWS region in Asia Pacific (Seoul)\nApache HBase Write Ahead Log allows recording all changes to data to file-based storage. With the launch today, customers can now write their Apache HBase write-ahead logs to the Amazon EMR WAL, a durable managed storage layer. This ensures business continuity in case of a disaster as well as offer a higher resilience for workloads. In the event that customer’s cluster, or in the rare cases that the Availability Zone becomes unhealthy or unavailable, customers can create a new cluster, point it to the same Amazon S3 root directory and Amazon EMR WAL workspace, and automatically recover data from Amazon EMR WAL within a few minutes. This feature also allows Apache HBase administrators to easily perform common operational tasks like upgrading to the latest versions, rotating your clusters, and cleaning up old write ahead logs.\nCustomer who enroll into the feature will be charged based on usage - for Amazon EMR WAL data storage, writes, and reads during recovery operations. This feature is now available for Amazon EMR release 6.15 and 7.0 and later. To learn how to get started, please refer to our documentation, and for pricing information please refer to the pricing section.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-emr-backup-restore-apache-hbase-tables-seoul/",
+    "postDateTime": "2024-07-08 10:00:00-07:00",
+    "postDate": "2024-07-08",
+    "contentType": null,
+    "headline": "Amazon EMR support for backup and restore for Apache HBase Tables available in Asia Pacific (Seoul) ",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-emr",
+            "name": "amazon-emr",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-emr"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        }
+    ]
+}

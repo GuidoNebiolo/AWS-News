@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1420821630",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-2fvUSWgQEYdUyk1aG2PrHM",
+    "dateCreated": "2024-06-27 16:19:11+00:00",
+    "dateUpdated": "2024-07-08 17:00:22+00:00",
+    "postBody": "Amazon Elastic Container Registry (Amazon ECR) now emits Amazon EventBridge events when customers successfully replicate images using ECR’s replication capability. Amazon EventBridge is a serverless service that makes it easy for customers to connect their applications using events generated from a variety of sources.\nECR’s replication feature enables you to easily copy container images across multiple AWS accounts and regions, and benefit from in-region pulls, allowing your applications to start faster as pull latency is reduced. Geographically dispersed images also help you meet backup and disaster recovery requirements for your applications. With today’s launch, ECR will automatically generate events when image replication is successfully completed across configured source and destination regions and/or accounts. This allows you to know once your replicated images are available for use in the destination registry, and trigger automated actions following replication completion. To receive ECR events, you can configure a rule using the EventBridge console, and include automated actions that should be triggered when an event matches the rule.\nEventBridge support for ECR replication is available in all commercial AWS Regions. To get started and learn more about EventBridge events with Amazon ECR, see our user guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecr-eventbridge-ecrs-replication-feature/",
+    "postDateTime": "2024-07-08 10:00:00-07:00",
+    "postDate": "2024-07-08",
+    "contentType": null,
+    "headline": "Amazon ECR adds EventBridge support with ECR’s replication feature",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-ecr",
+            "name": "amazon-ecr",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ecr"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#containers",
+            "name": "containers",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/containers"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

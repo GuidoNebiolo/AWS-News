@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p137538716",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "jTVzgjgSeQ6gpvrMxpmQ1W",
+    "dateCreated": "2024-07-05 20:37:10+00:00",
+    "dateUpdated": "2024-07-08 17:04:20+00:00",
+    "postBody": "Customers that use Amazon Simple Notification Service (Amazon SNS) can now host their applications in Canada West (Calgary) region, and send text messages (SMS) to consumers in more than 200 countries and territories. Using Amazon SNS, customers can send a message directly to one phone number, or multiple phone numbers at once by subscribing those phone numbers to a topic and sending messages to the topic. With this expansion, Amazon SNS now supports the ability to send SMS from 29 AWS regions.\nMore information:\nTo learn more about sending SMS messages, visit Mobile text messaging (SMS).\nFor the list of regions from which you can send SMS using Amazon SNS, visit Amazon SNS SMS Supported Regions and Countries.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-sns-sending-sms-calgary",
+    "postDateTime": "2024-07-08 13:00:00-04:00",
+    "postDate": "2024-07-08",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon SNS now supports sending SMS from Canada West (Calgary) region",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#mobile-services",
+            "name": "mobile-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/mobile-services"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#serverless",
+            "name": "serverless",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/serverless"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#application-services",
+            "name": "application-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/application-services"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-sns",
+            "name": "amazon-sns",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-sns"
+        }
+    ]
+}

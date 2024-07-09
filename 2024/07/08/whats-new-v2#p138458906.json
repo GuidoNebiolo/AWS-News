@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p138458906",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "amiGC4utCRLGM9ubUaQdFo",
+    "dateCreated": "2024-07-03 18:14:39+00:00",
+    "dateUpdated": "2024-07-08 22:00:37+00:00",
+    "postBody": "Amazon CloudFront announces two new managed cache policies, UseOriginCacheControlHeaders and UseOriginCacheControlHeaders-QueryStrings, for dynamically generated websites and applications that return Cache-Control headers. With the new managed cache policies, CloudFront caches content based on the Cache-Control headers returned by the origin, and defaults to not caching when no Cache-Control header is returned. This functionality was previously available to customers that created custom cache policies, but is now available out-of-the-box for all customers as a managed cache policy.\nCache policies instruct CloudFront when and how to cache, including which request attributes to include in the cache key. Previously, customers had two common options for managed cache policies: CachingOptimized to always cache unless disallowed by a caching directive, and CachingDisabled to disable all caching. For all other cases, customers had to create custom cache policies. Now, customers can use a single managed cache policy for websites backed by content management systems like WordPress or dynamically generated content that has a mix of cacheable and non-cacheable content.\nThe new managed cache policies are available for immediate use at no additional cost. This feature can be enabled via the CloudFront Console, SDK, and CLI. The CloudFront console automatically provides recommendations on cache policies based on your origin type. For more information, refer to the CloudFront Developer Guide. To get started with CloudFront, visit the CloudFront Product Page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-cloudfront-managed-cache-policies-web-applications",
+    "postDateTime": "2024-07-08 18:00:00-04:00",
+    "postDate": "2024-07-08",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon CloudFront announces managed cache policies for web applications",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-cloudfront",
+            "name": "amazon-cloudfront",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-cloudfront"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#networking",
+            "name": "networking",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/networking"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p137808925",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "mm2kQfk93rB4MD1jknBvUm",
+    "dateCreated": "2024-07-03 18:05:19+00:00",
+    "dateUpdated": "2024-07-08 21:21:47+00:00",
+    "postBody": "Today, AWS announced the third release of FreeRTOS Long Term Support (LTS) - FreeRTOS 202406 LTS. FreeRTOS LTS releases provide feature stability with security updates and critical bug fixes for two years. The new LTS release includes the latest FreeRTOS kernel v11.1 that supports Symmetric Multiprocessing (SMP) and Memory Protection Units (MPU) and recently updated libraries, such as the FreeRTOS-Plus-TCP v4.2.1 library and the Over-the-Air (OTA) library, providing you with an improved IPv6 and OTA capabilities. With the FreeRTOS LTS releases, you can continue to maintain your existing FreeRTOS code base and avoid any potential disruptions resulting from FreeRTOS version upgrades.\nSimilar to the previous FreeRTOS LTS release, FreeRTOS 202406 LTS includes libraries that have been validated for memory safety with the C Bounded Model Checker (CBMC) and have undergone specific code quality checks, including MISRA-C compliance and Coverity static analysis to help improve code safety, portability, and reliability in embedded systems. For more information, refer to the LTS Code Quality Checklist.\nThe support period for the previous LTS release will end on Nov-2024, thus providing you with an overlapping time window to migrate your projects to the new LTS release. Refer to the migration guide and corresponding validation tests to upgrade your project to FreeRTOS 202406 LTS. If you prefer not to upgrade and want to continue receiving critical fixes on the previous LTS version beyond its expiry, consider the FreeRTOS Extended Maintenance Plan.\nTo learn more, visit the FreeRTOS LTS page and FreeRTOS LTS GitHub repository.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/freertos-long-term-support-version",
+    "postDateTime": "2024-07-08 17:20:00-04:00",
+    "postDate": "2024-07-08",
+    "contentType": "Launch Announcement",
+    "headline": "FreeRTOS releases new  Long Term Support version",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-freertos",
+            "name": "amazon-freertos",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-freertos"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#internet-of-things",
+            "name": "internet-of-things",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/internet-of-things"
+        }
+    ]
+}

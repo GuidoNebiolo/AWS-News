@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p137743970",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "aJxabbRqT6z6HCigpDE66y",
+    "dateCreated": "2024-07-08 16:37:56+00:00",
+    "dateUpdated": "2024-07-08 17:05:50+00:00",
+    "postBody": "Amazon Connect now supports automated rotation of agent shifts, making it easier for contact center managers to administrate schedules and ensure that agents receive a business-defined sequence of shifts.\nAutomated shift rotations speed up the week-to-week scheduling process for contact center managers, eliminating the need to manually move agents between different shifts. With shift rotation, contact center managers can now create a pattern of shifts that agents will repeatedly rotate through (e.g., morning shift, afternoon shift, night shift) and define how many weeks each shift should be scheduled before moving to the next one in the rotation. These shift rotation patterns are automatically applied when new schedules are created, eliminating the need for contact center managers to manually assign shifts to groups of agents. Additionally, contact center managers can bulk upload and download shift rotation and shift profile assignments, making it easy to set up and update shift rotations for thousands of agents.\nThere is no additional charge for this feature and it is available in all AWS Regions where Amazon Connect agent scheduling is available, To get started with Amazon Connect agent scheduling, click here.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-automated-rotation-agent-shifts",
+    "postDateTime": "2024-07-08 13:00:00-04:00",
+    "postDate": "2024-07-08",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon Connect  launches automated rotation of agent shifts",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#business-productivity",
+            "name": "business-productivity",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/business-productivity"
+        }
+    ]
+}

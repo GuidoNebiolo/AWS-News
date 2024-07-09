@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p135181845",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "mRjzFkJuKpgNm1EM9Jjz5k",
+    "dateCreated": "2024-07-01 18:27:25+00:00",
+    "dateUpdated": "2024-07-25 17:16:31+00:00",
+    "postBody": "Today, Amazon Web Services, Inc. (AWS) announces new 2024 AWS Migration Acceleration Program (MAP) data visualizations in Analytics and Insights Dashboards, accessible via AWS Partner Central. AWS Partners with the Migration Competency and in Differentiated or Validation Stages of any Partner Path, can now access these new visualizations.\nPreviously, Partners' realization of their MAP benefit was based on project or milestone completion. With the 2024 MAP Program changes designed toward revenue-based outcomes, Analytics and Insights surfaces the necessary information needed to maintain visibility and awareness of these outcomes to claim their MAP funding benefits in the AWS Partner Funding Portal (APFP).\nTo get started, log into your AWS Partner Central account and navigate to the Investments tab within the Analytics & Insights dashboard. Learn more about the dashboard’s functionality and the latest updates in the Analytics and Insights User Guide and FAQs (login required). To learn more about the new 2024 MAP funding template, refer to link and  blog post.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/map-visualizations-aws-partner-central-analytics-insights-dashboard",
+    "postDateTime": "2024-07-08 14:40:00-04:00",
+    "postDate": "2024-07-08",
+    "contentType": "Launch Announcement",
+    "headline": "Migration Acceleration Program (MAP) visualizations available in AWS Partner Central- Analytics and Insights Dashboard",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#partner-network",
+            "name": "partner-network",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/partner-network"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#aws-marketplace-and-partners",
+            "name": "aws-marketplace-and-partners",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/aws-marketplace-and-partners"
+        }
+    ]
+}
