@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p137952372",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "38NuM1dXvZfQoubnykr5zJ",
+    "dateCreated": "2024-07-05 18:23:59+00:00",
+    "dateUpdated": "2024-07-09 17:35:20+00:00",
+    "postBody": "AWS Partners can now register as sellers in AWS Marketplace with a simplified one-click experience. We have removed the need for AWS partners to review and accept a separate set of terms to sell in AWS Marketplace by including AWS Marketplace Terms into AWS service terms. Instead, partners simply sign in to their AWS account and click to register as an AWS Marketplace seller in the AWS Marketplace management portal.\nAWS Partners such as independent software vendors (ISVs), data providers, and consulting partners can sell their software, services, and data in AWS Marketplace to AWS customers. AWS Marketplace, jointly with AWS Partner Network (APN), helps ISVs and consulting partners to build, market, and sell their AWS offerings by providing valuable business, technical, and marketing support. AWS Marketplace is available to customers globally. Partners can discover the benefits of becoming an AWS Marketplace seller and get started on their AWS Marketplace journey.\nTo learn more, review the new simplified Terms for selling in AWS Marketplace.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/simplified-service-terms-aws-marketplace-sellers",
+    "postDateTime": "2024-07-09 13:30:00-04:00",
+    "postDate": "2024-07-09",
+    "contentType": "Launch Announcement",
+    "headline": "Simplified service terms for AWS Marketplace sellers",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#aws-marketplace-and-partners",
+            "name": "aws-marketplace-and-partners",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/aws-marketplace-and-partners"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-marketplace",
+            "name": "aws-marketplace",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-marketplace"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#partner-network",
+            "name": "partner-network",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/partner-network"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

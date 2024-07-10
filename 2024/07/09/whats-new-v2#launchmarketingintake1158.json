@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#launchmarketingintake1158",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "fe7tH55UpLfLqqti7GyL9v",
+    "dateCreated": "2024-07-01 20:53:29+00:00",
+    "dateUpdated": "2024-07-09 21:52:14+00:00",
+    "postBody": "AWS Glue Data Catalog now supports generating column-level aggregated statistics for Apache Iceberg tables. These statistics are now integrated with cost-based optimizer (CBO) from Amazon Redshift Spectrum, resulting in improved query performance and potential cost savings.\nApache Iceberg support statistics such as nulls, min, max, but lacks support for generating aggregation statistics such as number of distinct values (NDV). With this launch, you now have integrated end-to-end experience where NDVs are collected on columns of Apache Iceberg table and stored in Apache Iceberg Puffin files. Amazon Redshift use these aggregation statistics to optimize queries by applying the most restrictive filters as early as possible in the query processing, thereby limiting memory usage and the number of records read to provide the query results.\nTo get started, you can generate statistics for an Apache Iceberg table using AWS Glue Console or AWS Glue APIs. With each run, Glue Catalog will compute statistics for current Iceberg table snapshot, store in an Iceberg puffin file and Glue Catalog. As you run queries from Amazon Redshift Spectrum, you will automatically get the query performance improvements with built-in integration with Apache Iceberg.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-glue-data-catalog-generating-statistics-apache-iceberg-tables",
+    "postDateTime": "2024-07-09 17:40:00-04:00",
+    "postDate": "2024-07-09",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Glue Data catalog now supports generating statistics for Apache Iceberg tables",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-lake-formation",
+            "name": "aws-lake-formation",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-lake-formation"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-glue",
+            "name": "aws-glue",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-glue"
+        }
+    ]
+}

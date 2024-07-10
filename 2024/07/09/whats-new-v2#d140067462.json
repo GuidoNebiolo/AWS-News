@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#d140067462",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-6iu5qWhzHVGTT1Zv1bhZrG",
+    "dateCreated": "2024-07-02 15:27:11+00:00",
+    "dateUpdated": "2024-07-09 18:08:21+00:00",
+    "postBody": "Today, we’re introducing Valkey General Language Independent Driver for the Enterprise (GLIDE), an open source Valkey client library. Valkey is an open source key-value data store that supports a variety of workloads such as caching, and message queues. Valkey GLIDE is one of the official client libraries for Valkey and it supports all Valkey commands. GLIDE supports Valkey 7.2 and above, and Redis open source 6.2, 7.0, and 7.2. Application programmers can use GLIDE to safely and reliably connect their applications to services that are Valkey- and Redis OSS-compatible.\nValkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey- and Redis OSS- based applications. It is supported by AWS, and is preconfigured with best practices learned from over a decade of operating Redis OSS-compatible services used by thousands of customers. To help ensure consistency in application development and operations, GLIDE is implemented using a core driver framework, written in Rust, with language specific extensions. This design ensures consistency in features across languages, and reduces overall complexity. In this release, GLIDE is available for Java and Python, with support for additional languages actively under development.\nValkey GLIDE is open source, permissively licensed (Apache 2.0 license), and can be used with any Valkey- or Redis OSS-compatible distribution supporting version 6.2, 7.0, and 7.2, including Amazon ElastiCache and Amazon MemoryDB. You can get started by downloading it from the major open source package managers. Learn more about it in the blog post, and submit contributions on the Valkey GLIDE GitHub repository.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/valkey-glide-open-source-valkey-redis/",
+    "postDateTime": "2024-07-09 10:00:00-07:00",
+    "postDate": "2024-07-09",
+    "contentType": null,
+    "headline": "Announcing Valkey GLIDE, an open source client library for Valkey and Redis open source",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#developer-tools",
+            "name": "developer-tools",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/developer-tools"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-elasticache",
+            "name": "amazon-elasticache",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-elasticache"
+        }
+    ]
+}

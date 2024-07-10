@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#d143189626",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-i5mJ3qJyoEifUukyWeFxvQ",
+    "dateCreated": "2024-07-08 15:41:55+00:00",
+    "dateUpdated": "2024-07-09 20:34:46+00:00",
+    "postBody": "Today, PartyRock is announcing a Playlist page to help you showcase a collection of PartyRock apps, curated by you. Everyone can build, use, and share generative AI powered apps using PartyRock, which uses foundation models from Amazon Bedrock.\nOn November 26th, 2023, we announced a Discover page to showcase top community-created PartyRock apps. With this release, you can now add apps to a personalized Playlist page, making it convenient for others to view and use your apps. Previously, PartyRock apps were available in two modes: Private, where only you could view, use, and edit your apps, and Shared using links, where you could share links with anyone to view and use your apps. Starting today, you have an additional mode of making your apps Public, where they are automatically displayed on your Playlist page, making it easy for anyone to view and use your apps. Set up your playlist by navigating to the Playlist page from the side navigation bar on PartyRock. Here, you can review your current apps and add them to your playlist. Once created, your playlist will be available at https://partyrock.aws/u/<PartyRock username>. With playlists, also comes ‘app views’ displaying the number of times other users viewed or used your apps, whether via a shared link or directly from your Playlist page.\nFor a limited time, AWS offers new PartyRock users a free trial without the need to provide a credit card or sign up for an AWS account. To get hands-on with generative AI, visit PartyRock.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/playlist-page-for-partyrock/",
+    "postDateTime": "2024-07-09 10:00:00-07:00",
+    "postDate": "2024-07-09",
+    "contentType": null,
+    "headline": "Announcing Playlist page for PartyRock",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock-partyrock",
+            "name": "amazon-bedrock-partyrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock-partyrock"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        }
+    ]
+}

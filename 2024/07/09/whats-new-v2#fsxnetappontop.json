@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#fsxnetappontop",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "LaunchMarketingIntake-1122",
+    "dateCreated": "2024-07-03 19:06:03+00:00",
+    "dateUpdated": "2024-07-09 21:45:12+00:00",
+    "postBody": "Today, we’re announcing next-generation Amazon FSx for NetApp ONTAP file systems that provide higher scalability and enhanced flexibility compared to previous-generation file systems. Previous-generation file systems consisted of a single highly-available (HA) pair of file servers with up to 4 GBps of throughput. Next-gen file systems can be created or expanded with up to 12 HA pairs, allowing you to scale up to 72 GB/s of total throughput (up to 6 GBps per pair), giving you the flexibility to scale performance and storage to meet the needs of your most demanding workloads.\nWith next-gen FSx for ONTAP file systems, a single HA pair can now deliver up to 6 GBps of throughput, providing workloads running on a single HA even more room to grow. However, customers with the most compute-intensive workloads need the higher throughput provided by a file system with multiple HA pairs. Before today, these customers could create a file system with multiple HA pairs but couldn’t add HA pairs or adjust its throughput at a later time. Now, next-gen file systems allow you to add HA pairs and adjust their throughput capacity, giving you additional flexibility to optimize your workload’s performance over time.\nNext-gen file systems are available today in the following AWS Regions: US East (N. Virginia, Ohio), US West (Oregon), Europe (Ireland), and Asia-Pacific (Sydney). You can create next-gen Multi-AZ file systems with a single HA pair, and Single-AZ file systems with up to 12 HA pairs. To learn more, visit the FSx for ONTAP user guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-for-netapp-ontap-file-systems/",
+    "postDateTime": "2024-07-09 17:40:00-04:00",
+    "postDate": "2024-07-09",
+    "contentType": null,
+    "headline": "Announcing the next generation of Amazon FSx for NetApp ONTAP file systems",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-fsx-netapp-ontap",
+            "name": "amazon-fsx-netapp-ontap",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-fsx-netapp-ontap"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

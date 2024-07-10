@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p124938393",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "ciUqTP1U35vgAwpm159SXP",
+    "dateCreated": "2024-06-13 19:16:02+00:00",
+    "dateUpdated": "2024-07-09 17:00:58+00:00",
+    "postBody": "Amazon EventBridge Schema Registry now supports AWS PrivateLink, allowing you to access the registry from within your Amazon Virtual Private Cloud (VPC) without traversing the public internet. With today’s launch, you can leverage EventBridge Schema Registry features from a private subnet without the need to deploy an internet gateway, configure firewall rules, or set up proxy servers.\nAmazon EventBridge lets you use events to connect application components, making it easier to build scalable event-driven applications. EventBridge Schema Registry allows you to centrally store schemas, representing the structure of your events, so other teams can discover and consume them. You can add schemas to the registry yourself or use the Schema Discovery feature to capture the schemas of events sent to an EventBridge Event Bus. Once schemas are in your registry, you can download code bindings for those schemas in Java, Python, TypeScript, and Golang and use them in your preferred Integrated Development Environment (IDE) to take advantage of IDE features such as code validation and auto-completion.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-eventbridge-schema-registry-privatelink-vpc-endpoints",
+    "postDateTime": "2024-07-09 13:00:00-04:00",
+    "postDate": "2024-07-09",
+    "contentType": "launch announcement",
+    "headline": "Amazon EventBridge Schema Registry now supports AWS PrivateLink VPC endpoints",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#application-services",
+            "name": "application-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/application-services"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-eventbridge",
+            "name": "amazon-eventBridge",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-eventBridge"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-privatelink",
+            "name": "aws-privatelink",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-privatelink"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#serverless",
+            "name": "serverless",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/serverless"
+        }
+    ]
+}

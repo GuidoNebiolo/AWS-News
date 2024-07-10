@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1433148880",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "3mXnHmL8to4Dj1ZBygzh3P",
+    "dateCreated": "2024-07-01 18:56:10+00:00",
+    "dateUpdated": "2024-07-09 21:46:42+00:00",
+    "postBody": "Amazon FSx for NetApp ONTAP, a service that provides fully managed shared storage built on NetApp’s popular ONTAP file system, today announced support for the NVMe-over-TCP (NVMe/TCP) block storage protocol. Using NVMe/TCP, you can accelerate your block storage workloads such as databases and Virtual Desktop Infrastructure (VDI) with lower latency compared to traditional iSCSI block storage, and simplify multi-path IO (MPIO) configuration relative to iSCSI.\nFSx for ONTAP provides you with multi-protocol access to fully managed shared storage, including the iSCSI protocol for deploying applications such as databases and VDI that rely on shared block storage. NVMe/TCP is an implementation of the NVMe protocol that transports data over TCP using traditional Ethernet as a fabric. With this launch, you have the option of using NVMe/TCP to provide shared block storage for these applications in order to take advantage of NVMe/TCP’s lower latency and simplified setup.\nNVMe/TCP is available on all second-generation Amazon FSx for ONTAP file systems in all AWS Regions where they’re available. To learn more, visit the FSx for ONTAP user guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-netapp-ontap-nvme-over-tcp",
+    "postDateTime": "2024-07-09 17:40:00-04:00",
+    "postDate": "2024-07-09",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon FSx for NetApp ONTAP now supports NVMe-over-TCP for simpler, lower-latency shared block storage",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-fsx-netapp-ontap",
+            "name": "amazon-fsx-netapp-ontap",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-fsx-netapp-ontap"
+        }
+    ]
+}

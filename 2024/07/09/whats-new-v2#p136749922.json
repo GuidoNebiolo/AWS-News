@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p136749922",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "4jopviU8by3uG7HMWRcQeS",
+    "dateCreated": "2024-07-01 17:49:49+00:00",
+    "dateUpdated": "2024-07-09 16:59:46+00:00",
+    "postBody": "Amazon Q is excited to announce personalization capabilities in Q Business, that help customers further increase employee productivity by considering their user profile to provide more useful responses. Q uses information such as an employee’s location, department and role to improve the relevance of responses.\nQ Business’ personalization capabilities are automatically enabled and will use your enterprise’s employee profile data to improve their user experience, with no additional set-up needed. Q receives employee profile information from your organization’s identity provider that you have connected to AWS IAM Identity Center.\nAmazon Q Business revolutionizes the way that employees interact with organizational knowledge and enterprise systems. It helps users get comprehensive answers to complex questions and take actions in a unified, intuitive web-based chat experience—all using an enterprise’s existing content, data, and systems. Personalization capability is available in all AWS Regions where Q Business is available. For more information, see Amazon Q Business User Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-business-responses-personalized-users",
+    "postDateTime": "2024-07-09 13:00:00-04:00",
+    "postDate": "2024-07-09",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon Q Business now provides responses that are personalized to users",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-q",
+            "name": "amazon-q",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-q"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#business-productivity",
+            "name": "business-productivity",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/business-productivity"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p133923896",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "8geiMcjdWzx4C1pkEnbksN",
+    "dateCreated": "2024-06-21 14:31:57+00:00",
+    "dateUpdated": "2024-07-12 13:14:13+00:00",
+    "postBody": "RDS Data API for Aurora Serverless v2 and Aurora provisioned PostgreSQL-Compatible database instances is now available in Asia Pacific (Sydney), Asia Pacific (Mumbai), Asia Pacific (Seoul), Asia Pacific (Singapore), Europe (Ireland), Europe (London), Europe (Paris), US West (N. California), US East (Ohio), Canada (Central) regions. RDS Data API allows you to access these Aurora clusters via a secure HTTP endpoint and run SQL statements without the use of database drivers and without managing connections.\nData API eliminates the use of drivers and improves application scalability by automatically pooling and sharing database connections (connection pooling) rather than requiring customers to manage connections. Customers can call Data API via AWS SDK and CLI. Data API also enables access to Aurora databases via AWS AppSync GraphQL APIs. API commands supported in the Data API for Aurora Serverless v2 and Aurora provisioned are backwards compatible with Data API for Aurora Serverless v1 for easy customer application migrations.\nData API supports Aurora PostgreSQL 15.3, 14.8, 13.11 and higher versions. Customers currently using Data API for ASv1 are encouraged to migrate to ASv2 to take advantage of the new Data API. To learn more, read the documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-data-api-aurora-postgresql-additional-regions",
+    "postDateTime": "2024-07-09 17:30:00-04:00",
+    "postDate": "2024-07-09",
+    "contentType": "launch announcement",
+    "headline": "Amazon RDS Data API for Aurora PostgreSQL is now available in 10 additional AWS regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds",
+            "name": "amazon-rds",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds"
+        }
+    ]
+}

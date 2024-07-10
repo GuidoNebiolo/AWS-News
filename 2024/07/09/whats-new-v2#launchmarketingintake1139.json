@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#launchmarketingintake1139",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "szgTBcHjDd7xQg6PkrAc5n",
+    "dateCreated": "2024-07-08 18:50:17+00:00",
+    "dateUpdated": "2024-07-09 21:57:42+00:00",
+    "postBody": "Amazon FSx for NetApp ONTAP, a fully managed shared storage service built on NetApp’s popular ONTAP file system, now allows you to read data from a volume while it is being restored from a backup. The feature “read-access during backup restores” allows you to improve Recovery Time Objectives by up to 17x for read-only workloads that rely on backup restores for business continuity, such as media streaming and compliance verification.\nYou can restore an FSx for ONTAP backup into a new volume at any time. Before today, when you restored a backup, Amazon FSx provided read-write access to data once the backup was fully downloaded onto the volume. The restore process typically took minutes to hours—depending on the backup size. Starting today, Amazon FSx enables read access to data within minutes of initiating a restore, enabling you to browse through your backup and retrieve critical data to resume operations faster in the event of accidental data modification or deletion. The volume becomes writable automatically once data has been fully restored. Now, you can reduce time to recover media streaming applications when the primary volume becomes unavailable by serving reads from a volume being restored, and compliance teams can initiate audits sooner by accessing data without waiting for the restore to complete.\nThis feature is available on all new and existing FSx for ONTAP second-generation file systems in all AWS Regions where FSx for ONTAP second-generation file systems are available. See the FSx for ONTAP product documentation for more details.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-netapp-ontap-read-data-backup-restores",
+    "postDateTime": "2024-07-09 17:40:00-04:00",
+    "postDate": "2024-07-09",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon FSx for NetApp ONTAP now allows you to read data during backup restores",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-fsx-netapp-ontap",
+            "name": "amazon-fsx-netapp-ontap",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-fsx-netapp-ontap"
+        }
+    ]
+}

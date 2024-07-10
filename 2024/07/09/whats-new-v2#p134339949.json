@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p134339949",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "4avQFUxQcQU8wfWRRE2Krj",
+    "dateCreated": "2024-06-19 19:52:14+00:00",
+    "dateUpdated": "2024-07-09 20:21:46+00:00",
+    "postBody": "You can now create Apache Airflow version 2.9 environments on Amazon Managed Workflows for Apache Airflow (MWAA). Apache Airflow 2.9 is the latest minor release of the popular open-source tool that helps customers author, schedule, and monitor workflows.\nAmazon MWAA is a managed orchestration service for Apache Airflow that makes it easier to set up and operate end-to-end data pipelines in the cloud. Apache Airflow 2.9 introduces several notable enhancements, such as new API endpoints for improved dataset management, custom names in dynamic task mapping for better readability, and advanced scheduling options including conditional expressions for dataset dependencies and the combination of dataset and time-based schedules.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-mwaa-apache-airflow-version-2-9",
+    "postDateTime": "2024-07-09 16:20:00-04:00",
+    "postDate": "2024-07-09",
+    "contentType": "launch announcement",
+    "headline": "Amazon MWAA now supports Apache Airflow version 2.9",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-mwaa",
+            "name": "amazon-mwaa",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-mwaa"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#application-services",
+            "name": "application-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/application-services"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p136218729",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "bZbd2Q9AyYCeWC7HQdT2fJ",
+    "dateCreated": "2024-07-01 19:45:02+00:00",
+    "dateUpdated": "2024-07-09 17:03:14+00:00",
+    "postBody": "We are excited to announce that Amazon OpenSearch Serverless now supports workloads up to 30TB of data for time-series collections. OpenSearch Serverless is a serverless deployment option for Amazon OpenSearch Service that makes it simple for you to run search and analytics workloads without having to think about infrastructure management. With the support for larger datasets, OpenSearch Serverless now enables more data-intensive use cases such as log analytics, security analytics, real-time application monitoring, and more.\nOpenSearch Serverless’ compute capacity used for indexing and search are measured in OpenSearch Compute Units (OCUs). To accommodate for larger datasets, OpenSearch Serverless now allows customers to independently scale indexing and search operations to use up to 500 OCUs. In addition, the release brings in a new data hydration mechanism that improves scaling and lowering query latency. You configure the maximum OCU limits on search and indexing independently to manage costs. You can also monitor real-time OCU usage with CloudWatch metrics to gain a better perspective on your workload's resource consumption.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-serverless-time-series-workloads-30tb",
+    "postDateTime": "2024-07-09 13:00:00-04:00",
+    "postDate": "2024-07-09",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon OpenSearch Serverless expands support for time-series workloads up to 30TB",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#serverless",
+            "name": "serverless",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/serverless"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#customer-enablement",
+            "name": "customer-enablement",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/customer-enablement"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-opensearch-service",
+            "name": "amazon-opensearch-service",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-opensearch-service"
+        }
+    ]
+}

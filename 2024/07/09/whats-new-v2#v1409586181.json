@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#v1409586181",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "iwERxUyYEHsrGS2WzybqYS",
+    "dateCreated": "2024-06-20 13:04:38+00:00",
+    "dateUpdated": "2024-07-09 18:20:30+00:00",
+    "postBody": "Amazon OpenSearch Service has added support for AI powered Natural Language Query Generation in OpenSearch Dashboards Log Explorer. With Natural Language Query Generation, you can accelerate analysis by asking log exploration questions in plain English, which are then automatically translated to the relevant Piped Processing Language (PPL) queries and executed to fetch the requested data.\nWith this new natural language support, you can get started quickly with log analysis without first having to be proficient in PPL. Further, it opens up log analysis to a wider set of team members who can simply explore their log data by asking questions like - “show me the count of 5xx errors for each of the pages on my website” or “show me the throughput by hosts”. This also helps advanced users in constructing complex queries by allowing for iterative refinement of both the natural language questions and the generated PPL.\nThis feature is available at no cost for customers running managed clusters with OpenSearch 2.13 or above in US East (N. Virginia), US East (Ohio), US West (N. California), US West (Oregon), Asia Pacific (Mumbai), Asia Pacific (Seoul), Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Canada (Central), China (Beijing), China (Ningxia), Europe (Frankfurt), Europe (Ireland), Europe (London), Europe (Paris), Europe (Stockholm), South America (São Paulo), AWS GovCloud (US-East), and AWS GovCloud (US-West).\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-service-natural-language-query-generation",
+    "postDateTime": "2024-07-09 14:20:00-04:00",
+    "postDate": "2024-07-09",
+    "contentType": "launch announcement",
+    "headline": "Amazon OpenSearch Service announces Natural Language Query Generation for log analysis",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-opensearch-service",
+            "name": "amazon-opensearch-service",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-opensearch-service"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        }
+    ]
+}

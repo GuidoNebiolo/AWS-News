@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1412657660",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "kw6qyxG5vj7LF6dUHY2ZuM",
+    "dateCreated": "2024-07-08 16:45:35+00:00",
+    "dateUpdated": "2024-07-09 17:02:08+00:00",
+    "postBody": "Amazon FSx for OpenZFS now supports highly available (HA) Single-AZ deployments, offering high availability and consistent sub-millisecond latencies for use cases like data analytics, machine learning, and semiconductor chip design that can benefit from high availability but do not require multi-zone resiliency. Single-AZ HA file systems provide a lower-latency and lower-cost storage option than Multi-AZ file systems for these use cases, while offering all the same data management capabilities and features.\nBefore today, FSx for OpenZFS offered Single-AZ non-HA file systems, which provide sub-millisecond read and write latencies, and Multi-AZ file systems, which provide high availability and durability by replicating data synchronously across AZs. With Single-AZ HA file systems, customers can now achieve both high availability and consistent sub-millisecond latencies at a lower cost relative to Multi-AZ file systems for workloads such as data analytics, machine learning, and semiconductor chip design that do not need multi-zone resiliency because they're operating on a secondary copy of the data or data that can be regenerated.\nYou can create Single-AZ HA file systems in the following AWS regions: US East (Ohio, N. Virginia), US West (N. California, Oregon), Asia Pacific (Hong Kong, Mumbai, Seoul, Singapore, Sydney, Tokyo), Canada (Central), Europe (Frankfurt, Ireland, London, Stockholm), Middle East (Bahrain). To learn more about Single-AZ HA file systems, please visit FSx for OpenZFS documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-openzfs-single-az-deployment-option",
+    "postDateTime": "2024-07-09 13:00:00-04:00",
+    "postDate": "2024-07-09",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon FSx for OpenZFS introduces a highly available Single-AZ deployment option",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-fsx-for-openzfs",
+            "name": "amazon-fsx-for-openzfs",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-fsx-for-openzfs"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        }
+    ]
+}

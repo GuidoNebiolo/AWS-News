@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p136589957",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "oJgvhQiohrSCknhYDYWujR",
+    "dateCreated": "2024-07-01 19:14:13+00:00",
+    "dateUpdated": "2024-07-09 22:31:45+00:00",
+    "postBody": "With Amazon S3 Express One Zone support for logging of all data plane API actions in AWS CloudTrail, you can get details on who made API calls to S3 Express One Zone and when API calls were made, thereby enhancing data visibility for governance, compliance, and operational auditing. Now, you can use AWS CloudTrail to log S3 Express One Zone object-level activity such as PutObject and GetObject, in addition to directory-bucket level actions such as CreateBucket and DeleteBucket that were already supported.\nWith logging of all events in AWS CloudTrail, you can quickly determine which S3 Express One Zone objects were created, read, updated or deleted and identify the source of the API calls. If you detect unauthorized S3 Express One Zone object access, you can take immediate action to restrict access. In addition, you can use CloudTrail features such as advanced event selectors for granular control over which events are logged and CloudTrail integration with Amazon EventBridge to create rule-based workflows for event-driven architectures.\nYou can enable AWS CloudTrail data events logging for S3 Express One Zone in all AWS Regions where S3 Express One Zone is available. Get started with CloudTrail event logging for S3 Express One Zone by using the CloudTrail console, AWS CLI, or AWS SDKs. For pricing information, visit the CloudTrail pricing page. To learn more, see the S3 User Guide, S3 Express One Zone product page and the AWS News Blog.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-s3-express-one-zone-logging-events-aws-cloudtrail",
+    "postDateTime": "2024-07-09 13:00:00-04:00",
+    "postDate": "2024-07-09",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon S3 Express One Zone now supports logging of all events in AWS CloudTrail",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-s3",
+            "name": "amazon-s3",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-s3"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-cloudtrail",
+            "name": "aws-cloudtrail",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-cloudtrail"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}
