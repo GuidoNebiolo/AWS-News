@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#awsappstudio",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "LaunchMarketingIntake-1073",
+    "dateCreated": "2024-07-03 16:12:57+00:00",
+    "dateUpdated": "2024-07-10 17:31:15+00:00",
+    "postBody": "AWS App Studio, a generative artificial intelligence (AI)-powered service that uses natural language to create enterprise-grade applications, is now available in preview. App Studio opens up application development to technical professionals without software development skills (such as IT project managers, data engineers, and enterprise architects), empowering them to quickly build business applications, eliminating the need for operational expertise. This allows users to focus on building applications that help solve business problems and increase productivity in their roles, while removing the heavy lifting of building and running applications.\nApp Studio is the fastest and easiest way for technical professionals to build enterprise-grade applications that were previously only built by professional developers. App Studio’s generative AI-powered assistant accelerates the application creation process. To get started, builders can write a basic prompt describing the application they want, App Studio will generate an outline to verify the user’s intent and then build an application with a multi-page UI, a data model, and business logic. Builders can then ask clarifying questions and App Studio will give detailed answers on how to make the change using the point-and-click interface. The user can also easily connect their application to internal data sources using built-in connectors for AWS (such as Amazon Aurora, Amazon DynamoDB, and Amazon S3) and Salesforce, along with hundreds of third-party services (such as HubSpot, Twilio, and Zendesk) using an API connector. With App Studio, users do not have to think about the underlying code at all—App Studio handles all the deployment, operations, and maintenance.\nIt is free to build with App Studio, and customers only pay for the time employees spend using the published applications, saving up to 80% compared to other low-code offerings.\nApp Studio is now available in preview in the US West (Oregon) AWS Region.\nTo learn more and get started, visit AWS App Studio, review the documentation, and read the announcement blog post.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-app-studio-preview/",
+    "postDateTime": "2024-07-10 07:00:00-07:00",
+    "postDate": "2024-07-10",
+    "contentType": "Launch Announcement",
+    "headline": "Announcing AWS App Studio preview",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-developer-tools",
+            "name": "aws-developer-tools",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-developer-tools"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        }
+    ]
+}

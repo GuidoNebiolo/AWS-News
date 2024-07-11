@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#d133083787",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-a9PnCy5xpavGywAL1qga48",
+    "dateCreated": "2024-06-11 17:52:11+00:00",
+    "dateUpdated": "2024-07-10 19:24:40+00:00",
+    "postBody": "AWS License Manager now integrates with Red Hat Subscription Manager (RHSM) to provide greater insight into use of Red Hat Enterprise Linux (RHEL) on Amazon EC2. With instance and subscription data from RHSM accessible directly in License Manager, you can better manage cost optimization and compliance of your RHEL usage on AWS.\nYou can already use License Manager to discover and track RHEL instances on Amazon EC2 launched from AWS provided Amazon Machine Images (AMIs). License Manager can now integrate with RHSM to show information about instances launched from custom RHEL images. The new feature will help customers discover RHEL instances and subscriptions in use on AWS, and identify cases of double payment where an instance has subscriptions purchased from both AWS and Red Hat assigned to it.\nThis feature is available in all AWS Regions where AWS License Manager is available.\nTo get started, visit the AWS License Manager console and select the Linux subscriptions tab in the left navigation. First time users will be directed to AWS License Manager settings to select the regions you want the Linux subscriptions data to be gathered from, set-up linking with AWS Organizations to see a cross-account view. Once this part of the process is completed you will be asked to provide your RHSM API token to complete the integration. To learn more, see the Linux subscriptions section in the AWS License Manager user guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-license-manager-integrates-red-hat-subscription-manager/",
+    "postDateTime": "2024-07-10 15:24:00-04:00",
+    "postDate": "2024-07-10",
+    "contentType": null,
+    "headline": "AWS License Manager now integrates with Red Hat Subscription Manager",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-license-manager",
+            "name": "aws-license-manager",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-license-manager"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

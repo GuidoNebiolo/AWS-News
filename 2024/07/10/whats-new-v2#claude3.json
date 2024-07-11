@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#claude3",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "LaunchMarketingIntake-1128",
+    "dateCreated": "2024-07-03 16:43:20+00:00",
+    "dateUpdated": "2024-07-15 22:03:00+00:00",
+    "postBody": "Fine-tuning for Anthropic's Claude 3 Haiku model in Amazon Bedrock is now available in preview. Amazon Bedrock is the only fully managed service that provides you with the ability to fine tune Claude models. Claude 3 Haiku is Anthropic’s most compact model, and is one of the most affordable and fastest options on the market for its intelligence category according to Anthropic. By providing your own task-specific training dataset, you can fine tune and customize Claude 3 Haiku to boost model accuracy, quality, and consistency to further tailor generative AI for your business.\nFine-tuning allows Claude 3 Haiku to excel in areas crucial to your business compared to more general models by encoding company and domain knowledge. Within your secure AWS environment, use Amazon Bedrock to customize Claude 3 Haiku with your own data to build applications specific to your domain, organization, and use case. By fine-tuning Haiku and adapting its knowledge to your exact business requirements, you can create unique user experiences that reflect your company’s proprietary information, brand, products, and more. You can also enhance performance for domain-specific actions such as classification, interactions with custom APIs, or industry-specific data interpretation. Amazon Bedrock makes a separate copy of the base foundation model that is accessible only by you and trains this private copy of the model.\nFine-tuning for Anthropic's Claude 3 Haiku in Amazon Bedrock is now available in preview in the US West (Oregon) AWS Region. To learn more, read the launch blog and documentation. To request to be considered for access to the preview of Anthropic's Claude 3 Haiku fine-tuning in Amazon Bedrock, contact your AWS account team or submit a support ticket via the AWS Management Console. When creating the support ticket, select Bedrock as the Service and Models as the Category.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/fine-tuning-anthropics-claude-3-haiku-bedrock-preview/",
+    "postDateTime": "2024-07-10 07:00:00-07:00",
+    "postDate": "2024-07-10",
+    "contentType": null,
+    "headline": "Fine-tuning for Anthropic's Claude 3 Haiku in Amazon Bedrock (Preview)",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        }
+    ]
+}

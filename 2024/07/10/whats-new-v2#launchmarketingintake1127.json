@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#launchmarketingintake1127",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "ucHEP34y5HJm5aYUYunK8q",
+    "dateCreated": "2024-07-01 21:20:27+00:00",
+    "dateUpdated": "2024-07-10 16:06:44+00:00",
+    "postBody": "Amazon Web Services, Inc. (AWS) today announced a new code interpretation capability on Agents for Amazon Bedrock. Code interpretation allows agents to dynamically generate and execute code snippets within a secure sandboxed environment, extending the capabilities of Agents for complex use cases such as data analysis, data visualization, and optimization problems.\nThis new capability allows developers to move beyond the predefined capabilities of the large language model (LLM) and tackle more complex, data-driven use cases. Agents can now generate and execute code, process files with diverse data types and formatting, and even generate graphs to enhance the user experience. Also, the iterative code execution capabilities allow Agents to work through challenging data science problems, giving them the ability to orchestrate increasingly complex tasks.\nCode interpretation is currently available in the Northern Virginia, Oregon, Europe (Frankfurt) AWS regions.\nLearn more here.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/agents-amazon-bedrock-code-interpretation-preview",
+    "postDateTime": "2024-07-10 11:50:00-04:00",
+    "postDate": "2024-07-10",
+    "contentType": "Launch Announcement",
+    "headline": "Agents for Amazon Bedrock now support code interpretation (Preview)",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        }
+    ]
+}

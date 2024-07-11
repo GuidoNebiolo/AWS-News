@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p138643443",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "wXJCunxboChnzdtcGBVDxz",
+    "dateCreated": "2024-07-10 18:40:50+00:00",
+    "dateUpdated": "2024-07-10 19:21:42+00:00",
+    "postBody": "Amazon QuickSight is excited to announce an increase in the table size limit for joining SPICE datasets from 1GB to 20GB. Previously, when customers prepared their data and joined tables from various sources, including SPICE, the combined secondary tables had to be less than 1GB. This limitation often forced QuickSight customers to find workarounds in their upstream data pipeline to handle large datasets and build complex data models. With the new 20GB limit for secondary tables, users can now join SPICE tables with 20 times the previous capacity, significantly enhancing data preparation capabilities in QuickSight. This upgrade also enables large cross-source join tasks by leveraging SPICE ingestion. For further details, visit here.\nThe new SPICE JOIN with 20GB limit is now available in Amazon QuickSight Enterprise Editions in all QuickSight regions - US East (N. Virginia and Ohio), US West (Oregon), Canada, São Paulo, Europe (Frankfurt, Stockholm, Paris, Ireland, London, Zurich and Milan), Asia Pacific (Mumbai, Seoul, Singapore, Sydney, Tokyo, Jakarta), Cape Town, and the AWS GovCloud (US-West) Region.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-quicksight-20x-higher-limit-spice-join",
+    "postDateTime": "2024-07-10 15:20:00-04:00",
+    "postDate": "2024-07-10",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon QuickSight launches a 20x higher limit for SPICE JOIN",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-quicksight",
+            "name": "amazon-quicksight",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-quicksight"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p135196979",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-bEhQcwtq2rPJByoEUxsEao",
+    "dateCreated": "2024-07-02 15:52:14+00:00",
+    "dateUpdated": "2024-07-10 18:08:18+00:00",
+    "postBody": "Starting today, customers can use Amazon Cognito in Asia Pacific (Hong Kong) Region. Cognito makes it easy to add authentication, authorization, and user management to your web and mobile apps. The service scales to millions of users and supports sign-in with social identity providers such as Apple, Facebook, Google, and Amazon, and enterprise identity providers via standards such as SAML 2.0 and OpenID Connect.\nWith the addition of this region, Amazon Cognito is now available in 29 AWS Regions globally. For a list of regions where Amazon Cognito is available, see the AWS Region Table. To learn more about Amazon Cognito, visit the product documentation page. To get started, visit the Amazon Cognito home page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-cognito-asia-pacific-hong-kong-region/",
+    "postDateTime": "2024-07-10 10:00:00-07:00",
+    "postDate": "2024-07-10",
+    "contentType": null,
+    "headline": "Amazon Cognito is now available in Asia Pacific (Hong Kong) Region ",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-cognito",
+            "name": "amazon-cognito",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-cognito"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        }
+    ]
+}

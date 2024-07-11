@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#launchmarketingintake1142",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "nQvtb9yf5cmryUGAc5kdob",
+    "dateCreated": "2024-07-08 17:57:40+00:00",
+    "dateUpdated": "2024-07-10 15:47:07+00:00",
+    "postBody": "Knowledge Bases for Amazon Bedrock is a fully managed Retrieval-Augmented Generation (RAG) capability that allows you to connect foundation models (FMs) to internal company data sources to deliver relevant and accurate responses. Chunking allows processing long documents by breaking them into smaller chunks, enabling accurate knowledge retrieval from a user’s question. Today, we are launching advanced chunking options. The first is custom chunking. With this, customers can write their own chunking code as a Lambda function, and even use off the shelf components from frameworks like LangChain and LlamaIndex. Additionally, we are launching built-in chunking options such as semantic and hierarchical chunking.\nAdditionally, customers can enable smart parsing to extract information from more complex data such as tables. This capability uses Amazon Bedrock foundation models to parse tabular content in file formats such as PDF to improve retrieval accuracy. You can customize parsing prompts to extract data in the format of your choice. Knowledge Bases now also supports query reformulation. This capability breaks down queries into simpler sub-queries, retrieves relevant information for each, and combines the results into a final comprehensive answer. With these new accuracy improvements for chunking, parsing, and advanced query handling, Knowledge Bases empowers users to build highly accurate and relevant knowledge resources suited for enterprise use cases.\nThese capabilities are supported in the all AWS Regions where Knowledge Bases is available. To learn more about these features and how to get started, refer to the Knowledge Bases for Amazon Bedrock documentation and visit the Amazon Bedrock console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/knowledge-bases-amazon-bedrock-advanced-rag-capabilities",
+    "postDateTime": "2024-07-10 11:45:00-04:00",
+    "postDate": "2024-07-10",
+    "contentType": "Launch Announcement",
+    "headline": "Knowledge Bases for Amazon Bedrock now supports advanced RAG capabilities",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

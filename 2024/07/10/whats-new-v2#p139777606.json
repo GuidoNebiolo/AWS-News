@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p139777606",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "ag1QHcYXVnkfUdb6yvLCCH",
+    "dateCreated": "2024-07-10 19:15:18+00:00",
+    "dateUpdated": "2024-07-10 20:14:42+00:00",
+    "postBody": "Amazon Managed Workflows for Apache Airflow (MWAA) is now available in nine new AWS Regions: Asia Pacific (Jakarta), Asia Pacific (Hyderabad), Asia Pacific (Melbourne), Middle East (UAE), Europe (Spain), Europe (Zurich), Canada West (Calgary), Israel (Tel Aviv), and Asia Pacific (Osaka).\nAmazon MWAA is a managed service for Apache Airflow that lets you use the same familiar Apache Airflow platform as you do today to orchestrate your workflows and enjoy improved scalability, availability, and security without the operational burden of having to manage the underlying infrastructure. Learn more about using Amazon MWAA on the product page.\nPlease visit the AWS region table for more information on AWS regions and services. To learn more about Amazon MWAA visit the Amazon MWAA documentation.\nApache, Apache Airflow, and Airflow are either registered trademarks or trademarks of the Apache Software Foundation in the United States and/or other countries.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-mwaa-additional-regions",
+    "postDateTime": "2024-07-10 16:14:00-04:00",
+    "postDate": "2024-07-10",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon MWAA now available in nine additional Regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-mwaa",
+            "name": "amazon-mwaa",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-mwaa"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

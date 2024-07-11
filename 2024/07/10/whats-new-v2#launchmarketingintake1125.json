@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#launchmarketingintake1125",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "jVTUamKx9wuax3scf7s3NQ",
+    "dateCreated": "2024-07-03 18:51:28+00:00",
+    "dateUpdated": "2024-07-10 15:48:24+00:00",
+    "postBody": "Knowledge Bases for Amazon Bedrock is a fully managed Retrieval-Augmented Generation (RAG) capability that allows you to connect foundation models (FMs) to internal company data sources to deliver relevant and accurate responses. Today, we are launching a new feature that allows customers to securely ingest data from various sources into their knowledge bases. Knowledge Bases now supports the web data source allowing you to index public web pages. Secondly, Knowledge Bases now supports three additional data connectors including Atlassian Confluence, Microsoft SharePoint, and Salesforce. You can connect directly to these data sources to build your RAG applications. These new capabilities reduce the time and cost associated with data movement, while ensuring that the knowledge bases stays up-to-date with the latest changes in the connected data sources.\nCustomers can set up these new data sources through the AWS Management Console for Amazon Bedrock or the CreateDataSource API. To get started, visit the Knowledge Bases documentation.\nThis capability is supported in the all AWS Regions where Knowledge Bases is available. To learn more about these features and how to get started, refer to the Knowledge Bases for Amazon Bedrock documentation and visit the Amazon Bedrock console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/knowledge-bases-amazon-bedrock-additional-data-sources-preview",
+    "postDateTime": "2024-07-10 11:45:00-04:00",
+    "postDate": "2024-07-10",
+    "contentType": "Launch Announcement",
+    "headline": "Knowledge Bases for Amazon Bedrock now supports additional data sources (preview)",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#guardrails",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "LaunchMarketingIntake-1126",
+    "dateCreated": "2024-07-08 17:42:57+00:00",
+    "dateUpdated": "2024-07-10 15:52:53+00:00",
+    "postBody": "Guardrails for Amazon Bedrock enables customers to implement safeguards based on their application requirements and responsible AI policies. Today, guardrails adds contextual grounding checks and introduces a new ApplyGuardrail API to build trustworthy generative AI applications using any foundation model (FM).\nCustomers rely on the inherent capabilities of the FMs to generate grounded (credible) responses that are based on company’s source data. However, FMs can conflate multiple pieces of information, producing incorrect or new information - impacting the reliability of the application. With contextual grounding checks, Guardrails can now detect hallucinations in model responses for RAG (retrieval-augmented generation) and conversational applications. This safeguard helps detect and filter responses that are factually incorrect based on a reference source, and are irrelevant to the users’ query. Customers can configure confidence thresholds to filter responses with low confidence of grounding or relevance.\nIn addition, to support choice of safeguarding applications using different FMs, Guardrails now supports an ApplyGuardrail API to evaluate user inputs and model responses for any custom and third-party FM, in addition to FMs already supported in Amazon Bedrock. The ApplyGuardrail API now enables centralized safety and governance for all your generative AI applications.\nGuardrails is the only offering from a major cloud provider to provide safety, privacy, and truthfulness protections in a single solution. Contextual grounding check and ApplyGuardrail API are supported in all AWS regions where Guardrails for Amazon Bedrock is supported.\nTo learn more about Guardrails for Amazon Bedrock, visit the feature page and read the news blog.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/guardrails-bedrock-hallucinations-safeguard-apps-fm",
+    "postDateTime": "2024-07-10 10:00:00-07:00",
+    "postDate": "2024-07-10",
+    "contentType": null,
+    "headline": "Guardrails for Amazon Bedrock can now detect hallucinations & safeguard apps using any FM",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        }
+    ]
+}

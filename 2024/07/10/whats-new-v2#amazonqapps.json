@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#amazonqapps",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "LaunchMarketingIntake-1071",
+    "dateCreated": "2024-07-03 16:37:47+00:00",
+    "dateUpdated": "2024-07-10 16:27:35+00:00",
+    "postBody": "Today, AWS announces the general availability of Amazon Q Apps, an Amazon Q Business capability that has been in public preview since April 2024.\nAmazon Q Apps empowers organizational users to quickly turn their ideas into apps, all in a single step from their conversation with Amazon Q Business or by describing the app that they want to build in their own words. With Amazon Q Apps, users can effortlessly build, share, and customize apps on enterprise data to streamline tasks and boost individual and team productivity. Users can also publish apps to the admin-managed library and share them with their coworkers. Amazon Q Apps inherit user permissions, access controls, and enterprise guardrails from Amazon Q Business for secure sharing and adherence to data governance policies. \nAmazon Q Apps enhances business user experience and collaboration with new and improved capabilities. Customers can now bring the power of Amazon Q Apps into their tools of choice and application environment through APIs that seamlessly allow creating and consuming Amazon Q Apps outputs. App creators can now review the original app creation prompt to refine and improve new app versions without starting from scratch, as well as to pick data sources to improve output quality.\nAmazon Q Business and Amazon Q Apps are available in the US East (N. Virginia) and US West (Oregon) AWS Regions.\nFor more information, check out Amazon Q Business and read the AWS News Blog.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-apps",
+    "postDateTime": "2024-07-10 07:00:00-07:00",
+    "postDate": "2024-07-10",
+    "contentType": "Launch Announcement",
+    "headline": "Announcing the general availability of Amazon Q Apps",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#business-productivity",
+            "name": "business-productivity",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/business-productivity"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-q",
+            "name": "amazon-q",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-q"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        }
+    ]
+}

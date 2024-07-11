@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#memorydb",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "LaunchMarketingIntake-1102",
+    "dateCreated": "2024-07-03 16:55:14+00:00",
+    "dateUpdated": "2024-07-10 16:38:29+00:00",
+    "postBody": "Vector search for Amazon MemoryDB, an in-memory database with multi-AZ durability, is now generally available. This capability helps you to store, index, retrieve, and search vectors. Amazon MemoryDB delivers the fastest vector search performance at the highest recall rates among popular vector databases on AWS. Vector search for MemoryDB supports storing millions of vectors with single-digit millisecond query and update latencies at the highest levels of throughput with >99% recall. You can generate vector embeddings using AI/ML services, such as Amazon Bedrock and Amazon SageMaker, and store them within MemoryDB. \nWith vector search for MemoryDB, you can develop real-time machine learning (ML) and generative AI applications that require the highest throughput at the highest recall rates with the lowest latency using the MemoryDB API or orchestration frameworks such as LangChain. For example, a bank can use vector search for MemoryDB to detect anomalies, such as fraudulent transactions during periods of high transactional volumes, with minimal false positives. \nVector search for MemoryDB is available in all AWS Regions that MemoryDB is available—at no additional cost. \nTo get started, create a new MemoryDB cluster using MemoryDB version 7.1 and enable vector search through the AWS Management Console or AWS Command Line Interface (CLI). To learn more, check out the vector search for MemoryDB documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-vector-search-for-amazon-memorydb/",
+    "postDateTime": "2024-07-10 07:00:00-07:00",
+    "postDate": "2024-07-10",
+    "contentType": null,
+    "headline": "AWS announces the general availability of vector search for Amazon MemoryDB",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-memorydb",
+            "name": "amazon-memorydb",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-memorydb"
+        }
+    ]
+}

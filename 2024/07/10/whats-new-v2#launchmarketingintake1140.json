@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#launchmarketingintake1140",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "7xE9DwCKVUu1Pw3Ab6KDgy",
+    "dateCreated": "2024-07-05 17:43:23+00:00",
+    "dateUpdated": "2024-07-10 16:54:34+00:00",
+    "postBody": "Today, we are announcing the preview launch of Amazon Bedrock Prompt Management and Prompt Flows. Amazon Bedrock Prompt Management simplifies the creation, evaluation, versioning, and sharing of prompts to help developers and prompt engineers get the best responses from foundation models for their use cases. Developers can use the Prompt Builder to experiment with multiple FMs, model configurations, and prompt messages. They can test and compare prompts in-place using the Prompt Builder, without the need of any deployment. To share the prompt for use in downstream applications, they can simply create a version and make an API call to retrieve the prompt. In addition, Bedrock Prompt Flows accelerates the creation, testing, and deployment of workflows through an intuitive visual builder. Developers can use the visual builder to drag and drop different components such as prompts, Knowledge Bases, and Lambda functions to automate a workflow.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-bedrock-prompt-management-flows-preview",
+    "postDateTime": "2024-07-10 11:00:00-04:00",
+    "postDate": "2024-07-10",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon Bedrock Prompt Management and Prompt Flows now available in preview",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        }
+    ]
+}

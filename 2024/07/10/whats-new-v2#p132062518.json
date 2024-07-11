@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p132062518",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "wVpr2zwVcVajXqYyy35e3P",
+    "dateCreated": "2024-07-03 18:40:57+00:00",
+    "dateUpdated": "2024-07-10 17:02:10+00:00",
+    "postBody": "Today, AWS Backup announces support for Amazon EBS Snapshots Archive in backup policies, allowing customers to automatically move Amazon EBS Snapshots created by AWS Backup to Amazon EBS Snapshots Archive at the AWS Organizations level. Amazon EBS Snapshots Archive is low-cost, long-term storage tier meant for your rarely-accessed snapshots that do not need frequent retrieval. You can now use your Organizations’ management account to set an Amazon EBS Snapshots Archival policy across accounts.\nTo get started, create a new or edit an existing AWS Backup policy from your AWS Organizations’ management account. You can use AWS Backup policies to transition your Amazon EBS Snapshots to Amazon EBS Snapshots Archive and manage their lifecycle, alongside AWS Backup’s other supported resources. Amazon EBS Snapshots are incremental, storing only the changes since the last snapshot and making them cost effective for daily and weekly backups that need to be accessed frequently. You may also have Amazon EBS snapshots that you only need to access every few months, retaining them for long-term regulatory requirements. For these long-term snapshots, you can now transition your Amazon EBS snapshots managed by AWS Backup to Amazon EBS Snapshots Archive tier to store full snapshots at lower costs.\nAWS Backup support for Amazon EBS Snapshots Archive in backup policies is available in all commercial and AWS GovCloud (US) Regions, where AWS Backup, AWS Backup policies and EBS Snapshots Archive are available. You can get started by using the AWS Organizations API, or CLI. For more information, visit our documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-backup-ebs-snapshots-archive-backup-policies",
+    "postDateTime": "2024-07-10 13:00:00-04:00",
+    "postDate": "2024-07-10",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Backup now supports Amazon Elastic Block Store (EBS) Snapshots Archive in backup policies",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-backup",
+            "name": "aws-backup",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-backup"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-organizations",
+            "name": "aws-organizations",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-organizations"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ebs-snapshots-archive",
+            "name": "amazon-ebs-snapshots-archive",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ebs-snapshots-archive"
+        }
+    ]
+}

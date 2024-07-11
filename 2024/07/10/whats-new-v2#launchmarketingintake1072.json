@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#launchmarketingintake1072",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "2fYrfzNYJxF17HBsEtwmnw",
+    "dateCreated": "2024-07-10 14:27:33+00:00",
+    "dateUpdated": "2024-07-10 16:18:46+00:00",
+    "postBody": "Today, AWS announces the general availability of customized Amazon Q Developer inline code recommendations. You can now securely connect Amazon Q Developer to your private code bases and generate more precise suggestions by including your organization’s internal APIs, libraries, classes, methods, and best practices. In preview, you can also use Amazon Q Developer chat in the IDE to ask questions about how your internal code base is structured, where and how certain functions or libraries are used, or what specific functions, methods, or APIs do. With these capabilities, Amazon Q Developer can save builders hours typically spent examining previously written code or internal documentation to understand how to use internal APIs, libraries, and more. \nTo get started, you first need to securely connect your organization’s private repositories to Amazon Q Developer in the AWS Management Console. Amazon Q Developer administrators can select which repositories to use to customize recommendations, applying strict access control. Your administrators can decide which customization to activate, and they can manage access to a private customization from the console so only specific developers have access. Each customization is isolated from other customers, and none of the customizations built with these new capabilities will be used to train the foundation models underlying Amazon Q Developer.\nCustomized code recommendations and chat in the IDE are available as part of the Amazon Q Developer Pro subscription. To learn more about pricing, visit Amazon Q Developer Pricing. To learn more about these capabilities, see Amazon Q Developer or read the announcement blog post.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/customize-amazon-q-developer-code-recommendations-receive-chat-responses-ide-preview",
+    "postDateTime": "2024-07-10 12:20:00-04:00",
+    "postDate": "2024-07-10",
+    "contentType": "Launch Announcement",
+    "headline": "Customize Amazon Q Developer code recommendations, and receive chat responses in the IDE (Preview)",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-q",
+            "name": "amazon-q",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-q"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#developer-tools",
+            "name": "developer-tools",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/developer-tools"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}
