@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p131420148",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-4bkeNp4x3Ms51H6knxRJ5V",
+    "dateCreated": "2024-07-08 16:50:13+00:00",
+    "dateUpdated": "2024-07-11 17:00:55+00:00",
+    "postBody": "Amazon Elastic Container Services (Amazon ECS) now makes it easier to troubleshoot task launch failures with enhanced stopped task error messages. When your Amazon ECS task fails to launch, you see the stopped task error messages in the AWS Management Console or in the ECS DescribeTasks API response. With today’s launch, Amazon ECS stopped task error messages are now more specific and actionable.\nAmazon ECS is designed to help easily launch and scale your applications. When your Amazon ECS task fails to launch, you can use the Amazon ECS stopped task error message to identify the failure reason and resolve the failure. With this launch, stopped task error messages from common task launch failures now include more specific failure reasons and remediation recommendations. Amazon ECS documentation for these failures additionally provides in-depth root cause details and steps to mitigate the failure. If you manage your applications running on Amazon ECS using the AWS Management Console, error messages now include a direct link to the relevant Amazon ECS troubleshooting documentation page such as this Troubleshooting Amazon ECS ResourceInitializationError errors page, making it easier for you to access detailed information and resolve failures faster.\nThe new experience is now automatically enabled in all AWS Regions. See more details in Amazon ECS stopped task error messages updates.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-stopped-task-error-messages-troubleshooting/",
+    "postDateTime": "2024-07-11 10:00:00-07:00",
+    "postDate": "2024-07-11",
+    "contentType": null,
+    "headline": "Amazon ECS now provides enhanced stopped task error messages for easier troubleshooting",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#containers",
+            "name": "containers",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/containers"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ecs",
+            "name": "amazon-ecs",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ecs"
+        }
+    ]
+}

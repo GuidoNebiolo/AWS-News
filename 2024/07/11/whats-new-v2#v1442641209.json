@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1442641209",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-tFTvDj5urgYGqMX1UCeBfj",
+    "dateCreated": "2024-07-11 17:31:56+00:00",
+    "dateUpdated": "2024-07-11 19:42:25+00:00",
+    "postBody": "Today, AWS announces the general availability of Multi-Node Parallel (MNP) jobs in AWS Batch on Amazon Elastic Kubernetes Service (Amazon EKS). With AWS Batch MNP jobs you can run tightly-coupled High Performance Computing (HPC) applications like training multi-layer AI/ML models. AWS Batch helps you to launch, configure, and manage nodes in your Amazon EKS cluster without manual intervention.\nYou can configure MNP jobs using the RegisterJobsDefinition API or via job definitions sections of AWS Batch Management Console. With MNP jobs you can run AWS Batch on Amazon EKS workloads that span multiple Amazon Elastic Compute Cloud (Amazon EC2) instances. AWS Batch MNP jobs support any IP-based inter-instance communications framework, such as NVIDIA Collective Communications Library (NCCL), Gloo, Message Passing Interface (MPI), or Unified Collective Communication (UCC) as well as machine learning and parallel computing libraries such as PyTorch and Dask. For more information, see Multi-Node Parallel jobs page in the AWS Batch User Guide.\nAWS Batch supports developers, scientists, and engineers in running efficient batch processing for ML model training, simulations, and analysis at any scale. Multi-Node Parallel jobs are available in any AWS Region where AWS Batch is available.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-batch-gang-scheduling-eks-multi-node-parallel-jobs/",
+    "postDateTime": "2024-07-11 10:00:00-07:00",
+    "postDate": "2024-07-11",
+    "contentType": null,
+    "headline": "AWS Batch now supports gang-scheduling on Amazon EKS using multi-node parallel jobs",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#containers",
+            "name": "containers",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/containers"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-batch",
+            "name": "aws-batch",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-batch"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        }
+    ]
+}

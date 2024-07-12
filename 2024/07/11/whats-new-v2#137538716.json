@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#137538716",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "4nfPVfWmX72tj5PPrrS1zn",
+    "dateCreated": "2024-07-08 19:33:05+00:00",
+    "dateUpdated": "2024-07-11 18:01:59+00:00",
+    "postBody": "AWS Secrets Manager today announces Secrets Manager Agent - a language agnostic local HTTP service that you can install and use in your compute environments to read secrets from Secrets Manager and cache them in memory. With this launch, you can now simplify and standardize the way you read secrets across compute environments without the need for custom code.\nSecrets Manager Agent is an open source release that your applications can use to retrieve secrets from a local HTTP service instead of making a network call to Secrets Manager. With customizable configuration options such as time to live, cache size, maximum connections, and HTTP port, you can adapt the agent based on your application needs. The agent also offers built-in protection against Server Side Request Forgery (SSRF) to ensure security when calling the agent within your compute environment.\nThe Secrets Manager Agent open source code is available on GitHub and can be used in all AWS Regions where AWS Secrets Manager is available. To learn more about how to use Secrets Manager Agent, visit our documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-secrets-manager-open-source-secrets-manager-agent",
+    "postDateTime": "2024-07-11 14:00:00-04:00",
+    "postDate": "2024-07-11",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Secrets Manager announces open source release of Secrets Manager Agent",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-secrets-manager",
+            "name": "aws-secrets-manager",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-secrets-manager"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        }
+    ]
+}

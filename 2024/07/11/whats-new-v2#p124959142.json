@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p124959142",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "6EQ29pKSfkSSj8iysbEws9",
+    "dateCreated": "2024-07-02 17:19:06+00:00",
+    "dateUpdated": "2024-07-11 17:03:48+00:00",
+    "postBody": "AWS Outposts can now be shipped and installed at your data center and on-premises locations in Senegal.\nAWS Outposts is a family of fully managed solutions that extends AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises or edge location for a truly consistent hybrid experience. Outposts is ideal for workloads that require low latency access to on-premises systems, local data processing, and migration of applications with local system interdependencies. Outposts can also help meet data residency requirements. Outposts is available in a variety of form factors, from 1U and 2U Outposts servers to 42U Outposts racks, and multiple rack deployments.\nWith the availability of Outposts in Senegal, you can use AWS services to run your workloads and data in country in your on-premises facilities and connect to your nearest AWS Region for management and operations.\nTo learn more about Outposts, read the product overview and user guide. For the most updated list of countries and territories where Outposts is supported, check out the Outposts rack FAQs page and the Outposts servers FAQs page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/availability-aws-outposts-senegal",
+    "postDateTime": "2024-07-11 13:00:00-04:00",
+    "postDate": "2024-07-11",
+    "contentType": "Launch Announcement",
+    "headline": "Announcing availability of AWS Outposts in Senegal",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-outposts",
+            "name": "aws-outposts",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-outposts"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

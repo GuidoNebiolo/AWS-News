@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p129261572",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-uXFkJpZhWC1maiM3SnXTno",
+    "dateCreated": "2024-07-11 16:00:13+00:00",
+    "dateUpdated": "2024-07-11 17:13:41+00:00",
+    "postBody": "Today, AWS announces the release of Neuron 2.19, introducing support for flash attention kernel to enable performant LLM model training and inference with large sequence lengths.\nAWS Neuron is the SDK for AWS Inferentia and Trainium based instances purpose-built for generative AI. Neuron integrates with popular ML frameworks like PyTorch. It includes a compiler, runtime, tools, and libraries to support high performance training and inference of AI models on Trn1 and Inf2 instances.\nThis release adds new features and performance improvements for both training and inference and new Ubuntu 22 Neuron DLAMIs for PyTorch 2.1 and PyTorch 1.13. Neuron 2.19 adds support for Flash Attention kernel to enable training for large sequence lengths (greater than or equal to 8K), Llama3 model training, and interleaved pipeline parallelism to enhance training efficiency and resource utilization. For inference, this release adds Flash Attention kernel support to enable LLM inference for context lengths of up to 32k. Neuron 2.19 additionally adds support for Llama3 model inference and adds beta support for continuous batching with Mistral-7B-v0.2 models. Neuron 2.19 introduces new tools: Neuron Node Problem Detector and Recovery plugin in EKS and Neuron Monitor for EKS to enable enhanced Neuron metrics monitoring in Kubernetes.\nYou can use AWS Neuron SDK to train and deploy models on Trn1 and Inf2 instances, available in AWS Regions as On-Demand Instances, Reserved Instances, Spot Instances, or part of Savings Plan.\nFor a list of features in Neuron 2.19, visit Neuron Release Notes. To get started with Neuron, see:\nAWS Neuron\nInf2 Instances\nTrn1 Instances\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-neuron-flash-kernel-performance-sequence-lengths/",
+    "postDateTime": "2024-07-11 10:00:00-07:00",
+    "postDate": "2024-07-11",
+    "contentType": null,
+    "headline": "AWS Neuron introduces Flash Attention kernel enabling high performance and large sequence lengths",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-inferentia",
+            "name": "aws-inferentia",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-inferentia"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

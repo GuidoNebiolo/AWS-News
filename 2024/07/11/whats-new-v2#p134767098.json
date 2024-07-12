@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p134767098",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "wq1KEKXnzyie3mJShUoAtB",
+    "dateCreated": "2024-06-17 18:29:31+00:00",
+    "dateUpdated": "2024-07-11 18:00:35+00:00",
+    "postBody": "Amazon Elastic Container Service (Amazon ECS) now enforces software version consistency for your containerized applications, helping you ensure all tasks in your application are identical and that all code changes go through the safeguards defined in your deployment pipeline.\nCustomers deploy long-running applications such as HTTP-based microservices as Amazon ECS services and often use container image tags to configure these services. Although container images are immutable, image tags aren’t immutable by default and there is no standard mechanism to prevent different versions from being unintentionally deployed when you configure a containerized application using image tags. To prevent such inconsistencies, Amazon ECS now resolves container image tags to the image digest (SHA256 hash of the image manifest) when you deploy an update to your Amazon ECS service and enforces that all tasks in the service are identical and launched with this image digest(s). This means, even if you use a mutable image tag like ‘LATEST’ in your task definition and your service scales out after the deployment, the correct image (which was used when deploying the service) is used for launching new tasks.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-software-version-consistency-containerized-applications",
+    "postDateTime": "2024-07-11 14:00:00-04:00",
+    "postDate": "2024-07-11",
+    "contentType": "launch announcement",
+    "headline": "Amazon ECS now enforces software version consistency for containerized applications",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#serverless",
+            "name": "serverless",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/serverless"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#containers",
+            "name": "containers",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/containers"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ecs",
+            "name": "amazon-ecs",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ecs"
+        }
+    ]
+}

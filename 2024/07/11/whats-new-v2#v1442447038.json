@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1442447038",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "4QKrcJnm99gsASeLUrz194",
+    "dateCreated": "2024-07-10 18:49:55+00:00",
+    "dateUpdated": "2024-07-11 19:58:40+00:00",
+    "postBody": "Today, AWS announces IDE workspace context awareness in Amazon Q Developer chat. Users can now add @workspace to their chat message to Amazon Q Developer to ask questions about the code in the project they currently have open in the integrated development environment (IDE). Developers can ask questions like “@workspace what does this codebase do?” or “how does this @workspace implement authentication and authorization?”.\nPreviously, Amazon Q Developer chat in the IDE could only answer questions about your currently opened code file. Now, Q Developer automatically ingests and indexes all code files, configurations, and project structure, giving the chat comprehensive context across your entire application within the IDE. The index is stored locally and is created the first time you mention @workspace.\nTo get started, make sure you are using the most up-to-date version of the Amazon Q Developer IDE extension, open the Q chat in your IDE, and just ask a question that includes @workspace.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/ide-workspace-context-awareness-q-developer-chat",
+    "postDateTime": "2024-07-11 15:55:00-04:00",
+    "postDate": "2024-07-11",
+    "contentType": "Launch Announcement",
+    "headline": "Announcing IDE workspace context awareness in Q Developer chat",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#developer-tools",
+            "name": "developer-tools",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/developer-tools"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-q",
+            "name": "amazon-q",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-q"
+        }
+    ]
+}

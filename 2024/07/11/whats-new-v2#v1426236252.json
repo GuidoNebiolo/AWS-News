@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1426236252",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-85H1Yi5Nsv3pAzDMKUzxCf",
+    "dateCreated": "2024-07-08 16:41:50+00:00",
+    "dateUpdated": "2024-07-11 19:47:08+00:00",
+    "postBody": "Amazon RDS (Relational Database Service) Performance Insights now provides support for AWS PrivateLink and Internet Protocol Version 6 (IPv6). Customers can now access Performance Insights API/CLI privately, without going through the public Internet. Additionally, Performance Insights includes support for IPv6 connectivity and for a dual stack configuration (IPv4 and IPv6).\nAWS PrivateLink provides private, secure, and scalable connectivity between virtual private clouds (VPCs) and AWS services. Customers can now prevent sensitive data, such as SQL text, from traversing the Internet to maintain compliance with regulations such as HIPAA and PCI . With IPv6 support, scaling an application on AWS is no longer constrained by the number of IPv4 addresses in the VPC. This eliminates the need for complex architectures to work around the limits of public IPv4 addresses.\nAmazon RDS Performance Insights is a database performance tuning and monitoring feature of RDS that allows you to visually assess the load on your database and determine when and where to take action. With one click in the Amazon RDS Management Console, you can add a fully-managed performance monitoring solution to your Amazon RDS database.\nTo learn more about RDS Performance Insights, read the Amazon RDS User Guide and visit Performance Insights pricing for pricing details and region availability.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/rds-performance-insights-privatelink-ipv6/",
+    "postDateTime": "2024-07-11 10:00:00-07:00",
+    "postDate": "2024-07-11",
+    "contentType": null,
+    "headline": "RDS Performance Insights provides support for AWS PrivateLink and IPv6",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds",
+            "name": "amazon-rds",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds"
+        }
+    ]
+}

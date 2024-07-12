@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p139849919",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "8RTDVdmrZ3dhvUjwaGAAuk",
+    "dateCreated": "2024-07-10 18:56:38+00:00",
+    "dateUpdated": "2024-07-11 17:24:44+00:00",
+    "postBody": "A new minor version of Microsoft SQL Server is now available on Amazon RDS for SQL Server, providing performance enhancements and security fixes. Amazon RDS for SQL Server now supports the latest minor version of SQL Server 2019 across the Express, Web, Standard, and Enterprise editions.\nWe encourage you to upgrade your Amazon RDS for SQL Server database instances at your convenience. You can upgrade with just a few clicks in the Amazon RDS Management Console or by using the AWS CLI. Learn more about upgrading your database instances from the Amazon RDS User Guide. The new minor version include SQL Server 2019 CU27 - 15.0.4375.4.\nThe minor version is available in all AWS regions where Amazon RDS for SQL Server databases are available, including the AWS GovCloud (US) Regions.\nAmazon RDS for SQL Server makes it simple to set up, operate, and scale SQL Server deployments in the cloud. See Amazon RDS for SQL Server Pricing for pricing details and regional availability.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-sql-server-minor-version-2019-cu27",
+    "postDateTime": "2024-07-11 13:20:00-04:00",
+    "postDate": "2024-07-11",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon RDS for SQL Server supports minor version 2019 CU27",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds-for-sql-server",
+            "name": "amazon-rds-for-sql-server",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds-for-sql-server"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        }
+    ]
+}
