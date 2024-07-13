@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1341598422",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "jrWiyHB1Sdphps7vqydcV1",
+    "dateCreated": "2024-05-15 19:35:28+00:00",
+    "dateUpdated": "2024-07-12 20:33:46+00:00",
+    "postBody": "Today, AWS Identity and Access Management (IAM) is announcing improvements that simplify how customers manage OpenID Connect (OIDC) identity providers (IdPs) in their AWS accounts. These improvements include increased availability when handling federated user logins through existing IdPs and a streamlined process for provisioning new OIDC IdPs.\nIAM now secures communication with OIDC IdPs by trusting the root certificate authority (CA) anchoring the IdP’s SSL/TLS server certificate. This aligns with current industry standards and removes the need for customers to update certificate thumbprints when rotating SSL/TLS certificates. For customers using less common root CAs or a self-signed SSL/TLS server certificate, IAM will continue to rely on the certificate thumbprint set in your IdP configuration. This change automatically applies to new and existing OIDC IdPs, and no action is required from customers.\nAdditionally, when customers configure a new OIDC IdP using either the IAM console or API/CLI, customers no longer need to supply the IdP’s SSL/TLS server certificate thumbprint as IAM will automatically retrieve it. This thumbprint is maintained with the IdP configuration, but is not used if the IdP relies on a trusted root CA.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-identity-access-management-open-id-connect-identity-providers",
+    "postDateTime": "2024-07-12 16:30:00-04:00",
+    "postDate": "2024-07-12",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Identity and Access Management simplifies management of OpenID Connect identity providers",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-iam",
+            "name": "aws-iam",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-iam"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

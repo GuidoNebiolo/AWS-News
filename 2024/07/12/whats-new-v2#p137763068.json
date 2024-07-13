@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p137763068",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-kcnhKw9h4Anvjjjtsnhda3",
+    "dateCreated": "2024-07-01 16:30:39+00:00",
+    "dateUpdated": "2024-07-12 22:41:02+00:00",
+    "postBody": "Amazon Q Business is a fully managed, generative-AI powered assistant that enhances employee productivity by answering questions, providing summaries, generating content, and completing tasks based on customer's enterprise data. Across various industries, users want to derive insights from document types such as invoices, tax statements, which are frequently in scanned PDF format. Starting today, Amazon Q Business users can get answers from text content in scanned PDFs, and images embedded in PDF documents.\nPrior to today, customers who wanted to derive insights from scanned PDFs and images in PDF documents would first have to do preprocessing to extract the text from these documents using Optical Character Recognition (OCR) followed by ingestion into Amazon Q Business. Starting today, customers can directly feed these documents into Q Business, and search and act on them without the need for preprocessing of any kind. With this launch, customers can simplify the process of building their own generative AI assistants using Q Business APIs or web applications.\nThis feature is available in all AWS regions where Amazon Q for Business is available. To learn more about the support for Scanned PDFs and embedded images, visit the documentation page or refer to the blog Improve productivity when processing scanned PDFs using Amazon Q Business. To explore Amazon Q, visit the Amazon Q website.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-scanned-pdfs-embedded-images-documents/",
+    "postDateTime": "2024-07-12 10:00:00-07:00",
+    "postDate": "2024-07-12",
+    "contentType": null,
+    "headline": "Amazon Q introduces support for scanned PDFs and embedded images in PDF documents",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-q",
+            "name": "amazon-q",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-q"
+        }
+    ]
+}
