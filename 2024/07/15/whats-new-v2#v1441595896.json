@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1441595896",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "https://regions.aws.dev/alm/launches/launch-wfPgSbqLDUbxQYS3s6GncZ",
+    "dateCreated": "2024-07-09 20:31:45+00:00",
+    "dateUpdated": "2024-07-15 17:03:16+00:00",
+    "postBody": "AWS Security Hub has released 24 new security controls, increasing the number of controls offered to 418. Security Hub now supports controls for additional AWS services such as Amazon Inspector, Amazon Data Firehose and AWS Service Catalog. Security Hub also released new controls against previously supported services like Amazon GuardDuty and Amazon DynamoDB. For the full list of recently released controls and the AWS Regions in which they are available, visit the Security Hub user guide.\nTo use the new controls, turn on the standard they belong to. Security Hub will then start evaluating your security posture and monitoring your resources for the relevant security controls. You can use central configuration to do so across all your organization accounts and linked Regions with a single action. If you are already using the relevant standards and have Security Hub configured to automatically enable new controls, these new controls will run without taking any additional action.\nTo get started, consult the following list of resources:\nLearn more about Security Hub capabilities and features in the AWS Security Hub user guide\nSubscribe to the Security Hub SNS topic to receive notifications about new Security Hub features and controls\nTry Security Hub at no cost for 30 days on the AWS Free Tier\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-security-hub-24-security-controls/",
+    "postDateTime": "2024-07-15 10:00:00-07:00",
+    "postDate": "2024-07-15",
+    "contentType": null,
+    "headline": "AWS Security Hub launches 24 new security controls",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-security-hub",
+            "name": "aws-security-hub",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-security-hub"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

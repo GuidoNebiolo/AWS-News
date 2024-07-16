@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p131405956",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-pLtPWAdJLtvjsAHWYs1r1n",
+    "dateCreated": "2024-07-08 20:45:59+00:00",
+    "dateUpdated": "2024-07-15 17:04:24+00:00",
+    "postBody": "AWS Cloud Control API now allows customers to use Internet Protocol version 6 (IPv6) addresses for their new and existing service endpoints. Customers moving to IPv6 can simplify their network stack by running their AWS Cloud Control API endpoints on a network that supports both IPv4 and IPv6.\nThe continued growth of the Internet, particularly in the areas of mobile applications, connected devices, and IoT, has spurred an industry-wide move to IPv6. IPv6 increases the number of available addresses by several orders of magnitude so customers will no longer need to manage overlapping address spaces in their VPCs. Customers can standardize their applications on the new version of Internet Protocol by moving their AWS Cloud Control API endpoints to IPv6 with AWS CLI.\nSupport for IPv6 on AWS Cloud Control API is available in all Regions where AWS Cloud Control API is available. See here for a full listing of our Regions. To learn more about AWS Cloud Control API, please refer to our user guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-cloud-control-api-ipv6/",
+    "postDateTime": "2024-07-15 10:00:00-07:00",
+    "postDate": "2024-07-15",
+    "contentType": null,
+    "headline": "AWS Cloud Control API now supports IPv6",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#developer-tools",
+            "name": "developer-tools",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/developer-tools"
+        },
+        {
+            "id": "whats-new-v2#general-products#ipv6-at-aws",
+            "name": "ipv6-at-aws",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/ipv6-at-aws"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

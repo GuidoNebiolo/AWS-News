@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p136206836",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-wVo7BNwASZ3n1izxNfoYPe",
+    "dateCreated": "2024-07-01 18:52:58+00:00",
+    "dateUpdated": "2024-07-15 17:18:11+00:00",
+    "postBody": "You can now disable individual outputs on an AWS Elemental MediaConnect flow, temporarily stopping them from transmitting data. This makes it easier to manage content sharing by allowing you to suspend and restart distribution of live video to a single destination without having to delete and then reconfigure output settings or flows.\nTo learn more about stopping individual flow outputs, visit the AWS Elemental MediaConnect documentation page.\nAWS Elemental MediaConnect is a reliable, secure, and flexible transport service for live video that enables broadcasters and content owners to build live video workflows and securely share live content with partners and customers. MediaConnect helps customers transport high-value live video streams into, through, and out of the AWS Cloud. MediaConnect can function as a standalone service or as part of a larger video workflow with other AWS Elemental Media Services, a family of services that form the foundation of cloud-based workflows to transport, transcode, package, and deliver video.\nVisit the AWS Region Table for a full list of AWS Regions where MediaConnect is available. To learn more about MediaConnect, please visit here.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-elemental-mediaconnect-individual-output-stopping/",
+    "postDateTime": "2024-07-15 10:00:00-07:00",
+    "postDate": "2024-07-15",
+    "contentType": null,
+    "headline": "AWS Elemental MediaConnect supports individual output stopping capability",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-elemental-mediaconnect",
+            "name": "aws-elemental-mediaconnect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-elemental-mediaconnect"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#media-services",
+            "name": "media-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/media-services"
+        }
+    ]
+}

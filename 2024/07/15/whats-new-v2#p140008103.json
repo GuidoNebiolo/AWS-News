@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p140008103",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "7NgLD1RXSb78qwdtdxnfSB",
+    "dateCreated": "2024-07-10 19:07:31+00:00",
+    "dateUpdated": "2024-07-15 17:02:26+00:00",
+    "postBody": "Customers can now create Amazon FSx for OpenZFS Single-AZ 2 file systems in two additional AWS Regions: Canada (Central) and Asia Pacific (Mumbai). Customers can now also create new Multi-AZ file systems in these two regions with higher throughput capacity than they could previously, up to a new maximum of 10,240 MBps.\nAmazon FSx for OpenZFS provides fully managed, cost-effective, shared file storage powered by the popular OpenZFS file system, and is designed to deliver sub-millisecond latencies and multi-GB/s of throughput along with rich ZFS-powered data management capabilities (like snapshots, data cloning, and compression). It offers two deployment types: Single-AZ (built in a single AZ) and Multi-AZ (built with storage volumes in two different AZs with automatic replication for data resiliency across AZs). Within the Single-AZ deployment type, the latest generation, Single-AZ 2, offers double the performance scalability as compared to the previous generation (Single-AZ 1), and delivers a high-speed NVMe read cache that automatically caches your most recently-accessed data, making it suitable for high-performance workloads such as media processing and rendering, financial analytics, and machine learning. Starting today, customers can launch Single-AZ 2 file systems, as well as Multi-AZ file systems with up to 10,240 MBps of throughput, in the two additional AWS Regions mentioned above.\nTo learn more about Amazon FSx for OpenZFS, visit our product page, and see the AWS Region Table for complete regional availability information.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-openzfs-deployment-options-two-aws-regions",
+    "postDateTime": "2024-07-15 13:00:00-04:00",
+    "postDate": "2024-07-15",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon FSx for OpenZFS now supports additional deployment options in two AWS Regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-fsx-for-openzfs",
+            "name": "amazon-fsx-for-openzfs",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-fsx-for-openzfs"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        }
+    ]
+}

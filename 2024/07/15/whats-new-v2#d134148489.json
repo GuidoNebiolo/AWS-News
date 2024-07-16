@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#d134148489",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-mpxp63KkTCFCR4g2cwgKgB",
+    "dateCreated": "2024-07-15 18:13:10+00:00",
+    "dateUpdated": "2024-07-15 19:02:53+00:00",
+    "postBody": "Starting today, you can use AWS Application Migration Service with workloads that require FedRAMP High categorization level in the AWS GovCloud (US-East and US-West) Regions.\nIn addition to achieving FedRAMP High authorization in the AWS GovCloud (US-East and US-West) Regions, AWS Application Migration Service is in scope for numerous compliance programs and standards, including HIPAA (Health Insurance Portability and Accountability Act), PCI DSS (Payment Card Industry – Data Security Standard), ISO (International Organization for Standardization), SOC 1, 2, and 3 (System and Organization Controls). To learn more about AWS Application Migration Service compliance validation, visit the documentation here.\nApplication Migration Service minimizes time-intensive, error-prone manual processes by automating the conversion of your source servers to run natively on AWS. It also helps simplify modernization of your migrated applications by allowing you to select preconfigured and custom optimization options during migration.\nTo start using Application Migration Service for free, sign in through the AWS Management Console. For more information, visit the Application Migration Service product page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-application-migration-fedramp-high-authorization/",
+    "postDateTime": "2024-07-15 10:00:00-07:00",
+    "postDate": "2024-07-15",
+    "contentType": null,
+    "headline": "AWS Application Migration Service achieves FedRAMP High authorization ",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#migration",
+            "name": "migration",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/migration"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-application-migration-service",
+            "name": "aws-application-migration-service",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-application-migration-service"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p135175495",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "qqyWU1J9wP8q9P7tSKbNqR",
+    "dateCreated": "2024-06-27 18:58:53+00:00",
+    "dateUpdated": "2024-07-15 19:21:19+00:00",
+    "postBody": "Currently in Amazon QuickSight when readers interact with controls they need to wait for all relevant controls to reload after each change is made. With this new release readers will see most controls immediately accessible as loading has been moved to the background. Readers may see a loading indicator in the sample value list, but we prioritize the control being interacted with to reduce the loading time experienced.\nReaders can start interacting with controls right away when the dashboard loads. As more controls are added to the dashboard or if controls previously loaded slowly, it will be more clear that this update has sped up the ability to interact with controls on the dashboard.\nThis improvement to controls is supported in all Amazon QuickSight regions - US East (Ohio and N. Virginia), US West (Oregon), Asia Pacific (Mumbai, Seoul, Singapore, Sydney and Tokyo), Canada (Central), Europe (Frankfurt, Ireland and London), South America (São Paulo) and AWS GovCloud (US-West). See here for QuickSight regional endpoints.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-quicksight-controls-performance",
+    "postDateTime": "2024-07-15 15:20:00-04:00",
+    "postDate": "2024-07-15",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon QuickSight improves controls performance",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#business-productivity",
+            "name": "business-productivity",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/business-productivity"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-quicksight",
+            "name": "amazon-quicksight",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-quicksight"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        }
+    ]
+}

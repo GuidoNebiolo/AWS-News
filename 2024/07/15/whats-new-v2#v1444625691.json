@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1444625691",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-jEt6crZM89cdZn5bs1Rnq1",
+    "dateCreated": "2024-07-12 16:02:00+00:00",
+    "dateUpdated": "2024-07-15 17:00:41+00:00",
+    "postBody": "We are excited to announce the new smart caching feature for indexing in Amazon OpenSearch Serverless. This innovative caching mechanism automatically fetches and intelligently manages data, leading to faster data retrieval, efficient storage usage, and cost savings.\nOpenSearch Serverless has a built-in caching tier for indexing and search compute, measured in OpenSearch Compute Units (OCU). Prior to this feature, the OCUs consumed by indexing was predominantly determined by the size of the workload. The new caching feature optimizes data management on the indexing compute by keeping only the most recently or frequently used data readily available in the cache. Instead of basing the OCU consumption primarily on the total data size, the new caching feature ensures that the cost is determined by the rate of data ingestion. When data requested is not in the cache, it automatically fetches from the data stored in Amazon Simple Storage Service (Amazon S3). This approach reduces overall OCU usage, making the indexing process more efficient and cost-effective while ensuring faster data retrieval.\nThe support for the new smart caching feature in OpenSearch Serverless is automatically enabled for all collections and is now available in 13 regions globally: US East (Ohio), US East (N. Virginia), US West (Oregon), Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Frankfurt), Europe (Ireland), Europe West (Paris), Europe West (London), Asia Pacific South (Mumbai), South America (Sao Paulo), and Canada (Central).\nPlease refer to the AWS Regional Services List for more information about Amazon OpenSearch Service availability.\nTo learn more about OpenSearch Serverless, see the documentation. \n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-serverless-speed-efficiency-smart-caching/",
+    "postDateTime": "2024-07-15 10:00:00-07:00",
+    "postDate": "2024-07-15",
+    "contentType": null,
+    "headline": "Amazon OpenSearch Serverless levels up speed and efficiency with smart caching",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#serverless",
+            "name": "serverless",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/serverless"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-opensearch-service",
+            "name": "amazon-opensearch-service",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-opensearch-service"
+        }
+    ]
+}
