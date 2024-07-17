@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1438726950",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-sPvnvxgmsiJKCmXuxZ8StT",
+    "dateCreated": "2024-07-09 20:25:46+00:00",
+    "dateUpdated": "2024-07-16 17:04:34+00:00",
+    "postBody": "We are excited to announce enhanced search capability in the AWS Artifact Reports console that allows you to quickly find the compliance reports you need. You can now perform targeted searches for reports based on individual columns, including report title, category, series, description, and ARN. This empowers you to easily locate specific reports. For example, if you need to find all SOC (System and Organization Controls) reports, you can now search the \"Title\" column using the \"contains\" operator and the term \"SOC\". The new column-specific search helps you narrow down your results and save time.\nTargeted search is available for customers who are opted-in to use the AWS Artifact reports console with fine-grained permissions. By default, all AWS Artifact customers are opted-in to use the new console. If you had previously opted out of fine-grained permissions, you can easily opt back in by clicking the URL in the banner displayed on top of the AWS reports list.\nThe feature is available in all AWS commercial regions. To learn more about AWS Artifact and how to start downloading AWS compliance reports, refer to the product page and documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-artifact-enhanced-search-reports/",
+    "postDateTime": "2024-07-16 10:00:00-07:00",
+    "postDate": "2024-07-16",
+    "contentType": null,
+    "headline": "AWS Artifact now supports enhanced search capability for reports",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-artifact",
+            "name": "aws-artifact",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-artifact"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}
