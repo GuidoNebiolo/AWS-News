@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1430171864",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-6JB5KAFJ33ZUtbffYyY14p",
+    "dateCreated": "2024-07-15 16:52:21+00:00",
+    "dateUpdated": "2024-07-17 20:43:54+00:00",
+    "postBody": "Corretto 22.0.2, 21.0.4, 17.0.12, 11.0.24, and 8u422, quarterly security and critical updates for the Long-Term Supported (LTS) and Feature (FR) versions of OpenJDK, are now available for download. Amazon Corretto is a no-cost, multi-platform, production-ready distribution of OpenJDK.\nClick on the Corretto home page to download Corretto 8, Corretto 11, Corretto 17, Corretto 21, or Corretto 22. You can also get the updates on your Linux system by configuring a Corretto Apt or Yum repo.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-corretto-july-2024-quarterly-updates/",
+    "postDateTime": "2024-07-17 10:00:00-07:00",
+    "postDate": "2024-07-17",
+    "contentType": null,
+    "headline": "Announcing the July 2024 updates to Amazon Corretto",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#developer-tools",
+            "name": "developer-tools",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/developer-tools"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-corretto",
+            "name": "amazon-corretto",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-corretto"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p140810025",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "upuZswKkWSJuWjvXVduKJk",
+    "dateCreated": "2024-07-16 18:24:05+00:00",
+    "dateUpdated": "2024-07-17 16:59:40+00:00",
+    "postBody": "AWS HealthImaging has launched two additional DICOMweb APIs for retrieving medical imaging metadata and image frames. This launch offers customers greater flexibility in how they access data stored on HealthImaging, and expanded interoperability with legacy applications.\nCustomers can now download DICOM instance metadata from HealthImaging with GetDICOMInstanceMetadata. Customers can also retrieve one or more image frames from a DICOM instance stored on HealthImaging with GetDICOMInstanceFrames. Both of these APIs are built in conformance with the DICOMweb WADO-RS standard for web-based medical imaging. These APIs make it easy to connect DICOMweb-enabled applications, such as medical imaging viewers, to HealthImaging data stores.\nAWS HealthImaging is a HIPAA-eligible service that empowers healthcare providers and their software partners to store, analyze, and share medical images at petabyte scale. With AWS HealthImaging, you can run your medical imaging applications at scale from a single, authoritative copy of each medical image in the cloud, while reducing your total cost of ownership.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/expanded-dicomweb-retrievals-aws-healthimaging",
+    "postDateTime": "2024-07-17 13:00:00-04:00",
+    "postDate": "2024-07-17",
+    "contentType": "Launch Announcement",
+    "headline": "Announcing expanded DICOMweb retrievals with AWS HealthImaging",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-healthimaging",
+            "name": "aws-healthimaging",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-healthimaging"
+        }
+    ]
+}
