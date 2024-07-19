@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#v1333948509",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-tfE8m4DNZ1CH5d2WSAkmXk",
+    "dateCreated": "2024-07-18 20:24:48+00:00",
+    "dateUpdated": "2024-07-18 20:42:05+00:00",
+    "postBody": "AWS IAM Identity Center administrators now have an option to extend the session duration for Amazon Q Developer separately from the session durations of other IAM Identity Center integrated applications and the AWS access portal. Users of Q Developer can work in the integrated development environment (IDE) for 90 days without being asked to re-authenticate by Q Developer.\nPreviously, session durations for Q Developer in the IDE had the same length as other IAM Identity Center integrated applications and the AWS access portal, between 15 minutes and 90 days. Customers appreciated the flexibility to change the configuration and many opted for more frequent re-authentication requirements as a security measure. However developers found the requirement for frequent re-authentication unnecessary for their context. With this release, IAM Identity Center provides additional flexibility to define separately the session duration for Q Developer.\nIAM Identity Center is the recommended service for managing workforce access to AWS applications and multiple AWS accounts. It can be used with an existing identity source or by creating a new directory. It can manage workforce access to some or all AWS applications, and to some or all AWS accounts. AWS IAM Identity Center is available at no additional cost in AWS Regions. Learn more about session duration here.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-iam-identity-center-90-session-duration-q-developer/",
+    "postDateTime": "2024-07-18 10:00:00-07:00",
+    "postDate": "2024-07-18",
+    "contentType": null,
+    "headline": "AWS IAM Identity Center adds independent 90-days session duration for Amazon Q Developer",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-iam-identity-center",
+            "name": "aws-iam-identity-center",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-iam-identity-center"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-q",
+            "name": "amazon-q",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-q"
+        }
+    ]
+}

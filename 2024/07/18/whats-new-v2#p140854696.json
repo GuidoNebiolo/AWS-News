@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p140854696",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-4zi5F3fEGNZVFR6T3m8Pcb",
+    "dateCreated": "2024-07-15 18:26:14+00:00",
+    "dateUpdated": "2024-07-18 17:25:12+00:00",
+    "postBody": "Amazon Redshift now allows you to get started with Amazon Redshift Serverless with a lower data warehouse base capacity configuration of 8 Redshift Processing Units (RPUs) in the AWS Europe (London) region. Amazon Redshift Serverless measures data warehouse capacity in RPUs, and you pay only for the duration of workloads you run in RPU-hours on a per-second basis. Previously, the minimum base capacity required to run Amazon Redshift Serverless was 32 RPUs. With the new lower base capacity minimum of 8 RPUs, you now have even more flexibility to a support diverse set of workloads of small to large complexity based on your price performance requirements. You can increment or decrement the RPU in units of 8 RPUs.\nAmazon Redshift Serverless allows you to run and scale analytics without having to provision and manage data warehouse clusters. With Amazon Redshift Serverless, all users, including data analysts, developers, and data scientists, can use Amazon Redshift to get insights from data in seconds. With the new lower capacity configuration, you can use Amazon Redshift Serverless for production environments, test and development environments at an optimal price point when a workload needs a small amount of compute.\nTo get started, see the Amazon Redshift Serverless feature page, user documentation, and API Reference.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-redshift-serverless-lower-base-capacity-london/",
+    "postDateTime": "2024-07-18 10:00:00-07:00",
+    "postDate": "2024-07-18",
+    "contentType": null,
+    "headline": "Amazon Redshift Serverless with lower base capacity available in the Europe (London) Region",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-redshift",
+            "name": "amazon-redshift",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-redshift"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        }
+    ]
+}

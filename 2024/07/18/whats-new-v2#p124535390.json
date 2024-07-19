@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p124535390",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "ej6XrDP3ru4WszSqyk1E1e",
+    "dateCreated": "2024-05-28 18:45:07+00:00",
+    "dateUpdated": "2024-07-18 18:36:14+00:00",
+    "postBody": "Starting today, Amazon EC2 High Memory instances with 6TiB of memory (u-6tb1.56xlarge, u-6tb1.112xlarge) are now available in Asia Pacific (Jakarta) region. Customers can start using these new High Memory instances with On Demand and Savings Plan purchase options.\nAmazon EC2 High Memory instances are certified by SAP for running Business Suite on HANA, SAP S/4HANA, Data Mart Solutions on HANA, Business Warehouse on HANA, and SAP BW/4HANA in production environments. For details, see the Certified and Supported SAP HANA Hardware Directory.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-high-memory-instances-jakarta-region",
+    "postDateTime": "2024-07-18 14:30:00-04:00",
+    "postDate": "2024-07-18",
+    "contentType": "launch announcement",
+    "headline": "Amazon EC2 High Memory instances now available in Asia Pacific (Jakarta) Region",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ec2",
+            "name": "amazon-ec2",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ec2"
+        }
+    ]
+}

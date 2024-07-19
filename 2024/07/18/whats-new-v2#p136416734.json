@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p136416734",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-sgHRA2SCjc2KE1wV6foGBv",
+    "dateCreated": "2024-07-02 15:35:10+00:00",
+    "dateUpdated": "2024-07-18 20:08:15+00:00",
+    "postBody": "Today, AWS Control Tower customization frameworks Account Factory for Terraform (AFT) and Customizations for AWS Control Tower (CfCT) are available in additional AWS Regions. AFT and CfCT are now available in 5 additional commercial AWS Regions: Asia Pacific (Hyderabad, Jakarta, and Osaka), Israel (Tel Aviv), and Middle East (UAE). They are also available in the AWS GovCloud (US-East) Region. Customers in these home regions can now deploy customizations in their accounts using the AFT and CfCT frameworks.\nAWS Control Tower offers the easiest way to set up and govern a secure, multi-account AWS environment. It simplifies AWS experiences by orchestrating multiple AWS services on your behalf while maintaining the security and compliance needs of your organization. Account Factory for Terraform (AFT) sets up a Terraform pipeline to help you provision and customize accounts in AWS Control Tower. Customizations for AWS Control Tower (CfCT) helps you customize your AWS Control Tower landing zone and accounts with AWS CloudFormation templates and service control policies (SCPs).\nTo learn more, visit the Account Factory for Terraform and Customizations for AWS Control Tower pages in the AWS Control Tower User Guide. You may also review the release notes on the AFT Github page and the CfCT Github page. AFT and CfCT are supported in all commercial regions with some exceptions. See the list of Region limitations here.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-control-tower-customization-frameworks-opt-in-regions/",
+    "postDateTime": "2024-07-18 10:00:00-07:00",
+    "postDate": "2024-07-18",
+    "contentType": null,
+    "headline": "AWS Control Tower customization frameworks are available in opt-in regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-control-tower",
+            "name": "aws-control-tower",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-control-tower"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

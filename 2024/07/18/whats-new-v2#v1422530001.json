@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1422530001",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-5bLjxdqZRsAwAsJ6m19ReS",
+    "dateCreated": "2024-07-18 16:26:51+00:00",
+    "dateUpdated": "2024-07-18 16:54:15+00:00",
+    "postBody": "The Amazon Web Services (AWS) ODBC Driver for MYSQL is now generally available for use with Amazon RDS and Amazon Aurora MySQL-compatible edition database clusters. This database driver provides support for faster switchover and failover times, and authentication with AWS Secrets Manager or AWS Identity and Access Management (IAM).\nThe Amazon Web Services (AWS) ODBC Driver for MYSQL is a standalone driver and supports RDS and community MySQL 8.X and Amazon Aurora MySQL version 3.X. You can install the aws-mysql-odbc package for Windows, Mac or Linux by following established installation guides in GitHub. The driver relies on monitoring the database cluster status and being aware of the cluster topology to determine the new writer. This approach reduces switchover and failover times from tens of seconds to single digit seconds compared to the open-source driver.\nThe AWS Advanced MySQL ODBC driver is released as an open-source project under version 2 of the GNU General Public License (GPL v2). For more details click here to view Getting Started instructions and guidance on how to raise issues.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/open-source-advanced-mysql-odbc-driver-aurora-rds/",
+    "postDateTime": "2024-07-18 10:00:00-07:00",
+    "postDate": "2024-07-18",
+    "contentType": null,
+    "headline": "New open-source Advanced MYSQL ODBC Driver  now available for Amazon Aurora and RDS",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-aurora",
+            "name": "amazon-aurora",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-aurora"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds",
+            "name": "amazon-rds",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds"
+        }
+    ]
+}

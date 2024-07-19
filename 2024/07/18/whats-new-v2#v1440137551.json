@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1440137551",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "https://regions.aws.dev/alm/launches/launch-c1hSBmaDJgi2My19hMojbs",
+    "dateCreated": "2024-07-15 17:38:04+00:00",
+    "dateUpdated": "2024-07-18 18:46:14+00:00",
+    "postBody": "AWS Private Certificate Authority (AWS Private CA) announces support for ARM architecture in Kubernetes. With this support, you can now use the AWS Private CA Connector for Kubernetes with AWS Graviton instances in AWS or ARM based hosts on premise. The connector lets you use private certificates to provide secure authentication and encryption over TLS for your Kubernetes containers, applications, and service meshes. By using the connector, you can use AWS Private CA, a managed, hardware security module (HSM) backed, highly-available cloud certificate authority (CA), to issue private certificates to your Kubernetes clusters automatically at scale. The connector works with Kubernetes clusters deployed through Amazon Elastic Kubernetes Services (Amazon EKS), on-premises, or other infrastructure.\nThe Connector for Kubernetes is one of three connector types offered for AWS Private CA. Connectors allow you to replace your existing CAs with AWS Private CA in environments that have an established native certificate distribution solution. This means that instead of using multiple CA solutions, you can utilize a single private CA solution for your enterprise. You benefit from comprehensive support, extending to Kubernetes, Active Directory, and, mobile devices.\nConnector for Kubernetes support for ARM architecture is available in all AWS Regions where AWS Private CA is available.\nTo learn more about how you can use AWS Private CA with Kubernetes, you can visit the AWS Private CA User Guide and the Connector for Kubernetes GitHub repository.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-private-ca-arm-architecture-kubernetes/",
+    "postDateTime": "2024-07-18 10:00:00-07:00",
+    "postDate": "2024-07-18",
+    "contentType": null,
+    "headline": "AWS Private CA now supports ARM architecture in Kubernetes",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-private-certificate-authority",
+            "name": "aws-private-certificate-authority",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-private-certificate-authority"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        }
+    ]
+}

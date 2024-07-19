@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1424923991",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "3yKaSeJ2x6mjFYtLoDrhJn",
+    "dateCreated": "2024-07-08 15:45:42+00:00",
+    "dateUpdated": "2024-07-18 21:13:42+00:00",
+    "postBody": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports password policies for SQL Server logins. If you use SQL Server logins to authenticate users to an RDS for SQL Server database instance, you can now apply password policies to meet your compliance requirements. You can configure password policy parameters such as minimum length, minimum age, maximum age, lockout threshold, lockout duration, and lockout reset counter.\nCustomers can configure password policies in all AWS regions where Amazon RDS for SQL Server databases are available, including the AWS GovCloud (US) Regions.\nAmazon RDS for SQL Server makes it simple to set up, operate, and scale SQL Server deployments in the cloud. See Amazon RDS for SQL Server Pricing for pricing details and regional availability.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-sql-server-password-policies-logins",
+    "postDateTime": "2024-07-18 17:12:00-04:00",
+    "postDate": "2024-07-18",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon RDS for SQL Server supports password policies for SQL Server logins",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds-for-sql-server",
+            "name": "amazon-rds-for-sql-server",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds-for-sql-server"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        }
+    ]
+}

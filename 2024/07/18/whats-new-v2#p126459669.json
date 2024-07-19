@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p126459669",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "6wH4h8QQu8X8tUPz3D69mM",
+    "dateCreated": "2024-07-17 19:21:53+00:00",
+    "dateUpdated": "2024-07-18 19:21:59+00:00",
+    "postBody": "Starting today, you can use Lambda SnapStart with Java functions that use the ARM64 instruction set architecture.\nSnapStart for Java delivers up to 10x faster function startup performance at no extra cost, enabling you to build highly responsive and scalable Java applications using AWS Lambda without having to provision resources or implement complex performance optimizations. This launch expands SnapStart’s performance benefits to functions running on ARM64 architecture, which enables upto 34% better price performance as compared to x86.\nLambda SnapStart for Java functions on ARM64 architecture is available in all AWS Regions where SnapStart is generally available. You can activate SnapStart for new or existing Lambda functions that use the ARM64 architecture and Java versions 11 or higher using the AWS Lambda API, AWS Management Console, AWS Command Line Interface (AWS CLI), AWS Cloud Formation, AWS Serverless Application Model (AWS SAM), AWS SDK, and AWS Cloud Development Kit (AWS CDK).\nFor more information on Lambda SnapStart, see the documentation and the SnapStart launch blog post. To learn more about Lambda, see the Lambda developer guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-snapstart-java-functions-arm64-architecture",
+    "postDateTime": "2024-07-18 15:20:00-04:00",
+    "postDate": "2024-07-18",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Lambda now supports SnapStart for Java functions that use the ARM64 architecture",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#serverless",
+            "name": "serverless",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/serverless"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-lambda",
+            "name": "aws-lambda",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-lambda"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

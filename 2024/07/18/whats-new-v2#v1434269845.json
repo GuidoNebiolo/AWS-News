@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1434269845",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "g2VbHZr5XLjs7jBZ26x5F4",
+    "dateCreated": "2024-07-03 18:25:54+00:00",
+    "dateUpdated": "2024-07-18 16:59:17+00:00",
+    "postBody": "Starting today, AWS Network Firewall is available in the AWS Canada West (Calgary) Region, enabling customers to deploy essential network protections for all their Amazon Virtual Private Clouds (VPCs).\nAWS Network Firewall is a managed firewall service that is easy to deploy. The service automatically scales with network traffic volume to provide high-availability protections without the need to set up and maintain the underlying infrastructure. It is integrated with AWS Firewall Manager to provide you with central visibility and control over your firewall policies across multiple AWS accounts.\nTo see which regions AWS Network Firewall is available in, visit the AWS Region Table. For more information, please see the AWS Network Firewall product page and the service documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-network-firewall-calgary-region",
+    "postDateTime": "2024-07-18 13:00:00-04:00",
+    "postDate": "2024-07-18",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Network Firewall is now available in the AWS Canada West (Calgary) region",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-network-firewall",
+            "name": "aws-network-firewall",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-network-firewall"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#networking",
+            "name": "networking",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/networking"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p136363395",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-iEmiX77T4po13UP5vABdsi",
+    "dateCreated": "2024-07-15 17:46:18+00:00",
+    "dateUpdated": "2024-07-18 21:11:05+00:00",
+    "postBody": "Amazon Aurora MySQL zero-ETL integration with Amazon Redshift is now supported in 8 additional regions, enabling near real-time analytics and machine learning (ML) using Amazon Redshift. With this launch, Amazon Aurora MySQL zero-ETL integration with Amazon Redshift is supported in all AWS commercial regions where Amazon Redshift is supported.\nZero-ETL integration helps you derive holistic insights across many applications and break data silos in your organization, making it simpler to analyze data from Aurora database clusters. Additionally, you can use data filtering to select the databases and tables to be replicated from Aurora MySQL to Amazon Redshift. Multiple filters can be applied to the zero-ETL integration, allowing you to tailor the replication to your specific needs and leverage Amazon Redshift's powerful analytical functionalities. To learn more and get started with data filtering, visit this post.\nAmazon Aurora MySQL zero-ETL integration with Amazon Redshift is available for Aurora MySQL version 3.05 (compatible with MySQL 8.0.32) and higher in the Asia Pacific (Jakarta), Asia Pacific (Hyderabad), Asia Pacific (Melbourne), Canada West (Calgary), Europe (Spain), Europe (Zurich), Israel (Tel Aviv), and Middle East (UAE). For all regions supported by this zero-ETL integration, see the supported AWS regions.\nTo learn more and get started with zero-ETL integration, visit Amazon Aurora zero-ETL integration with Amazon Redshift and the getting started guides for Aurora and Amazon Redshift.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-aurora-zero-etl-integration-redshift-8-regions/",
+    "postDateTime": "2024-07-18 10:00:00-07:00",
+    "postDate": "2024-07-18",
+    "contentType": null,
+    "headline": "Amazon Aurora zero-ETL integration with Amazon Redshift now available in 8 additional regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-redshift",
+            "name": "amazon-redshift",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-redshift"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-aurora",
+            "name": "amazon-aurora",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-aurora"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}
