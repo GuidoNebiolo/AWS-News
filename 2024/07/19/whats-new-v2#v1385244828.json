@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1385244828",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "rda5ERSB7dBosHmLy82EPH",
+    "dateCreated": "2024-06-21 17:33:30+00:00",
+    "dateUpdated": "2024-07-19 17:24:33+00:00",
+    "postBody": "Amazon Connect now provides an API to search an agent status by name, ID, tag, or other criteria. Agent statuses are used in the Contact Control Panel (CCP) to indicate if an agent is available to handle contacts or not, for example because they are away for lunch or in training. With this new API, you can now answer questions such as, “How many of our statuses are disabled?”, and, “What statuses have ‘break’ in their description?”, and see a response with details like name, description, display order, and ARN.\nThe SearchAgentStatuses API is supported in all AWS regions where Amazon Connect is offered. To learn more about Amazon Connect, the AWS cloud-based contact center, please visit the Amazon Connect website. To learn more about the new search APIs, see the API documentation. To learn more about agent statuses, see the Amazon Connect Administrator Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-search-apis-agent-status",
+    "postDateTime": "2024-07-19 13:20:00-04:00",
+    "postDate": "2024-07-19",
+    "contentType": "launch announcement",
+    "headline": "Amazon Connect launches search API for agent status",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#messaging",
+            "name": "messaging",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/messaging"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#business-productivity",
+            "name": "business-productivity",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/business-productivity"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        }
+    ]
+}

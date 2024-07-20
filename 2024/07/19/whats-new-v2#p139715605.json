@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p139715605",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-jGuUKBBQrNzp4RUmUq6ZEY",
+    "dateCreated": "2024-07-12 16:14:22+00:00",
+    "dateUpdated": "2024-07-19 18:22:33+00:00",
+    "postBody": "AWS Lambda now supports Amazon MQ for ActiveMQ and RabbitMQ in the Asia Pacific (Hyderabad), Asia Pacific (Melbourne), Europe (Spain), Europe (Zurich), and Israel (Tel Aviv) regions, enabling you to build serverless applications with Lambda functions that are invoked based on messages posted to Amazon MQ message brokers.\nAmazon MQ is a managed message broker service for Apache ActiveMQ Classic and RabbitMQ that makes it easy to migrate to a message broker in the cloud. Lambda makes it easy to read from Amazon MQ message brokers and process messages without needing to create and manage a consumer application that monitors Amazon MQ queues for updates. Your Lambda function is invoked when the messages exceed the batch size or batch window, or when the payload exceeds 6MB. Lambda manages connectivity with your Amazon MQ message brokers on your behalf.\nThis feature incurs no additional charge. You pay for the Lambda function invocations triggered by the event source mapping connected to Amazon MQ message brokers. To learn more, see the Lambda developer Guide for Amazon MQ.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-amazon-mq-activemq-rabbitmq-five-regions/",
+    "postDateTime": "2024-07-19 10:00:00-07:00",
+    "postDate": "2024-07-19",
+    "contentType": null,
+    "headline": "AWS Lambda now supports Amazon MQ for ActiveMQ and RabbitMQ in five new regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-lambda",
+            "name": "aws-lambda",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-lambda"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#serverless",
+            "name": "serverless",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/serverless"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1409461437",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-9JRzMPJi9vzU6WhvJkSB2Q",
+    "dateCreated": "2024-07-08 15:07:37+00:00",
+    "dateUpdated": "2024-08-10 15:36:53+00:00",
+    "postBody": "Amazon CloudWatch Logs Infrequent Access (Logs IA), a log class for cost-effectively consolidating all your logs natively on AWS, is now available in all GovCloud regions. Logs IA helps improve visibility into your overall application health with a subset of CloudWatch Logs' capabilities including managed ingestion, cross-account log analytics, and encryption with a lower per GB ingestion price. This makes Logs IA ideal for ad-hoc querying and after-the-fact forensic analysis on infrequently accessed logs.\nWith Logs IA, you can choose the log class that best aligns with your use case. While you can use CloudWatch Logs Standard for logs requiring real-time operational visibility, anomaly detection, or real-time logs analysis, Logs IA is best suited for logs that require infrequent querying. By consolidating your logs natively in CloudWatch, you can eliminate the operational overhead of managing multiple solutions and reduce your Mean Time to Resolution (MTTR) by analyzing all your logs in one place.\nCloudWatch Logs IA is now available in all AWS GovCloud (US) regions. With a few clicks in the AWS Management Console, you can start using CloudWatch Logs IA to send logs to CloudWatch. Alternatively, you can use AWS Command Line Interface (AWS CLI), AWS CloudFormation, AWS Cloud Development Kit (AWS CDK), and AWS SDKs. Learn more about CloudWatch Logs IA pricing and read the user guide here.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-cloudwatch-logs-infrequent-class-govcloud/",
+    "postDateTime": "2024-07-19 10:00:00-07:00",
+    "postDate": "2024-07-19",
+    "contentType": null,
+    "headline": "Amazon CloudWatch Logs Infrequent Access log class available in AWS GovCloud (US) Regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-cloudwatch-logs",
+            "name": "amazon-cloudwatch-logs",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-cloudwatch-logs"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        }
+    ]
+}

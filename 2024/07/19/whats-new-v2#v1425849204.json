@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1425849204",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-uRr2jNgMYfiLF8dmnVnt91",
+    "dateCreated": "2024-07-08 20:56:54+00:00",
+    "dateUpdated": "2024-07-19 16:46:46+00:00",
+    "postBody": "We're excited to announce the introduction of a GitHub library that will host the schemas for the DetailsDocument used in StartChangeSet, DescribeChangeSet, and DescribeEntity APIs in Catalog API (CAPI). This new feature aims to simplify the integration process for developers working with the Catalog API.\nToday, as a developer in seller/partner organizations, you need to construct the API request structure manually when integrating with Catalog API for operations such adding pricing dimensions. This involves reviewing the API documentation and experimenting to understand the schema of the \"DetailsDocument\" for the request. With the new schema library, you can directly import the Java and Python libraries to create a strongly-typed response, without having to refer to the documentation or experiment with the JSON structure. This will save time and reduce the risk of errors during both integration testing and implementation. Additionally, if there are changes to the DetailsDocument schema, you can simply download the new version of the library, review the changes, and make the necessary updates to your code. This new functionality will exist alongside sending and receiving a string object in the \"Details\" attribute of the StartChangeSet, DescribeChangeSet, and DescribeEntity APIs. If you've already integrated with these APIs, you can continue using the \"Details\" attribute. However, newly onboarding sellers and sellers onboarding new API actions are advised to use the schema library to make integration with Catalog API faster.\nFor information on how to download the shape library and use it, refer to StartChangeSet API, DescribeChangeSet API and DescribeEntity API.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/marketplace-catalog-integration-typed-api-schemas/",
+    "postDateTime": "2024-07-19 10:00:00-07:00",
+    "postDate": "2024-07-19",
+    "contentType": null,
+    "headline": "Simplify Your AWS Marketplace Catalog API (CAPI) Integration with Strongly-Typed API Schemas",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#aws-marketplace-and-partners",
+            "name": "aws-marketplace-and-partners",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/aws-marketplace-and-partners"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-marketplace",
+            "name": "aws-marketplace",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-marketplace"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

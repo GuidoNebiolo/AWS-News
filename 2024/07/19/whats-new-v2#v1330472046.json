@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#v1330472046",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "1SbB8js8ZMPuBxALK2BHsX",
+    "dateCreated": "2024-06-21 18:10:01+00:00",
+    "dateUpdated": "2024-07-19 17:22:55+00:00",
+    "postBody": "Amazon Connect now provides an API to search for hierarchy groups by name, group ID, tag, or other criteria. Hierarchy groups describe your organization’s structure, and are used for reporting and access control. With this new API, you can now answer questions such as, “How many teams operate in the northwest region?” and, “What groups have a tag indicating they can access performance reviews?” and see a response with details like name, description, hierarchy level, ARN, and when a record was last updated.\nThe SearchUserHierarchyGroups API is supported in all AWS regions where Amazon Connect is offered. To learn more about Amazon Connect, the AWS cloud-based contact center, please visit the Amazon Connect website. To learn more about the new search APIs, see the API documentation. To learn more about hierarchy groups, see the Amazon Connect Administrator Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-search-api-hierarchy-groups",
+    "postDateTime": "2024-07-19 13:20:00-04:00",
+    "postDate": "2024-07-19",
+    "contentType": "launch announcement",
+    "headline": "Amazon Connect launches search API for hierarchy groups",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#messaging",
+            "name": "messaging",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/messaging"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#application-services",
+            "name": "application-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/application-services"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

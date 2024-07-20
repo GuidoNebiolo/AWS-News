@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p139891252",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "vMoqd3Jui4YH9RtKSj9wJy",
+    "dateCreated": "2024-07-11 18:54:47+00:00",
+    "dateUpdated": "2024-07-19 17:20:37+00:00",
+    "postBody": "Amazon SageMaker Canvas now supports deploying fine-tuned Foundation Models (FMs) to SageMaker real-time inference endpoints, allowing you to bring generative AI capabilities into production and consume outside the Canvas workspace. SageMaker Canvas is a no-code workspace that enables analysts and citizen data scientists to generate accurate ML predictions and use generative AI capabilities.\nSageMaker Canvas provides access to fine-tuning FMs powered by Amazon Bedrock and SageMaker JumpStart such as Amazon Titan Express, Falcon-7B-Instruct, Falcon-40B-Instruct, and Flan-T5 variants. You can upload a dataset, select a FM to fine-tune, and SageMaker Canvas automatically creates and tunes the model to adapt the FMs to the patterns and nuances of your specific use-case enhancing the performance of the model’s responses.\nStarting today, you can deploy fine-tuned FMs to SageMaker endpoints making it easier to integrate generative AI capabilities into your applications outside the SageMaker Canvas workspace.\nTo get started, log in to SageMaker Canvas to access the fine-tuned FMs Select the desired model and deploy it with the appropriate endpoint configurations such as indefinitely or for a specific duration of time. SageMaker Inferencing charges will apply to deployed models. A new user can access the latest version by directly launching SageMaker Canvas from their AWS console. An existing user can access the latest version of SageMaker Canvas by clicking “Log Out” and logging back in.\nThe expanded feature is now available in all AWS regions where SageMaker Canvas is supported. To learn more, refer to the SageMaker Canvas product documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/productionize-fine-tuned-foundation-models-sagemaker-canvas",
+    "postDateTime": "2024-07-19 13:20:00-04:00",
+    "postDate": "2024-07-19",
+    "contentType": null,
+    "headline": "Productionize Fine-tuned Foundation Models from SageMaker Canvas",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-sagemaker-canvas",
+            "name": "amazon-sagemaker-canvas",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-sagemaker-canvas"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}
