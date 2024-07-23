@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p133739399",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-wsRUXxbT9kQ5xYjDxWb9He",
+    "dateCreated": "2024-06-11 16:18:55+00:00",
+    "dateUpdated": "2024-07-22 18:53:18+00:00",
+    "postBody": "Starting today, Amazon Virtual Private Cloud (VPC) IP Address Manager (IPAM) supports Bring-Your-Own-IP (BYOIP) for IP addresses registered with any Internet Registry. Internet registries manage the allocation and registration of IP addresses within specific geographical regions. BYOIP allows you to bring IP addresses allocated to you by these registries, to AWS, and use them for your workloads. This new feature extends BYOIP support to previously unsupported Internet Registries, including JPNIC, LACNIC, and AFRINIC.\nWhen setting up BYOIP, AWS validates that you control the IP address space that you are bringing to AWS. This validation ensures that users cannot use IP ranges belonging to others, preventing routing and security issues. Previously, IPAM only supported validation via the Registration Data Access Protocol (RDAP), which not all internet registries supported. Now, you can use DNS records for validating that the IP addresses belong to you, and process does not rely on any internet registries. Once you have set up BYOIP, you can create Elastic IP addresses (IPv4) from your BYOIP address range and use them with AWS resources such as Amazon Elastic Compute Cloud (Amazon EC2) instances and NAT gateways. If you have BYOIPv6 addresses, you can associate them with subnets, Elastic Network Interfaces (ENI), and Amazon EC2 instances within your VPCs.\nThis feature is currently available in all AWS Regions, except China (Beijing, operated by Sinnet), and China (Ningxia, operated by NWCD). For more information, review IPAM’s technical documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-vpc-ipam-byoip-ips-registered-internet-registry/",
+    "postDateTime": "2024-07-22 10:00:00-07:00",
+    "postDate": "2024-07-22",
+    "contentType": null,
+    "headline": "Amazon VPC IPAM now supports BYOIP for IPs registered with any Internet Registry",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-vpc",
+            "name": "amazon-vpc",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-vpc"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#networking-and-content-delivery",
+            "name": "networking-and-content-delivery",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/networking-and-content-delivery"
+        }
+    ]
+}

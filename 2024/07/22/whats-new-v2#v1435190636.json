@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1435190636",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-nesEwDqgDE5RoXBq343os5",
+    "dateCreated": "2024-07-08 17:53:19+00:00",
+    "dateUpdated": "2024-07-22 21:11:48+00:00",
+    "postBody": "Amazon MQ now provides support for quorum queues, a replicated FIFO queue type offered by open-source RabbitMQ that uses the Raft consensus algorithm to maintain data consistency. Quorum queues are the replicated queue type recommended by open-source RabbitMQ maintainers. With quorum queues, developers can design highly available messaging systems with higher data consistency and fault tolerance.\nQuorum queues can detect network failures faster and recover more quickly, improving the resiliency of the message broker as a whole. Quorum queues also provide poison message handling which helps developers manage unprocessed messages more efficiently. Amazon MQ benchmarks show that quorum queues offer an increased throughput (up to 2 times higher) compared to classic mirrored queues on RabbitMQ brokers.\nAmazon MQ supports quorum queues only on RabbitMQ 3.13 and above. You can easily get started with quorum queues by declaring a new queue with queue type as ‘quorum’. To learn more about using quorum queues, see the Amazon MQ developer guide and the Amazon MQ release notes. Quorum queues are available in all the regions Amazon MQ is available in. For a full list of available regions see the AWS Region Table.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-mq-quorum-queues-rabbitmq-3-13/",
+    "postDateTime": "2024-07-22 10:00:00-07:00",
+    "postDate": "2024-07-22",
+    "contentType": null,
+    "headline": "Amazon MQ now supports quorum queues for RabbitMQ 3.13",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-mq",
+            "name": "amazon-mq",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-mq"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#application-services",
+            "name": "application-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/application-services"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

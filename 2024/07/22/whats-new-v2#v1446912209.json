@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1446912209",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "rcPWoCVPU17S9DGmUkM4jn",
+    "dateCreated": "2024-07-10 20:41:50+00:00",
+    "dateUpdated": "2024-07-22 20:35:43+00:00",
+    "postBody": "Amazon Connect Contact Lens now offers a new dashboard for outbound campaign analytics. You can now easily visualize and monitor campaign performance, track efficiency, measure compliance, and understand campaign outcomes for your voice workloads. You can view real-time and historical reports using custom time periods and benchmarks, track campaign progress and delivery status, and drill down into call classification outcomes (e.g., human answered, voicemail). You can also quickly identify trends and patterns across key metrics, such as dials attempted or abandonment rate, to monitor and enhance campaign performance. Additionally, these metrics are now available via API for custom reporting or integrations with other data sources.\nOutbound campaign analytics is available in Amazon Connect Contact Lens reports and the GetMetricDataV2 API in all AWS regions where Amazon Connect outbound campaigns is available. This includes US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), Canada (Central), Europe (Frankfurt), and Europe (London).\nFor more information about outbound campaign analytics, consult the Amazon Connect Administrator Guide and Amazon Connect API Reference. To learn more about Amazon Connect Outbound Campaigns, please visit the outbound campaigns webpage.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-contact-lens-dashboard-outbound-campaign-analytics",
+    "postDateTime": "2024-07-22 16:30:00-04:00",
+    "postDate": "2024-07-22",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon Connect Contact Lens launches a new dashboard for outbound campaign analytics",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#messaging",
+            "name": "messaging",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/messaging"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        }
+    ]
+}

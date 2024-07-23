@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p141414733",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-dkab7ENP5JpjZn7Jgq7oyu",
+    "dateCreated": "2024-07-19 14:55:21+00:00",
+    "dateUpdated": "2024-07-22 17:53:31+00:00",
+    "postBody": "Amazon Relational Database Service (Amazon RDS) for PostgreSQL, MySQL, and MariaDB now supports M6i, R6i, M6g, R6g, and T4g database instances in Israel (Tel Aviv) Region. With this expansion, customers of RDS for open source engines in Israel (Tel Aviv) Region have more than double the number of available instance types to choose from.\nM6i and R6i database instance types offer a new maximum instance size for the region of 32xlarge. 32xlarge supports 128 vCPU, which is 33% more than the maximum size of M5 and R5 database instance types.\nFor complete information on pricing and regional availability, please refer to the Amazon RDS pricing page. Get started by creating any of these fully managed database instance using the Amazon RDS Management Console. For more details, refer to the Amazon RDS User Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-m6i-r6i-m6g-r6g-t4g-instances-israel/",
+    "postDateTime": "2024-07-22 10:00:00-07:00",
+    "postDate": "2024-07-22",
+    "contentType": null,
+    "headline": "Amazon RDS now supports M6i, R6i, M6g, R6g, and T4g database instances in Israel (Tel Aviv) Region",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds",
+            "name": "amazon-rds",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

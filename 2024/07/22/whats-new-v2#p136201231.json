@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p136201231",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-9ztYbfXDdyvCDKN83s83Dp",
+    "dateCreated": "2024-06-27 16:10:37+00:00",
+    "dateUpdated": "2024-07-22 19:25:29+00:00",
+    "postBody": "Amazon DocumentDB (with MongoDB compatibility) now supports change streams on reader instances.\nWith change stream on reader instances, customers can now isolate change stream workloads to specific reader instances, which reduces the load on cluster’s writer instance. Change stream tokens can be shared across writer and reader instances, enabling customers to resume change streams from a specific document or time from any Amazon DocumentDB instance during a cluster failover or maintenance event. This functionality is also available in Amazon DocumentDB global clusters – customers can now read change streams from reader instances from the secondary global cluster.\nThese change stream enhancements are available in Amazon DocumentDB 5.0 instance-based clusters and global clusters in all regions where Amazon DocumentDB is supported.\nAmazon DocumentDB is a fully managed, native JSON database that makes it simple and cost-effective to operate critical document workloads at virtually any scale without managing infrastructure. To learn more, please visit the documentation, and get started by creating Amazon DocumentDB cluster from the AWS Management Console. For pricing and region availability, visit the pricing page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-documentdb-change-streams-reader-instances/",
+    "postDateTime": "2024-07-22 10:00:00-07:00",
+    "postDate": "2024-07-22",
+    "contentType": null,
+    "headline": "Amazon DocumentDB now supports change streams on reader instances",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-documentdb",
+            "name": "amazon-documentdb",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-documentdb"
+        }
+    ]
+}

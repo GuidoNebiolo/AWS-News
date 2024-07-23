@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p136216372",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-oScuzKj6ZQMMpphaLKUFdv",
+    "dateCreated": "2024-07-15 18:36:22+00:00",
+    "dateUpdated": "2024-07-22 17:07:45+00:00",
+    "postBody": "Amazon Connect Contact Lens now provides generative AI-powered post-contact summaries within seconds after a contact ends, versus minutes previously, helping you get faster insights when reviewing contacts, save time on after-contact work, and more quickly identifying opportunities to improve contact quality and agent performance. These faster summaries are available via API and Kinesis data streams, enabling integrations with third-party agent workspace or CRM systems. You can also access these summaries natively within Amazon Connect through contact details and contact control panel (CCP).\nGenerative AI-powered post-contact summaries are available in the US West (Oregon), and US East (Northern Virginia) regions. To learn more, please visit our documentation and our webpage. This feature is included with Contact Lens conversational analytics at no additional charge. For information about Contact Lens pricing, please visit our pricing page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-contact-lens-ai-powered-summaries/",
+    "postDateTime": "2024-07-22 10:00:00-07:00",
+    "postDate": "2024-07-22",
+    "contentType": null,
+    "headline": "Amazon Connect Contact Lens now provides generative AI-powered summaries within seconds after a contact ends",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#messaging",
+            "name": "messaging",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/messaging"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p136365444",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-n3VCt4X5xVVhwVbaDKnf8V",
+    "dateCreated": "2024-06-25 17:07:20+00:00",
+    "dateUpdated": "2024-07-22 18:23:09+00:00",
+    "postBody": "Amazon DocumentDB (with MongoDB compatibility) now supports the ability to enable compression on existing collections, set a compression threshold for each collection, and enable compression on all new collections using a cluster-wide setting. Compressed documents in Amazon DocumentDB can be up to 7 times smaller than uncompressed documents, leading to lower storage costs, I/O costs, and improved query performance.\nCustomers can enable document compression across their entire cluster using a single cluster-wide parameter group setting. With the compression setting enabled, all new collections created during a database migration or after upgrading the cluster will be compressed by default. The compression parameter also applies to collections created through insert operations or $out aggregation stage.\nMoreover, customers can now modify compression settings on existing collections using the new CollMod settings, without migrating its documents to a new compressed collection. CollMod now supports enabling compression on existing collection and setting a minimum compression threshold on document size. These compression settings will apply to both new and updated documents in the modified collections.\nThese compression benefits are now supported in Amazon DocumentDB 5.0 instance-based clusters in all regions where Amazon DocumentDB is available. Please refer to document compression page in the developer guide for more details.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-documentdb-improvements-document-compression/",
+    "postDateTime": "2024-07-22 10:00:00-07:00",
+    "postDate": "2024-07-22",
+    "contentType": null,
+    "headline": "Amazon DocumentDB announces improvements to document compression",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-documentdb",
+            "name": "amazon-documentdb",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-documentdb"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

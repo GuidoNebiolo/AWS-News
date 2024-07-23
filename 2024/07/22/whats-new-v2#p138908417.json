@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p138908417",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "1Rgj6BsukSg63UWAsHrsZn",
+    "dateCreated": "2024-07-16 18:32:11+00:00",
+    "dateUpdated": "2024-07-22 17:01:50+00:00",
+    "postBody": "AWS KMS has doubled default service quotas for cryptographic operations in all AWS Regions, including raising the symmetric cryptographic operation request rate from 50,000 to 100,000 in US East (N. Virginia), US West (Oregon), and Europe (Ireland).\nThe request rate for cryptographic operations involving RSA and ECC KMS keys has also been increased from 500 to 1,000 in all AWS Regions.\nThese default service quotas have been increased in all AWS Regions, including the AWS GovCloud (US) Regions. To learn more, see Request quotas section in the AWS KMS Developer Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-kms-increases-default-service-quotas-cryptographic-operations",
+    "postDateTime": "2024-07-22 13:00:00-04:00",
+    "postDate": "2024-07-22",
+    "contentType": "Launch Announcement",
+    "headline": "AWS KMS increases default service quotas for cryptographic operations",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-kms",
+            "name": "aws-kms",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-kms"
+        }
+    ]
+}
