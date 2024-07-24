@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1424941196",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-2Aorp5zUGuXDd2oCMTxzQu",
+    "dateCreated": "2024-07-23 16:00:12+00:00",
+    "dateUpdated": "2024-07-23 17:53:55+00:00",
+    "postBody": "Amazon Elastic Container Service (Amazon ECS) now supports managing on-premises workloads running on Amazon Linux 2023, Fedora 40, Debian 11, Debian 12, Ubuntu 24, and CentOS Stream 9. Amazon ECS Anywhere is a feature of Amazon ECS that enables you to run and manage container-based applications on-premises, including on your own virtual machines (VMs) and bare metal servers.\nAmazon ECS Anywhere is available in all AWS Regions globally. To learn more visit the ECS Anywhere user guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-linux-2023-on-premises-container-workloads/",
+    "postDateTime": "2024-07-23 10:00:00-07:00",
+    "postDate": "2024-07-23",
+    "contentType": null,
+    "headline": "Amazon ECS now supports Amazon Linux 2023 and more for on-premises container workloads",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#containers",
+            "name": "containers",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/containers"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ecs",
+            "name": "amazon-ecs",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ecs"
+        }
+    ]
+}

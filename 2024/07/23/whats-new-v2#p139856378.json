@@ -1,0 +1,28 @@
+{
+    "id": "whats-new-v2#p139856378",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "oRBcfvCJLT1x93dDVuiMbg",
+    "dateCreated": "2024-07-10 19:52:53+00:00",
+    "dateUpdated": "2024-07-23 21:06:17+00:00",
+    "postBody": "AWS Cost Categories has added a new dimension “Billing Entity” to its rules. You can now use eight types of dimensions: “Linked Account”, “Charge Type”, “Service”, \"Usage Type\", “Cost Allocation Tags”, “Region”, “Billing Entity” and other “Cost Category” while creating cost categories rules.\nAWS Cost Categories is a feature within the AWS Cost Management product suite that enables you to group cost and usage information into meaningful categories based on your needs. You can create custom categories and map your cost and usage information into these categories based on the rules defined by you using various dimensions. Once cost categories are set up and enabled, you will be able to view and manage your AWS cost and usage information by these categories in AWS cost management services, e.g. understanding the ownership of your spend at the Cost Categories level in AWS Cost Explorer and AWS Cost and Usage Report (CUR). Cost categories can be applied to your AWS cost and usage at the beginning of the month or retroactively for up to 12 months. Adding Billing Entity gives customers more granular control over their cost categories. Billing Entity is the unit to identify whether customers’ invoices or transactions are for AWS Marketplace or for purchases of other AWS services.\nCost categories is provided free of charge and this feature is available in all Commercial Regions. To get started with cost categories, please visit AWS Cost Categories product details page, AWS Cost Categories FAQs - Amazon Web Services.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-cost-categories-billing-entity-dimension",
+    "postDateTime": "2024-07-23 17:00:00-04:00",
+    "postDate": "2024-07-23",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Cost Categories now supports “Billing Entity” dimension",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#cloud-financial-management",
+            "name": "cloud-financial-management",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/cloud-financial-management"
+        }
+    ]
+}

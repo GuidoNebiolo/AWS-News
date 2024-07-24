@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1440068645",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "jKjRtpjt4hmfhQpHwB1yqr",
+    "dateCreated": "2024-07-19 16:12:50+00:00",
+    "dateUpdated": "2024-07-23 17:18:51+00:00",
+    "postBody": "Today, AWS announces advanced targeting capabilities for AWS AppConfig feature flags. Customers can set up multiple values within flag data, and target those values to fine-grained and high-cardinality user segments. A common use-case for feature flag targets include allow lists, where a customer can specify user IDs or customer tiers, and only enable a new or premium feature for those segments. Another use-case is to split traffic to 15% of your user-base, and experiment with a user experience optimization for a limited cohort of users before rolling the feature out to all users.\nCustomers can start using this powerful feature by creating an AWS AppConfig feature flag, set its value, and then create one or more variants of that flag with different variations of data. Customers then create rules to determine which variant should be targeted to specific segments. Once the flag, variants, and rules are created, customers use the latest version of the AWS AppConfig Agent running in EC2, Lambda, ECS, EKS, or on-premises to retrieve the flag data. When requesting flag data, customers pass in context, like user IDs or other user metadata, which are evaluated client-side against the flag rules to return the appropriate and specific data.\nAWS AppConfig’s feature flag targets, variants, and splits are available in all AWS Regions, including the AWS GovCloud (US) Regions. To get started, use the AWS AppConfig Getting Started Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-appconfig-feature-flag-targets-variants-splits",
+    "postDateTime": "2024-07-23 13:00:00-04:00",
+    "postDate": "2024-07-23",
+    "contentType": "Launch Announcement",
+    "headline": "AWS AppConfig announces feature flag targets, variants, and splits",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-appconfig",
+            "name": "aws-appconfig",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-appconfig"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#developer-tools",
+            "name": "developer-tools",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/developer-tools"
+        }
+    ]
+}

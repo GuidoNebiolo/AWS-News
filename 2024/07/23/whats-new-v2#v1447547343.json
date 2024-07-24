@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1447547343",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "pqLAgh3TjJ8xxqvtbti7Vn",
+    "dateCreated": "2024-07-23 13:42:53+00:00",
+    "dateUpdated": "2024-07-23 17:22:46+00:00",
+    "postBody": "The most advanced Meta Llama models to date, Llama 3.1, are now available in Amazon Bedrock. Amazon Bedrock offers a turnkey way to build generative AI applications with Llama. Llama 3.1 models are a collection of 8B, 70B, and 405B parameter size models offering new capabilities for your generative AI applications.\nAll Llama 3.1 models demonstrate significant improvements over previous versions. The models support a 128K context length, have 16 times the capacity of Llama 3, and exhibit improved reasoning for multilingual dialogue use cases in eight languages. The models access more information from lengthy text to make more informed decisions and leverage richer contextual data to generate more subtle and refined responses. According to Meta, Llama 3.1 405B is one of the best and largest publicly available foundation models and is well suited for synthetic data generation and model distillation. Llama 3.1 models also provide state-of-the-art capabilities in general knowledge, math, tool use, and multilingual translation.\nMeta’s Llama 3.1 models are available in Amazon Bedrock in the US West (Oregon) Region. To learn more, read the AWS News launch blog, Llama in Amazon Bedrock product page, and documentation. To get started with Llama 3.1 in Amazon Bedrock, visit the Amazon Bedrock console. To request to be considered for access to the preview of Llama 3.1 405B in Amazon Bedrock, contact your AWS account team or submit a support ticket via the AWS Management Console. When creating the support ticket, select Bedrock as the Service and Models as the Category.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/meta-llama-3-1-generative-ai-models-amazon-bedrock",
+    "postDateTime": "2024-07-23 13:00:00-04:00",
+    "postDate": "2024-07-23",
+    "contentType": "Launch Announcement",
+    "headline": "Meta Llama 3.1 generative AI models now available in Amazon Bedrock",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p137376675",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "https://regions.aws.dev/alm/launches/launch-5MubFUYiJgSbBKcyybUZyD",
+    "dateCreated": "2024-07-22 18:29:31+00:00",
+    "dateUpdated": "2024-07-23 20:14:30+00:00",
+    "postBody": "Today, Amazon EKS announces new controls for Kubernetes version policy, allowing cluster administrators to configure end of standard support behavior for EKS clusters. This behavior can easily be set through the EKS Console and CLI. Kubernetes version policy control is available for Kubernetes versions in standard support.\nControls for Kubernetes version policy makes it easier for you to choose which clusters should enter extended support and which clusters can be automatically upgraded at the end of standard support. This control provides the flexibility for you to balance version upgrades against business requirements depending on the environment or applications running per cluster.\nControls for Kubernetes version policy is available in all AWS regions.\nTo learn more about the controls for Kubernetes version policy, refer to the EKS documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-eks-controls-kubernetes-version-support-policy/",
+    "postDateTime": "2024-07-23 10:00:00-07:00",
+    "postDate": "2024-07-23",
+    "contentType": null,
+    "headline": "Amazon EKS introduces new controls for Kubernetes version support policy",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-eks",
+            "name": "amazon-eks",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-eks"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#containers",
+            "name": "containers",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/containers"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

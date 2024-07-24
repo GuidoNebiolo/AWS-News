@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p141698805",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "5KpNLikSmADvVWk648XTLA",
+    "dateCreated": "2024-07-22 16:25:05+00:00",
+    "dateUpdated": "2024-07-23 17:26:10+00:00",
+    "postBody": "The most advanced and capable Meta Llama models to date, Llama 3.1, are now available in Amazon SageMaker JumpStart, a machine learning (ML) hub that offers pretrained models and built-in algorithms to help you quickly get started with ML. You can deploy and use Llama 3.1 models with a few clicks in SageMaker Studio or programmatically through the SageMaker Python SDK.\nLlama 3.1 models demonstrate significant improvements over previous versions due to increased training data and scale. The models support a 128K context length, an increase of 120K tokens from Llama 3. Llama 3.1 models have 16 times the capacity of Llama 3 models and improved reasoning for multilingual dialogue use cases in eight languages. The models can access more information from lengthy text passages to make more informed decisions and leverage richer contextual data to generate more refined responses. According to Meta, Llama 3.1 405B is one of the largest publicly available foundation models and is well suited for synthetic data generation and model distillation, both of which can improve smaller Llama models. For use of synthetic data to fine tune models, you must comply with Meta's license. Read the EULA for additional information. All Llama 3.1 models provide state-of-the-art capabilities in general knowledge, math, tool use, and multilingual translation.\nLlama 3.1 models are available today in SageMaker JumpStart in US East (Ohio), US West (Oregon), and US East (N. Virginia) AWS regions. To get started with Llama 3.1 models in SageMaker JumpStart, see documentation and blog.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/meta-llama-3-1-generative-ai-models-amazon-sagemaker-jumpstart",
+    "postDateTime": "2024-07-23 13:20:00-04:00",
+    "postDate": "2024-07-23",
+    "contentType": "Launch Announcement",
+    "headline": "Meta Llama 3.1 generative AI models now available in Amazon SageMaker JumpStart",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-sagemaker-jumpstart",
+            "name": "amazon-sagemaker-jumpstart",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-sagemaker-jumpstart"
+        }
+    ]
+}
