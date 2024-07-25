@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1442208123",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-sUut9We5AFBpRi8dL3mbmV",
+    "dateCreated": "2024-07-23 15:49:35+00:00",
+    "dateUpdated": "2024-07-24 21:06:09+00:00",
+    "postBody": "Mistral AI’s Mistral Large 2 (24.07) foundation model is now generally available in Amazon Bedrock. This model is the latest version of Mistral AI's flagship large language model, Mistral Large (24.02), with significant improvements on multilingual accuracy, conversational behavior, coding capabilities, reasoning and instruction-following behavior.\nWith this new release of Mistral Large, you can leverage its multi-lingual proficiency to seamlessly communicate and process information in dozens of languages, including English, French, German, Spanish, Italian, Chinese, Japanese, Korean, Portuguese, Dutch, Polish, Arabic, and Hindi. It has an increased context window of 128k (compared to 32k in the original version), making it able to process more information in order to generate accurate responses. Its advanced coding capabilities enable you to develop software across various programming languages, such as Python, Java, C, C++, JavaScript, and Bash, as well as specialized languages like Swift and Fortran. The model also has best-in-class agentic capabilities with native function calling and JSON outputting allowing it to interact with external systems, APIs, and tools.\nMistral AI’s Mistral Large 2 foundation model is now available on Amazon Bedrock in the US West (Oregon) region. To learn more read the Machine Learning blog, visit the Mistral AI on Amazon Bedrock product page, and read the documentation. To get started with Mistral Large on Amazon Bedrock, visit the Amazon Bedrock console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/mistral-large-2-foundation-model-amazon-bedrock/",
+    "postDateTime": "2024-07-24 10:00:00-07:00",
+    "postDate": "2024-07-24",
+    "contentType": null,
+    "headline": "Mistral Large 2 foundation model now available in Amazon Bedrock",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        }
+    ]
+}

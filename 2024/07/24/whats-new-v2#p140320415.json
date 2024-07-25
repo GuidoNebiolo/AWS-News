@@ -1,0 +1,22 @@
+{
+    "id": "whats-new-v2#p140320415",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "wBmEWT3fBaFKxJArP7tQ4J",
+    "dateCreated": "2024-07-19 15:43:50+00:00",
+    "dateUpdated": "2024-07-24 17:05:18+00:00",
+    "postBody": "Today, AWS open-sourced the AWS Signer plugin for Notation, giving customers flexibility and transparency in how they sign and verify container images with AWS Signer, a managed signing service. Notation is an open source tool developed by the Notary Project, an industry standard for securing software supply chains by authenticating container images and other OCI artifacts. The plugin extends Notation with Signer managed secrets and revocation capabilities. Customers can now incorporate the Signer plugin as a library inside their native tools to generate and verify container artifacts signatures.\nNotation can be used as a CLI executable or as a Golang library. With the open sourced Signer Plugin, you can now seamlessly incorporate signing and verification activities into your existing applications and tooling by adding a go-library. This removes the need for installing and invoking the plugin as an executable. Additionally, you get transparency in how AWS Signer APIs are used for signature generation and verification. If you prefer a CLI integration with Signer, you can now also build your own version of the Signer Plugin executable or continue downloading pre-built executables from AWS Signer documentation.\nAWS Signer Plugin is released as an open-source project under the Apache 2.0 license. You can access the source code and instructions to build the Signer plugin in the GitHub repository here. To learn more about container image signing refer this blog.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-signer-open-sources-notation-plugin-container-image-signing",
+    "postDateTime": "2024-07-24 13:00:00-04:00",
+    "postDate": "2024-07-24",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Signer open sources Notation plugin for container image signing",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

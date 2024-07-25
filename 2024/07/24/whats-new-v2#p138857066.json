@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p138857066",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-udehPwjPDLN6EbUo5Ba2Gr",
+    "dateCreated": "2024-07-23 15:41:31+00:00",
+    "dateUpdated": "2024-07-24 20:16:08+00:00",
+    "postBody": "AWS DataSync now supports agentless cross-region data transfers between all regions in the commercial AWS partition, including opt-in regions. With this update, you can now transfer millions of files or objects between AWS Storage services such as Amazon S3, Amazon EFS, and Amazon FSx in different regions without deploying or managing a DataSync agent.\nAWS DataSync is an online data movement service that simplifies, automates, and accelerates the transfer of files and objects. It uses a purpose-built network protocol and scale-out architecture to move data quickly and securely between AWS Storage services, on-premises storage, edge locations, or other clouds. DataSync uses an agent to access storage systems that are located on premises or in other clouds while providing fully-managed access to storage in AWS. With this release, you can now transfer data between AWS Storage services in any region in the commercial partition, including opt-in regions, without deploying a DataSync agent. This enables you to easily replicate data between managed file systems for business continuity, as well as copy portions of your data to different buckets or file systems to meet evolving application requirements.\nAgentless cross-region transfers are now available in all AWS regions where AWS DataSync is available. To get started, visit the AWS DataSync console. To learn more, view the AWS DataSync documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-datasync-agentless-data-transfers-opt-in-regions/",
+    "postDateTime": "2024-07-24 10:00:00-07:00",
+    "postDate": "2024-07-24",
+    "contentType": null,
+    "headline": "AWS DataSync expands support for agentless cross-region data transfers to include opt-in regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#migration",
+            "name": "migration",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/migration"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-datasync",
+            "name": "aws-datasync",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-datasync"
+        }
+    ]
+}
