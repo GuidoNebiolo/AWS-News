@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p131239898",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "fZJVX51Ti18kiZwGjtmTCE",
+    "dateCreated": "2024-06-07 19:45:21+00:00",
+    "dateUpdated": "2024-07-25 21:53:52+00:00",
+    "postBody": "You can now deploy AWS IAM Identity Center in the Canada West (Calgary) AWS Region. With the addition of this AWS Region, IAM Identity Center is now available in 33 AWS Regions globally.\nIAM Identity Center is the recommended service for managing workforce access to AWS applications and multiple AWS accounts. Use IAM Identity Center with your existing identity source or create a new directory, and manage workforce access to part or all of your AWS environment. With IAM Identity Center, you can manage and audit user access more easily and consistently, your workforce has single sign-on access and unified experience across AWS services, and your data owners can authorize and log data access by user. IAM Identity Center is available to you at no additional cost.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-iam-identity-center-calgary-region",
+    "postDateTime": "2024-07-25 17:50:00-04:00",
+    "postDate": "2024-07-25",
+    "contentType": "launch announcement",
+    "headline": "AWS IAM Identity Center is now available in the Canada West (Calgary) AWS Region",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-organizations",
+            "name": "aws-organizations",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-organizations"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-iam-identity-center",
+            "name": "aws-iam-identity-center",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-iam-identity-center"
+        }
+    ]
+}

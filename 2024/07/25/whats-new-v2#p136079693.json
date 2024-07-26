@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p136079693",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "uiEbg4xBDESgekMjxqEKxy",
+    "dateCreated": "2024-07-18 15:05:12+00:00",
+    "dateUpdated": "2024-07-25 20:03:23+00:00",
+    "postBody": "AWS Step Functions now supports the use of Customer Managed Keys with AWS Key Management Service (AWS KMS) to encrypt Step Functions State Machine and Activity resources. This new capability enables you to encrypt your workflow definitions and execution data using your own encryption keys.\nAWS Step Functions is a visual workflow service capable of orchestrating over 12,000+ API actions from over 220 AWS services to build distributed applications and data processing workloads. With support for Customer Managed Keys, you have more fine-grained security control over your workflow data, making it easier to meet your organization's regulatory and compliance requirements. You can also audit and track usage of your encryption keys with AWS CloudTrail.\nTo learn more about using Customer Managed Keys with AWS Step Functions, visit AWS Step Functions documentation and AWS KMS documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-step-functions-customer-managed-keys",
+    "postDateTime": "2024-07-25 16:00:00-04:00",
+    "postDate": "2024-07-25",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Step Functions now supports Customer Managed Keys",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-step-functions",
+            "name": "aws-step-functions",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-step-functions"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#application-services",
+            "name": "application-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/application-services"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p117077823",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "uFn7z8QAANmzpGKVG7CMha",
+    "dateCreated": "2024-06-13 13:48:33+00:00",
+    "dateUpdated": "2024-07-25 20:01:07+00:00",
+    "postBody": "Amazon Elastic Container Registry (ECR) is announcing the general availability of repository creation templates, which allow customers to specify initial configuration for repositories that are automatically created by ECR via pull through cache and replication. ECR customers can specify configuration for these repositories, including encryption settings, lifecycle policies, and repository permissions. This enables customers to define custom configurations and assign them as defaults for various use cases within their registries.\nRepository creation templates can specify configuration for all repository settings including resource-based access policies, tag immutability, encryption, and lifecycle policies. Each template contains a customer specified prefix which is used to match new repositories to a specific template. As new repositories are created by ECR, the configuration is applied automatically. This enables customers to control which configuration is applied to new repositories created via pull through cache and replication, and customize default creation settings.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecr-repository-creation-templates-generally-available",
+    "postDateTime": "2024-07-25 16:00:00-04:00",
+    "postDate": "2024-07-25",
+    "contentType": "launch announcement",
+    "headline": "Amazon ECR repository creation templates are now generally available",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#containers",
+            "name": "containers",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/containers"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ecr",
+            "name": "amazon-ecr",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ecr"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1406202567",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "veRUeb1g1WZCKFsbj6XthH",
+    "dateCreated": "2024-07-19 17:16:03+00:00",
+    "dateUpdated": "2024-07-25 17:40:09+00:00",
+    "postBody": "Today, Amazon EMR announces 24 month support for Amazon EMR release versions. Amazon EMR aims to get the latest open-source versions of its Core Engines and Open Table Formats into your hands within 90 days from their upstream release. This extended support period gives customers peace of mind and a predictable timeline for budgeting, testing, and transitioning workloads.\nDuring this 24 month period, Amazon EMR will provide support and fixes for critical issues related to security, bugs, and data corruption, subject to the availability of fixes. Standard Support covers eligible components under recommended configurations. Amazon EMR intends to deploy fixes to the latest patch, minor or major versions as soon as fixes are available, and within 90 day timeframe of being verified by Amazon EMR. Amazon EMR will apply the fixes automatically whenever you launch a new EMR on EC2 cluster, a new EMR on EKS container, or a new Serverless job, so that you can benefit from the latest patches. Clusters past their 24 months support period will remain accessible even after the support period ends.\nTo offer you with additional time to migrate from older releases, Amazon EMR will maintain existing levels of support for all releases for at least 12 months from today. After this period, Standard Support will be available for all eligible releases, on all deployment models – EMR on EC2, EMR on EKS and Serverless, in all regions where Amazon EMR operates, at no additional cost. To learn more about what’s included with support and how support works, please read the documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/24-month-support-amazon-emr",
+    "postDateTime": "2024-07-25 13:30:00-04:00",
+    "postDate": "2024-07-25",
+    "contentType": "Launch Announcement",
+    "headline": "Announcing 24 months support for Amazon EMR",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-emr",
+            "name": "amazon-emr",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-emr"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        }
+    ]
+}

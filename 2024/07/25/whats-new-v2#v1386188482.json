@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1386188482",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "vjchfjvgbFcnUPCzvJnzQP",
+    "dateCreated": "2024-07-18 16:31:24+00:00",
+    "dateUpdated": "2024-07-25 19:19:16+00:00",
+    "postBody": "Today, AWS Clean Rooms announces four new enhancements: the general availability of AWS Entity Resolution on Clean Rooms, additional privacy controls for data analyses, a feature to configure which collaborators receive analyses results, and the ability to generate seed data for lookalike modeling using SQL. These capabilities help you improve data matching, and give you increased control and flexibility for data collaborations.\nAWS Entity Resolution is now natively integrated within AWS Clean Rooms to help you and your partners more easily prepare and match related customer records. Using rule-based or data service provider-based matching can help you improve data matching for enhanced advertising campaign planning, targeting, and measurement. For example, an advertiser can match records with a media publisher using rule-based matching, or with a data service provider such as LiveRamp to understand overlapping audiences.\nEnhanced privacy and analysis controls give you greater flexibility to support multiple use cases in a collaboration. You can now disallow specific output columns from custom SQL data analyses for increased data protection, and you can easily choose which collaborator receives analyses results. Additionally, you can now use a SQL query as the seed data source for lookalike modeling in AWS Clean Rooms ML.\nAWS Clean Rooms helps companies and their partners more easily analyze and collaborate on their collective datasets—without sharing or copying one another’s underlying data. AWS Clean Rooms is generally available in these AWS Regions. To learn more, visit the AWS Entity Resolution on AWS Clean Rooms blog.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-clean-rooms-capabilities-entity-resolution-ml-modeling-privacy-analysis-controls",
+    "postDateTime": "2024-07-25 15:00:00-04:00",
+    "postDate": "2024-07-25",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Clean Rooms launches new capabilities for entity resolution, ML modeling, privacy, and analysis controls",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-clean-rooms",
+            "name": "aws-clean-rooms",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-clean-rooms"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1455302153",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-7EMtQ7hxjWRkvYZhBumKPh",
+    "dateCreated": "2024-07-23 15:54:00+00:00",
+    "dateUpdated": "2024-07-25 16:59:24+00:00",
+    "postBody": "Starting today, Amazon EC2 D3en instances, the latest generation of the dense HDD-storage instances, are available in the Asia Pacific (Jakarta) region. D3en instances are ideal for workloads including distributed / clustered file systems, big data and analytics, and high capacity data lakes. With D3en instances, you can easily migrate from previous-generation D2 instances or on-premises infrastructure to a platform optimized for dense HDD storage workloads.\nAmazon EC2 D3en instances are built on the AWS Nitro System, a collection of AWS-designed hardware and software innovations that enable the delivery of private networking, and efficient, flexible, and secure cloud services with isolated multi-tenancy. D3en instances offer up to 336 TB of local HDD storage. These instances also offer up to 75 Gbps of network bandwidth, and up to 7 Gbps of bandwidth to the Amazon Elastic Block Store (Amazon EBS).\nTo get started with D3en instances, visit the AWS Management Console, AWS Command Line Interface (CLI), or AWS SDKs. To learn more, visit the EC2 D3en instances page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-d3en-instances-asia-jakarta-region/",
+    "postDateTime": "2024-07-25 10:00:00-07:00",
+    "postDate": "2024-07-25",
+    "contentType": null,
+    "headline": "Amazon EC2 D3en instances are now available in Asia Pacific (Jakarta) region",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ec2",
+            "name": "amazon-ec2",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ec2"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

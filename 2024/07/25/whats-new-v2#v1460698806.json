@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1460698806",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "atLCeaxFBX1Aje5NhWZepM",
+    "dateCreated": "2024-07-24 18:58:22+00:00",
+    "dateUpdated": "2024-07-25 20:39:37+00:00",
+    "postBody": "AWS HealthImaging adds new copy and update capabilities, making it easier than ever to manage your medical imaging data. With this launch, you can more efficiently organize, combine, and update your medical imaging data to support common clinical and research workflows.\nThis launch offers enhanced capabilities for modifying DICOM data, and simplifies resolving metadata inconsistencies. You can now copy one or more DICOM instances, making it easier organize your instances by imaging Study and Series. It is now easier to update metadata, including Study, Series, and SOP Instance UIDs, so you can keep data current as new patient information becomes available. This launch also gives you the ability to modify private DICOM metadata elements. Lastly, you can now revert metadata to a prior version with a single action. Together, these enhancements simplify workflows for improving the quality and consistency of your medical imaging data, throughout it’s lifecycle.\nAWS HealthImaging is now generally available in the following AWS Regions: US East (N. Virginia), US West (Oregon), Asia Pacific (Sydney), and Europe (Ireland).\nTo learn more, see Modifying image sets in the AWS HealthImaging Developer Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-healthimaging-enhanced-copy-update-capabilities",
+    "postDateTime": "2024-07-25 16:30:00-04:00",
+    "postDate": "2024-07-25",
+    "contentType": "Launch Announcement",
+    "headline": "AWS HealthImaging announces enhanced copy and update capabilities",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-healthimaging",
+            "name": "aws-healthimaging",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-healthimaging"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#v1461838265",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "3rWAP1k5o78Aniu3gsFFBu",
+    "dateCreated": "2024-07-24 18:20:18+00:00",
+    "dateUpdated": "2024-07-25 19:48:13+00:00",
+    "postBody": "CloudWatch RUM, which helps you perform real user monitoring by collecting client-side data of application performance and user interactions in real time, now supports AWS CloudTrail data event logging for PutRumEvents API, enabling enhanced data visibility for governance, compliance, and operational auditing.\nEach data item collected using RUM web client or “app monitor“ is considered a RUM event and is sent to CloudWatch RUM using the PutRumEvents API. Now, CloudTrail logs would provide a comprehensive audit trail of PutRumEvents API calls, helping troubleshoot issues by providing insights into request parameters, source IP addresses, and timestamps. These logs can be used to gain visibility into your request activity, and archive it in a secure, highly available, and durable S3 data store. Using this you can identify throttling exceptions when API calls exceed the limit on account or when permission to send data is denied to the RUM app monitor on failing authentication. These logs can also be leveraged for Security Information and Event Management (SIEM) solutions to comply with audit and compliance requirements.\nYou can enable AWS CloudTrail data events logging for CloudWatch RUM in all AWS Regions where CloudWatch RUM is available. Get started with CloudTrail event logging for CloudWatch RUM by using the CloudTrail console, AWS CLI, or AWS SDKs. For pricing information, visit the CloudTrail pricing page.\nClick here to see all RUM APIs logged in CloudTrail, and see the CloudWatch RUM user guide to learn more.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/cloudwatch-rum-putrumevents-api-data-event-logging-aws-cloudtrail",
+    "postDateTime": "2024-07-25 15:45:00-04:00",
+    "postDate": "2024-07-25",
+    "contentType": "Launch Announcement",
+    "headline": "CloudWatch RUM PutRumEvents API now supports data event logging in AWS CloudTrail",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-cloudtrail",
+            "name": "aws-cloudtrail",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-cloudtrail"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#mobile-services",
+            "name": "mobile-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/mobile-services"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#developer-tools",
+            "name": "developer-tools",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/developer-tools"
+        }
+    ]
+}

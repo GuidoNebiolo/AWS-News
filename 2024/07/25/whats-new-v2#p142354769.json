@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p142354769",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "6FtTw7rTbUpk8YruMKvSGN",
+    "dateCreated": "2024-07-19 15:24:23+00:00",
+    "dateUpdated": "2024-07-25 20:59:42+00:00",
+    "postBody": "Today, we are excited to announce the general availability (GA) of an update to Amazon GameLift that expands support to the AWS Nigeria region Local Zone, which increases coverage for game developers, while providing seamless, low-latency gameplay experiences for players. With this update, game developers can tap into the Nigeria Local Zone to reach players across the continent of Africa.\nAWS Local Zones are a type of infrastructure deployment that extends AWS Regions to place compute, storage, database, and other AWS services at the edge of the cloud near large population, industry, and information technology (IT) centers—enabling developers to deploy games that require single-digit millisecond latency closer to end users or on-premises data centers. With the latest update developers can now:\nDeploy your game to a Nigeria Local Zone Fleet location.\nUpdate a queue with a Fleet location in the Nigeria Local Zone.\nMatch players into games sessions in Nigeria Local Zone locations.\nTo get started, visit the Amazon GameLift documentation to see a complete list of regions.\nAmazon GameLift is available in regions: US East (Ohio and N. Virginia), US West (N. California and Oregon), Africa (Cape Town), Asia Pacific (Hong Kong, Mumbai, Seoul, Singapore, Sydney, Osaka, and Tokyo), Canada (Central), Europe (Frankfurt, Ireland, London, Milan, Paris, and Stockholm), Middle East (Bahrain), South America (São Paulo), AWS China (Beijing) Region, operated by Sinnet, and AWS China (Ningxia) Region, operated by NWCD, and now available in 9 Local Zones in Chicago, Houston, Dallas, Kansas City, Denver, Atlanta, Los Angeles, Phoenix, and Nigeria.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-gamelift-aws-nigeria-local-zone",
+    "postDateTime": "2024-07-25 17:00:00-04:00",
+    "postDate": "2024-07-25",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon GameLift now supports AWS Nigeria Local Zone",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-gamelift",
+            "name": "amazon-gamelift",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-gamelift"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#game-development",
+            "name": "game-development",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/game-development"
+        }
+    ]
+}
