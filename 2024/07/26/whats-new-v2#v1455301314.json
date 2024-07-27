@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1455301314",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "wmrCvUKiUNwNzdes4YDELC",
+    "dateCreated": "2024-07-22 16:20:00+00:00",
+    "dateUpdated": "2024-07-26 17:24:24+00:00",
+    "postBody": "AWS is launching a self-guided experience to help AWS Partners on the Services Path reach the Advanced tier. This experience includes personalized Tasks in Partner Central that offer tips and resources for both new and existing partners to advance in their AWS journey, unlocking access to programs like Specialization and enhancing their discoverability for AWS customers and AWS sales teams. In addition, AWS Partners who provide managed services will receive personalized tasks including the new AWS MSP Practice Building Guide.\nThis experience empowers partners to progress through tiers and access benefits independently. Tasks will now be labeled with their associated solution name for easy identification. We've enhanced the completion experience to allow partners to resolve Tasks quickly, and added new ones for improved program enablement and enrollment.\nAdditionally, we’ve simplified the journey for Services partners by removing the Customer Satisfaction survey and Public References requirements, streamlining progression and reducing administrative burdens.\nTo learn more, refer to the AWS Partner Network blog post. The Tasks feature is available to AWS Partners enrolled in the Software and Services Paths today. Existing partners can access Tasks by logging in to AWS Partner Central. Visit AWS Partner Network to learn more about becoming an AWS Partner.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/self-guided-journey-aws-partners-services-path",
+    "postDateTime": "2024-07-26 13:00:00-04:00",
+    "postDate": "2024-07-26",
+    "contentType": "Launch Announcement",
+    "headline": "AWS launches a self-guided journey for AWS Partners enrolled on the Services Path",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#partner-network",
+            "name": "partner-network",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/partner-network"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-marketplace",
+            "name": "aws-marketplace",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-marketplace"
+        }
+    ]
+}

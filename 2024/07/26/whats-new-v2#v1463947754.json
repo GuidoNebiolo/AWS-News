@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1463947754",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "pqLAgh3TjJ8xxqvtbti7Vn",
+    "dateCreated": "2024-07-26 17:57:54+00:00",
+    "dateUpdated": "2024-07-26 18:11:25+00:00",
+    "postBody": "The most advanced Meta Llama models to date, Llama 3.1, are available in Amazon Bedrock. Starting today, the Llama 3.1 405B model is now generally available in Amazon Bedrock. Amazon Bedrock offers a turnkey way to build generative AI applications with Llama. Llama 3.1 models are a collection of 8B, 70B, and 405B parameter size models offering new capabilities for your generative AI applications.\nAll Llama 3.1 models demonstrate significant improvements over previous versions. The models support a 128K context length and exhibit improved reasoning for multilingual dialogue use cases in eight languages. The models access more information from lengthy text to make more informed decisions and leverage richer contextual data to generate more subtle and refined responses. According to Meta, Llama 3.1 405B is one of the best and largest publicly available foundation models and is well suited for synthetic data generation and model distillation. Llama 3.1 models also provide state-of-the-art capabilities in general knowledge, math, tool use, and multilingual translation.\nMeta’s Llama 3.1 models are generally available in Amazon Bedrock in the US West (Oregon) Region. To learn more, read the AWS News launch blog, Llama in Amazon Bedrock product page, pricing page, and documentation. To get started with Llama 3.1 in Amazon Bedrock, visit the Amazon Bedrock console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/meta-llama-3-1-405b-generally-available-amazon-bedrock",
+    "postDateTime": "2024-07-26 14:10:00-04:00",
+    "postDate": "2024-07-26",
+    "contentType": "Launch Announcement",
+    "headline": "Meta Llama 3.1 405B now generally available in Amazon Bedrock",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        }
+    ]
+}
