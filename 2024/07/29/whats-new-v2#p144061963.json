@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p144061963",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "678Qbnh54TUemDvWVy8iiq",
+    "dateCreated": "2024-07-26 17:43:33+00:00",
+    "dateUpdated": "2024-07-29 16:57:25+00:00",
+    "postBody": "Amazon Q Business is a fully managed, generative-AI powered assistant that enhances workforce productivity by answering questions, providing summaries, generating content, and completing tasks based on customer's enterprise data. AWS IAM Identity Center helps set up and centrally manage workforce user identity and their access to their AWS accounts and applications. Q Business is integrated with IAM Identity Center so that workforce users can securely and privately access enterprise content using web applications built with Q Business.\nPrior to today, Q Business applications could only connect to, and source user identity information from IAM Identity Center instances located in the same AWS Region as the Q Business application. Starting today, at the time of Q Business application creation, customers can choose to connect to an IAM Identity Center instance located in a region different from the Q Business application to source user identity information. When users access Q Business applications, Q Business makes cross-region API calls to fetch their identity and attributes from the cross-region Identity Center instance to authenticate users, and authorize user access to the content they are allowed to access. Customers can now use Q Business applications to enhance the productivity of a larger set of users than was possible earlier.\nThis feature is available in all AWS Regions where Amazon Q for Business is available, and is supported for organization instances of IAM Identity Center in all regions except opt-in regions. To learn more, visit the documentation. To explore Amazon Q, visit the Amazon Q website.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-business-cross-region-aws-iam-identity-center-access",
+    "postDateTime": "2024-07-29 13:00:00-04:00",
+    "postDate": "2024-07-29",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon Q Business launches support for cross-region AWS IAM Identity Center access",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-q",
+            "name": "amazon-q",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-q"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

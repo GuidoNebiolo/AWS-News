@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1454263048",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-8qga6nr4RK4z5F45A1WVoz",
+    "dateCreated": "2024-07-23 21:59:26+00:00",
+    "dateUpdated": "2024-07-29 18:20:59+00:00",
+    "postBody": "AWS CloudFormation Git sync now publishes sync status changes as events to Amazon Eventbridge. With this launch, you can subscribe to new deployment sync events that shows your Git repositories or resource sync status changes. You can also get instant notification and build on top of it to further automate your GitOps workflow. With EventBridge, you can take advantage of a serverless event bus to easily connect and route events between many AWS services and third-party applications. Events are delivered to EventBridge in near real-time, and you can write simple rules to listen for specific events.\nAWS CloudFormation allows you to launch and configure your desired resources and their dependencies together as a stack described in a template. Using AWS CloudFormation Git sync, you can store this template in a remote Git repository and have your stacks synchronized to automate your workflow. Now, using the status changes in Eventbridge, you can build event-driven application based on the notification you received when the sync completed or failed, track the metrics, or automate rollback deployments of broken code.\nThis feature is available in the following regions: US East (N. Virginia), US East (Ohio), US West (N. California), US West (Oregon), Asia Pacific (Mumbai), Asia Pacific (Seoul), Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Paris), Canada (Central), Europe (Frankfurt), Europe (Ireland), Europe (London), Europe (Milan), Europe (Stockholm), and South America (São Paulo).\nYou learn more from our documentation here and our launch blog here.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/build-event-driven-application-aws-cloudformation/",
+    "postDateTime": "2024-07-29 10:00:00-07:00",
+    "postDate": "2024-07-29",
+    "contentType": null,
+    "headline": "Build your event-driven application using AWS CloudFormation Git sync status changes",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#developer-tools",
+            "name": "developer-tools",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/developer-tools"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-cloudformation",
+            "name": "aws-cloudformation",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-cloudformation"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

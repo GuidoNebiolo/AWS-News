@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p143815823",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-g9CTcXJASwdznLWZ9FVTQd",
+    "dateCreated": "2024-07-29 16:08:08+00:00",
+    "dateUpdated": "2024-07-29 17:12:50+00:00",
+    "postBody": "You can now use AWS Elemental MediaLive to receive sources using SRT caller.\nSecure Reliable Transport (SRT), an open source video transport protocol supported by the SRT Alliance, helps deliver video reliably across the internet. SRT has two primary connection modes: caller and listener. With SRT caller input support in MediaLive you can add inputs to a MediaLive channel by calling into an available listener source address and port. For more information on how to use SRT caller input, visit the MediaLive documentation.\nAWS Elemental MediaLive is a broadcast-grade live video processing service. It lets you create high-quality live video streams for delivery to broadcast televisions and internet-connected multiscreen devices, like connected TVs, tablets, smartphones, and set-top boxes.\nThe MediaLive service functions independently or as part of AWS Media Services, a family of services that form the foundation of cloud-based workflows and offer you the capabilities you need to transport, create, package, monetize, and deliver video. Visit the AWS region table for a full list of AWS Regions where AWS Elemental MediaLive is available.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-elemental-medialive-srt-caller-input/",
+    "postDateTime": "2024-07-29 10:00:00-07:00",
+    "postDate": "2024-07-29",
+    "contentType": null,
+    "headline": "AWS Elemental MediaLive now supports SRT caller input",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-elemental-medialive",
+            "name": "aws-elemental-medialive",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-elemental-medialive"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#media-services",
+            "name": "media-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/media-services"
+        }
+    ]
+}

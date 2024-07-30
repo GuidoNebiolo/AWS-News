@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p103232044",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "qigYKu2ej1xsgUPf1qD7bU",
+    "dateCreated": "2024-07-08 13:53:27+00:00",
+    "dateUpdated": "2024-07-29 16:58:59+00:00",
+    "postBody": "Amazon MQ now supports ActiveMQ minor version 5.18, which introduces several improvements and fixes compared to the previous version of ActiveMQ supported by Amazon MQ. These enhancements include initial support for the JMS 2.0 simplified APIs, such as JMSContext, JMSProducer, and JMSConsumer, as well as the implementation of methods for XA transactions. Starting from ActiveMQ 5.18, Amazon MQ will manage patch version upgrades for your brokers. All brokers on ActiveMQ version 5.18 will be automatically upgraded to the next compatible and secure patch version in your scheduled maintenance window.\nIf you are utilizing prior versions of ActiveMQ, such as 5.17, 5.16, or 5.15, we strongly recommend you to upgrade to ActiveMQ 5.18. You can easily perform this upgrade with just a few clicks in the AWS Management Console. To learn more about upgrading, consult the ActiveMQ Version Management section in the Amazon MQ Developer Guide. To learn more about the changes in ActiveMQ 5.18, see the Amazon MQ release notes. This version is available across all AWS Regions where Amazon MQ is available.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-mq-supports-activemq-version-5-18",
+    "postDateTime": "2024-07-29 13:00:00-04:00",
+    "postDate": "2024-07-29",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon MQ now supports ActiveMQ version 5.18",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-mq",
+            "name": "amazon-mq",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-mq"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#application-services",
+            "name": "application-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/application-services"
+        }
+    ]
+}

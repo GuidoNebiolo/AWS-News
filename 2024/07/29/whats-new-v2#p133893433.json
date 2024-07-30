@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p133893433",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "gAYvi8ScxGTXBncvgDVGmf",
+    "dateCreated": "2024-06-10 17:33:48+00:00",
+    "dateUpdated": "2024-07-31 19:46:54+00:00",
+    "postBody": "EC2 Fleet and EC2 Auto Scaling now support using custom identifiers to reference Amazon Machine Images (AMI) in EC2 Fleet launch requests and Auto Scaling groups configured to choose from a diversified list of instance types. You can create these identifiers using AWS Systems Manager Parameter Store and use the parameters to reference your AMI during instance launch. These AMI references simplify your automation as you no longer need to modify your code every time a new version of an AMI is created.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-fleet-auto-scaling-groups-aliases-amis",
+    "postDateTime": "2024-07-29 16:10:00-04:00",
+    "postDate": "2024-07-29",
+    "contentType": "launch announcement",
+    "headline": "Amazon EC2 Fleet and EC2 Auto Scaling groups now supports aliases for Amazon Machine Images (AMIs)",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ec2",
+            "name": "amazon-ec2",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ec2"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ec2-auto-scaling",
+            "name": "amazon-ec2-auto-scaling",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ec2-auto-scaling"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}
