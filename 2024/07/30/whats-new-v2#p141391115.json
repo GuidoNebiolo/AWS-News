@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p141391115",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-49f3PxvgLMPoQf491nv8yH",
+    "dateCreated": "2024-07-24 18:28:28+00:00",
+    "dateUpdated": "2024-07-30 17:28:49+00:00",
+    "postBody": "Today, we are excited to announce that Amazon Neptune Analytics now offers 32 and 64 m-NCU (Neptune Memory Capacity Units) capacity units, expanding beyond the current range of 128 to 1024 m-NCUs. This enhancement provides greater flexibility and cost efficiency for smaller graph sizes, making it easier and more affordable to get started with vector search, graph algorithms, and graph RAG. Data Scientists and developers can now start with the smaller capacity units, significantly reducing costs while meeting their specific needs during the initial stages of development.\nMany organizations require customized setups for their specific needs, particularly during proof of concept (POC) and testing phases where graph sizes are typically small. Previously, the smallest capacity unit available in Amazon Neptune Analytics was 128 m-NCU, often providing more capacity than needed and resulting in higher costs for smaller-scale operations. With the introduction of 32 and 64 m-NCU capacity units, now users can start with smaller capacity units, significantly reducing expenses while maintaining the performance they expect from Neptune Analytics. This enhancement allows organizations to efficiently run analytics, graph vector search, and graph algorithms at a lower cost. Once they are satisfied with the results of their POC, they can scale up to larger capacity units for production to fully leverage the benefits of Neptune Analytics.\nYou can create a Neptune Analytics graph via new capacity units from the Amazon Neptune console, AWS Command Line Interface (AWS CLI), or SDK. To learn more about Neptune Analytics, visit the features page, user guide, and pricing page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-neptune-analytics-smaller-capacity-units/",
+    "postDateTime": "2024-07-30 10:00:00-07:00",
+    "postDate": "2024-07-30",
+    "contentType": null,
+    "headline": "Amazon Neptune Analytics now introduces new smaller capacity units ",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-neptune",
+            "name": "amazon-neptune",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-neptune"
+        }
+    ]
+}

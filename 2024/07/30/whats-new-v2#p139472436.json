@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p139472436",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-v7PLzaH5quyKrPWJ7848xj",
+    "dateCreated": "2024-07-23 17:44:05+00:00",
+    "dateUpdated": "2024-07-30 17:26:44+00:00",
+    "postBody": "Today, AWS announces the general availability of AWS IoT SiteWise Edge on Siemens Industrial Edge, offering customers a seamless way to bridge the gap between OT (Operational Technology) and IT (Information Technology) to solve industrial operational challenges. This new offering allows customers to easily connect and collect data from their industrial equipment using Siemens Industrial Edge connectivity applications and send it to the cloud using AWS IoT SiteWise Edge. Users such as process engineers and maintenance technicians can use applications on Siemens Industrial Edge to gain insights or send the data to AWS IoT SiteWise to organize, standardize, and store data for driving critical use cases such as asset monitoring, predictive maintenance, energy monitoring, and building industrial data lakes.\nWithin minutes, customers can collect data from their industrial equipment using Siemens connectivity applications such as OPC-UA, MQTT, Siemens S7, Modbus TCP, Profinet IO, and third-party connectors available on Siemens Industrial Edge Marketplace. They can use AWS IoT SiteWise Edge to seamlessly send this data to AWS. In the cloud, AWS IoT SiteWise enables industrial customers to improve operational efficiency and optimize asset performance by providing purpose-built, hybrid cloud-edge capabilities for analysis, storage, and enterprise-wide monitoring for industrial use cases.\nAWS IoT SiteWise Edge is available in all regions where AWS IoT SiteWise is supported.\nTo start, visit AWS IoT SiteWise console to create a gateway, and AWS IoT SiteWise user guide to learn more.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-iot-sitewise-edge-siemens-industrial-edge/",
+    "postDateTime": "2024-07-30 10:00:00-07:00",
+    "postDate": "2024-07-30",
+    "contentType": null,
+    "headline": "AWS IoT SiteWise Edge on Siemens Industrial Edge is now generally available",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-iot-sitewise",
+            "name": "aws-iot-sitewise",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-iot-sitewise"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#internet-of-things",
+            "name": "internet-of-things",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/internet-of-things"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

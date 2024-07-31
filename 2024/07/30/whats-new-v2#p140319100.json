@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p140319100",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "hFAXXSmTCzmYqBe876KB78",
+    "dateCreated": "2024-07-29 17:31:36+00:00",
+    "dateUpdated": "2024-07-30 18:30:13+00:00",
+    "postBody": "Starting today, customers can hibernate their EC2 instances powered by AWS Graviton processors. Hibernation helps lower costs and achieve faster startup times by enabling customers to pause and resume their running instances at scale.\nWhen customers hibernate an instance, EC2 signals the operating system to perform hibernation (suspend-to-disk). This process saves the contents of the instance’s memory (RAM) to the associated Amazon Elastic Block Store (Amazon EBS) root volume. EC2 then persists the instance's EBS root volume and any attached EBS data volumes. When a hibernated instance resumes, EC2 restores the root volume to its previous state, along with the RAM contents and any previously attached data volumes.\nAWS offers hibernate capability across a variety of EC2 instance types, with support for additional instance types added regularly. This feature is available in commercial AWS Regions and in the AWS GovCloud (US) Regions. While an instance is hibernated, customers pay only for the storage of EBS volumes, including the saved content from the instance memory. There are no charges for instance usage or data transfer during hibernation.\nCustomers can hibernate their EC2 instances through AWS CloudFormation, the AWS Management Console, AWS SDKs, AWS Tools for Powershell, and the AWS Command Line Interface (CLI). To learn more, visit the news blog on hibernation. For information about enabling hibernation for your EC2 instances, refer to the hibernation FAQs and User Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-graviton-based-ec2-instances-hibernation",
+    "postDateTime": "2024-07-30 14:30:00-04:00",
+    "postDate": "2024-07-30",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Graviton-based EC2 instances now support hibernation",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ec2",
+            "name": "amazon-ec2",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ec2"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

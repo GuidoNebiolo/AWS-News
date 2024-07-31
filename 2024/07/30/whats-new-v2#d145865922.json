@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#d145865922",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "bL9PxhwVC2u62Ntdy8p6TL",
+    "dateCreated": "2024-07-16 16:17:26+00:00",
+    "dateUpdated": "2024-07-30 17:04:27+00:00",
+    "postBody": "AWS Elastic Disaster Recovery (AWS DRS) introduces Flexible Instance Types, a new capability that reduces the likelihood of failed recovery attempts or prolonged downtime due to capacity shortage. This feature allows you to create a list of optional instance types that can be used during a launch, based on specific attributes. By defining a range of acceptable instance types upfront, you can increase the chances of finding available resources, even in situations where capacity is constrained.\nAWS DRS minimizes downtime and data loss with fast, reliable recovery of on-premises and cloud-based applications using affordable storage, minimal compute, and point-in-time recovery. Prior to this release, customers could only define a single instance type or rely on automatic right-sizing to select the most relevant instance type. However, this approach risked instance unavailability during a disaster or drill scenario. Now, with the launch of Flexible Instance Types, AWS DRS empowers you to tailor your disaster recovery strategy, by defining a range of acceptable instance attributes, so you can maximize the chances of successful provisioning, even in situations where many resource types are unavailable due to high demand.\nThis new capability is available in all AWS Regions where AWS DRS is available. See the AWS Regional Services List for the latest availability information.\nTo learn more about AWS DRS, visit our product page or documentation. To get started, sign in to the AWS Elastic Disaster Recovery Console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-elastic-disaster-recovery-flexible-instance-types-launch-setting",
+    "postDateTime": "2024-07-30 13:00:00-04:00",
+    "postDate": "2024-07-30",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Elastic Disaster Recovery now supports Flexible Instance Types launch setting",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-elastic-disaster-recovery",
+            "name": "aws-elastic-disaster-recovery",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-elastic-disaster-recovery"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

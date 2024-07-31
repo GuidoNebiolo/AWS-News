@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1405941139",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "jmbZgBxHVvw4JtNZ6V7XFV",
+    "dateCreated": "2024-06-17 17:33:05+00:00",
+    "dateUpdated": "2024-07-30 17:03:33+00:00",
+    "postBody": "Customers in Germany can now create an AWS Account using their bank account. Upon signup, customers with a Germany billing address can now securely connect their bank account which supports the Single Euro Payment Area (SEPA) standard. Until today, signing up for an AWS account was only permitted with a debit or credit card. With this release, customers in Germany can choose to use their card or securely connect their bank account.\nTo link your bank account, sign up for AWS, and enter your address and billing country in Germany. When prompted to add a payment method click \"Bank Account\" followed by \"Link your bank account\". Select your bank from the list of available banks and sign in to your bank using your online banking credentials. Signing in to your bank allows you to securely add your bank account to your AWS account and verifies that you are the owner of the bank account. By default, this bank account will be used when paying for your future AWS invoices. Signup with Bank Account is available in Germany, the first country where this feature is available.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/aws-account-using-bank-account-germany",
+    "postDateTime": "2024-07-30 13:00:00-04:00",
+    "postDate": "2024-07-30",
+    "contentType": "launch announcement",
+    "headline": "Create an AWS Account using your bank account available in Germany",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#mobile-services",
+            "name": "mobile-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/mobile-services"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-account-billing",
+            "name": "aws-account-billing",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-account-billing"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#cloud-financial-management",
+            "name": "cloud-financial-management",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/cloud-financial-management"
+        }
+    ]
+}

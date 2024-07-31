@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1449354807",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "hPEkmMazCdpz3bpqXtzQjT",
+    "dateCreated": "2024-07-22 16:41:23+00:00",
+    "dateUpdated": "2024-07-30 17:05:02+00:00",
+    "postBody": "Amazon Connect has expanded availability to support Inbound Direct Dial (DID) telephone numbers and guaranteed number presentation for in-country calling for Vietnam from the Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), and Asia Pacific (Seoul) regions.\nThe new Telephony Rates are now available as part of the standard pricing for Amazon Connect service usage for Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), and Asia Pacific (Seoul) regions. To see all AWS Regions where Amazon Connect is available, see the AWS Region table. Visit the Amazon Connect website for more information.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-inbound-did-calling-vietnam",
+    "postDateTime": "2024-07-30 13:00:00-04:00",
+    "postDate": "2024-07-30",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon Connect now supports Inbound DID calling in Vietnam",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#business-productivity",
+            "name": "business-productivity",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/business-productivity"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

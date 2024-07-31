@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p134156529",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-3oL4Ttvbs7hYHpZq5BskrD",
+    "dateCreated": "2024-07-24 18:08:05+00:00",
+    "dateUpdated": "2024-07-30 20:26:20+00:00",
+    "postBody": "Amazon AppStream 2.0 now offers support for Red Hat Enterprise Linux, enabling ISVs and central IT organizations to stream Red Hat Enterprise Linux apps and desktops to users while leveraging the flexibility, scalability, and cost-effectiveness of the AWS Cloud. With this launch, customers have the flexibility to choose from a broader set of operating systems including Red Hat Enterprise Linux, Amazon Linux 2, and Microsoft Windows.\nThis launch enables organizations operating in highly regulated industries to accelerate time to market, scale resources up or down with demand, and manage the entire fleet centrally through the AWS Console by streaming Red Hat Enterprise Linux apps from AppStream 2.0. Red Hat Enterprise Linux on AppStream 2.0 also enables traditional desktop apps to be converted to a SaaS delivery model without the cost of refactoring, while pay-as-you-go billing and license-included images ensure you only pay for the resources you use.\nRed Hat Enterprise Linux is currently supported in all AWS Regions where AppStream 2.0 is available. Red Hat Enterprise Linux-based instances use per second billing (with a minimum of 15 minutes). For more information, see Amazon AppStream 2.0 Pricing.\nTo get started, log into the AppStream 2.0 console and select a Region. Next, launch a Red Hat Enterprise Linux-based Image Builder to install your applications, and create a custom image for your end users.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-appstream-red-hat-linux-desktop-streaming/",
+    "postDateTime": "2024-07-30 10:00:00-07:00",
+    "postDate": "2024-07-30",
+    "contentType": null,
+    "headline": "Amazon AppStream 2.0 introduces Red Hat Enterprise Linux Application and Desktop streaming",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-appstream-2-0",
+            "name": "amazon-appstream-2-0",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-appstream-2-0"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#desktop-and-app-streaming",
+            "name": "desktop-and-app-streaming",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/desktop-and-app-streaming"
+        }
+    ]
+}
