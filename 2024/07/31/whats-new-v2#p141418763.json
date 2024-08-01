@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p141418763",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-vyniEvBsZcWrAnv1W2pu1n",
+    "dateCreated": "2024-07-29 16:45:24+00:00",
+    "dateUpdated": "2024-07-31 20:06:47+00:00",
+    "postBody": "Amazon Connect now enables agents to view pre-approved time off windows for their scheduling group (group allowance), making it easier for agents to identify available options when requesting time off. For example, when creating a time off request for 8 a.m. to 12 p.m., an agent can now see that while there is available group allowance for 8 a.m. to 11 a.m., there isn’t any remaining allowance for 11 a.m. to 12 p.m. Agents can then modify their time off request before submitting or request a supervisor override. This launch simplifies the time off process for agents by letting them evaluate which days have the required allowance before submitting the request.\nThis feature is available in all AWS Regions where Amazon Connect agent scheduling is available. To get started with Amazon Connect agent scheduling, click here.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-agents-pre-approved-time-off/",
+    "postDateTime": "2024-07-31 10:00:00-07:00",
+    "postDate": "2024-07-31",
+    "contentType": null,
+    "headline": "Amazon Connect now enables agents to view pre-approved windows when scheduling time off",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#messaging",
+            "name": "messaging",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/messaging"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        }
+    ]
+}

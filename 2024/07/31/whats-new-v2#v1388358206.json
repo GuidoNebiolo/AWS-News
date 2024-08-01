@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1388358206",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "rpfhiY954gAKmZar18QhCZ",
+    "dateCreated": "2024-05-22 17:22:51+00:00",
+    "dateUpdated": "2024-07-31 22:07:25+00:00",
+    "postBody": "We are excited to announce the general availability of fine-grained data access control (FGAC) via AWS Lake Formation for Apache Spark with Amazon EMR Serverless. This enables you to enforce full FGAC (database, table, column, row and cell-level) policies defined in Lake Formation to take effect for your data lake tables from your EMR Serverless Spark jobs and interactive sessions.\nLake Formation makes it simple to build, secure, and manage data lakes. It allows you to define fine-grained access controls through grant and revoke statements, similar to those used with relational database management systems (RDBMS), and automatically enforce those policies via compatible engines like Athena, Spark on EMR on EC2, and Redshift Spectrum. With today's launch, the same Lake Formation rules that you set up for use with other services like Athena now apply to your Spark jobs and interactive sessions on EMR Serverless, further simplifying security and governance of your data lakes.\nFine-grained access control for Apache Spark batch jobs and interactive sessions via EMR Studio on EMR Serverless is available with the EMR 7.2 release in all regions where EMR Serverless is available except GovCloud and China regions. To get started, see Using AWS Lake Formation with Amazon EMR Serverless.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/07/fine-grained-access-control-aws-lake-formation-emr-serverless",
+    "postDateTime": "2024-07-31 10:00:00-07:00",
+    "postDate": "2024-07-31",
+    "contentType": "Launch Announcement",
+    "headline": "Announcing fine-grained access control via AWS Lake Formation with EMR Serverless",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-emr",
+            "name": "amazon-emr",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-emr"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-lake-formation",
+            "name": "aws-lake-formation",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-lake-formation"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}
