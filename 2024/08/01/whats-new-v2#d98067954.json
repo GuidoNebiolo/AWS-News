@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#d98067954",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "uC3VhRfi1jDQ1iAvdvJ3iV",
+    "dateCreated": "2024-07-11 19:38:11+00:00",
+    "dateUpdated": "2024-08-01 22:05:56+00:00",
+    "postBody": "Quick Setup, a capability of AWS Systems Manager, provides an intuitive console experience for configuring frequently used Amazon Web Services features and services with recommended best practices. With just a few clicks, customers can enable common configurations and best practices across accounts and regions. This includes enabling auto-updates for popular AWS agents, such as the CloudWatch agent, defining patch schedules and baselines for Amazon Elastic Compute Cloud (Amazon EC2) instances, or configuring AWS Resource Explorer to search and discover resources in AWS accounts or across an entire AWS Organization.\nToday, AWS Systems Manager announces the launch of a new Quick Setup API which enables customers to programmatically address these use cases. With this launch, customers can integrate the new Quick Setup API into their infrastructure as code and programmatic workflows. By calling the Quick Setup API, customers can automate the deployment of AWS services and their configurations, ensuring they are consistently setup across accounts and regions using tools such as the AWS CLI or the AWS SDK.\nTo get started, review the Quick Setup API reference documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-systems-manager-api-support-quick-setup",
+    "postDateTime": "2024-08-01 17:45:00-04:00",
+    "postDate": "2024-08-01",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Systems Manager launches API support for Quick Setup",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-systems-manager",
+            "name": "aws-systems-manager",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-systems-manager"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        }
+    ]
+}

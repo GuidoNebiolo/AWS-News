@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1446508744",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "jfkiTeqN3kNL8te3LZwGMA",
+    "dateCreated": "2024-07-22 16:55:54+00:00",
+    "dateUpdated": "2024-08-01 16:59:56+00:00",
+    "postBody": "Amazon DynamoDB Accelerator (DAX) is now available in the Europe (Spain) and Europe (Stockholm) Regions. You can create DAX clusters using Amazon EC2 R5 and T3 instance types in these AWS Regions for applications that require microsecond latency.\nAmazon DynamoDB Accelerator (DAX) is a fully managed, highly available caching service built for Amazon DynamoDB. DAX delivers up to a 10 times performance improvement—from milliseconds to microseconds—even at millions of requests per second. DAX does all the heavy lifting required to add in-memory acceleration to your DynamoDB tables, without requiring developers to manage cache invalidation, data population, or cluster management. You provision a DAX cluster, use the DAX client SDK to point your existing DynamoDB API calls to the DAX cluster, and let DAX handle the rest.\nFor DAX Regional availability information, see the “Service endpoints” section on Amazon DynamoDB endpoints and quotas. Pricing details are available on the Amazon DynamoDB Pricing page. To get started with DAX, see Developing with the DynamoDB Accelerator (DAX) Client.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-dax-additional-aws-regions",
+    "postDateTime": "2024-08-01 13:00:00-04:00",
+    "postDate": "2024-08-01",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon DynamoDB Accelerator (DAX) is now available in additional AWS Regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-dynamodb",
+            "name": "amazon-dynamodb",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-dynamodb"
+        }
+    ]
+}

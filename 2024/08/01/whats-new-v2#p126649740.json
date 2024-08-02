@@ -1,0 +1,28 @@
+{
+    "id": "whats-new-v2#p126649740",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "jj3Zjd2gLgGG594zz6kGKK",
+    "dateCreated": "2024-05-22 16:45:13+00:00",
+    "dateUpdated": "2024-08-01 20:23:22+00:00",
+    "postBody": "AWS CodeBuild now supports connecting your Windows builds to your Amazon VPC resources. This new capability allows CodeBuild to access your VPC resources without requiring internet access. CodeBuild is a fully managed continuous integration service that compiles source code, runs tests, and produces ready-to-deploy software packages.\nWith this feature, you can use CodeBuild to build and test your software within your VPC and access resources such as Amazon Relational Database Service, Amazon ElastiCache, or any service endpoints that are only reachable from within a specific VPC. Configuring your builds to connect to your VPC also secures them by applying the same network access controls as defined in your security groups.\nThis feature is available in US East (Ohio), US East (N. Virginia), US West (Oregon), Europe (Ireland), Europe (Frankfurt), South America (São Paulo), Asia Pacific (Tokyo), Asia Pacific (Mumbai), Asia Pacific (Singapore), and Asia Pacific (Sydney) regions where Windows builds are supported.\nTo get started, configure your CodeBuild project to use Windows compute and select the VPC that your project needs to access. To learn more about CodeBuild’s support for connecting to VPC, see configuring builds with VPC. Visit the product page to learn more about getting started with CodeBuild.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-supports-vpc-connectivity-windows/",
+    "postDateTime": "2024-08-01 10:00:00-07:00",
+    "postDate": "2024-08-01",
+    "contentType": "Launch Announcement",
+    "headline": "AWS CodeBuild now supports VPC-connectivity on Windows",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-codebuild",
+            "name": "aws-codebuild",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-codebuild"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#developer-tools",
+            "name": "developer-tools",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/developer-tools"
+        }
+    ]
+}

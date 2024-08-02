@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p142431791",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "bYLUYWoihsQtTRaLGXc8gx",
+    "dateCreated": "2024-07-25 17:13:16+00:00",
+    "dateUpdated": "2024-08-01 21:30:24+00:00",
+    "postBody": "Today, we are introducing new Amazon CloudWatch(CW) dimensions for Amazon EC2 On-Demand Capacity Reservations(ODCR). The existing CW metrics for On-Demand Capacity Reservations can now be grouped using the following new dimensions: Availability Zone, Instance Match Criteria, Instance Type, Platform, Tenancy, or across all Capacity Reservations. You can group the metrics by any of these dimensions, within selected region.\nYou can now efficiently monitor your On Demand Capacity Reservations and identify unused capacity by setting CloudWatch alarms on CloudWatch metrics on any of these six new dimensions in addition to the existing Capacity Reservation ID dimension. These new 5 minute dimension metrics are enabled by default and available to all ODCR customers at no additional cost in all commercial AWS Regions and the AWS GovCloud (US) Regions. To learn more about CloudWatch metrics for On-Demand Capacity Reservations, please refer to the ODCR technical documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cloudwatch-dimensions-ec2-on-demand-capacity-reservations",
+    "postDateTime": "2024-08-01 17:30:00-04:00",
+    "postDate": "2024-08-01",
+    "contentType": "Launch Announcement",
+    "headline": "New Amazon CloudWatch dimensions for Amazon EC2 On Demand Capacity Reservations",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-cloudwatch",
+            "name": "amazon-cloudwatch",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-cloudwatch"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ec2",
+            "name": "amazon-ec2",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ec2"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        }
+    ]
+}

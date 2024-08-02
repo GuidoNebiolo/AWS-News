@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p139858787",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-bULUzfXePV5ZTbvsXV6uYD",
+    "dateCreated": "2024-07-23 16:29:14+00:00",
+    "dateUpdated": "2024-08-01 21:15:18+00:00",
+    "postBody": "Amazon RDS for MySQL now supports version 8.4 in the Amazon RDS Database Preview Environment, allowing you to evaluate the latest Long-Term Support Release on Amazon RDS for MySQL. You can deploy MySQL 8.4 in the Amazon RDS Database Preview Environment that has the benefits of a fully managed database, making it simpler to set up, operate, and monitor databases.\nMySQL 8.4 is the latest Long-Term Support Release from the MySQL community. MySQL Long-Term Support Releases include bug fixes, security patches, as well as new features. Please refer to the MySQL 8.4 release notes for more details about this release.\nThe Amazon RDS Database Preview Environment supports both Single-AZ and Multi-AZ deployments on the latest generation of instance classes. Amazon RDS Database Preview Environment database instances are retained for a maximum period of 60 days and are automatically deleted after the retention period. Amazon RDS database snapshots that are created in the preview environment can only be used to create or restore database instances within the preview environment.\nAmazon RDS Database Preview Environment database instances are priced the same as production RDS instances created in the US East (Ohio) Region.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-mysql-long-term-8-4-rds-database-preview/",
+    "postDateTime": "2024-08-01 10:00:00-07:00",
+    "postDate": "2024-08-01",
+    "contentType": null,
+    "headline": "Amazon RDS for MySQL supports version 8.4 in RDS Database preview environment",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds-for-mysql",
+            "name": "amazon-rds-for-mysql",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds-for-mysql"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        }
+    ]
+}

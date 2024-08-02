@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p101684290",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "3SSqb3qQNsqnnR2cwisLQZ",
+    "dateCreated": "2024-06-18 15:10:29+00:00",
+    "dateUpdated": "2024-08-01 18:07:27+00:00",
+    "postBody": "Amazon RDS for SQL Server now integrates transaction log backups with Database Migration Service (DMS). This integration provides greater reliability in data replication for customers using DMS to replicate data from an RDS for SQL Server source database. If database connection interruptions or sudden transaction volume spikes cause active transaction logs to be archived before DMS can finish processing, DMS can now access the RDS for SQL Server backup logs to recover and resume replication. This prevents replication failures that would previously require a full data reload.\nThe integration of transaction log backup with DMS is now generally available in all AWS regions where RDS for SQL Server is currently supported. To learn more about setting up ongoing DMS replication on a RDS for SQL Server DB instance, visit the documentation page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-sql-server-integration-transaction-log-backup-with-dms",
+    "postDateTime": "2024-08-01 14:00:00-04:00",
+    "postDate": "2024-08-01",
+    "contentType": "launch announcement",
+    "headline": "Amazon RDS for SQL Server supports integration of transaction log backup with DMS",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-database-migration-service",
+            "name": "aws-database-migration-service",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-database-migration-service"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds-for-sql-server",
+            "name": "amazon-rds-for-sql-server",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds-for-sql-server"
+        }
+    ]
+}

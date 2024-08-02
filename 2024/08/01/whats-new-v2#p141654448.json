@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p141654448",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-pw1cqUq59hvZ6SGa9mFw8Y",
+    "dateCreated": "2024-08-01 16:27:13+00:00",
+    "dateUpdated": "2024-08-01 19:03:45+00:00",
+    "postBody": "We are happy to announce that the product carbon footprint of Amazon WorkSpaces Thin Client has been verified by the Carbon Trust. This verification is based on measurement and estimation of the product's carbon footprint throughout the stages of its lifecycle.\nThe total lifecycle carbon emission for Amazon WorkSpaces Thin Client is 77kg CO2e as verified by the Carbon Trust. Additionally, this product is made from 50% recycled materials (power adapter and cable not included) and uses Sleep Mode to reduce energy consumption when idle. Amazon WorkSpaces Thin Clients are built to last. But when you’re ready, you can recycle your devices through Amazon Second Chance. See the product sustainability fact sheet for more information about Amazon WorkSpaces Thin Client’s sustainability features and Amazon’s commitment to sustainability.\nVisit the WorkSpaces Thin Client page and Amazon Business to learn more.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-workspaces-thin-client-carbon-trust-verification/",
+    "postDateTime": "2024-08-01 10:00:00-07:00",
+    "postDate": "2024-08-01",
+    "contentType": null,
+    "headline": "Amazon WorkSpaces Thin Client has received Carbon Trust verification for the product's carbon footprint",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#desktop-and-app-streaming",
+            "name": "desktop-and-app-streaming",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/desktop-and-app-streaming"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-workspaces",
+            "name": "amazon-workspaces",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-workspaces"
+        }
+    ]
+}

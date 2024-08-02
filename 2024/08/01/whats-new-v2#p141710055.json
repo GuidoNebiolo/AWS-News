@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p141710055",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-f3Hi7fbwHuZ2ZoM5V89H1Z",
+    "dateCreated": "2024-07-29 16:29:13+00:00",
+    "dateUpdated": "2024-08-01 21:12:26+00:00",
+    "postBody": "Amazon Redshift customers can now connect to their data warehouses via JDBC/ODBC/Python drivers with corporate identity by integrating their identity providers with AWS IAM Identity Center, which enables a seamless single-sign-on experience with other AWS services or Redshift tools that already support trusted identity propagation. With single sign-on capabilities, users can seamlessly access Amazon Redshift and other AWS services without the need to manage multiple sets of credentials.\nCustomers can now connect to Amazon Redshift data warehouses from their SQL client tools over JDBC, Python, and ODBC drivers using their identity with their preferred identity provider such as Microsoft Entra Id, Okta, Ping, OneLogin, etc. by integrating with AWS IAM Identity Center. To authenticate with AWS IAM Identity Center, customers need to configure the issuer_url, plugin_name, and idc_region fields in the Extended Properties for their driver settings. Amazon Redshift supports a browser plugin for AWS IAM Identity Center, which will prompt a browser window for users to sign in with their user credentials defined in their corporate identity providers. Once the users are authenticated they will have authorized access to data based on the permissions defined in either Redshift roles or AWS Lake Formation.\nThis feature is available in the AWS regions where both AWS IAM Identity Center and Amazon Redshift are available. For more information, see our documentation and blog.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-drivers-sign-on-iam-identity-center/",
+    "postDateTime": "2024-08-01 10:00:00-07:00",
+    "postDate": "2024-08-01",
+    "contentType": null,
+    "headline": "Amazon Redshift releases drivers for supporting single sign-on with AWS IAM Identity Center",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-redshift",
+            "name": "amazon-redshift",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-redshift"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        }
+    ]
+}

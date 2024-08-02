@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#d146017024",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-poTmHbCttLq8P1XFA9jJsz",
+    "dateCreated": "2024-07-25 19:23:21+00:00",
+    "dateUpdated": "2024-08-01 17:58:21+00:00",
+    "postBody": "Starting today, AWS Application Migration Service (AWS MGN) provides an action for installing New Relic’s infrastructure agent on your migrated instances. For each migrated server, you can choose to automatically install the New Relic infrastructure agent to support your observability needs.\nApplication Migration Service minimizes time-intensive, error-prone manual processes by automating the conversion of your source servers to run natively on AWS. It also helps simplify modernization of your migrated applications by allowing you to select preconfigured and custom optimization options during migration.\nThis feature is now available in all of the Commercial regions where Application Migration Service is available. Access the AWS Regional Services List for the most up-to-date availability information.\nTo start using Application Migration Service for free, sign in through the AWS Management Console. For more information, visit the Application Migration Service product page.\nFor more information on New Relic and to create an account, visit the New Relic sign-up page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-application-migration-service-relic-post-launch/",
+    "postDateTime": "2024-08-01 10:00:00-07:00",
+    "postDate": "2024-08-01",
+    "contentType": null,
+    "headline": "AWS Application Migration Service supports New Relic post-launch action",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-application-migration-service",
+            "name": "aws-application-migration-service",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-application-migration-service"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#migration",
+            "name": "migration",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/migration"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p136210985",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "noLju48WH4QFHY6KSywgxw",
+    "dateCreated": "2024-07-24 20:53:58+00:00",
+    "dateUpdated": "2024-08-01 21:12:17+00:00",
+    "postBody": "AWS CodePipeline V2 type pipelines now support stage level conditions to enable development teams to safely release changes that meet quality and compliance requirements. Customers can configure stage level conditions to gate a pipeline execution before entering the stage, and before exiting a stage - when all actions in the stage have completed successfully, or when any action in the stage has failed. A condition consists of one or more rules, and a result to apply when the condition fails. Customers can configure a stage level condition from the console, API, CLI, CloudFormation, or SDK.\nCustomers can choose from rules that check the status of an Amazon CloudWatch alarm, or whether the current time is within the deployment window, and custom check by invoking an AWS Lambda function. A condition will fail if one or more rules fail, and CodePipeline will perform the configured result such as Rollback and Fail. For example, you can configure a condition to be evaluated when all the actions in a stage have successfully completed, and roll back the changes if a CloudWatch alarm goes into ALARM state within 60 minutes. Customers can also override a condition that blocks a pipeline execution if it fails a condition evaluation to allow the pipeline execution to enter or exit a stage.\nTo learn more about using stage level conditions in your pipeline, visit our documentation. For more information about AWS CodePipeline, visit our product page. Stage level conditions feature is available in all regions where AWS CodePipeline is supported.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codepipeline-stage-level-conditions-implement-pipeline-gates",
+    "postDateTime": "2024-08-01 17:10:00-04:00",
+    "postDate": "2024-08-01",
+    "contentType": "Launch Announcement",
+    "headline": "AWS CodePipeline introduces stage level conditions to implement pipeline gates",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#developer-tools",
+            "name": "developer-tools",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/developer-tools"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-codepipeline",
+            "name": "aws-codepipeline",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-codepipeline"
+        }
+    ]
+}

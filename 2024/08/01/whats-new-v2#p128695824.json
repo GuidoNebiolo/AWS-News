@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p128695824",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-cP3fZY2TBWpreGiyZaDdss",
+    "dateCreated": "2024-07-23 16:13:57+00:00",
+    "dateUpdated": "2024-08-01 19:25:09+00:00",
+    "postBody": "Today Amazon WorkSpaces and WorkSpaces Core are announcing the general availability of Microsoft Visual Studio 2022 on WorkSpaces Personal. Following this launch, WorkSpaces administrators can provide comprehensive Integrated Development Environment (IDE) for .NET and C++ developers on Windows powered WorkSpaces.\nWith this launch, Amazon WorkSpaces adds Microsoft Visual Studio Enterprise 2022 and Microsoft Visual Studio Professional 2022 to the list of available license included applications on WorkSpaces Personal. Through the Manage applications workflow, which enables administrators to install the necessary set of applications on WorkSpaces Personal depending on the requirements of their end users and uninstall them when an end user is no longer in need of them. Amazon WorkSpaces administrators can now easily add or remove Microsoft Visual Studio 2022 on existing WorkSpaces Personal using the same workflow.\nThis functionality is now available in all the AWS Regions where Amazon WorkSpaces Personal is available. You will be charged for the hardware and application bundles you choose for your WorkSpaces instances. For more details on pricing, refer to Amazon WorkSpaces pricing.\nTo get started, Open the WorkSpaces console. In the navigation pane, choose WorkSpaces, Personal, select a WorkSpace and choose Actions, Manage applications. You can now install Microsoft Visual Studio 2022 on the selected WorkSpace. To learn more and see the list of supported operating systems, please refer to Manage applications in WorkSpaces Personal.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-workspaces-microsoft-visual-studio/",
+    "postDateTime": "2024-08-01 10:00:00-07:00",
+    "postDate": "2024-08-01",
+    "contentType": null,
+    "headline": "Amazon WorkSpaces now offers Microsoft Visual Studio",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-workspaces",
+            "name": "amazon-workspaces",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-workspaces"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#desktop-and-app-streaming",
+            "name": "desktop-and-app-streaming",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/desktop-and-app-streaming"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

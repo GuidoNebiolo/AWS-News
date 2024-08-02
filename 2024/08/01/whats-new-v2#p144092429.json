@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p144092429",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-fcLUKStC6fbQcXvAARK1ZQ",
+    "dateCreated": "2024-07-30 15:58:35+00:00",
+    "dateUpdated": "2024-08-01 19:00:14+00:00",
+    "postBody": "As of today, Amazon Bedrock customers can use Meta’s Llama 3 models, Llama 3 8B and Llama 3 70B, in the AWS GovCloud (US-West) Region.\nMeta Llama 3 is designed for you to build, experiment, and responsibly scale your generative artiﬁcial intelligence applications. You can now use these two Llama 3 models in Amazon Bedrock to easily experiment with and evaluate even more top foundation models for your use case.\nLlama 3 models support a broad range of use cases with improvements in reasoning, code generation, and instruction. The Llama 3 model family is a collection of instruction-tuned LLMs in 8B and 70B parameter sizes. Llama 3 8B is ideal for limited computational power and resources, faster training times, and edge devices. The model excels at text summarization, text classiﬁcation, sentiment analysis, and language translation. Llama 3 70B is ideal for content creation, conversational AI, language understanding, research development, and enterprise applications. The model excels at text summarization and accuracy, text classiﬁcation and nuance, sentiment analysis and nuance reasoning, language modeling, dialogue systems, code generation, and following instructions.\nMeta Llama 3 models are available in Amazon Bedrock in US East (N. Virginia), US West (Oregon), Asia Pacific (Mumbai), Canada (Central), Europe (London), and the GovCloud (US-West) AWS Region. To learn more, visit the Llama in Amazon Bedrock product page and documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/llama-3-aws-govcloud-us-west-region/",
+    "postDateTime": "2024-08-01 10:00:00-07:00",
+    "postDate": "2024-08-01",
+    "contentType": null,
+    "headline": "Llama 3 is now available in the AWS GovCloud (US-West) Region ",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}
