@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1454012352",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "x8c2sdVsLy9hua6x55Ua76",
+    "dateCreated": "2024-07-29 19:57:25+00:00",
+    "dateUpdated": "2024-08-02 17:01:20+00:00",
+    "postBody": "Amazon Connect now supports the ability to configure when whisper flows are used during a contact to optimize flow performance. A whisper flow is what a customer or agent experiences during the moment when they are connected to each other in a voice or chat conversation. With this launch, you can turn off whisper flows, helping you further optimize your flow’s performance and reduce contact duration. For example, you can choose to turn off whisper flows during an outbound or callback scenario to save time when the agent and customer are expecting the contact.\nThis feature is available in all AWS regions where Amazon Connect is offered. To learn more about flows, see the Amazon Connect Administrator Guide. To learn more about Amazon Connect, the AWS cloud-based contact center, please visit the Amazon Connect website.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-configure-whisper-flows",
+    "postDateTime": "2024-08-02 13:00:00-04:00",
+    "postDate": "2024-08-02",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon Connect launches the ability to configure when whisper flows are used",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#messaging",
+            "name": "messaging",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/messaging"
+        }
+    ]
+}

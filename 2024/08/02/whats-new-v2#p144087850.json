@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p144087850",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "pvDuwD4Leg25yMBEDZZn2K",
+    "dateCreated": "2024-07-29 17:59:56+00:00",
+    "dateUpdated": "2024-08-02 19:36:51+00:00",
+    "postBody": "Amazon DataZone has obtained the Payment Card Industry Data Security Standard (PCI DSS) compliance certification, demonstrating that it meets requirements established by the PCI Security Standards Council for handling payment account data securely, as required by financial and insurance industry customers handling credit card payments.\nThe certification includes the 2024 PCI 3-D Secure (3DS) assessment and the shared responsibility guide. These are now available to AWS customers in the AWS Management Console through AWS Artifact, which can help enable PCI 3DS attestation for customers. This attestation may be required to support application-based authentication, digital wallet integration, and browser-based e-commerce transactions using the AWS Services.\nAmazon DataZone is a data management service that makes it faster and easier for customers to catalog, discover, share, and govern data between data producers and consumers in their organization. For more information about Amazon DataZone and how to get started, refer to our product page and review the Amazon DataZone technical documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-datazone-achieves-pci-dss-certification",
+    "postDateTime": "2024-08-02 15:30:00-04:00",
+    "postDate": "2024-08-02",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon DataZone achieves PCI DSS Certification",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-datazone",
+            "name": "amazon-datazone",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-datazone"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

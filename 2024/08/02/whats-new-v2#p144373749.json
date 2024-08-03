@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p144373749",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "pWJ5ZGRew7FGNisN4wonJ3",
+    "dateCreated": "2024-07-31 17:57:54+00:00",
+    "dateUpdated": "2024-08-02 19:18:36+00:00",
+    "postBody": "AWS Payment Cryptography is now available in four new regions - Europe(Frankfurt), Europe(Ireland), Asia Pacific(Singapore) and Asia Pacific(Tokyo). Adding new regional support allows customers with low-latency payment applications to build, deploy or migrate into additional AWS Regions without relying on cross-region support. Customers using AWS Payment Cryptography can simplify cryptography operations in their payment applications with a service that grows elastically, provides modern APIs and integrates into AWS services such as IAM and CloudTrail.\nAWS Payment Cryptography is a managed AWS service that provides access to cryptographic functions and key management used in payment processing in accordance with Payment Card Industry (PCI) security standards without the need to procure dedicated payment HSM instances. The service provides customers performing payment functions such as acquirers, payment facilitators, networks, switches, processors, and banks with the ability to move their payment cryptographic operations closer to applications in the cloud and minimize dependencies on auxiliary data centers or colocation facilities containing dedicated payment HSMs.\nAWS Payment Cryptography is available in the following AWS Regions: US East (Ohio, N. Virginia), US West (Oregon), Europe (Ireland, Frankfurt) and Asia Pacific (Singapore, Tokyo).\nTo learn more about the service, see the AWS Payment Cryptography user guide, and visit the AWS Payment Cryptography page for pricing details and availability in additional regions.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-payment-cryptography-new-regions-europe-asia",
+    "postDateTime": "2024-08-02 15:15:00-04:00",
+    "postDate": "2024-08-02",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Payment Cryptography is now available in four new regions across Europe and Asia",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#cloud-financial-management",
+            "name": "cloud-financial-management",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/cloud-financial-management"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#business-productivity",
+            "name": "business-productivity",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/business-productivity"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#serverless",
+            "name": "serverless",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/serverless"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        }
+    ]
+}

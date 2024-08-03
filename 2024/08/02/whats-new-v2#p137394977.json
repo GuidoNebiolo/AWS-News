@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p137394977",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-bSCK5RvxgWssianGXoqwVt",
+    "dateCreated": "2024-07-25 19:46:46+00:00",
+    "dateUpdated": "2024-08-02 19:15:37+00:00",
+    "postBody": "Amazon EBS Fast Snapshot Restore (FSR) is now available in the AWS Europe (Zurich), Europe (Spain), Middle East (UAE), Asia Pacific (Melbourne), Asia Pacific (Hyderabad), and Israel (Tel Aviv) regions.\nFor volumes that are created from snapshots, the storage blocks must be pulled down from Amazon S3 and written to the volume before you can access them. This initialization process takes time and can cause a significant increase in the latency of I/O operations the first time each block is accessed. Volume performance is achieved after initialization is complete and all blocks have been downloaded and written to the volume. Launched in 2019, FSR eliminates the need for volume initialization, and ensures that EBS volumes restored from FSR-enabled snapshots instantly receive full provisioned performance. With FSR, you get improved and predictable performance which helps with use cases such as virtual desktop infrastructure (VDI), backup & restore, test/dev volume copies, and booting from custom AMIs. You can now also use Amazon Data Lifecycle Manager to automate and manage Fast Snapshot Restore on snapshots created by Data Lifecycle Manager in these regions.\nTo learn more, see the technical documentation, blog, and pricing pages on FSR. This feature is now available through the AWS Command Line Interface (CLI), AWS SDKs, or the AWS console in all commercial AWS regions.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ebs-fast-snapshot-restore-six-additional-regions/",
+    "postDateTime": "2024-08-02 10:00:00-07:00",
+    "postDate": "2024-08-02",
+    "contentType": null,
+    "headline": "Amazon EBS Fast Snapshot Restore (FSR) is now available in six additional regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ebs-snapshots-archive",
+            "name": "amazon-ebs-snapshots-archive",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ebs-snapshots-archive"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

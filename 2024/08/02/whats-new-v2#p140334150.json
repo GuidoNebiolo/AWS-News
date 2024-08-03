@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p140334150",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "q6NcggsZJu438DcCr2YS3z",
+    "dateCreated": "2024-07-29 17:56:02+00:00",
+    "dateUpdated": "2024-08-02 17:00:08+00:00",
+    "postBody": "Today, AWS Marketplace is extending transaction purchase order support to AWS Data exchange private offers, giving customers the ability to ensure their invoices reflect the proper purchase order number. This launch makes it easier for customers to process and pay invoices.\nAWS Marketplace transaction purchase orders will allow the purchase order number that a customer provides at the time of the transaction in AWS Marketplace to appear on all out-of-cycle invoices related to that purchase. Today, a customer’s management (payer) account and linked accounts can provide a purchase order number at the time of purchase in AWS Marketplace for professional services, SaaS contracts, AMI contracts, container contracts, CloudFormation template contracts, helm chart contracts, and private offers with a flexible payment schedule for AMI, container, CloudFormation templates, and helm chart products with annual pricing models. Now, customers can also add transaction purchase order numbers for AWS Data Exchange private offers at the time of offer acceptance in the AWS Data Exchange console.\nTo enable transaction purchase orders for AWS Marketplace, sign into the management account (for AWS Organizations) and enable the AWS Billing integration in the AWS Marketplace Console settings. To learn more, read the AWS Marketplace Buyer Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/purchase-order-aws-data-exchange-private-offers",
+    "postDateTime": "2024-08-02 13:00:00-04:00",
+    "postDate": "2024-08-02",
+    "contentType": "Launch Announcement",
+    "headline": "Announcing purchase order support for AWS Data Exchange private offers",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#partner-network",
+            "name": "partner-network",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/partner-network"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#customer-enablement",
+            "name": "customer-enablement",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/customer-enablement"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-marketplace",
+            "name": "aws-marketplace",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-marketplace"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-data-exchange",
+            "name": "aws-data-exchange",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-data-exchange"
+        }
+    ]
+}

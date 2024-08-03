@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p136595746",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "k9R7RNWNuLnLuueK9FLY61",
+    "dateCreated": "2024-07-02 17:42:12+00:00",
+    "dateUpdated": "2024-08-02 17:03:20+00:00",
+    "postBody": "In June 2023, AWS Database Migration Service (DMS) launched a homogeneous data migration feature to simplify and accelerate like-to-like migrations to Amazon Relational Database Service (Amazon RDS) or Amazon Aurora.\nToday, we are pleased to announce that the DMS homogeneous data migrations feature is now made generally available in 29 AWS regions (includes 9 AWS regions from the June 2023 launch). These include: US East (N. Virginia), US West (Oregon), US East (Ohio), Europe (Ireland), Europe (Frankfurt), Europe (Stockholm), Asia Pacific (Sydney), Asia Pacific (Tokyo), Asia Pacific (Singapore), US West (N. California), South America (São Paulo), Asia Pacific (Seoul), Asia Pacific (Mumbai), Canada (Central), Europe (London), Europe (Paris), Asia Pacific (Osaka), Asia Pacific (Hong Kong), Middle East (Bahrain), Europe (Milan), Africa (Cape Town), Asia Pacific (Jakarta), Middle East (UAE), Europe (Zurich), Europe (Spain), Asia Pacific (Hyderabad), Asia Pacific (Melbourne), Israel (Tel Aviv), and Canada West (Calgary).\nThe DMS homogeneous data migration feature uses Built-in native database tooling to provide simple and performant like-to-like migrations with minimal downtime. It supports migrating from PostgreSQL (version:10.4 - 14.x), MySQL (version: 5.7 and higher), MariaDB (version:10.2 and higher), MongoDB (version:4.x, 5.x, and 6.0), and Amazon DocumentDB (version:3.6, 4.0, and 5.0) databases with both full load and ongoing replication options. Supported source locations include on-premises, Amazon EC2, or Amazon DocumentDB and supported targets include Amazon Relational Database Service (Amazon RDS), Amazon Aurora, Amazon DocumentDB and Amazon DocumentDB Elastic cluster.\nTo learn more, see AWS DMS homogeneous migrations in the AWS Database Migration Service Documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-dms-homogeneous-data-migrations-feature-29-regions",
+    "postDateTime": "2024-08-02 13:00:00-04:00",
+    "postDate": "2024-08-02",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Database Migration Service (DMS) expands DMS homogeneous data migrations feature to 29 AWS regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-database-migration-service",
+            "name": "aws-database-migration-service",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-database-migration-service"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-aurora",
+            "name": "amazon-aurora",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-aurora"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds",
+            "name": "amazon-rds",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds"
+        }
+    ]
+}
