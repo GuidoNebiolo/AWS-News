@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p136004531",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-a4mcF3ck9wQKa48WxgTFrk",
+    "dateCreated": "2024-07-31 17:36:12+00:00",
+    "dateUpdated": "2024-08-09 20:37:05+00:00",
+    "postBody": "Amazon Connect now makes it easier to deliver high-quality voice experiences in Amazon WorkSpaces Virtual Desktop Infrastructure (VDI) environments. Amazon Connect automatically optimizes audio by redirecting media from your agent’s local desktop to Connect, simplifying the agent experience and improving audio quality by reducing network hops. Agents can simply log into their Amazon WorkSpaces client application for a Windows device, a web browser, or Amazon WorkSpaces Thin Client and start accepting calls using your custom agent user interface (i.e., custom Contact Control Panel) using APIs in the Amazon Connect open source JavaScript libraries.\nThese new features are available in all AWS regions where Amazon Connect is offered. To learn more, please see the documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-audio-optimization-workspaces-desktops/",
+    "postDateTime": "2024-08-05 10:00:00-07:00",
+    "postDate": "2024-08-05",
+    "contentType": null,
+    "headline": "Amazon Connect now supports audio optimization for Amazon WorkSpaces cloud desktops",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-workspaces",
+            "name": "amazon-workspaces",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-workspaces"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#desktop-and-app-streaming",
+            "name": "desktop-and-app-streaming",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/desktop-and-app-streaming"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#messaging",
+            "name": "messaging",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/messaging"
+        }
+    ]
+}

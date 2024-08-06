@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p140386090",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "kbK4bKsEpa9YTKsQtzLz2r",
+    "dateCreated": "2024-07-25 16:33:27+00:00",
+    "dateUpdated": "2024-08-05 17:07:10+00:00",
+    "postBody": "Today, AWS Resilience Hub is launching improved resource grouping to more intelligently group your resources into Application Components, which are resources that work and fail as a single unit, when onboarding your application.\nCustomers who want to manage and improve the resilience posture of their applications on AWS can now more quickly and easily onboard their application to Resilience Hub with the new improved resource grouping feature. This feature simplifies onboarding by automatically and accurately organizing resources into appropriate AppComponents. Customers are presented with the grouping recommendations and can determine if the recommendations are accurate and apply to their case. This is particularly valuable for complex, cross-Region applications, as it helps minimize total onboarding time and enables more efficient and organized resilience assessments.\nThe improved resource grouping feature is available in all AWS Regions where Resilience Hub is supported.\nTo learn more about Resilience Hub, visit the documentation and product pages.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-resilience-hub-improved-resource-grouping-capabilities",
+    "postDateTime": "2024-08-05 13:00:00-04:00",
+    "postDate": "2024-08-05",
+    "contentType": null,
+    "headline": "AWS Resilience Hub introduces improved resource grouping capabilities",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-resilience-hub",
+            "name": "aws-resilience-hub",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-resilience-hub"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        }
+    ]
+}

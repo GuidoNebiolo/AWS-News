@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1450055864",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-8LH9FPdxcChxGRMSgfA5D7",
+    "dateCreated": "2024-07-23 18:44:05+00:00",
+    "dateUpdated": "2024-08-05 21:44:46+00:00",
+    "postBody": "Amazon Verified Permissions has simplified implementing fine-grained authorization for developers using third party identity providers, such as Okta, CyberArk and Transmit security. Developers can now authorize user actions, based on attributes and group memberships, managed within their own open id connect (OIDC) compliant identity provider. For example, in a insurance claims processing application, you can authorize that only users in the “manager” group who completed the “high value claim training” are allowed to approve claims for more than $10,000.\nVerified Permissions provides fine-grained authorization for the applications that you build, allowing you to implement permissions as Cedar policies rather than application code. This feature simplifies implementing fine-grained authorization by enabling you to pass OIDC tokens to authorize requests. When authorizing the request, Amazon Verified Permissions validates the OIDC token and evaluates Cedar policies using user attributes and groups extracted from the token.\nYou can get started using the feature by visiting Amazon Verified Permission from the AWS console, and creating a new policy store. We have partnered with leading identity providers, CyberArk, Okta, and Transmit Security, to test this feature and ensure a smooth experience. This feature is available in all regions where Amazon Verified Permissions is available. For more information visit the Verified Permissions product page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-verified-permissions-oidc-identity-providers/",
+    "postDateTime": "2024-08-05 10:00:00-07:00",
+    "postDate": "2024-08-05",
+    "contentType": null,
+    "headline": "Amazon Verified Permissions improves support for OIDC identity providers",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-verified-permissions",
+            "name": "amazon-verified-permissions",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-verified-permissions"
+        }
+    ]
+}

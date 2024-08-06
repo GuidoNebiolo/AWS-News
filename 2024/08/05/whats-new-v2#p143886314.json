@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p143886314",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-eg1m9haHhq5LnJXVFXCuTv",
+    "dateCreated": "2024-07-29 16:51:25+00:00",
+    "dateUpdated": "2024-08-05 21:52:48+00:00",
+    "postBody": "Today, Amazon DataZone introduces data products, which enable the grouping of data assets into well-defined, self-contained packages tailored for specific business use cases. For example, a marketing analysis data product can bundle various data assets, such as marketing campaign data, pipeline data, and customer data. With data products, customers can simplify discovery and subscription processes, aligning them with business objectives and reducing redundancy in handling individual assets.\nTo get started, data producers can create a collection of relevant cataloged assets in the Amazon DataZone portal, add business context, and publish it as a data product unit. This makes it easier for data consumers to find all necessary data assets for specific use cases. Consumers can subscribe to all assets within a data product through a single approval workflow. Data producers can also manage the product's lifecycle, including managing subscriptions and removing it from the catalog. Amazon DataZone offers API support for data product workflows, facilitating integration and automation.\nThe feature is supported in all the AWS commercial regions where Amazon DataZone is currently available.\nCheck out this blog and video to learn more about data products in Amazon DataZone. Get started with the technical documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-datazone-business-case-based-grouping-data-products/",
+    "postDateTime": "2024-08-05 10:00:00-07:00",
+    "postDate": "2024-08-05",
+    "contentType": null,
+    "headline": "Amazon DataZone offers business use case-based grouping with data products",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-datazone",
+            "name": "amazon-datazone",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-datazone"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

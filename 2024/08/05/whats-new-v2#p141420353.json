@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p141420353",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "rFtQzdijZRGKXz5noczKcS",
+    "dateCreated": "2024-07-22 16:59:56+00:00",
+    "dateUpdated": "2024-08-05 21:41:09+00:00",
+    "postBody": "Amazon Connect now supports additional agent scheduling staffing rules, making it easier to schedule agents while complying with labor, union, and other contractual rules. You can now configure five new rules for scheduling agents in Amazon Connect: minimum rest period between shifts, minimum rest period per week, maximum consecutive working days, maximum consecutive day of the week worked, and shift cannot start earlier than the previous day's shift. Once configured, these rules will be applied when new schedules are generated as well as when existing schedules are edited. These additional rules in agent scheduling make day-to-day management of agent schedules easier for managers.\nThis feature is available in all AWS Regions where Amazon Connect agent scheduling is available. To get started with Amazon Connect agent scheduling, click here.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-additional-agent-scheduling-staffing-rules",
+    "postDateTime": "2024-08-05 17:30:00-04:00",
+    "postDate": "2024-08-05",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon Connect now supports additional agent scheduling staffing rules",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#business-productivity",
+            "name": "business-productivity",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/business-productivity"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        }
+    ]
+}

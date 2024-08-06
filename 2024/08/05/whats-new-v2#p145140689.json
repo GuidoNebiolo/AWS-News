@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p145140689",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-fV9n8PaSu9h2UDhbniMLJq",
+    "dateCreated": "2024-08-01 18:01:48+00:00",
+    "dateUpdated": "2024-08-05 16:59:14+00:00",
+    "postBody": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports the July 2024 Release Update (RU) for Oracle Database versions 19c and 21c.\nTo learn more about Oracle RUs supported on Amazon RDS for each engine version, see the Amazon RDS for Oracle Release notes. If the auto minor version upgrade (AmVU) option is enabled, your DB instance is upgraded to the latest quarterly RU six to eight weeks after it is made available by Amazon RDS for Oracle in your AWS Region. These upgrades will happen during the maintenance window. To learn more, see the Amazon RDS maintenance window documentation.\nFor more information about the AWS Regions where Amazon RDS for Oracle is available, see the AWS Region table.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-oracle-july-2024-release-update/",
+    "postDateTime": "2024-08-05 10:00:00-07:00",
+    "postDate": "2024-08-05",
+    "contentType": null,
+    "headline": "Amazon RDS for Oracle now supports July 2024 Release Update",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-rds",
+            "name": "amazon-rds",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

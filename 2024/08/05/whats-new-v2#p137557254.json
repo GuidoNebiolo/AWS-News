@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p137557254",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "uDDeTuUZJbQwAxj1NoEb9i",
+    "dateCreated": "2024-07-24 18:45:34+00:00",
+    "dateUpdated": "2024-08-05 18:34:09+00:00",
+    "postBody": "Elastic Load Balancing (ELB) Trust Stores now supports a new capability that enables cross-account sharing via AWS RAM (Resource Access Manager). This feature allows customers to centrally manage their ELB Trust Stores across multiple accounts to streamline trust store management and enable consistent Mutual TLS configurations across Application Load Balancers (ALBs).\nWith this launch, ELB Trust Store owners can now share their trust stores and revocation lists with other AWS accounts, organizational units (OUs), and specific IAM roles and users through AWS RAM. Security Admins can now maintain a single or smaller number of trust stores within AWS. Application developers can ensure that their ALBs are reliably authenticating certificate based identities by simply attaching the trust store(s) managed by their respective security admins while configuring their load balancers. This improves operational efficiency while using Mutual TLS and reduces the potential for human error associated with managing disparate trust stores and revocation lists.\nThis feature is now available in all commercial AWS Regions and the AWS GovCloud (US) Regions. To learn more, refer to the ELB documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/elastic-load-balancing-trust-store-cross-account-sharing-aws-resource-access-manager",
+    "postDateTime": "2024-08-05 14:30:00-04:00",
+    "postDate": "2024-08-05",
+    "contentType": "Launch Announcement",
+    "headline": "Elastic Load Balancing Trust Store now supports cross-account sharing using AWS Resource Access Manager",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-elastic-load-balancing",
+            "name": "amazon-elastic-load-balancing",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-elastic-load-balancing"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#networking",
+            "name": "networking",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/networking"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}
