@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p134740571",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "rKob5LEXzs96nAu39tNkeu",
+    "dateCreated": "2024-07-11 19:20:44+00:00",
+    "dateUpdated": "2024-08-06 18:38:13+00:00",
+    "postBody": "Amazon WorkSpaces is introducing G4dn WorkSpaces Personal bundles with WSP (WorkSpaces Streaming Protocol) for Windows. Now you can run your graphics-intensive and accelerated applications on Windows using G4dn WorkSpaces with WSP on AWS.\n\nThe Graphics G4dn bundles offer cost-effective solutions for graphics applications optimized for NVIDIA GPUs using NVIDIA libraries such as CUDA, CuDNN, OptiX, and Video Codec SDK. With WSP, your users will benefit from a highly responsive remote desktop experience with 4K resolution and support for multiple monitors. G4dn WorkSpaces with WSP is available for Windows Server 2022. Alternatively, you can bring your own Windows desktop licenses for Windows 10/11.\n\nYou can deploy the Graphics G4dn bundles for Windows with WSP in AWS Regions where WorkSpaces is available, except for the Africa (Cape Town) and Israel (Tel Aviv) Regions. You can launch G4dn Graphics bundles for Windows with WSP from the AWS Management Console, AWS API, or AWS CLI. See the Amazon WorkSpaces pricing page for more information.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/g4dn-workspaces-personal-bundles-wsp-windows",
+    "postDateTime": "2024-08-06 14:30:00-04:00",
+    "postDate": "2024-08-06",
+    "contentType": "Launch Announcement",
+    "headline": "Announcing G4dn WorkSpaces Personal bundles with WSP for Windows",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-workspaces",
+            "name": "amazon-workspaces",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-workspaces"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#desktop-and-app-streaming",
+            "name": "desktop-and-app-streaming",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/desktop-and-app-streaming"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

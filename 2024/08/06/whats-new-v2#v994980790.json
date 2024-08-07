@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v994980790",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "aJDX3tdBRquqwUeVWTwfSG",
+    "dateCreated": "2024-05-22 18:07:26+00:00",
+    "dateUpdated": "2024-08-06 17:09:58+00:00",
+    "postBody": "AWS Control Tower customers can now programmatically get descriptions for managed controls. These APIs enable automation of AWS Control Tower’s library of managed controls improving ease of use for control deployment. With this release customers can extend AWS Control Tower governance into regions where some of their enabled controls are not available. Customers can also enable a control in additional Regions, even though the control is not supported in all of their governed Regions. AWS Control Tower now supports the below APIs:\nListControls – This API call returns a paginated list of all available controls in AWS Control Tower controls library.\nGetControl – This API call returns details of an enabled control which includes target identifier, control summary, target regions, and drift status of the control.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-control-tower-new-descriptive-control-apis",
+    "postDateTime": "2024-08-06 13:00:00-04:00",
+    "postDate": "2024-08-06",
+    "contentType": "launch announcement",
+    "headline": "AWS Control Tower releases 2 new descriptive control APIs",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-control-tower",
+            "name": "aws-control-tower",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-control-tower"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

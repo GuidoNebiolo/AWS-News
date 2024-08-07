@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#d144513898",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-oF3jxdJEAQiF8crNqh6GRY",
+    "dateCreated": "2024-07-30 20:23:15+00:00",
+    "dateUpdated": "2024-08-06 17:05:10+00:00",
+    "postBody": "OR1, the OpenSearch Optimized Instance family, is now available in South America (Sao Paulo). OR1 delivers up to 30% price-performance improvement over existing instances (based on internal benchmarks), and uses Amazon S3 to provide 11 9s of durability. The new OR1 instances are best suited for indexing-heavy workloads, and offers better indexing performance compared to the existing memory optimized instances available on OpenSearch Service.\nOR1 enables customers to economically and reliably scale their OpenSearch deployments without compromising the interactive analytics experience they expect. Each OR1 instance is provisioned with compute, local instance storage for caching, and remote Amazon S3-based managed storage. OR1 offers pay-as-you-go pricing and reserved instances, with a simple hourly rate for the instance, local instance storage, as well as provisioned managed storage. OR1 instances come in sizes ‘medium’ through ‘16xlarge’, and offer compute, memory, and storage flexibility. OR1 instances support OpenSearch versions 2.11 and above. Please refer to the Amazon OpenSearch Service pricing page for pricing details.\nOR1 instance family is now available on Amazon OpenSearch Service in South America (Sao Paulo). Please refer to the AWS Region Table for more information about Amazon OpenSearch Service availability. To get started with OR1 instances, visit our documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-opensearch-service-or1-instances-sao-paulo/",
+    "postDateTime": "2024-08-06 10:00:00-07:00",
+    "postDate": "2024-08-06",
+    "contentType": null,
+    "headline": "Amazon OpenSearch Service OR1 instances now available in Sao Paulo",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-opensearch-service",
+            "name": "amazon-opensearch-service",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-opensearch-service"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

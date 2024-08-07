@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p136350255",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "https://regions.aws.dev/alm/launches/launch-gB36SXGiGm8BjUw4rDos5T",
+    "dateCreated": "2024-07-15 16:45:42+00:00",
+    "dateUpdated": "2024-08-06 18:10:37+00:00",
+    "postBody": "Amazon Redshift ML enables customers to create, train, and deploy machine learning models on their Redshift data using familiar SQL commands. Now, you can leverage pretrained publicly available LLMs in Amazon SageMaker JumpStart as part of Redshift ML. For example, you can use LLMs to summarize feedback, perform entity extraction, and conduct sentiment analysis on data in your Redshift table. Large Language Models in Redshift ML is now generally available which empowers you to bring the power of generative AI to your data warehouse.\nWith this capability, Amazon Redshift ML removes the complexities of building custom machine learning pipelines to perform generative AI tasks like text summarization or categorization. To get started, create an endpoint using one of the supported text based LLMs in SageMaker Jumpstart, create a Redshift ML model referencing the endpoint and you can start invoking the LLM endpoint using standard SQL commands through Redshift ML using your data in Redshift.\nAmazon Redshift support for Large Language Models in Amazon Sagemaker Jumpstart is now available where Amazon Redshift is available and Amazon Sagemaker Jumpstart is available. To learn more, visit the Amazon Redshift database developer guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/large-language-models-sagemaker-jumpstart-redshift-ml/",
+    "postDateTime": "2024-08-06 10:00:00-07:00",
+    "postDate": "2024-08-06",
+    "contentType": null,
+    "headline": "Large language models powered by Amazon Sagemaker Jumpstart available in Redshift ML",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-sagemaker-jumpstart",
+            "name": "amazon-sagemaker-jumpstart",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-sagemaker-jumpstart"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        }
+    ]
+}

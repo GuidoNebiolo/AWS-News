@@ -1,0 +1,28 @@
+{
+    "id": "whats-new-v2#v1465140885",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": " launch-bovPj2gFuJ2YpzaXsukDgs",
+    "dateCreated": "2024-08-05 16:55:58+00:00",
+    "dateUpdated": "2024-08-06 18:54:42+00:00",
+    "postBody": "Today, Amazon Web Services, Inc. (AWS) announces a simplified Migration Acceleration Program (MAP) template in AWS Partner Central that includes the VMware Strategic Partner Incentive (SPI). Eligible AWS Partners can leverage the enhanced MAP template to accelerate more VMware customer migration opportunities with a simple approval workflow and access to SPIs.\nThe simplified MAP template accelerates VMware opportunities by providing better speed to market with fewer AWS approval stages. The AWS Partner Funding Portal (APFP) automatically calculates the eligible VMware SPI incentive and creates associated claim milestones. This improves overall partner productivity by eliminating manual steps. Now, partners can skip navigating to a separate Partner Initiative Funding (PIF) benefit and directly request the VMware SPI as part of the standard MAP template.\nThe simplified MAP template can be accessed by all partners at the Validated Stage in AWS Partner Central and AWS Migration Competency Partners. To learn more, review the 2024 APFP user guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/migration-acceleration-vmware-funding-partner-central/",
+    "postDateTime": "2024-08-06 10:00:00-07:00",
+    "postDate": "2024-08-06",
+    "contentType": null,
+    "headline": "Simplified Migration Acceleration Program for VMware funding experience in AWS Partner Central",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#aws-marketplace-and-partners",
+            "name": "aws-marketplace-and-partners",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/aws-marketplace-and-partners"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

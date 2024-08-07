@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1452754431",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-hwYcUdE3piyP3wFUTVeuc9",
+    "dateCreated": "2024-07-24 18:15:34+00:00",
+    "dateUpdated": "2024-08-06 19:11:46+00:00",
+    "postBody": "We’re excited to announce the launch of Amazon Titan Image Generator v2, a new image generation model which brings to customers additional control and flexibility - including image conditioning using ControlNet, subject consistency, and background removal.\nWith Amazon Titan Image Generator v2 image conditioning, you can use a reference image to guide the generation of the output image. Image conditioning uses ControlNet techniques, like canny edge to preserve edges, and segmentation to identify regions in the reference image, to guide image generation. Amazon Titan Image Generator v2 also lets you fine-tune the model for subject consistency, allowing you to preserve specific images, objects, or themes in the output. Amazon Titan Image Generator v2’s background removal supports intelligent detection and segmentation, allowing it to work with multiple foreground objects and overlapping elements in the image. With Amazon Titan Image Generator v2, you can now shape your visual narratives like never before, guiding the generative process with precision and infusing your artistic vision into every pixel.\nAmazon Titan Image Generator v2 is now available in the US East (N. Virginia), US West (Oregon). To learn more, read about Amazon Titan Image Generator v2 in the AWS News launch blog, visit the Amazon Titan product page, or refer to our documentation. To get started with Amazon Titan Image Generator v2 in Amazon Bedrock, visit the Amazon Bedrock console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/titan-image-generator-v2-amazon-bedrock/",
+    "postDateTime": "2024-08-06 10:00:00-07:00",
+    "postDate": "2024-08-06",
+    "contentType": null,
+    "headline": "Introducing Titan Image Generator v2 now available on Amazon Bedrock ",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        }
+    ]
+}

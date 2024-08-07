@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p139843548",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-uR5FERw2UJDdg96VeKvBLX",
+    "dateCreated": "2024-07-25 19:53:53+00:00",
+    "dateUpdated": "2024-08-06 17:03:10+00:00",
+    "postBody": "Today, Amazon Elastic Container Registry (ECR) announced the general availability of a new version of basic scanning. The new version of ECR basic scanning uses Amazon’s native scanning technology, which is designed to provide customers with improved scanning results and vulnerability detection across a broad set of popular operating systems. This allows customers to further strengthen the security of their container images.\nECR basic scanning enables customers to identify software vulnerabilities in their ECR container images. Customers can either scan their container images manually or via configurations that specify which repositories should be scanned when an image is pushed. Today’s launch enables customers to detect container image vulnerabilities across popular operating systems and receive improved scan findings.\nThe new version of ECR basic scanning is now generally available in all AWS commercial regions and the AWS GovCloud (US) Regions at no additional cost. Existing customers can switch to the new version by using the AWS console or using the new put-account-setting API. New ECR accounts are automatically opted into using the new scanning version. To learn more about ECR basic scanning, this change, and supported regions, please visit our documentation. ECR also offers enhanced scanning which is powered by Amazon Inspector and comes with additional security benefits, including scanning for programming language package vulnerabilities. A complete list of differences between ECR basic scanning and enhanced scanning can be found here.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/new-version-amazon-ecr-basic-scanning/",
+    "postDateTime": "2024-08-06 10:00:00-07:00",
+    "postDate": "2024-08-06",
+    "contentType": null,
+    "headline": "New version of Amazon ECR basic scanning is now generally available",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-ecr",
+            "name": "amazon-ecr",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ecr"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#containers",
+            "name": "containers",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/containers"
+        }
+    ]
+}
