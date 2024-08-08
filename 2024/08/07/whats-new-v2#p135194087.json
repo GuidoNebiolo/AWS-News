@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p135194087",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "1yuNsEwP53LmEXUJowuL2F",
+    "dateCreated": "2024-07-30 15:51:06+00:00",
+    "dateUpdated": "2024-08-07 18:38:44+00:00",
+    "postBody": "Today, AWS Backup announces the general availability of logically air-gapped vault, a new type of AWS Backup vault that allows secure sharing of backups across accounts and organizations, supporting direct restore to help reduce recovery time from a data loss event. Logically air-gapped vault stores immutable backup copies that are locked by default, and isolated with encryption using AWS owned keys.\nYou can get started with logically air-gapped vault using the AWS Backup console, API, or CLI. Target backups to a logically air-gapped vault by specifying it as a copy destination in your backup plan. Share the vault for recovery or restore testing with other accounts using AWS Resource Access Manager (RAM). Once shared, you can initiate direct restore jobs from that account, eliminating the overhead of copying backups first.\nAWS Backup support for logically air-gapped vault is available in the following Regions: US East (N. Virginia, Ohio), US West (N. California, Oregon), Africa (Cape Town), Asia Pacific (Hong Kong, Hyderabad, Jakarta, Melbourne, Mumbai, Osaka, Seoul, Singapore, Sydney, Tokyo), Canada (Central), Europe (Frankfurt, Ireland, London, Milan, Paris, Spain, Stockholm, Zurich), Middle East (Bahrain, UAE), Israel (Tel Aviv) and South America (Sao Paulo). It currently supports Amazon Elastic Compute Cloud (EC2), Amazon Elastic Block Store (EBS), Amazon Aurora, Amazon DocumentDB, Amazon Neptune, AWS Storage Gateway, Amazon Simple Storage Service (S3), Amazon Elastic File System (EFS), Amazon DynamoDB, Amazon Timestream, AWS CloudFormation, and VMware. For more information visit the AWS Backup product page, documentation, and launch blog.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/general-availability-aws-backup-logically-air-gapped-vault",
+    "postDateTime": "2024-08-07 14:20:00-04:00",
+    "postDate": "2024-08-07",
+    "contentType": "Launch Announcement",
+    "headline": "Announcing the general availability of AWS Backup logically air-gapped vault",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-backup",
+            "name": "aws-backup",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-backup"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

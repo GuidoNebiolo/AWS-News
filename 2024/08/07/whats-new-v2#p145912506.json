@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p145912506",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-rB1hDsH1gLZYYoDV7bauZU",
+    "dateCreated": "2024-08-07 20:55:26+00:00",
+    "dateUpdated": "2024-08-07 21:49:28+00:00",
+    "postBody": "Starting today, Amazon Relational Database Service (RDS) for Oracle now supports memory optimized R6i instance types in the AWS GovCloud (US-East) and AWS GovCloud (US-West) regions.\nThe memory optimized R6i instance types feature up to 8x the RAM per vCPU of the existing R6i instance types to better fit your workloads. Many Oracle database workloads require high memory, storage, and I/O bandwidth but can safely reduce the number of vCPUs without impacting application performance. Memory optimized R6i instances come in various configurations from 2 vCPUs to 48 vCPUs, memory from 32 GiB to 1024 GiB, and up to 64:1 memory-to-vCPU ratio. These configurations will allow you to right-size instances for your Oracle workloads.\nMemory optimized R6i instances are available in Bring Your Own License (BYOL) license model and for both Oracle Database Enterprise Edition (EE) and Oracle Database Standard Edition 2 (SE2) editions. You can launch additional memory configurations of the R6i instance class in the Amazon RDS Management Console or using the AWS CLI.\nAmazon RDS for Oracle is a fully managed commercial database that makes it easy to set up, operate, and scale Oracle deployments in the cloud. To learn more about Amazon RDS for Oracle, read RDS for Oracle User Guide and visit Amazon RDS for Oracle Pricing for available instance configurations, pricing details, and region availability.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-oracle-optimized-r6i-instance-types-govcloud/",
+    "postDateTime": "2024-08-07 10:00:00-07:00",
+    "postDate": "2024-08-07",
+    "contentType": null,
+    "headline": "Amazon RDS for Oracle supports memory optimized R6i instance types in the AWS GovCloud (US) Regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds-for-oracle",
+            "name": "amazon-rds-for-oracle",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds-for-oracle"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

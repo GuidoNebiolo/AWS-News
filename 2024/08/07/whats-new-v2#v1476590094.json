@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1476590094",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "2c361WTSntMJi45bvVN4jH",
+    "dateCreated": "2024-08-06 21:53:29+00:00",
+    "dateUpdated": "2024-08-07 17:03:20+00:00",
+    "postBody": "Amazon EFS provides serverless, fully elastic file storage that makes it simple to set up and run file workloads in the AWS cloud. In March 2024, we increased the Elastic Throughput read throughput limit to 20 GiB/s (from 10 GiB/s) to support the growing demand for read-heavy workloads such as AI and machine learning. Now, we are further increasing the read throughput to 30 GiB/s, extending EFS’s simple, fully elastic, and provisioning-free experience to support throughput-intensive AI and machine learning workloads for model training, inference, financial analytics, and genomic data analysis.\nThe increased throughput limits are immediately available for EFS file systems using the Elastic Throughput mode in the US East (N. Virginia), US East (Ohio), US West (Oregon), EU West (Dublin), and Asia Pacific (Tokyo) Regions. To learn more, see the Amazon EFS Documentation or create a file system using the Amazon EFS Console, API, or AWS CLI.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-efs-30-gibs-read-throughput",
+    "postDateTime": "2024-08-07 13:00:00-04:00",
+    "postDate": "2024-08-07",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon EFS now supports up to 30 GiB/s (a 50% increase) of read throughput",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-efs",
+            "name": "amazon-efs",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-efs"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

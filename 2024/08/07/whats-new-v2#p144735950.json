@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p144735950",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "qo3vq63oh41KzabJ2vuL7g",
+    "dateCreated": "2024-07-29 19:44:02+00:00",
+    "dateUpdated": "2024-08-07 17:10:25+00:00",
+    "postBody": "Beginning today, Amazon Bedrock customers in US West (Oregon), Europe (Frankfurt), Asia Pacific (Tokyo), and Asia Pacific (Singapore) can now access Claude 3.5 Sonnet. Additionally, Amazon Bedrock customers in Asia Pacific (Tokyo) and Asia Pacific (Singapore) can now access Claude 3 Haiku.\nClaude 3.5 Sonnet is Anthropic’s latest foundation model and ranks among the most intelligent in the world. With Claude 3.5 Sonnet, you can now get intelligence better than Claude 3 Opus, at one fifth the cost. Claude 3 Haiku is Anthropic’s most compact model, and one of the fastest, most affordable options on the market for its intelligence category.\nAmazon Bedrock is a fully managed service that offers a choice of high-performing large language models (LLMs) and other foundation models from leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, as well as Amazon via a single API. Amazon Bedrock also provides a broad set of capabilities customers need to build generative AI applications with security, privacy, and responsible AI built in. These capabilities help you build tailored applications for multiple use cases across different industries, helping organizations unlock sustainable growth from generative AI while maintaining privacy and security.\nTo learn more, read the Claude in Amazon Bedrock product page and documentation. To get started with Claude 3.5 Sonnet and Claude 3 Haiku in Amazon Bedrock, visit the Amazon Bedrock console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/claude-3-5-sonnet-haiku-more-regions",
+    "postDateTime": "2024-08-07 13:00:00-04:00",
+    "postDate": "2024-08-07",
+    "contentType": "Launch Announcement",
+    "headline": "Claude 3.5 Sonnet and Claude 3 Haiku now available in more regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        }
+    ]
+}

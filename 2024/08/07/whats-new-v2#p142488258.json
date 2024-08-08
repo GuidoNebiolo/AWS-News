@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p142488258",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "m9YCGdKxvMFzFp8doWDDMU",
+    "dateCreated": "2024-07-30 15:59:27+00:00",
+    "dateUpdated": "2024-08-07 17:06:20+00:00",
+    "postBody": "Starting today, Amazon EC2 High Memory instances with 9TiB of memory (u-9tb1.112xlarge) are now available in Europe (Paris) region. Customers can start using these new High Memory instances with On Demand and Savings Plan purchase options.\nAmazon EC2 High Memory instances are certified by SAP for running Business Suite on HANA, SAP S/4HANA, Data Mart Solutions on HANA, Business Warehouse on HANA, and SAP BW/4HANA in production environments. For details, see the Certified and Supported SAP HANA Hardware Directory.\nFor information on how to get started with your SAP HANA migration to EC2 High Memory instances, view the Migrating SAP HANA on AWS to an EC2 High Memory Instance documentation. To hear from Steven Jones, GM for SAP on AWS on what this launch means for our SAP customers, you can read his launch blog.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-high-memory-instances-paris-region",
+    "postDateTime": "2024-08-07 13:00:00-04:00",
+    "postDate": "2024-08-07",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon EC2 High Memory instances now available in Europe (Paris) Region",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ec2",
+            "name": "amazon-ec2",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ec2"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "whats-new-v2#v1456591784",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "nDRzSc7bFrnvLitYob6YnP",
+    "dateCreated": "2024-07-31 20:06:51+00:00",
+    "dateUpdated": "2024-08-07 17:00:53+00:00",
+    "postBody": "Cost Optimization Hub is an AWS Billing and Cost Management feature that helps you consolidate and prioritize cost optimization recommendations, so that you can get the most out of your AWS spend. Starting today, you can designate a member account as the delegated administrator, allowing that account to view cost optimization recommendations in the Cost Optimization Hub with administrator privileges, giving you greater flexibility to identify resource optimization opportunities centrally.\nDelegating an administrator allows you to manage Cost Optimization Hub independently of the management account and incorporate AWS security best practices, which recommend delegating responsibilities outside of the management account where possible. Cost Optimization Hub delegated administrators can easily identify, filter, and aggregate over 15 types of AWS cost optimization recommendations, such as EC2 instance rightsizing recommendations, idle resource recommendations, and Savings Plans recommendations, across your AWS accounts and AWS Regions through a single console page.\nDelegated administrator for Cost Optimization Hub is available in all AWS Regions where Cost Optimization Hub and AWS Organizations are available.\nTo learn more about delegated administrator for Cost Optimization Hub, see the user guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/delegated-administrator-cost-optimization-hub",
+    "postDateTime": "2024-08-07 13:00:00-04:00",
+    "postDate": "2024-08-07",
+    "contentType": "Launch Announcement",
+    "headline": "Announcing delegated administrator for Cost Optimization Hub",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#cloud-financial-management",
+            "name": "cloud-financial-management",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/cloud-financial-management"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#cost-management",
+            "name": "cost-management",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/cost-management"
+        }
+    ]
+}

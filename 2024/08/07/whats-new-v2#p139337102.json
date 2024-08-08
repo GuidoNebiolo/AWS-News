@@ -1,0 +1,52 @@
+{
+    "id": "whats-new-v2#p139337102",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "b3AiD2UT4iDBwBDaYhf9Ci",
+    "dateCreated": "2024-07-23 18:43:33+00:00",
+    "dateUpdated": "2024-08-07 21:50:56+00:00",
+    "postBody": "Amazon CloudWatch Application Signals now supports Amazon Bedrock, enabling users to troubleshoot errors and slow performance in generative AI applications. Amazon Bedrock is a fully managed service that offers foundation models (FMs) built by leading AI companies, such as Anthropic, Meta, and Amazon along with other tools for building generative AI applications. For users with generative AI applications relying on Bedrock FMs, this enhancement provides a deeper understanding of how failures such as model validation exceptions or how latency in different models impact end user experience.\nApplication Signals, provides out-of-the-box dashboards to correlate telemetry across metrics, traces, logs, real-user monitoring, and synthetic monitoring for your application and its dependencies, such as Amazon Simple Queue Service (SQS), Amazon S3, or Amazon Bedrock, speeding up troubleshooting application disruption. For example, an application developer operating an LLM (Large Language Model) application that invokes Bedrock FMs can track if their customer support API is experiencing any issues. They can then drill into the precisely correlated trace contributing to the error, along with correlated logs, to establish the root cause, such as invalid model inputs or long response times from LLM models, leading to poor end user experience. Tracking model performance within your application allows you to evaluate different models and choose the best one for your use case, optimizing for cost and customer experience.\nTo learn more, see documentation to enable Amazon CloudWatch Application Signals on your applications interacting with Amazon Bedrock models. To try Application Signals on a sample application visit AWS One Observability Workshop.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cloudwatch-application-signals-bedrock",
+    "postDateTime": "2024-08-07 17:50:00-04:00",
+    "postDate": "2024-08-07",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon CloudWatch Application Signals now supports Amazon Bedrock",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#developer-tools",
+            "name": "developer-tools",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/developer-tools"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#mobile-services",
+            "name": "mobile-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/mobile-services"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-cloudwatch",
+            "name": "amazon-cloudwatch",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-cloudwatch"
+        }
+    ]
+}

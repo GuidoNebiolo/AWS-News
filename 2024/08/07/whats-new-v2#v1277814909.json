@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1277814909",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-iaBTPdx5CJcLATL73uPkyE",
+    "dateCreated": "2024-06-24 20:30:24+00:00",
+    "dateUpdated": "2024-08-07 20:24:33+00:00",
+    "postBody": "Amazon QuickSight includes a new advanced filter type: nested filters. Authors can use a nested filter to use one field in a dataset to filter another field in the dataset. You might know this by another name such as in SQL this would be known as a correlated sub-query and in shopping analysis this would be known as market basket analysis.\nNested filtering enables authors to show additional contextual data, rather than filtering it out if it doesn’t meet an initial condition. This can be useful in many different scenarios including market basket analysis where it is now possible to find out sales quantity by product for those customers who have purchased a specific product or who did not purchase a specific product. It is now also possible to find out the group of customers who did not purchase any one of the selected product list or only purchased a specific list of products.\nNested filters are now available in all supported Amazon QuickSight regions - US East (Ohio and N. Virginia), US West (Oregon), Asia Pacific (Mumbai, Seoul, Singapore, Sydney and Tokyo), Canada (Central), Europe (Frankfurt, Ireland and London), South America (São Paulo) and AWS GovCloud (US-West). See here for QuickSight regional endpoints.\nFor more on how to set up a nested filter, go to our documentation here and blog post here.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-quicksight-nested-filters/",
+    "postDateTime": "2024-08-07 10:00:00-07:00",
+    "postDate": "2024-08-07",
+    "contentType": null,
+    "headline": "Amazon QuickSight now includes nested filters",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-quicksight",
+            "name": "amazon-quicksight",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-quicksight"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}
