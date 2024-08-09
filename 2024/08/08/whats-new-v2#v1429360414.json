@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1429360414",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-3D3AwgyuVjx5UK15tZu3Ba",
+    "dateCreated": "2024-07-09 20:53:55+00:00",
+    "dateUpdated": "2024-08-08 20:21:17+00:00",
+    "postBody": "AWS Glue announces general availability of a new AWS Glue Data Quality(Glue DQ) capability that uses ML-powered anomaly detection algorithms to detect hard-to-find data quality issues and anomalies. This helps customers proactively identify and fix data quality issues.\nData engineers and analysts use rules in Glue DQ to measure and monitor their data. While Glue DQ's existing rule-based approach works well for known data patterns, it may miss unexpected anomalies . Now, data engineers and analysts can use Glue DQ's Anomaly Detection capability to easily detect unanticipated data quality issues. To use this feature, customers can write rules or analyzers and then turn on Anomaly Detection in Glue ETL. Glue DQ collects statistics for columns specified in rules and analyzers, applies ML algorithms to detect anomalies, and generates easy-to-understand visual observations explaining the detected issues. Customers can use recommended rules to capture the anomalous patterns and provide feedback to tune the ML model for more accurate detection.\nTo learn more, visit read the blog, watch the introductory video, or refer to the documentation. This capability is available in US East (N. Virginia), US East (Ohio), US West (Oregon), Europe (Ireland), Europe (Stockholm), Europe (Frankfurt), Asia Pacific (Singapore), Asia Pacific (Sydney), and Asia Pacific (Tokyo).\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-glue-ml-powered-glue-data-quality-capability/",
+    "postDateTime": "2024-08-08 10:00:00-07:00",
+    "postDate": "2024-08-08",
+    "contentType": null,
+    "headline": "AWS Glue announces GA of new ML-powered Glue Data Quality capability",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-glue",
+            "name": "aws-glue",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-glue"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

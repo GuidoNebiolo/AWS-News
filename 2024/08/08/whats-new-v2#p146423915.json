@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p146423915",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "9PTfqoU2k9sYPy137cSboQ",
+    "dateCreated": "2024-08-06 19:10:53+00:00",
+    "dateUpdated": "2024-08-08 19:06:13+00:00",
+    "postBody": "AWS today announced support for Amazon WorkSpaces Pools on Amazon WorkSpaces Thin Client. With this launch, Amazon WorkSpaces Thin Client customers have the flexibility to choose between Amazon WorkSpaces Personal, a fully persistent virtual desktop, and WorkSpaces Pools, a cost-effective, non-persistent virtual desktop, with support for existing Microsoft 365 Apps for enterprise licenses to help reduce cost and optimize agility.\nWorkSpaces Pools also simplifies management across a customer’s WorkSpaces environments by providing a single cloud-based tool set to manage the various desktop hardware configurations, storage, and applications for the user, including the ability to manage their existing Microsoft 365 Apps for enterprise. Administrators use AWS Application AutoScaling to automatically scale a pool of virtual desktops based on real-time usage metrics or predefined schedules. WorkSpaces Pools offers pay-as-you-go hourly pricing, helping to optimize costs.\nAmazon WorkSpaces Pools on WorkSpaces Thin Client is available in all AWS Regions where WorkSpaces Thin Client is available.\nTo get started with WorkSpaces Pools on Amazon WorkSpaces Thin Client, log on to AWS Management Console, navigate to the WorkSpaces Thin Client service and follow the Amazon WorkSpaces Thin Client administration guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-workspaces-thin-client-pools",
+    "postDateTime": "2024-08-08 15:00:00-04:00",
+    "postDate": "2024-08-08",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon WorkSpaces Thin Client now supports Amazon WorkSpaces Pools",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-workspaces",
+            "name": "amazon-workspaces",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-workspaces"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#desktop-and-app-streaming",
+            "name": "desktop-and-app-streaming",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/desktop-and-app-streaming"
+        }
+    ]
+}

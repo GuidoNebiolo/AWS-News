@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#d150040789",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-1k6ZU1p4LUCRsUjJpvjqHp",
+    "dateCreated": "2024-08-05 17:12:57+00:00",
+    "dateUpdated": "2024-08-08 16:52:08+00:00",
+    "postBody": "Amazon Relational Database Service (RDS) for PostgreSQL now supports the latest minor versions 16.4, 15.8, 14.13, 13.16, and 12.20. This release of RDS for PostgreSQL also includes updates for PostgreSQL extensions such as pgvector 0.7.3, hypopg 1.4.1, and others.\nWe recommend that you upgrade to the latest minor versions to fix known security vulnerabilities in prior versions of PostgreSQL, and to benefit from the bug fixes added by the PostgreSQL community. You are able to leverage automatic minor version upgrades to automatically upgrade your databases to more recent minor versions during scheduled maintenance window. Learn more about upgrading your database instances in the Amazon RDS User Guide.\nAmazon RDS for PostgreSQL makes it simple to set up, operate, and scale PostgreSQL deployments in the cloud. See Amazon RDS for PostgreSQL Pricing for pricing details and regional availability. Create or update a fully managed Amazon RDS database in the Amazon RDS Management Console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-for-postgresql-supports-minor-versions/",
+    "postDateTime": "2024-08-08 10:00:00-07:00",
+    "postDate": "2024-08-08",
+    "contentType": null,
+    "headline": "Amazon RDS for PostgreSQL supports minor versions 16.4, 15.8, 14.13, 13.16, and 12.20",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds",
+            "name": "amazon-rds",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        }
+    ]
+}

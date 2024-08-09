@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p115022822",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-mcnz5c4MFRDsxeBsR7F7rm",
+    "dateCreated": "2024-07-30 16:56:18+00:00",
+    "dateUpdated": "2024-08-08 21:15:49+00:00",
+    "postBody": "Amazon Aurora PostgreSQL-Compatible Edition now supports pgvector 0.7.0, an open-source extension for PostgreSQL for storing vector embeddings in your database. pgvector provides vector similarity search capabilities enabling Aurora usage for semantic search and retrieval-augemented generation (RAG) in generative artificial intelligence (AI) applications.\npgvector 0.7.0 adds parallelism to improve the Hierarchical Navigable Small Worlds (HNSW) index build time in Aurora. pgvector 0.7.0 adds two new vector data types: halfvec for storing dimensions as 2-byte floats, and sparsevec for storing up to 1,000 nonzero dimensions, and now supports indexing binary vectors using the PostgreSQL-native bit type. These additions let you use scalar and binary quantization for the vector data type using PostgreSQL expression indexes, which reduces index storage size and lowers index build time. Quantization also lets you increase the maximum dimensions of vectors you can index: 4,000 for halfvec and 64,000 for binary vectors.\npgvector 0.7.0 is available in Amazon Aurora clusters running PostgreSQL 16.3, 15.7, 14.12, 13.15, and 12.19 and higher in all applicable AWS Regions except China regions, but including the AWS GovCloud (US) Regions. You can initiate a minor version upgrade by modifying your DB cluster. Please review the Aurora documentation to learn more.\nAmazon Aurora is designed for unparalleled high performance and availability at global scale with full MySQL and PostgreSQL compatibility. It provides built-in security, continuous backups, serverless compute, up to 15 read replicas, automated multi-Region replication, and integrations with other AWS services. To get started with Amazon Aurora, take a look at our getting started page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/pgvector-0-7-0-aurora-postgresql/",
+    "postDateTime": "2024-08-08 10:00:00-07:00",
+    "postDate": "2024-08-08",
+    "contentType": null,
+    "headline": "Announcing pgvector 0.7.0 support in Aurora PostgreSQL",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-aurora",
+            "name": "amazon-aurora",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-aurora"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

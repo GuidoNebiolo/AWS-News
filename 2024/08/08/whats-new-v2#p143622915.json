@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p143622915",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-mrpoLhHcmNZZpEM8pUxukt",
+    "dateCreated": "2024-07-29 16:40:35+00:00",
+    "dateUpdated": "2024-08-08 22:01:22+00:00",
+    "postBody": "Today, AWS announces the general availability of AWS Glue Data Catalog views for Athena and Redshift. AWS Glue Data Catalog views are a new capability that allows customers to create, grant permissions on, and query multi-engine SQL views in AWS Glue Data Catalog from Amazon Athena and Amazon Redshift. With AWS Glue Data Catalog views you can create, share, and query views across AWS regions, accounts, and organizations.\nAWS Glue Data Catalog views allow customers to create views that can be queried from multiple engines without requiring consumers to have access to the tables referenced in the view. Administrators can use AWS Glue Data Catalog views to represent data restrictions and control what underlying data users can access using the rich SQL dialects provided by Amazon Redshift and Amazon Athena. Access to Glue Data Catalog views is managed with AWS Lake Formation permissions such as named resource grants, data filters, and lake formation tags. To enable easy auditing, all requests are logged in AWS Cloud Trail.\nAWS Glue Data Catalog Multi-Engine views are generally available in commercial AWS Regions where AWS Lake Formation, AWS Glue Data Catalog, Amazon Redshift, and Amazon Athena are available.\nTo get started with this feature, refer to the below:\nBlog\nLake Formation views Docs\nRedshift views Docs\nAthena views Docs\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-glue-data-catalog-views-athena-redshift/",
+    "postDateTime": "2024-08-08 10:00:00-07:00",
+    "postDate": "2024-08-08",
+    "contentType": null,
+    "headline": "AWS Glue Data Catalog views are now GA with Amazon Athena and Amazon Redshift",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-glue",
+            "name": "aws-glue",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-glue"
+        }
+    ]
+}

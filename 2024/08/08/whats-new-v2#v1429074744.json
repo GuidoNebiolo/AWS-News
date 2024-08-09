@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1429074744",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "1Lo3DT7Ru6utZQK3AkpYFv",
+    "dateCreated": "2024-08-02 19:26:20+00:00",
+    "dateUpdated": "2024-08-08 18:33:55+00:00",
+    "postBody": "Amazon Relational Database Service (Amazon RDS) for Db2 now supports loading data from Amazon S3 into Db2 databases.\nWith Amazon RDS for Db2, you can use a Db2 client to load data into your Db2 databases using locally stored files on the client machine. However, the load cannot be performed if the locally stored data file includes large data objects such as Binary Long Objects (BLOBs), Character Large Objects (CLOBs), Extended Markup Language (XML), or Javascript Object Notation (JSON) greater than 32 KB. With this launch, you can now transfer such data files with large data objects to an S3 bucket and load it directly into Db2 databases on RDS.\nRefer RDS for Db2 documentation for the steps involved in setting up access to your S3 bucket and loading the data in Db2 databases on RDS.\nAmazon RDS makes it simple to set up, operate, and scale Db2 deployments in the cloud. Review the Amazon RDS for Db2 pricing page for pricing and regional availability.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-db2-loading-data-s3",
+    "postDateTime": "2024-08-08 14:30:00-04:00",
+    "postDate": "2024-08-08",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon RDS for Db2 supports loading data from Amazon S3",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds",
+            "name": "amazon-rds",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds"
+        }
+    ]
+}

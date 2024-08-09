@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p135182722",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "5XETrYTBqs7zzzgLmm9Yn6",
+    "dateCreated": "2024-08-02 16:34:17+00:00",
+    "dateUpdated": "2024-08-09 16:58:37+00:00",
+    "postBody": "Amazon Web Services, Inc. (AWS) announces the launch of the Agreements data feed for the Seller Delivery Data Feed Service(SDDS). The Agreement data feed provides Sellers the ability to programmatically create the granular data from the Seller Insight dashboards in a Seller preferred business intelligence tool to track subscriptions, revenue and renewals.\nFor AWS Marketplace sellers leveraging the Seller Delivery Data Feed Service (SDDS), the updated agreement data can be accessed through a new data feed: AgreementFeed_V1. Data can be extracted, transformed and loaded from a seller’s Amazon S3 Bucket to a preferred data warehouse or relational database.\nIn addition, the Agreements and Renewals Insight dashboard includes an enhanced view of AWS Marketplace agreements for SaaS, Server and Professional Services products. The enhanced view includes estimated agreement value and agreement status. Agreement status enables Sellers to identify agreements at different stages of the lifecycle allowing easy categorization of AWS Marketplace sales at a glance. Estimated agreement value helps Sellers during renewal pricing discussions by providing reference to previous agreement values.\nPrior to this launch, AWS Marketplace sellers relied on email notifications or the AWS Marketplace Agreements API to collect agreement status and estimated value. AWS Marketplace sellers can utilize the agreements and renewals dashboard or data feeds to track and analyze key aspects of their customer agreements.\nTo setup SDDS, visit the AWS Seller guide for accessing data feeds.\nTo learn more about the agreements and renewals dashboard, visit the AWS Seller guide on Seller dashboards for sales operations.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-marketplace-dashboard-data-feed-agreement-renewals-sellers",
+    "postDateTime": "2024-08-08 13:00:00-04:00",
+    "postDate": "2024-08-08",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Marketplace launches new dasbhoard and data feed to track customer agreement and renewals for AWS Marketplace sellers",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-marketplace",
+            "name": "aws-marketplace",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-marketplace"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#partner-network",
+            "name": "partner-network",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/partner-network"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#aws-marketplace-and-partners",
+            "name": "aws-marketplace-and-partners",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/aws-marketplace-and-partners"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

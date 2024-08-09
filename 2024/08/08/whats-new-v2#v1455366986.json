@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1455366986",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "6QieyrFCsyVUoNkLLAqtPN",
+    "dateCreated": "2024-08-02 18:52:44+00:00",
+    "dateUpdated": "2024-08-08 17:08:16+00:00",
+    "postBody": "AWS Snowball Edge Storage Optimized 210TB device now offers a 100TB pricing option for data migration. With this offering, the AWS Snowball Edge Storage Optimized 210TB device supports two pricing options for data migration: less than 100TB, and from 100TB to 210TB pricing. In addition, the AWS Snowball Edge Storage Optimized 210 device is now available in the following additional regions: Africa (Cape Town), Asia Pacific (Jakarta), Canada (Central), Europe (Stockholm), and Europe (Milan).\nFor the majority of data migration workloads, customers should use AWS DataSync as a secure, online service that automates and accelerates moving data between on premises and AWS Storage services. When bandwidth is limited, or a connection is intermittent, customers can use AWS Snowball Edge Storage Optimized 210TB for offline data migration.\nThe 100TB pricing option is available in all AWS Regions where the AWS Snowball Edge Storage Optimized 210TB is available. Learn more, visit the AWS Snowball Pricing, Snow product page and Snow Family documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-snowball-edge-storage-optimized-210tb-device--lower-capacity-pricing-option",
+    "postDateTime": "2024-08-08 13:00:00-04:00",
+    "postDate": "2024-08-08",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Snowball Edge Storage Optimized 210TB device offers lower capacity pricing option",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#migration",
+            "name": "migration",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/migration"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-snowball",
+            "name": "aws-snowball",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-snowball"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-snowball-edge",
+            "name": "aws-snowball-edge",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-snowball-edge"
+        }
+    ]
+}

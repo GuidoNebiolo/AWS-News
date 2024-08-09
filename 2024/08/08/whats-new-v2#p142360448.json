@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p142360448",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-4UMB1oDSKDahfe9Wq5yhy2",
+    "dateCreated": "2024-07-25 16:11:19+00:00",
+    "dateUpdated": "2024-08-08 16:50:18+00:00",
+    "postBody": "Today, we are excited to announce that the Amazon EMR 7.2 release is now generally available and includes Apache Spark 3.5.1, Trino 436, and PrestoDB 0.285, Apache Iceberg 1.5.0 and Delta 3.1. Furthermore, with Amazon EMR 7.2, you can view additional Amazon CloudWatch metrics for enhanced monitoring in the Amazon EMR console, which provides comprehensive monitoring capabilities, allowing you to track the performance and health of your cluster more effectively.\nYou can configure the Amazon CloudWatch Agent to publish metrics for Apache Hadoop, YARN, and Apache HBase applications running on your Amazon EMR on EC2 clusters, and track the metrics of each cluster within the EMR console. In addition, Amazon EMR 7.2 adds support for Apache Flink Operator 1.8 with Amazon EMR on EKS.\nAmazon EMR release 7.2 is now available in all regions where Amazon EMR is available. See Regional Availability of Amazon EMR, and our release notes for more detailed information. To learn how to enable Amazon CloudWatch Agent metrics, view the documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-emr-7-2-apache-spark-3-5-1/",
+    "postDateTime": "2024-08-08 10:00:00-07:00",
+    "postDate": "2024-08-08",
+    "contentType": null,
+    "headline": "Amazon EMR 7.2 now supports Apache Spark 3.5.1",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-emr",
+            "name": "amazon-emr",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-emr"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

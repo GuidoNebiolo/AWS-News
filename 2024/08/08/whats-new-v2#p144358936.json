@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p144358936",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "b9FcPaVGHvu22iGPdi2Xgj",
+    "dateCreated": "2024-08-05 19:26:04+00:00",
+    "dateUpdated": "2024-08-08 19:50:08+00:00",
+    "postBody": "AWS announces the general availability of private IPv6 addressing for VPCs and subnets with Amazon VPC IP Address Manager (IPAM). On AWS, private IPv6 addresses can take the form of Unique Local IPv6 Unicast Addresses (ULA) and Global Unicast Addresses (GUA), and can only be used for private access. These IPv6 addresses are not and cannot be advertised to the internet by AWS. Within IPAM, customers can configure private IPv6 addresses in a private scope, provision ULA and GUA, and use them to create VPCs and subnets for private access.\nCustomers want private IPv6 address for the innate security boost it offers as resources using private IPv6 address cannot access the internet directly. It also provides assurance for compliance as customers can demonstrate that their resources with private IPv6 addresses are not internet accessible through a quick audit. These customers have no intention of directly routing traffic from these resources to the internet via AWS, and instead use proxies or network appliances for selective internet access via AWS, or route traffic through their on-premise network where the IPv6 address range is advertised to the internet. For such use cases, private IPv6 addressing helps simplify IP addressing and VPC network configuration in IPv6.\nPrivate IPv6 addressing for VPCs and subnets is now available in all AWS commercial regions and AWS GovCloud (US) regions, in both Free Tier and Advanced Tier VPC IPAM. To learn more about IPv6 addressing type, see the blog and VPC documentation, and to get started, please see the IPAM documentation page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-private-ipv6-addressing-vpcs-subnets",
+    "postDateTime": "2024-08-08 15:30:00-04:00",
+    "postDate": "2024-08-08",
+    "contentType": "Launch Announcement",
+    "headline": "AWS announces private IPv6 addressing for VPCs and subnets",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-vpc",
+            "name": "amazon-vpc",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-vpc"
+        },
+        {
+            "id": "whats-new-v2#general-products#ipv6-at-aws",
+            "name": "ipv6-at-aws",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/ipv6-at-aws"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#networking",
+            "name": "networking",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/networking"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}
