@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p135971248",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-gbWxzhgKJ9stMivXnSGjto",
+    "dateCreated": "2024-08-08 16:11:54+00:00",
+    "dateUpdated": "2024-08-09 20:40:34+00:00",
+    "postBody": "Amazon Connect now provides an API to update the routing criteria on a contact while it is currently in queue. Routing criteria allow you to target a contact to a specific preferred agent or to a set of agents based on their attributes, such as their proficiency level in a particular language. With this API, you can now update the routing criteria on a queued contact directly from an external system. For example, you could build a dashboard that allows agents to pick contacts from a queue to be routed next, based on attributes such as customer name, and send those routing instructions to Connect with this new API. To learn more about the UpdateContactRoutingData API, see the UpdateContactRoutingData documentation in the Amazon Connect API Reference.\nThis feature is available in all AWS regions where Amazon Connect is offered. To learn more about routing criteria, see the Amazon Connect Administrator Guide. To learn more about Amazon Connect, the AWS cloud-based contact center, please visit the Amazon Connect website.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-api-routing-criteria-queued-contact/",
+    "postDateTime": "2024-08-09 10:00:00-07:00",
+    "postDate": "2024-08-09",
+    "contentType": null,
+    "headline": "Amazon Connect now provides an API to update routing criteria on a queued contact",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#messaging",
+            "name": "messaging",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/messaging"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

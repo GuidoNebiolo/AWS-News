@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p146784642",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-wQTdSdy1QGoJehAwSmsxgQ",
+    "dateCreated": "2024-08-09 15:40:12+00:00",
+    "dateUpdated": "2024-08-09 18:04:04+00:00",
+    "postBody": "Amazon DocumentDB (with MongoDB compatibility) has achieved FedRAMP High approval in AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. Federal agencies, public sector organizations and other enterprises with FedRAMP High compliance requirements can now leverage Amazon DocumentDB to store and query their JSON-based document workloads.\nIn addition to achieving FedRAMP High approval in the AWS GovCloud (US-East and US-West) Regions, Amazon DocumentDB is in scope for numerous compliance programs and standards, including HIPAA (Health Insurance Portability and Accountability Act), PCI DSS (Payment Card Industry – Data Security Standard), ISO (International Organization for Standardization), SOC 1, 2, and 3 (System and Organization Controls). To learn more about AWS Application Migration Service compliance validation, visit the documentation here.\nAmazon DocumentDB is a fully managed, native JSON database that makes it simple and cost-effective to operate critical document workloads at virtually any scale without managing infrastructure. Get started by creating Amazon DocumentDB cluster from the AWS Management Console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-documentdb-fedramp-high-approval-govcloud/",
+    "postDateTime": "2024-08-09 10:00:00-07:00",
+    "postDate": "2024-08-09",
+    "contentType": null,
+    "headline": "Amazon DocumentDB achieves FedRAMP High approval in the AWS GovCloud (US) Regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-documentdb",
+            "name": "amazon-documentdb",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-documentdb"
+        }
+    ]
+}
