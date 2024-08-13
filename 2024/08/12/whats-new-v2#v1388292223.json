@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1388292223",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "peiAohbLyNNh1XPWwQuJi9",
+    "dateCreated": "2024-06-06 16:28:56+00:00",
+    "dateUpdated": "2024-08-12 20:56:38+00:00",
+    "postBody": "AWS Batch now supports cancellation of jobs while they are waiting in the queue. This allows you to cancel jobs before they are executed. Also, if you are using the fair-share scheduling feature, you can cancel jobs with an outdated priority to make room for jobs submitted by other users to the same queue to progress. Jobs canceled while waiting in queue will be moved to the FAILED state.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-batch-cancelling-queued-jobs",
+    "postDateTime": "2024-08-12 16:50:00-04:00",
+    "postDate": "2024-08-12",
+    "contentType": "launch announcement",
+    "headline": "AWS Batch adds support for cancelling queued jobs",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-batch",
+            "name": "aws-batch",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-batch"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#containers",
+            "name": "containers",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/containers"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p145931290",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-3uVVRcRTGH7uocu5vhVjXq",
+    "dateCreated": "2024-08-08 16:21:31+00:00",
+    "dateUpdated": "2024-08-12 21:23:40+00:00",
+    "postBody": "Amazon CloudWatch Internet Monitor has launched an updated console experience, including new features for visualizing configuration changes that can help you reduce latency for your application. With the refreshed dashboard, the Internet Monitor console now lets you easily find and take advantage of Internet Monitor’s breadth of capabilities. The Overview page summarizes statistics for all monitored traffic, while the Health events page shows details of internet health events across the globe that impact your end user traffic. You can use the Analyze page to view top client locations (by traffic volume) as well as historical trends for your application’s internet health scores. On the Configure page, you can view a summary of resources monitored and other details, and update your monitor settings. Finally, the Optimize page provides suggestions for how you can reduce latency.\nOn the Optimize page, you can view and explore enhanced suggestion options for improving traffic latency for your top Regions and client locations. To help you quickly view the best improvement options, Internet Monitor now provides top configuration suggestions that provide the best latency for your app. You can also explore other configurations, to compare latency across any AWS Region, and Amazon CloudFront. First, choose all the Region options that you want to explore for reducing latency (optionally, include CloudFront too). Then, Internet Monitor displays how making each change would impact your traffic performance, overall and city-by-city.\nTo learn more, visit the Network Monitoring page or see the Internet Monitor user guide documentation \n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cloudwatch-internet-monitor-dashboard-traffic/",
+    "postDateTime": "2024-08-12 10:00:00-07:00",
+    "postDate": "2024-08-12",
+    "contentType": null,
+    "headline": "Amazon CloudWatch Internet Monitor enhances dashboard and traffic suggestions",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-cloudwatch",
+            "name": "amazon-cloudwatch",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-cloudwatch"
+        }
+    ]
+}

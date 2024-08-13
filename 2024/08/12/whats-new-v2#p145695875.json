@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p145695875",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-1yPvVqBNzMGAoBmx28NY3b",
+    "dateCreated": "2024-08-09 16:03:36+00:00",
+    "dateUpdated": "2024-08-12 18:16:54+00:00",
+    "postBody": "New minor versions of Microsoft SQL Server are now available on Amazon RDS for SQL Server, providing performance enhancements and security fixes. Amazon RDS for SQL Server now supports these latest minor versions of SQL Server 2016, 2017, 2019 and 2022 across the Express, Web, Standard, and Enterprise editions.\nWe encourage you to upgrade your Amazon RDS for SQL Server database instances at your convenience. You can upgrade with just a few clicks in the Amazon RDS Management Console or by using the AWS CLI. Learn more about upgrading your database instances from the Amazon RDS User Guide. The new minor versions include:\nSQL Server 2016 GDR - 13.0.6441.1,\nSQL Server 2017 CU31 GDR - 14.0.3471.2,\nSQL Server 2019 GDR - 15.0.4382.1 and\nSQL Server 2022 GDR - 16.0.4131.2.\n\nThese minor versions are available in all AWS commercial regions where Amazon RDS for SQL Server databases are available, including the AWS GovCloud (US) Regions.\nAmazon RDS for SQL Server makes it simple to set up, operate, and scale SQL Server deployments in the cloud. See Amazon RDS for SQL Server Pricing for pricing details and regional availability.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-sql-server-minor-versions-gdr/",
+    "postDateTime": "2024-08-12 10:00:00-07:00",
+    "postDate": "2024-08-12",
+    "contentType": null,
+    "headline": "Amazon RDS for SQL Server supports minor versions 2016 GDR, 2017 CU31 GDR, 2019 GDR, 2022 GDR",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds-for-sql-server",
+            "name": "amazon-rds-for-sql-server",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds-for-sql-server"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

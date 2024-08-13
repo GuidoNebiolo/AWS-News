@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1358785334",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-cM6HBNY37VUhxcgZUvQqRq",
+    "dateCreated": "2024-07-23 16:43:53+00:00",
+    "dateUpdated": "2024-08-12 21:19:05+00:00",
+    "postBody": "AWS Wickr now allows you to establish a network in the Europe (Zurich) Region to help you meet data residency requirements, and other obligations.\nAWS Wickr is a security-first messaging and collaboration service with features designed to help keep your internal and external communications secure, private, and compliant. AWS Wickr protects one-to-one and group messaging, voice and video calling, file sharing, screen sharing, and location sharing with end-to-end encryption. Customers have full administrative control over data, which includes addressing information governance polices, configuring ephemeral messaging options, and deleting credentials for lost or stolen devices. You can log both internal and external conversations in an AWS Wickr network to a private data store that you manage, for data retention and auditing purposes.\nAWS Wickr is available in the AWS US East (N. Virginia), AWS GovCloud (US-West), AWS Canada (Central), AWS Asia Pacific (Singapore, Sydney, and Tokyo), and AWS Europe (London, Frankfurt, Stockholm, and now Zurich) Regions.\n\nTo learn more and get started, see the following resources:\nAWS Wickr product detail page\nAWS Wickr administration guide\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-wickr-europe-zurich-region/",
+    "postDateTime": "2024-08-12 10:00:00-07:00",
+    "postDate": "2024-08-12",
+    "contentType": null,
+    "headline": "AWS Wickr is now available in the Europe (Zurich) Region",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-wickr",
+            "name": "aws-wickr",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-wickr"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#business-productivity",
+            "name": "business-productivity",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/business-productivity"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#messaging",
+            "name": "messaging",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/messaging"
+        }
+    ]
+}

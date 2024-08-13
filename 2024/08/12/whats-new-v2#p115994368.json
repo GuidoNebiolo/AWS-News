@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p115994368",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "5AhcV17b8us5GpoxsKcg33",
+    "dateCreated": "2024-08-02 14:03:24+00:00",
+    "dateUpdated": "2024-08-12 20:11:35+00:00",
+    "postBody": "AWS announces the general availability of support for Cost Allocation tags for the AWS Transit Gateway. With this capability, administrators can tag their AWS Transit Gateway resource and use AWS cost allocation tags to categorize and allocate costs by team, department or application.\nUntil now, customers were able to only categorize their Attachment Hours costs by tagging attachments. Customers will now, also be able to categorize their data processing and data transfer charges by tagging AWS Transit Gateway as a resource.\nSupport for Cost Allocation tags is available in all regions. You can enable this feature by tagging your AWS Transit Gateway resource using the AWS Management Console, Amazon Command Line Interface, and the Amazon Software Development Kit. There is no additional charge for using Cost Allocation Tags with AWS Transit Gateway. For more information, see Tag operations, and AWS Transit Gateway product, pricing and documentation pages.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/cost-allocation-tags-aws-transit-gateway",
+    "postDateTime": "2024-08-12 16:10:00-04:00",
+    "postDate": "2024-08-12",
+    "contentType": "Launch Announcement",
+    "headline": "AWS announces support for Cost Allocation Tags on AWS Transit Gateway",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#networking",
+            "name": "networking",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/networking"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-transit-gateway",
+            "name": "aws-transit-gateway",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-transit-gateway"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p140816135",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "quQ5ozzYX81NEmZeSk5UtS",
+    "dateCreated": "2024-08-02 16:39:24+00:00",
+    "dateUpdated": "2024-08-12 19:01:25+00:00",
+    "postBody": "Amazon Connect Contact Lens generative AI-powered agent performance evaluations (preview) are now available in Europe (Frankfurt), Europe (London), Canada (Central), Asia Pacific (Sydney), Asia Pacific (Tokyo), and Asia Pacific (Singapore) AWS regions, providing managers with generative AI-powered recommendations for answers to questions in agent evaluation forms. Managers now receive additional agent behavioral insights (e.g., did the agent show empathy while delivering bad news?), and get context and justification for the recommended answers (i.e., reference points from the transcript that were used to provide answers), enabling them to perform evaluations faster and more accurately.\nWith this launch, Contact Lens generative AI-powered agent performance evaluations is available in 8 AWS regions, including the 6 new regions and the existing US East (N. Virginia), US West (Oregon) regions. To learn more about this feature, please visit our documentation and our webpage. During preview, this feature is included with Contact Lens performance evaluations at no additional charge. For information about Contact Lens pricing, please visit our pricing page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-contact-lens-generative-ai-powered-agent-performance-evaluations-preview-new-regions",
+    "postDateTime": "2024-08-12 15:00:00-04:00",
+    "postDate": "2024-08-12",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon Connect Contact Lens generative AI-powered agent performance evaluations (preview) now available in 6 new regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#business-productivity",
+            "name": "business-productivity",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/business-productivity"
+        }
+    ]
+}
