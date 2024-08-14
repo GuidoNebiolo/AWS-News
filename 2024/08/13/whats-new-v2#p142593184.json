@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p142593184",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-8FQuHWYgY5ZsNNS7gEd8RG",
+    "dateCreated": "2024-07-29 21:07:15+00:00",
+    "dateUpdated": "2024-08-13 20:41:21+00:00",
+    "postBody": "Today, we are excited to announce that Amazon Neptune Analytics now supports openCypher queries over RDF graphs! This enhancement aims to bridge the gap between RDF graphs and labeled property graphs (LPGs), allowing organizations to harness the best of both worlds without being constrained by the limitations of traditional technology choices.\nWhen building graph-based applications, developers often face a significant decision: choosing between RDF graphs, which use SPARQL, and LPGs, which utilize Gremlin and openCypher. This choice can be challenging for newcomers and a source of frustration for experienced users who wonder why they can’t leverage openCypher with RDF. Additionally, the need to ingest and query a combination of LPG and RDF data together has been a long-standing challenge. With our new OneGraph initiative, we aim to provide graph interoperability, enabling the use of graph query languages regardless of the underlying graph model. Organizations can run openCypher queries over RDF graphs and apply powerful graph algorithms across a unified dataset, combining the strengths of both RDF and LPG models. This unified approach enhances the overall analytical capabilities and flexibility of graph-based solutions. By introducing openCypher support for RDF graphs, Amazon Neptune Analytics is taking a significant step towards fostering a more unified approach.\nTo learn more about Neptune Analytics and support for openCypher Queries over RDF Graphs, visit the features page, user guide, and feature blog.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-neptune-analytics-opencypher-queries-graphs/",
+    "postDateTime": "2024-08-13 10:00:00-07:00",
+    "postDate": "2024-08-13",
+    "contentType": null,
+    "headline": "Amazon Neptune Analytics now supports openCypher queries over RDF Graphs",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-neptune",
+            "name": "amazon-neptune",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-neptune"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        }
+    ]
+}

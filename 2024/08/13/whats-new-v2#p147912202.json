@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p147912202",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "e45cpPuVez9uqpk7dBsCxm",
+    "dateCreated": "2024-08-13 20:47:24+00:00",
+    "dateUpdated": "2024-08-13 21:38:33+00:00",
+    "postBody": "We are excited to announce that AWS HealthOmics now supports the ability to specify Domain Specific Language (DSL) and Nextflow version when creating private workflows. AWS HealthOmics is a fully managed service that helps healthcare and life science organizations build at-scale to store, query, and analyze genomic, transcriptomic, and other omics data to improve health and drive scientific discoveries.\nWith this release, customers can now define the DSL version used and Nextflow version preference when executing their private workflows. HealthOmics will automatically identify and execute the appropriate Nextflow version based on the DSL specified in the workflow definition and nextflowVersion specified in the Nextflow configuration manifest file. This feature allows customers to ensure reproducibility and compatibility across their analyses, enabling them to validate experiments more easily and collaborate more effectively with internal and external teams.\nYou can specify DSL and Nextflow version in your private workflows in all regions where AWS HealthOmics is available: US East (N. Virginia), US West (Oregon), Europe (Frankfurt, Ireland, London), Asia Pacific (Singapore), and Israel (Tel Aviv). To get started with Nextflow versioning in private workflows, see the AWS HealthOmics documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-healthomics-dsl-nextflow-version-detection",
+    "postDateTime": "2024-08-13 17:30:00-04:00",
+    "postDate": "2024-08-13",
+    "contentType": "Launch Announcement",
+    "headline": "AWS HealthOmics now supports DSL and Nextflow version detection",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-omics",
+            "name": "amazon-omics",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-omics"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-health",
+            "name": "aws-health",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-health"
+        }
+    ]
+}

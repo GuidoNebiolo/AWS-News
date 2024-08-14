@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p126760638",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "9nRZB58rn6jGzQ516txEE2",
+    "dateCreated": "2024-05-21 20:25:31+00:00",
+    "dateUpdated": "2024-08-13 17:59:02+00:00",
+    "postBody": "Today, Amazon DataZone announced a set of new data governance capabilities called domain units and authorization policies that enable customers to create business unit/team level organization and manage policies per their business needs. With the addition of domain units, users can organize, create, search, and find data assets and projects associated with business units or teams. With authorization policies, those domain unit users can set access policies for creating projects, glossaries, and using compute resources within Amazon DataZone.\nAs an Amazon DataZone administrator, you can now create domain units (e.g Sales, Marketing) under the top-level domain and assign domain unit owners to further manage their data team's structure. Amazon DataZone users can login to the portal to browse and search the catalog by domain units, and subscribe to data produced by specific business units. Additionally, authorization policies can be configured for a domain unit permitting actions such as who can create projects, metadata forms and glossaries within their domain units. Authorized portal users can then login to the Amazon DataZone portal, and create entities such as projects and create metadata forms using the authorized projects.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-datazone-launches-domain-units-authorization-policies",
+    "postDateTime": "2024-08-13 13:45:00-04:00",
+    "postDate": "2024-08-13",
+    "contentType": "launch announcement",
+    "headline": "Amazon DataZone launches domain units and authorization policies",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-datazone",
+            "name": "amazon-datazone",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-datazone"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

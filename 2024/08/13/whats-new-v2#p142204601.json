@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p142204601",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "rmG5opJ4K9Y6jKHwnprX3f",
+    "dateCreated": "2024-08-12 19:11:09+00:00",
+    "dateUpdated": "2024-08-13 17:00:47+00:00",
+    "postBody": "Amazon EMR (Elastic MapReduce) is the industry-leading cloud big data solution for data processing, interactive analytics, and machine learning, designed to run open-source frameworks such as Apache Spark, Hive and Trino efficiently on AWS. We are excited to announce that  the Amazon S3 Express One Zone storage class is now supported on all EMR deployment models - EMR on EC2, EMR on EKS, and EMR Serverless, for Spark, Trino, Flink, Hive and HBase workloads.\nAmazon S3 Express One Zone is a high-performance, single-Availability Zone (AZ) storage class purpose-built to deliver consistent, single-digit millisecond data access for your most frequently accessed data and latency-sensitive applications. With this launch, you can now accelerate data movement between Amazon EMR and Amazon S3, enabling faster job execution times and improved performance for your workloads. This is particularly beneficial for workloads with strict service-level agreements (SLAs) or those requiring low-latency data access. Amazon S3 Express One Zone is supported for Spark, Trino, Flink, Hive and HBase workloads on EMR on EC2, for Spark and Flink workloads on EMR on EKS and for Spark and Hive workloads on EMR Serverless.\nAmazon S3 Express One Zone support on EMR is available with Amazon EMR release 7.2.0 and later in the AWS Regions where S3 Express One Zone is available. To get started using Amazon S3 Express One Zone on Amazon EMR, visit the user guide for Amazon EMR on EC2, EMR on EKS, and EMR Serverless.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-express-one-zone-storage-class-emr",
+    "postDateTime": "2024-08-13 13:00:00-04:00",
+    "postDate": "2024-08-13",
+    "contentType": "Launch Announcement",
+    "headline": "Announcing Amazon S3 Express One Zone storage class support on Amazon EMR",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-emr",
+            "name": "amazon-emr",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-emr"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-s3",
+            "name": "amazon-s3",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-s3"
+        }
+    ]
+}
