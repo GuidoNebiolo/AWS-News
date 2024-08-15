@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1484132999",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "mii6NHxHMeePsNheQ1VoUZ",
+    "dateCreated": "2024-08-14 17:25:22+00:00",
+    "dateUpdated": "2024-08-14 22:01:11+00:00",
+    "postBody": "Amazon Q in QuickSight is now generally available in Asia Pacific (Mumbai), Europe (Ireland), South America (São Paulo), Europe (London), Canada (Central), in addition to the existing Europe (Frankfurt), US East (N. Virginia), and US West (Oregon) regions.\nThis expansion brings the power of Generative Business Intelligence to more customers, enabling them to leverage natural language capabilities of Amazon Q to quickly extract insights from data, make better business decisions, and accelerate the work of business analysts.\nWith Amazon Q in QuickSight, users can generate documents, slide decks, and executive summaries explaining data and providing recommendations tailored to their business. The data Q&A experience empowers users to confidently answer questions of data, even those not covered by existing dashboards.\nThis launch expands availability of Amazon Q in QuickSight capabilities within existing QuickSight Regions, reducing latency to access services and helping customers meet data residency compliance.\nAmazon Q in QuickSight is not trained on customer data, and its governance and data security features meet the most stringent requirements for enterprise and government customers.\nTo learn more visit the Amazon Q in QuickSight product page and try it FREE for 30-days.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-q-quicksight-additional-regions",
+    "postDateTime": "2024-08-14 14:40:00-04:00",
+    "postDate": "2024-08-14",
+    "contentType": "Launch Announcement",
+    "headline": " Amazon Q in QuickSight is now available in 5 additional regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-q",
+            "name": "amazon-q",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-q"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-quicksight",
+            "name": "amazon-quicksight",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-quicksight"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        }
+    ]
+}

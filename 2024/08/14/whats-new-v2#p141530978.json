@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p141530978",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-8mttzTnm89Wx6Y2VrUfZcn",
+    "dateCreated": "2024-07-30 16:43:58+00:00",
+    "dateUpdated": "2024-08-14 18:35:59+00:00",
+    "postBody": "Today, we are introducing new capabilities for managing Amazon EC2 On-Demand Capacity Reservations which enable you to split your Capacity Reservations, move capacity between Capacity Reservations, and modify your Capacity Reservation’s instance eligibility attribute. On-Demand Capacity Reservations help you to reserve compute capacity for your workloads in a specific Availability Zone for any duration. When your workload requirements change, these new features provide you the flexibility to resize and reconfigure your reservations.\nTo get started, you can specify any reservation and split its available capacity into a new reservation. Similarly, you can specify any reservation and move its available capacity into an existing reservation with matching configuration. Finally, you can now switch between “open” and “targeted” Capacity Reservation configurations by modifying the instance eligibility attribute.\nThese new features are available to all Capacity Reservations customers in all AWS commercial regions, China regions (Beijing region, operated by Sinnet, and Ningxia region, operated by NWCD), and the AWS GovCloud (US) Regions at no additional cost. To learn more about these features, please refer to the Capacity Reservations user guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-on-demand-capacity-reservations-attributes/",
+    "postDateTime": "2024-08-14 14:30:00-04:00",
+    "postDate": "2024-08-14",
+    "contentType": "Launch Announcement",
+    "headline": "New capabilities for Amazon EC2 On-Demand Capacity Reservations: Split, Move, and Modify additional attributes",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ec2",
+            "name": "amazon-ec2",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ec2"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

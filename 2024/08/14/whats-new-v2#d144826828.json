@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#d144826828",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "dcWm6JcPtV1D9zvbbRxeTu",
+    "dateCreated": "2024-08-12 18:25:13+00:00",
+    "dateUpdated": "2024-08-14 19:44:02+00:00",
+    "postBody": "Amazon Redshift announces support for the query import feature in Query Editor V2, enabling you to bring your existing SQL queries into the editor. This functionality streamlines workflows for data analysts, engineers, and developers working with Amazon Redshift by allowing them to upload one or more SQL files on their desktop to the query editor.\nThe query import feature eliminates the need for manual and error prone copy-pasting or rewriting queries, allowing you to upload your existing SQL queries directly into the Query Editor. You can import single files, multiple files, or entire folders and easily migrate your SQL queries from your desktop, another tool, or data warehouse. Imported queries can also be seamlessly integrated into existing SQL notebooks or new ones, fostering organized workspaces and efficient sharing and collaboration across teams. With this feature, you can streamline your data analysis processes, reduce duplicated effort, and accelerate time-to-insight.\nThis feature is available in all regions where Amazon Redshift Query Editor v2 is available. To learn more, see the Amazon Redshift documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-query-editor-v2-query-import",
+    "postDateTime": "2024-08-14 15:40:00-04:00",
+    "postDate": "2024-08-14",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon Redshift Query Editor V2 now supports query import",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-redshift",
+            "name": "amazon-redshift",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-redshift"
+        }
+    ]
+}

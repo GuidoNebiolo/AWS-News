@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p143373916",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "2GNenm64STM77ka5ncQaZZ",
+    "dateCreated": "2024-07-23 18:37:20+00:00",
+    "dateUpdated": "2024-08-14 21:01:25+00:00",
+    "postBody": "Today, with the release of Karpenter version 1.0.0, Karpenter’s APIs graduate out of beta. Karpenter is a flexible, efficient, and high-performance Kubernetes compute management solution that helps improve application availability, reduce operational overhead, and increase cluster compute utilization. This release also includes three new features which provide customers greater control over how and when Karpenter disrupts Kubernetes applications. Customers can use Karpenter with Amazon Elastic Kubernetes Service (EKS) or any conformant Kubernetes cluster.\nLike other Kubernetes open-source projects, Karpenter’s APIs follow a maturity progression from alpha to beta then stable. In October 2023, the Karpenter project graduated its APIs from alpha to beta. This release marks the final milestone in the project’s maturity and customers can be assured that all Karpenter APIs will remain available in future 1.0 minor versions and not modified in any way that results in breaking changes. Alongside the graduation from beta, this 1.0 release includes three new features for Karpenter: 1/ the ability to specify disruption reasons, e.g. underutilization, emptiness, drift, for disruption budgets, 2/ a forceful disruption mode that helps customers balance application availability against security requirements, and 3/ an expansion of consolidateAfter which lets customers better tune Karpenter’s consolidation feature to meet their cost-efficiency and application availability requirements.\nA full description of these features, and other changes introduced in v1.0.0, is available in the Karpenter 1.0 launch blog. To learn more about Karpenter, visit karpenter.sh or the Autoscaling page in the Amazon EKS User Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/karpenter-1-0",
+    "postDateTime": "2024-08-14 17:00:00-04:00",
+    "postDate": "2024-08-14",
+    "contentType": null,
+    "headline": "Announcing Karpenter 1.0",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#containers",
+            "name": "containers",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/containers"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-eks",
+            "name": "amazon-eks",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-eks"
+        }
+    ]
+}

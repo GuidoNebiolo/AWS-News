@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p139454272",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "2SHvbt56BbRDaatvjsRSCr",
+    "dateCreated": "2024-07-25 17:05:57+00:00",
+    "dateUpdated": "2024-08-14 21:37:15+00:00",
+    "postBody": "Today, Amazon EKS introduces EKS Pod Identity, a new feature that simplifies how cluster administrators can configure Kubernetes applications to obtain AWS IAM permissions in the AWS GovCloud (US) Regions. These permissions can now be easily configured with fewer steps directly through EKS console, APIs, and CLI. EKS Pod Identity makes it easy to use an IAM role across multiple clusters and simplifies policy management by enabling the reuse of permission policies across IAM roles.\nEKS Pod Identity offers cluster administrators a simplified workflow for authenticating applications to all AWS resources such as Amazon S3 buckets, Amazon DynamoDB tables, and more. As a result, cluster administrators need not switch between the EKS and IAM services, or execute privileged IAM operations to configure permissions required by your applications. IAM roles can now be used across multiple clusters without the need to update the role trust policy when creating new clusters. IAM credentials supplied by EKS Pod Identity include support for role session tags, with support for attributes such as cluster name, namespace, service account name. Role session tags enable administrators to author a single permission policy that can work across roles by allowing access to AWS resources based on matching tags.\nTo get started visit the EKS documentation. To learn more about the feature, see the launch blog.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-eks-pod-identity-aws-govcloud-us-regions",
+    "postDateTime": "2024-08-14 17:30:00-04:00",
+    "postDate": "2024-08-14",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon EKS introduces EKS Pod Identity in the AWS GovCloud (US) Regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-eks",
+            "name": "amazon-eks",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-eks"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#containers",
+            "name": "containers",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/containers"
+        }
+    ]
+}
