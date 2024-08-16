@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p147395099",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "gvWdweLzyYTSxtfWePL1Kx",
+    "dateCreated": "2024-08-12 19:25:37+00:00",
+    "dateUpdated": "2024-08-16 17:01:27+00:00",
+    "postBody": "Amazon QuickSight launches new capability for account administrators to use Customer Managed Keys (CMK) to encrypt and manage their QuickSight data source credentials and OAuth tokens. This feature is an extension to the QuickSight feature here.\nAmazon QuickSight already has a service and console page in which customers can register CMKs with QuickSight. If a customer registers a default key with QuickSight, for newly created/updated data sources, we will encrypt the sensitive credential information using the customers default CMK. If a customer has not registered a CMK with QuickSight, then our service will continue to encrypt the information using a service owned KMS key.\nThis new feature is available in the following QuickSight regions: US East (N. Virginia and Ohio), US West (Oregon), Asia Pacific (Mumbai, Seoul, Singapore, Sydney and Tokyo), Europe (Frankfurt, Stockholm, Paris, Ireland and London), Canada (Central), South America (São Paulo), and the AWS GovCloud (US-West) Region. For further details, click here.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-quicksight-cmk-data-source-information",
+    "postDateTime": "2024-08-15 13:00:00-04:00",
+    "postDate": "2024-08-15",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon QuickSight launches Customer Managed Key Encryption (CMK) for Data Source Information",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-quicksight",
+            "name": "amazon-quicksight",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-quicksight"
+        }
+    ]
+}
