@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1424246796",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-vWcF7cLsV3y9gjgj1MRyMc",
+    "dateCreated": "2024-08-08 18:03:26+00:00",
+    "dateUpdated": "2024-08-15 17:21:51+00:00",
+    "postBody": "AWS CodeBuild now supports configuring multiple access tokens for each source provider. You can store your OAuth or personal access tokens in AWS Secrets Manager, and specify them in CodeBuild projects. This feature is available for your GitHub, GitHub Enterprise and Bitbucket source repositories.\nWith multiple access tokens, you can use different tokens with scoped down permissions for each of your projects. Configuring tokens in Secrets Manager enables you to audit the token access using CloudTrail logs, and set IAM roles and resource policies to limit who can access these tokens.\nThis feature is available in all regions where CodeBuild is offered. For more information about the AWS Regions where CodeBuild is available, see the AWS Regions page.\nTo get started, create a Secrets Manager secret with your access token and configure it in your CodeBuild project. To learn more about how CodeBuild connects to your repositories, see access your source provider in CodeBuild.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-multiple-access-tokens-secrets-manager/",
+    "postDateTime": "2024-08-15 10:00:00-07:00",
+    "postDate": "2024-08-15",
+    "contentType": null,
+    "headline": "AWS CodeBuild now supports multiple access tokens via AWS Secrets Manager",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-codebuild",
+            "name": "aws-codebuild",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-codebuild"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#developer-tools",
+            "name": "developer-tools",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/developer-tools"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

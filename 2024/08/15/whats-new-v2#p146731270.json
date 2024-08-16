@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p146731270",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-omuY6sNaFFJ14Gq2qEbH9N",
+    "dateCreated": "2024-08-12 21:07:55+00:00",
+    "dateUpdated": "2024-08-15 20:50:42+00:00",
+    "postBody": "Amazon Web Services (AWS) announces the general availability of the digital twin feature for AWS Ground Station, which provides virtualized ground station infrastructure that allows you to perform space-to-ground compatibility testing. AWS Ground Station is a fully managed service that lets you control satellite communications, process data, and scale your operations without having to worry about building or managing your own ground station infrastructure. With this new feature, you can now more quickly and easily integrate your satellite communication and scheduling workflows with AWS Ground Station.\nThe digital twin feature allows you to verify compatibility between your mission planning software and AWS Ground Station's scheduling service in a virtual environment. Now, you can begin integration and testing without needing to wait for spectrum licensing approvals, allowing you to be ready in time for the launch of your satellite. An AWS Ground Station digital twin emits the same Amazon EventBridge events and API responses that customers receive when using AWS Ground Station, allowing you to fine-tune configurations and scale your infrastructure reliably.\nThe digital twin feature for AWS Ground Station provides virtualized antennas at each location where AWS Ground Station is available, including: US East (Ohio), US West (Oregon, Hawaii, Alaska), Europe (Ireland, Stockholm), Middle East (Bahrain), Africa (Cape Town), Asia Pacific (Dubbo, Seoul, Singapore) and South America (Punta Arenas). This new feature is available in all AWS Regions where AWS Ground Station is available.\nTo get your mission off the ground even faster, see AWS Ground Station digital twin in the AWS Ground Station User Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/digital-twin-available-aws-ground-station/",
+    "postDateTime": "2024-08-15 10:00:00-07:00",
+    "postDate": "2024-08-15",
+    "contentType": null,
+    "headline": "Digital twin is now generally available for AWS Ground Station ",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-ground-station",
+            "name": "aws-ground-station",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-ground-station"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#satellite",
+            "name": "satellite",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/satellite"
+        }
+    ]
+}

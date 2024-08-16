@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p148106847",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "gfDUgAvDriJWtJMMV1VSyZ",
+    "dateCreated": "2024-08-14 20:57:14+00:00",
+    "dateUpdated": "2024-08-15 21:53:42+00:00",
+    "postBody": "Amazon VPC Lattice is now available in 7 additional AWS Regions: Africa (Cape Town), Europe (Milan), Europe (Paris), Asia Pacific (Mumbai), Asia Pacific (Seoul), South America (São Paulo), and US West (N. California).\nAmazon VPC Lattice is an application networking service that simplifies connecting, securing, and monitoring service-to-service communication. You can use Amazon VPC Lattice to facilitate cross-account and cross-VPC connectivity, as well as application layer load balancing for your workloads in a consistent way regardless of the underlying compute type – instances, containers, and serverless.\nWith this launch, Amazon VPC Lattice is now generally available in 18 AWS regions. Please visit the AWS region table for more information on AWS regions and services. To learn more, visit the Amazon VPC Lattice homepage, Amazon VPC Lattice User Guide, Frequently Asked Questions, and browse the most recent VPC Lattice blog posts here.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-vpc-lattice-additional-regions",
+    "postDateTime": "2024-08-15 17:55:00-04:00",
+    "postDate": "2024-08-15",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon VPC Lattice is now available in 7 additional Regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-vpc",
+            "name": "amazon-vpc",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-vpc"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#networking",
+            "name": "networking",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/networking"
+        }
+    ]
+}

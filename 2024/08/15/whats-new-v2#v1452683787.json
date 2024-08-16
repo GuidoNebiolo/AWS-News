@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1452683787",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "7ZYWgGZjTfey5EjCG2aNoQ",
+    "dateCreated": "2024-08-05 19:58:48+00:00",
+    "dateUpdated": "2024-08-15 17:03:22+00:00",
+    "postBody": "AWS Control Tower customers can now select from a set of versions when performing a landing zone update, reset, or upgrade operation. Starting with landing zone version 3.1 and above, customers can update or reset in-place their landing zone on their current version, or upgrade to a version of their choice. A landing zone is a well-architected, multi-account AWS environment based on security and compliance best practices. AWS Control Tower automates the setup of a new landing zone using best-practices blueprints for identity, federated access, logging, and account structure.\nWith landing zone version selection, customers have more flexibility to plan for version upgrades while they evaluate potential changes to their environment. Customers need not choose between resetting drift to stay in compliance, updating their landing zone configurations, or upgrading to the latest landing zone version. If customers are running landing zone version 3.1 or above, they can choose to stay on the current version, or upgrade to a newer version, when they update or reset their landing zone configurations.\nFor a full list of Regions where AWS Control Tower is available, see the AWS Region Table. To learn more, visit the AWS Control Tower homepage or see the AWS Control Tower User Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-control-tower-landing-zone-version-selection",
+    "postDateTime": "2024-08-15 13:00:00-04:00",
+    "postDate": "2024-08-15",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Control Tower launches landing zone version selection",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-control-tower",
+            "name": "aws-control-tower",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-control-tower"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

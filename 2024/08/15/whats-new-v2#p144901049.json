@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p144901049",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-czcZE2uXvL84i2DjCFGabK",
+    "dateCreated": "2024-08-01 18:08:23+00:00",
+    "dateUpdated": "2024-08-15 22:18:02+00:00",
+    "postBody": "Today we are announcing the general availability of Amazon EC2 G6e instances powered by NVIDIA L40S Tensor Core GPUs. G6e instances can be used for a wide range of machine learning and spatial computing use cases. G6e instances deliver up to 2.5x better performance compared to G5 instances and up to 20% lower inference costs than P4d instances.\nCustomers can use G6e instances to deploy large language models (LLMs) with up to 13B parameters and diffusion models for generating images, video, and audio. Additionally, the G6e instances will unlock customers’ ability to create larger, more immersive 3D simulations and digital twins for spatial computing workloads. G6e instances feature up to 8 NVIDIA L40S Tensor Core GPUs with 384 GB of total GPU memory (48 GB of memory per GPU) and third generation AMD EPYC processors. They also support up to 192 vCPUs, up to 400 Gbps of network bandwidth, up to 1.536 TB of system memory, and up to 7.6 TB of local NVMe SSD storage. Developers can run AI inference workloads on G6e instances using AWS Deep Learning AMIs, AWS Deep Learning Containers, or managed services such as Amazon Elastic Kubernetes Service (Amazon EKS) and AWS Batch, with Amazon SageMaker support coming soon.\nAmazon EC2 G6e instances are available today in the AWS US East (N. Virginia and Ohio) and US West (Oregon) regions. Customers can purchase G6e instances as On-Demand Instances, Reserved Instances, Spot Instances, or as part of Savings Plans.\nTo get started, visit the AWS Management Console, AWS Command Line Interface (CLI), and AWS SDKs. To learn more, visit the G6e instance page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-g6e-instances/",
+    "postDateTime": "2024-08-15 10:00:00-07:00",
+    "postDate": "2024-08-15",
+    "contentType": null,
+    "headline": "Announcing general availability of Amazon EC2 G6e instances",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ec2",
+            "name": "amazon-ec2",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ec2"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p136933373",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "jV8gqU9o7vLAVYpnRN5uHG",
+    "dateCreated": "2024-08-08 18:16:03+00:00",
+    "dateUpdated": "2024-08-15 17:02:00+00:00",
+    "postBody": "AWS CodeBuild now integrates with GitHub Apps as the authentication method to access your repositories. A GitHub App connection can be set as the default authentication method for all projects, or can be specified for an individual project source.\nWith GitHub Apps, you can use short-lived tokens with fine-grained permissions, and have control over which repositories the app can access. In a CodeBuild project, GitHub App connections are established via AWS CodeConnections, where you can further limit the access to the connections by using IAM roles and resource policies.\nThe new feature is available in all regions where AWS CodeBuild is supported except in China (Beijing), China (Ningxia). For more information about the AWS Regions where CodeBuild is available, see the AWS Regions page.\nTo get started, create a GitHub App connection and configure it in your CodeBuild project . To learn more about how CodeBuild connects to your repositories, see access your source provider in CodeBuild.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-github-apps-access-source-repositories",
+    "postDateTime": "2024-08-15 13:00:00-04:00",
+    "postDate": "2024-08-15",
+    "contentType": "Launch Announcement",
+    "headline": "AWS CodeBuild now supports using GitHub Apps to access source repositories",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#developer-tools",
+            "name": "developer-tools",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/developer-tools"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-codebuild",
+            "name": "aws-codebuild",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-codebuild"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

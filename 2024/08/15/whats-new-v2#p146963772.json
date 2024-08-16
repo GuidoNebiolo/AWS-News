@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p146963772",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "sTb79AnPQL5CQHKGrFDajz",
+    "dateCreated": "2024-08-12 15:17:45+00:00",
+    "dateUpdated": "2024-08-15 20:53:18+00:00",
+    "postBody": "Today, AWS announces the launch of the AWS Support Official channel on AWS re:Post. AWS customers now have access to curated content for operating at scale on AWS, authored by AWS Support and AWS Managed Services (AMS) experts. In this new channel, you can find technical solutions for complex problems, operational best practices, and insights into AWS Support and AMS offerings.\nAWS re:Post provides access to curated knowledge and a vibrant community. With this launch, you now have a dedicated channel in re:Post for specialized AWS Support and AMS knowledge to solve real-world problems, with detailed walkthroughs, deep dives, and industry-specific best practices. You’ll gain insight into using AWS services, troubleshooting at scale, and optimizing costs, and be the first to know about new features and offerings from AWS Support and AMS. AWS Support Official articles are authored by experts who work with many of the largest customers on AWS to solve issues, create sustainable architectures, and establish scalability to help you innovate and operate on AWS. The AWS Support Official channel is available globally on re:Post in English.\nTo learn more, visit the AWS Support Official channel on re:Post. For more information on how AWS Support plans can help you accelerate business outcomes in the cloud on AWS, visit AWS Support.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-support-official-channel-re-post",
+    "postDateTime": "2024-08-15 16:50:00-04:00",
+    "postDate": "2024-08-15",
+    "contentType": "Launch Announcement",
+    "headline": "Announcing AWS Support Official channel on AWS re:Post",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-support",
+            "name": "aws-support",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-support"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-managed-services",
+            "name": "aws-managed-services",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-managed-services"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#customer-enablement",
+            "name": "customer-enablement",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/customer-enablement"
+        }
+    ]
+}

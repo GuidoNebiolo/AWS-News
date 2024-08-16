@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1461492729",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-hBPKNYjMLngw8oYqt1md9D",
+    "dateCreated": "2024-08-09 15:54:06+00:00",
+    "dateUpdated": "2024-08-15 18:36:36+00:00",
+    "postBody": "Amazon Elastic Container Services (Amazon ECS) now improves container resiliency by giving you the ability to define a flexible container restart policy for restarting individual containers locally, without requiring a full task relaunch. With local container restarts, Amazon ECS can recover your containers from unexpected failures within a few seconds, enhancing your overall task stability by avoiding unnecessary task relaunches.\nAmazon ECS now provides automated container restarts in-place to recover your containers from transient failures such as network disruption or cases where your containers stop unexpectedly. For containers for which you want to have some fault tolerance where a restart can clear an indeterminate condition, like data loggers, collectors or forwarders, you can create a policy to restart on error codes and recover much faster than you would if you were to relaunch the whole task, including any mission critical or customer facing applications.\nThe new experience is now enabled in all AWS Regions. To learn more about how to set up your Amazon ECS container restart policy parameters, see the Amazon ECS Developer Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ecs-restart-containers-task-relaunch/",
+    "postDateTime": "2024-08-15 10:00:00-07:00",
+    "postDate": "2024-08-15",
+    "contentType": null,
+    "headline": "Amazon ECS provides the ability to restart containers without requiring a task relaunch",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ecs",
+            "name": "amazon-ecs",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ecs"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#containers",
+            "name": "containers",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/containers"
+        }
+    ]
+}
