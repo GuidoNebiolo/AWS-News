@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p137565285",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-m8jRgLWT3HjQdbHAbSYVNA",
+    "dateCreated": "2024-07-31 17:41:13+00:00",
+    "dateUpdated": "2024-08-16 17:06:18+00:00",
+    "postBody": "Amazon SageMaker Canvas now empowers enterprises to harness the full potential of their data by enabling support of petabyte-scale datasets. Starting today, you can interactively prepare large datasets, create end-to-end data flows and trigger AutoML experiments on petabytes – a substantial leap from the previous 5GB limit. With 50+ connectors, intuitive \"chat with data\" interface, and petabyte support, Canvas provides a scalable, low-code/no-code ML solution for handling real-world, enterprise use cases.\nStarting today, Canvas empowers you with new sampling techniques like random and stratified, allowing samples up to 200K rows – a tenfold increase. This makes it easy to gather data quality insights and understand the impact of your data transformations interactively before processing your entire dataset, leveraging our new seamless integration with EMR Serverless. Canvas automatically scales processing over 5GB data across sampling, preparation, model building and inference to EMR Serverless, unlocking your data's full predictive potential through an intuitive experience. EMR Serverless usage incurs additional EMR pricing costs.\nThe new petabyte support and improved interactive experience is available across all AWS Regions where SageMaker Canvas is offered.\nTo get started with no-code ML and data preparation of large datasets, enable \"large data processing configuration\" in your Canvas domain and user profile using our technical documentation, and learn how to use the new capability from the AWS Machine Learning blog. Existing users should update their SageMaker domain settings per the documentation, log out from the Canvas workspace, and log back in to access the latest version.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/sagemaker-canvas-no-code-ml-data-petabyte-scale/",
+    "postDateTime": "2024-08-16 10:00:00-07:00",
+    "postDate": "2024-08-16",
+    "contentType": null,
+    "headline": "SageMaker Canvas unlocks no-code ML and data preparation at petabyte-scale ",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-sagemaker-canvas",
+            "name": "amazon-sagemaker-canvas",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-sagemaker-canvas"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

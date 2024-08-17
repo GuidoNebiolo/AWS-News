@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1445546069",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "4UeBqE7qAWBu2CDPVjWa9W",
+    "dateCreated": "2024-08-08 18:08:45+00:00",
+    "dateUpdated": "2024-08-16 19:06:44+00:00",
+    "postBody": "Amazon FSx for NetApp ONTAP second-generation file systems are now available in 2 additional AWS Regions: US West (N. California), and Europe (Frankfurt).\nAmazon FSx makes it easier and more cost effective to launch, run, and scale feature-rich high-performance file systems in the cloud. Second-generation FSx for ONTAP file systems give you more performance scalability and flexibility over first-generation file systems by allowing you to create or expand file systems with up to 12 highly-available (HA) pairs of file servers, providing your workloads with up to 72 GBps of throughput and 1 PiB of provisioned SSD storage.\nWith this regional expansion, second-generation FSx for ONTAP file systems are available in the following AWS Regions: US East (N. Virginia, Ohio), US West (N. California, Oregon), Europe (Frankfurt, Ireland), and Asia-Pacific (Sydney). You can create second-generation Multi-AZ file systems with a single HA pair, and Single-AZ file systems with up to 12 HA pairs. To learn more, visit the FSx for ONTAP user guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/second-generation-amazon-fsx-netapp-ontap-additional-regions",
+    "postDateTime": "2024-08-16 14:00:00-04:00",
+    "postDate": "2024-08-16",
+    "contentType": "Launch Announcement",
+    "headline": "Second-generation Amazon FSx for NetApp ONTAP now available in 2 additional Regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-fsx-netapp-ontap",
+            "name": "amazon-fsx-netapp-ontap",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-fsx-netapp-ontap"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p146952167",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "5K4J8zDzs1gPY1J1AVUGT7",
+    "dateCreated": "2024-08-13 18:32:54+00:00",
+    "dateUpdated": "2024-08-16 17:42:07+00:00",
+    "postBody": "Starting today, you can build Graph Retrieval-Augmented Generation (GraphRAG) applications by enabling PropertyGraphIndex and combining knowledge graphs stored in Amazon Neptune with LlamaIndex, a popular open-source framework for building applications with Large Language Models (LLMs) such as those available in Amazon Bedrock. We are excited to introduce the capability to add natural language querying via the TextToCypher Retriever, knowledge graph retrieval via the Cypher Template Retriever and Knowledge Graph Enhanced RAG creation and querying via the supported extractors and retrievers.\nCustomers building Generative AI applications often use Retrieval-Augmented Generation (RAG) to ensure LLM output is relevant, accurate, and useful. While RAG enhances LLM capabilities by integrating specific domain knowledge without retraining the model, RAG applications may still face significant challenges when relevant information is dispersed across multiple sources or documents. Knowledge graphs consolidate and integrate an organization’s information, enabling GraphRAG to relate concepts and entities across the content. PropertyGraphIndex in GraphRAG applications allows efficient indexing and querying of node and relationship properties in knowledge graphs, enabling quick retrieval of relevant data based on specific attributes. With this launch, you can now effortlessly convert text into openCypher queries, making it easier to interact with and extract insights from your knowledge graphs. Additionally, you can utilize pre-defined templates for common openCypher queries, streamlining the query-building process and ensuring consistency across applications. Whether you are handling complex multi-hop retrievals or simple queries, PropertyGraphIndex significantly enhances the overall performance and capability of your GraphRAG solutions.\nTo get started visit the Amazon Neptune GraphStore documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-neptune-propertygraphstore-graphrag-applications",
+    "postDateTime": "2024-08-16 13:40:00-04:00",
+    "postDate": "2024-08-16",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon Neptune now introduces support for PropertyGraphStore in Neptune to build more reliable GraphRAG applications",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-neptune",
+            "name": "amazon-neptune",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-neptune"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        }
+    ]
+}

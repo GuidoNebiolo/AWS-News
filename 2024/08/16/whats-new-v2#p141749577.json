@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p141749577",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-eYtdvmDvnD96yryDDY5yRQ",
+    "dateCreated": "2024-07-24 18:20:24+00:00",
+    "dateUpdated": "2024-08-16 17:04:58+00:00",
+    "postBody": "Amazon Bedrock Customers can now leverage Blueprints to jumpstart their use of Agents. Blueprints are a collection of pre-built templates optimized for popular customer use cases. These templates allow Amazon Bedrock customers to quickly experiment with agent-based applications without the need for complex configuration or lengthy development cycles.\nAgent Blueprints are open-source templates hosted on the AWS QuickStart GitHub repository. The pre-built templates come with sample actions, and Knowledge Bases, making it easy for customers to experiment and learn more about the capabilities of agents. Furthermore, the templates include customized prompts tailored to common use cases, saving customers valuable time and effort on prompt engineering to optimize their automation solutions.\nBlueprints are free to use, and customers only pay for the resources they create, such as the standard InvokeModel charges, when they deploy the Blueprint. For more information about Blueprints on Agents for Amazon Bedrock, please visit the documentation website.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/blueprints-agent-based-automation-amazon-bedrock/",
+    "postDateTime": "2024-08-16 10:00:00-07:00",
+    "postDate": "2024-08-16",
+    "contentType": null,
+    "headline": "Blueprints simplify agent-based automation on Amazon Bedrock",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        }
+    ]
+}
