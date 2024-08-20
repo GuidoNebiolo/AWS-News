@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p146440145",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-fe7zFHK698PVcuhTzxVQEg",
+    "dateCreated": "2024-08-15 17:28:21+00:00",
+    "dateUpdated": "2024-08-19 19:52:00+00:00",
+    "postBody": "Today, we are excited to announce the general availability of a drag-and-drop user interface (UI) for Amazon SageMaker Pipelines. Data scientists and Machine Learning (ML) engineers can now quickly create an end-to-end AI/ML workflow to train, fine-tune, evaluate, and deploy models without writing code.\nCustomers use Amazon SageMaker Pipelines to automate thousands of ML workflows, such as continuous fine-tuning or experimentation of foundation models that power Generative AI workloads. With this launch, data scientists and ML engineers can accelerate the journey of such ML workflows from prototype to production because they don’t need to write code to author and configure Amazon SageMaker Pipelines. They can simply drag and drop various steps (e.g. Notebook Jobs, LLM fine-tuning jobs, inference endpoints) and connect them together in the UI to compose an ML workflow. Users who have already created a pipeline using the Amazon SageMaker Python SDK can now edit it within the UI.. This Amazon SageMaker Pipelines capability enables users to rapidly iterate on ML workflows and execute them at scale in production tens of thousands of times. Data scientists and ML engineers can also monitor and debug all the ML jobs orchestrated via the workflows within the same UI.\nThe drag-and-drop UI for Amazon SageMaker Pipelines is available in all regions where Amazon SageMaker is available except China Regions and GovCloud (US) Regions. To get started, refer to Amazon SageMaker Pipelines developer guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-sagemaker-pipelines-drag-drop-ui-ml-workflows/",
+    "postDateTime": "2024-08-19 10:00:00-07:00",
+    "postDate": "2024-08-19",
+    "contentType": null,
+    "headline": "Amazon SageMaker Pipelines now provides a drag-and-drop UI to easily create ML workflows",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-sagemaker",
+            "name": "amazon-sagemaker",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-sagemaker"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        }
+    ]
+}

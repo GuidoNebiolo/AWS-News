@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1478019024",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "f1VaBQUvYQjF5F3u3Dikyu",
+    "dateCreated": "2024-08-14 19:11:19+00:00",
+    "dateUpdated": "2024-08-19 21:05:08+00:00",
+    "postBody": "Amazon S3 has completed a change so unauthorized requests that customers did not initiate are free of charge. With this change, bucket owners will never incur request or bandwidth charges for requests that return an HTTP 403 (Access Denied) error response if initiated from outside their individual AWS account or AWS Organization. To see the full list of error codes that are free of charge, visit Billing for Amazon S3 error responses. This billing change requires no changes to customer applications and applies to all S3 buckets.\nThis change was first announced on May 13, 2024, and was applied to most S3 APIs within several weeks. Now, this change is effective across all S3 APIs in all AWS Regions, including the AWS GovCloud (US) Regions and AWS China Regions. To learn more, visit Billing for Amazon S3 error responses and Error Responses in the S3 User Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-no-charges-several-http-error-codes",
+    "postDateTime": "2024-08-19 17:00:00-04:00",
+    "postDate": "2024-08-19",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon S3 no longer charges for several HTTP error codes",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-s3",
+            "name": "amazon-s3",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-s3"
+        }
+    ]
+}

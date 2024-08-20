@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p143849599",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-5ch4U4ZP3P62A1CVc3mBwv",
+    "dateCreated": "2024-08-16 16:54:35+00:00",
+    "dateUpdated": "2024-08-19 18:30:51+00:00",
+    "postBody": "We are excited to announce that Amazon EMR on EC2 now supports two new allocation strategies for Instance Fleets - prioritized for On-Demand instances and capacity-optimized-prioritized for Spot instances. Allocation strategies let you determine how EMR selects from your list of specified instance types and Availability Zones to fulfill your desired capacity. These new strategies give you more control and flexibility when provisioning instances for your EMR workloads.\nWith today’s launch, you can use a prioritized list to determine the order in which EMR should attempt to provision your compute capacity. This new feature allows you to specify a priority for each instance type in your instance fleet configuration. For On-Demand instances, EMR will first attempt to fulfill capacity using the highest priority instance type. If EMR cannot fulfill the entire capacity using that instance type, it will then launch instances with the next highest priority, and so on. For Spot instances, EMR will optimize for capacity first, but will honor instance type priorities on a best-effort basis. This is great for workloads where the possibility of disruption must be minimized, but preferences for certain instance types matter.\nThis feature is available for all EMR 5.x and later releases (excluding 5.0.0 and 5.0.3) in all AWS Regions, including the AWS GovCloud (US) Regions, where Amazon EMR on EC2 is available. Customers can easily configure these strategies through the EMR API, CLI, SDK, console, and CloudFormation. Review our allocation strategy for instance fleet documentation to learn more.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-emr-capacity-prioritized-allocation-strategies-ec2/",
+    "postDateTime": "2024-08-19 10:00:00-07:00",
+    "postDate": "2024-08-19",
+    "contentType": null,
+    "headline": "Amazon EMR support prioritized and capacity-optimized-prioritized allocation strategies for EC2 instances",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-emr",
+            "name": "amazon-emr",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-emr"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

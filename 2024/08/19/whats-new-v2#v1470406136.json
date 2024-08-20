@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1470406136",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "3Vgkuo6SvH1Rp3Zb3bR2CA",
+    "dateCreated": "2024-08-15 18:01:56+00:00",
+    "dateUpdated": "2024-08-19 21:30:18+00:00",
+    "postBody": "Starting today, you can build applications on macOS with AWS CodeBuild. You can build artifacts on managed Apple M2 instances that run on macOS 14 Sonoma. AWS CodeBuild is a fully managed continuous integration service that compiles source code, runs tests, and produces ready-to-deploy software packages.\nBuilding, testing, signing, and distributing applications for Apple systems (iOS, iPadOS, watchOS, tvOS, and macOS) requires the use of Xcode which runs exclusively on macOS. You can provision a fleet of managed CodeBuild Mac instances which offer native integration with AWS, including Amazon VPC, AWS Secrets Manager, and IAM. You can use CodeBuild’s prepackaged build environment with common tools and frameworks, or you can bring your own Amazon EC2 AMI to provision the Mac instances in your fleet.\nMac builds are available in US East (Ohio), US East (N. Virginia), US West (Oregon), Europe (Frankfurt), and Asia Pacific (Sydney). For a full list of AWS Regions where AWS CodeBuild is available, please visit our region table.\nTo get started setup a reserved capacity macOS fleet, and see CodeBuild’s blog post for creating a project to run builds on your fleet.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-mac-builds",
+    "postDateTime": "2024-08-19 17:30:00-04:00",
+    "postDate": "2024-08-19",
+    "contentType": "Launch Announcement",
+    "headline": "AWS CodeBuild now supports Mac builds",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-codebuild",
+            "name": "aws-codebuild",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-codebuild"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#developer-tools",
+            "name": "developer-tools",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/developer-tools"
+        }
+    ]
+}

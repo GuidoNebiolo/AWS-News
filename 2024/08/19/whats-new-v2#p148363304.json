@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p148363304",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "8GQGYz5iyeSQUbB1qum3hb",
+    "dateCreated": "2024-08-19 15:42:32+00:00",
+    "dateUpdated": "2024-08-19 20:33:48+00:00",
+    "postBody": "Amazon Lightsail now extends support for browser-based SSH/RDP connections, also known as Lightsail Connect, to IPv6-only instances. Now, you can connect to your Linux or Windows IPv6-only instance directly from Lightsail Console in browser.\nPreviously, you would need to add a public IPv4 address to your IPv6-only instance to use Lightsail Connect. With the launch of IPv6 support, you can use Lightsail’s browser-based client that provides a quick and convenient way to connect to your instance and does not require any software installation.\nYou can use this feature on the Lightsail Console (accessed from AWS Console) in all AWS Regions supporting Lightsail. To learn more about connecting to your instance from the Lightsail console, please refer to documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/browser-based-ssh-rdp-ipv6-only-instances-bundles-lightsail",
+    "postDateTime": "2024-08-19 16:30:00-04:00",
+    "postDate": "2024-08-19",
+    "contentType": "Launch Announcement",
+    "headline": "Introducing browser-based SSH/RDP support for IPv6-only instances bundles on Lightsail",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#networking",
+            "name": "networking",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/networking"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-lightsail",
+            "name": "amazon-lightsail",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-lightsail"
+        },
+        {
+            "id": "whats-new-v2#general-products#ipv6-at-aws",
+            "name": "ipv6-at-aws",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/ipv6-at-aws"
+        }
+    ]
+}
