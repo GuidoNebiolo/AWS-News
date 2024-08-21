@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p145861567",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-2mXccF2Qu7HvgqC7RVmWWD",
+    "dateCreated": "2024-08-16 17:13:11+00:00",
+    "dateUpdated": "2024-08-20 18:35:48+00:00",
+    "postBody": "Amazon Connect now provides in-app and web voice and video calling capabilities in Africa (Cape Town) region, making it easier to deliver more personalized voice and video experiences in your websites and mobile applications. These voice and video capabilities allow customers to contact you without having to leave your website or mobile application. You can use these capabilities to pass contextual information to Amazon Connect, enabling you to personalize the customer experience based on attributes such as the customer’s profile, authentication status, or actions previously taken within the app.\nUsing the fully managed communication widget, you can implement these new voice and video calling capabilities with as little as a single line of code. You can also create a fully custom experience for your customers by leveraging the SDK. In addition, you can use the same configuration, routing, analytics, and agent application as with telephone calls and chats, helping saving costly integration time, license fees, and maintenance expenses.\nTo learn more and get started, please refer to the help documentation or visit the Amazon Connect website. To learn more about pricing, please visit the Amazon Connect pricing page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-in-app-web-video-calling-africa/",
+    "postDateTime": "2024-08-20 10:00:00-07:00",
+    "postDate": "2024-08-20",
+    "contentType": null,
+    "headline": "Amazon Connect in-app, web, and video calling is now available in Africa (Cape Town) region",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#messaging",
+            "name": "messaging",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/messaging"
+        }
+    ]
+}

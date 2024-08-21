@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p145958899",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-nS2MhYdBkNFrmg3RPfNoUP",
+    "dateCreated": "2024-08-07 16:34:26+00:00",
+    "dateUpdated": "2024-08-20 19:59:52+00:00",
+    "postBody": "Amazon S3 adds support for conditional writes that can check for the existence of an object before creating it. This capability can help you more easily prevent applications from overwriting any existing objects when uploading data. You can perform conditional writes using PutObject or CompleteMultipartUpload API requests in both general purpose and directory buckets.\nUsing conditional writes, you can simplify how distributed applications with multiple clients concurrently update data in parallel across shared datasets. Each client can conditionally write objects, making sure that it does not overwrite any objects already written by another client. This means you no longer need to build any client-side consensus mechanisms to coordinate updates or use additional API requests to check for the presence of an object before uploading data. Instead, you can reliably offload such validations to S3, enabling better performance and efficiency for large-scale analytics, distributed machine learning, and other highly parallelized workloads. To use conditional writes, you can add the HTTP if-none-match conditional header along with PutObject and CompleteMultipartUpload API requests.\nThis feature is available at no additional charge in all AWS Regions, including the AWS GovCloud (US) Regions and the AWS China Regions. You can use the AWS SDK, API, or CLI to perform conditional writes. To learn more about conditional writes, visit the S3 User Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-conditional-writes/",
+    "postDateTime": "2024-08-20 10:00:00-07:00",
+    "postDate": "2024-08-20",
+    "contentType": null,
+    "headline": "Amazon S3 now supports conditional writes",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-s3",
+            "name": "amazon-s3",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-s3"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

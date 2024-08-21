@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1479249582",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "tx3ATdmApXpvGgyT7shckM",
+    "dateCreated": "2024-08-20 18:27:30+00:00",
+    "dateUpdated": "2024-08-20 21:43:20+00:00",
+    "postBody": "AWS CloudHSM launched hsm2m.medium with support for Federal Information Processing Standard (FIPS) 140-3 Level 3 and non-FIPS CloudHSM clusters.\nThe new instance type provides customers with new features, increased performance, and flexibility. hsm2m.medium offers increased key capacity and higher elliptic curve performance compared with the existing hsm1.medium instance type. Backups from CloudHSM clusters based on hsm1.medium are compatible with hsm2m.medium. hsm2m.medium supports Mutual Transport Layer Security (mTLS) for communication from the CloudHSM client SDKs to the CloudHSM cluster.\nThe new hsm2m.medium instance type is available in four regions - United States (N. Virginia, Ohio, Oregon) and Europe (Dublin).\nTo learn more about the AWS CloudHSM cluster modes and HSM types, see the AWS CloudHSM user guide, and visit the AWS CloudHSM page for pricing details. For availability in additional regions, contact support.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-cloudhsm-hsm2m-medium-instance-type",
+    "postDateTime": "2024-08-20 17:30:00-04:00",
+    "postDate": "2024-08-20",
+    "contentType": "Launch Announcement",
+    "headline": "AWS CloudHSM launches new hsm2m.medium instance type",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-cloudhsm",
+            "name": "aws-cloudhsm",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-cloudhsm"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        }
+    ]
+}

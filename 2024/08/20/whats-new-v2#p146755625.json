@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p146755625",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "kNUP99J2MaeBFcoLqnrRzE",
+    "dateCreated": "2024-08-09 17:29:18+00:00",
+    "dateUpdated": "2024-08-20 17:41:12+00:00",
+    "postBody": "Amazon SageMaker Data Wrangler in Amazon SageMaker Canvas now supports importing data flows from Amazon SageMaker Studio Classic, as well as faster and more flexible data preparation for machine learning (ML). With the latest version of SageMaker Data Wrangler in SageMaker Canvas, you can now import data from S3 more easily with custom delimiters and more sampling options, and prepare data with improved performance. In addition, you can validate transforms faster, and easily iterate on the data recipes. You can also import data flows from SageMaker Studio Classic to take advantage of the latest data preparation features and enhancements in SageMaker Canvas.\nAggregating, analyzing, and transforming large amounts of data is the most time-consuming part of an ML project because it is a highly iterative and repetitive process. With these new enhancements, you can import data with different sampling methods such as top-k, random or stratified, and adjust the sample size and method as needed to get a representative sample. You can transform data with lower latency, quickly validate the impact of transforms on the data size, and reorder the steps as needed. In addition, you can copy a data recipe and replace the data sources to reuse it for different datasets and models. Last but not least, you can one-click import all the existing data flows from SageMaker Data Wrangler in SageMaker Studio Classic to SageMaker Canvas, or manually import specific data flows through S3 or local file uploads.\nThese enhanced data preparation capabilities are available all AWS regions where SageMaker Canvas is supported. For more information, see the blog and the AWS technical documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-sagemaker-canvas-data-flows-import-data-prep-ml",
+    "postDateTime": "2024-08-20 13:40:00-04:00",
+    "postDate": "2024-08-20",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon SageMaker Canvas now supports data flows import, and faster data prep for ML",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-sagemaker-data-wrangler",
+            "name": "amazon-sagemaker-data-wrangler",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-sagemaker-data-wrangler"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-sagemaker-canvas",
+            "name": "amazon-sagemaker-canvas",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-sagemaker-canvas"
+        }
+    ]
+}
