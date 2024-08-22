@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p133781117",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "s2CiX3gqP53xtUR42pCjbK",
+    "dateCreated": "2024-07-18 14:47:48+00:00",
+    "dateUpdated": "2024-08-21 19:13:56+00:00",
+    "postBody": "AWS Backup now supports cross-Region and cross-account backup for SAP HANA on EC2, enabling customers to copy snapshot backups across Regions and accounts within their AWS Organizations. AWS Backup is a fully managed service that centralizes and automates data protection across AWS services and hybrid workloads. With this launch, AWS Backup customers can more easily meet business continuity, disaster recovery, and compliance requirements by storing additional SAP HANA snapshot copies in separate AWS Regions and accounts.\nGet started with cross-Region and cross-account backup for SAP HANA using the AWS Backup console, API, or CLI. You can define cross-Region and/or cross-account copies as part of your scheduled backup plan or perform a manual, on-demand copy. You can restore copied snapshots or create cross-Region, cross-account copies as needed, reducing the risk of downtime and ensuring disaster recovery and business continuity requirements are met. Snapshot copies provide you with an additional layer of protection should the source account experience disruption from accidental or malicious deletion, disaster, or ransomware.\nAWS Backup supports cross-Region backup and cross-account backup for SAP HANA on EC2 in AWS Regions where AWS Backup is offered with the exception of Asia Pacific (Hyderabad, Jakarta), Europe (Spain, Zurich), and Middle East (UAE) Regions. To learn more about AWS Backup support for cross-Region and cross-account backups for SAP HANA on EC2, visit the AWS Backup product page and documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-backup-cross-region-cross-account-copy-sap-hana-ec2",
+    "postDateTime": "2024-08-21 15:10:00-04:00",
+    "postDate": "2024-08-21",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Backup adds cross-Region, cross-account copy for SAP HANA on Amazon EC2",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-backup",
+            "name": "aws-backup",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-backup"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ec2",
+            "name": "amazon-ec2",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ec2"
+        }
+    ]
+}

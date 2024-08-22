@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p131997060",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "mVZUiNjUjKUYiNio5tsxKF",
+    "dateCreated": "2024-08-05 18:14:44+00:00",
+    "dateUpdated": "2024-08-21 21:11:31+00:00",
+    "postBody": "AWS Lambda announces support for Amazon Key Management Service (KMS) Customer managed keys (CMK) for filter criteria used with event source mappings (ESMs) to filter records from a queue or stream before sending them to a Lambda function. This capability allows you to encrypt the data included under filter criteria using CMK, giving you fine-grained security control over the criteria used to filter your events.\nCustomers building modern event-driven applications on AWS Lambda use event filter criteria to control which records from a stream or queue Lambda sends to their function. If a record from the event source satisfies one or more of the specified event filters, Lambda includes the record in the next event it sends to the function. With today’s announcement, you can encrypt the filter criteria using a Customer managed key (CMK), which gives you the control to meet your organizational security and compliance goals.\nThis feature is generally available in all AWS Commercial Regions where AWS Lambda is available.\nYou can encrypt filter criteria with Customer managed key (CMK) when you create or update an event source mapping, using AWS Lambda event source mapping API, AWS Management Console, AWS Command Line Interface (AWS CLI), AWS SDK, AWS CloudFormation, and AWS Serverless Application Model (AWS SAM). To learn more, read Lambda documentation and KMS documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-lambda-encryption-filter-criteria-event-source-mappings",
+    "postDateTime": "2024-08-21 17:10:00-04:00",
+    "postDate": "2024-08-21",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Lambda announces support for encryption of filter criteria for event source mappings",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-lambda",
+            "name": "aws-lambda",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-lambda"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#serverless",
+            "name": "serverless",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/serverless"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#application-services",
+            "name": "application-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/application-services"
+        }
+    ]
+}

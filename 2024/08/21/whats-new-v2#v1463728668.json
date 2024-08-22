@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1463728668",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "3jgQubX4LropvydnzRtGwf",
+    "dateCreated": "2024-08-08 18:07:20+00:00",
+    "dateUpdated": "2024-08-21 22:05:54+00:00",
+    "postBody": "Today, AWS announced the opening of a new AWS Direct Connect location within the CSF Telcohub 1 Data Center near Kuala Lumpur, Malaysia. By connecting your network to AWS at the new Kuala Lumpur location, you gain private, direct access to all public AWS Regions (except those in China), AWS GovCloud Regions, and AWS Local Zones. This site is the second AWS Direct Connect location within Malaysia. The new Direct Connect location offers dedicated 10 Gbps and 100 Gbps connections with MACsec encryption available.\nAWS also announced the addition of 10Gbps and 100Gbps MACsec services in the existing Kuala Lumpur Direct Connect location at the Menara AIMS data center.\nThe Direct Connect service enables you to establish a private, physical network connection between AWS and your data center, office, or colocation environment. These private connections can provide a more consistent network experience than those made over the public internet.\nFor more information on the over 145 Direct Connect locations worldwide, visit the locations section of the Direct Connect product detail pages. Or, visit our getting started page to learn more about how to purchase and deploy Direct Connect.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-direct-connect-location-expansion-malaysia/",
+    "postDateTime": "2024-08-21 10:00:00-07:00",
+    "postDate": "2024-08-21",
+    "contentType": null,
+    "headline": "AWS announces new AWS Direct Connect location and expansion in Kuala Lumpur, Malaysia",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#networking-and-content-delivery",
+            "name": "networking-and-content-delivery",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/networking-and-content-delivery"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-direct-connect",
+            "name": "aws-direct-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-direct-connect"
+        }
+    ]
+}

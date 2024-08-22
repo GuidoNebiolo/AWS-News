@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p145389932",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-fxzDGLMDjo3XYDHF833Kmm",
+    "dateCreated": "2024-08-16 16:29:45+00:00",
+    "dateUpdated": "2024-08-21 20:58:38+00:00",
+    "postBody": "Last year, we introduced support for batch inference in preview, allowing you to process prompts in batch to get responses for model evaluation, experimentation, and offline processing. Beginning today, Amazon Bedrock supports batch inference in general availability in all supported AWS regions for supported models. Use batch inference to run multiple inference requests asynchronously, and improve the performance of model inference on large datasets. Amazon Bedrock offers select foundation models (FMs) from leading AI providers like Anthropic, Meta, Mistral AI, and Amazon for batch inference at 50% of on-demand inference pricing. Completion time of batch inference depends on various factors like the size of the job, but you can expect completion timeframe of a typical job within 24 hours. You can learn more in our batch inference documentation and you can also reference our API reference documentation.\nAmazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, as well as Amazon via a single API. Amazon Bedrock also provides a broad set of capabilities customers need to build generative AI applications with security, privacy, and responsible AI built in. These capabilities help you build tailored applications for multiple use cases across different industries, helping organizations unlock sustained growth from generative AI while ensuring customer trust and data governance.\nTo more information about Amazon Bedrock, visit the Amazon Bedrock page and see the Amazon Bedrock documentation for more details.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-fms-batch-inference-50-price/",
+    "postDateTime": "2024-08-21 10:00:00-07:00",
+    "postDate": "2024-08-21",
+    "contentType": null,
+    "headline": "Amazon Bedrock offers select FMs for batch inference at 50% of on-demand inference price",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p142180253",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-2u4iQ7zKcogjJ7DJyY5jzz",
+    "dateCreated": "2024-07-31 17:31:04+00:00",
+    "dateUpdated": "2024-08-21 17:09:50+00:00",
+    "postBody": "Amazon EventBridge Scheduler, a serverless scheduler that allows you to create, trigger, and manage millions of scheduled events and tasks, now has higher default service quotas. The default service quota for number of schedules is now 10 million schedules instead of 1 million in all regions, and the invocation throughput quota is now 1000 invocations per second instead of 500 in most regions. Default API request rate quotas for CreateSchedule, DeleteSchedule, GetSchedule, and UpdateSchedule are now set up to 1000 requests per second instead of 50 in most regions. Quotas can be further increased by making a request through the Service Quotas console.\nEventBridge Scheduler allows you to create millions of scheduled events and tasks, to run across more than 270 AWS services, without provisioning or managing the underlying infrastructure. EventBridge Scheduler supports one time and recurring schedules that can be created using cron expressions, rate expressions, or specific times with support for time zones and daylight savings. With today’s increase to default quotas, you can use Scheduler for even higher volume workloads without having to request a quota increase, making it easier to run your applications at scale.\nScheduler will scale to the new quotas automatically. You can request increases beyond the new default service quotas in the Service Quotas console. View EventBridge Scheduler service quotas for each region in the service endpoints and quotas documentation or learn more about the EventBridge Scheduler service in the EventBridge Scheduler documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-eventbridge-scheduler-higher-quotas/",
+    "postDateTime": "2024-08-21 10:00:00-07:00",
+    "postDate": "2024-08-21",
+    "contentType": null,
+    "headline": "Amazon EventBridge Scheduler now provides higher default service quotas",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#application-services",
+            "name": "application-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/application-services"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-eventbridge",
+            "name": "amazon-eventBridge",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-eventBridge"
+        }
+    ]
+}
