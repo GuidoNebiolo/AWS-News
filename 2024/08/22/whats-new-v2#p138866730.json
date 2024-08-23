@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p138866730",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "hKQaiyEzMdE5b4Z4ofFRjx",
+    "dateCreated": "2024-08-21 17:36:59+00:00",
+    "dateUpdated": "2024-08-22 19:35:03+00:00",
+    "postBody": "Today, AWS CloudFormation announces two new enhancements to the IaC generator, which customers use to create infrastructure-as-code (IaC) from existing resources. Now, after the IaC generator finishes scanning the resources in an account, it presents a graphical summary of the different resource types to help customers more quickly find the resources they want to include in their template. After selecting resources, customers can also preview their template in AWS Application Composer, which visualizes the full application architecture with the resources and their relationships.\nCustomers use the best practice of IaC, where they specify and version infrastructure configuration using code, to easily replicate their environments, reliably deploy changes to them, and apply controls to enforce their security and governance policies. The IaC generator helps customers adopt IaC on the resources they created through other means, such as the AWS Management Console or CLI. After generating a template for selected resources, customers can import the resources into CloudFormation, download the template for deployment to other regions and accounts, or generate a CDK CLI command that converts the template into a CDK app in their preferred programming language, such as TypeScript or Python.\nThe IaC generator is available in AWS Regions where CloudFormation is available (please refer to the AWS Region table). To get started, open the CloudFormation console and select the IaC generator in the navigation panel. To learn more:\nCloudFormation documentation for Scan Summary\nCloudFormation documentation for Application Composer\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/cloudformation-resource-discovery-template-review-iac-generator",
+    "postDateTime": "2024-08-22 15:30:00-04:00",
+    "postDate": "2024-08-22",
+    "contentType": "Launch Announcement",
+    "headline": "CloudFormation simplifies resource discovery and template review in the IaC Generator",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-cloudformation",
+            "name": "aws-cloudformation",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-cloudformation"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#developer-tools",
+            "name": "developer-tools",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/developer-tools"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

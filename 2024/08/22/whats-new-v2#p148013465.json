@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p148013465",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-tEwqkH2wYQBUJXbuEua4yg",
+    "dateCreated": "2024-08-21 15:49:07+00:00",
+    "dateUpdated": "2024-08-22 16:58:46+00:00",
+    "postBody": "You can now use Amazon Route 53 Resolver endpoints for hybrid cloud configurations in the Asia Pacific (Malaysia) Region. With this launch, you also have the option to enable Route 53 Resolver endpoints in the Asia Pacific (Malaysia) Region with DNS-over-HTTPS (DoH).\nAmazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) service. Amazon Route 53 Resolver endpoints make hybrid cloud configurations easier to manage by enabling seamless DNS query resolution across your entire hybrid cloud. Create Route 53 Resolver endpoints and conditional forwarding rules to allow resolution of DNS namespaces between your on-premises data center and Amazon Virtual Private Cloud (Amazon VPC). You can also opt-in to use DoH on the endpoints (both inbound and outbound) and create rules to forward DoH traffic to destinations of your choice, to ensure DNS traffic across your hybrid cloud is encrypted via DoH.\nVisit the AWS Region Table to see all AWS Regions where Amazon Route 53 Resolver is available. Please visit our product page to learn more about Amazon Route 53 Resolver and pricing.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-route-53-resolver-endpoints-malaysia-region/",
+    "postDateTime": "2024-08-22 10:00:00-07:00",
+    "postDate": "2024-08-22",
+    "contentType": null,
+    "headline": "Amazon Route 53 Resolver Endpoints now available in the Asia Pacific (Malaysia) Region",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-route-53",
+            "name": "amazon-route-53",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-route-53"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#networking-and-content-delivery",
+            "name": "networking-and-content-delivery",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/networking-and-content-delivery"
+        }
+    ]
+}

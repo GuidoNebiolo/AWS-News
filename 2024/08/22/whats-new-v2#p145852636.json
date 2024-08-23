@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p145852636",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "rH6ku781GVNRSE61Yf48JZ",
+    "dateCreated": "2024-08-14 18:45:46+00:00",
+    "dateUpdated": "2024-08-22 17:07:36+00:00",
+    "postBody": "Amazon DocumentDB now supports Global Cluster Switchover which enables you to seamlessly change your global cluster’s primary AWS Region, the region that serves writes, while preserving the replication between all regions in the global cluster. An Amazon DocumentDB Global Cluster is a single cluster that can span up to 6 AWS Regions, enabling disaster recovery from region-wide outages and low latency global reads.\nWith this switchover capability, you can repeatedly change which AWS Region hosts the primary cluster while preserving the physical topology of your Global Cluster and avoiding unnecessary application changes. This feature synchronizes secondary clusters with the primary before making any other changes so there is no data loss (recovery point objective is 0). Switchover can be used for scenarios like rotating the primary region for regulatory compliance or disaster recovery exercises.\nAmazon DocumentDB makes it easy and cost effective to operate critical document workloads in a highly-available manner at virtually any scale without managing infrastructure. To get started with Amazon DocumentDB, take a look at our getting started page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-document-mongodb-compatibility-global-clusters-switchover",
+    "postDateTime": "2024-08-22 13:00:00-04:00",
+    "postDate": "2024-08-22",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon DocumentDB (with MongoDB Compatibility) Global Clusters introduces Switchover",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-documentdb",
+            "name": "amazon-documentdb",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-documentdb"
+        }
+    ]
+}

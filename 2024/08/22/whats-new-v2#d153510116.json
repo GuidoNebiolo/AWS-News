@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#d153510116",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-4eNxHGzeEE6tU7kaDPGQFT",
+    "dateCreated": "2024-08-16 18:54:52+00:00",
+    "dateUpdated": "2024-08-22 17:02:22+00:00",
+    "postBody": "Starting today, you can use Amazon Data Firehose in the AWS Asia Pacific (Malaysia) region. Amazon Data Firehose is the easiest way to load streaming data into data stores and analytics tools. You can capture, transform, and deliver streaming data into Amazon S3, Amazon OpenSearch Service, Amazon Redshift, Snowflake, Apache Iceberg, and third party analytics applications such as Splunk and Datadog, enabling real-time analytics use cases.\nWith Amazon Data Firehose, you don't need to write applications or manage resources. You configure your data producers to send data to Amazon Data Firehose, and it automatically delivers the data to the destination that you specified. You can also configure Amazon Data Firehose to transform your data before delivering it. To get started, you need an AWS account. Once you have an account, you can create a delivery stream in the Amazon Data Firehose Console. To learn more, explore the Amazon Data Firehose Developer Guide.\nFor Amazon Data Firehose availability, refer to the AWS Region Table.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-data-firehose-asia-pacific-malaysia-region/",
+    "postDateTime": "2024-08-22 10:00:00-07:00",
+    "postDate": "2024-08-22",
+    "contentType": null,
+    "headline": "Amazon Data Firehose is now available in the AWS Asia Pacific (Malaysia) region",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-kinesis-firehose",
+            "name": "amazon-kinesis-firehose",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-kinesis-firehose"
+        }
+    ]
+}

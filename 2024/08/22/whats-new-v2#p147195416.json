@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p147195416",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "vzbasvoy1AiaXrrFWqtCoD",
+    "dateCreated": "2024-08-16 19:11:00+00:00",
+    "dateUpdated": "2024-08-22 21:21:22+00:00",
+    "postBody": "AWS Systems Manager for SAP now supports using SSM Application Manager console to register SAP ABAP applications running on single node EC2 instances. This launch will allow customers to onboard ABAP applications and also use Application Manager console to run application aware stop and start operations.\nAWS Systems Manager for SAP (SSMSAP) helps AWS services understand SAP specific nuances around landscape topology and discover the components of an SAP landscape, such as the SAP NetWeaver application server, SAP HANA database, and their interdependencies. It provides automation capabilities to help customers manage and operate their SAP applications on AWS more efficiently. This enables customers to capture specific metadata via registration and reflect system state before and after execution of workload automation.\nWith this launch, customers can use AWS Systems Manager Application Manager to register their SAP ABAP applications (single node) using Application Manager console. Once registered, you can run application aware stop and start operations for SAP HANA, SAP ABAP, and underlying EC2 instances.\nAWS Systems Manager for SAP is available in all commercial regions. To learn about the key features, check out the product documentation page. To learn why thousands of SAP customers trust AWS, visit the SAP on AWS page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-systems-manager-sap-console-integration-stop-start/",
+    "postDateTime": "2024-08-22 10:00:00-07:00",
+    "postDate": "2024-08-22",
+    "contentType": null,
+    "headline": "AWS Systems Manager for SAP console integration for application aware stop and start of SAP",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-systems-manager",
+            "name": "aws-systems-manager",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-systems-manager"
+        }
+    ]
+}

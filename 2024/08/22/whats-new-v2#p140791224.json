@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p140791224",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "bhGdfm6PcetV92TKhFPtrn",
+    "dateCreated": "2024-08-13 20:34:01+00:00",
+    "dateUpdated": "2024-08-22 18:45:45+00:00",
+    "postBody": "The Amazon Q Console now provides administrators with greater visibility into how users are utilizing Amazon Q Developer Pro, Amazon Q Business Pro, and Amazon Q Business Lite subscriptions. This new feature enables administrators to view a list of subscribed users, their subscription status (e.g., active, pending, under free trial, canceled), and their corresponding associations. Associations refer to the applications, accounts, or services that a user has access to through their subscription. Organization administrators will have a view of all subscription associations across applications in various accounts, while member account administrators' visibility will be limited to only the applications within accounts they administer.\nWith this update, administrators can monitor subscribed users of the Amazon Q offerings. Key capabilities include listing all subscribed users, their status, the specific subscription types, the applications they have associations to (with AWS account numbers), filtering and searching users and associations, and generating a downloadable report.\nThe visibility into user subscriptions and associations is available across all AWS regions where the specific Amazon Q subscriptions are offered.\nTo learn more about Amazon Q's subscription management features, visit the Amazon Q Console or Amazon Q documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-q-details-user-subscription-associated-resources",
+    "postDateTime": "2024-08-22 14:40:00-04:00",
+    "postDate": "2024-08-22",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon Q now provides more details about user subscriptions and associated resources",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-q",
+            "name": "amazon-q",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-q"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        }
+    ]
+}

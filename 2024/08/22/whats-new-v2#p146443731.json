@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p146443731",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-ipFJNYCwWnBbLQUxXYE974",
+    "dateCreated": "2024-08-16 18:21:48+00:00",
+    "dateUpdated": "2024-08-22 17:00:30+00:00",
+    "postBody": "You can now use AWS Resource Access Manager (AWS RAM) in the AWS Asia Pacific (Malaysia) Region.\nAWS RAM helps you securely share your resources across your organization, with specific organizational units (OUs), or with individual AWS accounts. You can centrally create a resource and then share that resource using AWS RAM to reduce the operational overhead of managing resources in a multi-account environment.\nFor more information, visit the AWS RAM product page, and see the AWS Region Table for complete regional availability information. To get started with using AWS RAM to share resources, visit the AWS Resource Access Manager Console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-resource-access-manager-asia-pacific-malaysia-region/",
+    "postDateTime": "2024-08-22 10:00:00-07:00",
+    "postDate": "2024-08-22",
+    "contentType": null,
+    "headline": "AWS Resource Access Manager is now available in the AWS Asia Pacific (Malaysia) Region",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-resource-access-manager",
+            "name": "aws-resource-access-manager",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-resource-access-manager"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        }
+    ]
+}

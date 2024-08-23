@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#v1480495077",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "iYJmfBoZ4fFWEzF3xcAZMM",
+    "dateCreated": "2024-08-15 18:53:30+00:00",
+    "dateUpdated": "2024-08-22 17:05:24+00:00",
+    "postBody": "AWS Amplify is launching multiple bucket support for Storage (JavaScript Only). You can now configure more than one storage bucket in your Amplify backend configuration. Amplify storage integrates with Amazon Simple Storage Service (Amazon S3) and provides an intuitive approach to managing cloud-based file storage. With this new feature you can upload and download files from and to multiple storage buckets, providing greater flexibility and control over your storage resources.\nWith multiple bucket support, you can better manage your storage resources by configuring additional storage buckets and applying existing access permissions to different paths within each bucket. Amplify Storage APIs for JavaScript provide APIs like upload, download, and more and now accept a bucket alias or bucket name and region. Currently, the UI components (Storage Image and Storage Manager) and Amplify console display content only from the default storage bucket.\nTo learn how to configure additional storage buckets for different use cases, follow our blog post. If you're already using Amplify Storage, check out our documentation to add additional buckets to your existing storage configuration. For those new to Amplify Storage, get started by following our guide to set up storage for your Amplify project.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-amplify-multiple-bucket-storage",
+    "postDateTime": "2024-08-22 13:00:00-04:00",
+    "postDate": "2024-08-22",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Amplify introduces multiple bucket support for Storage",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-amplify",
+            "name": "aws-amplify",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-amplify"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#mobile-services",
+            "name": "mobile-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/mobile-services"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-s3",
+            "name": "amazon-s3",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-s3"
+        }
+    ]
+}

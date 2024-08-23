@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p145853329",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "eWR5vihmAMDKSxShuyfvvJ",
+    "dateCreated": "2024-08-14 19:03:50+00:00",
+    "dateUpdated": "2024-08-22 17:59:02+00:00",
+    "postBody": "Amazon DocumentDB now supports Global Cluster Failover, a fully managed experience for performing a cross-region failover to respond to unplanned events such as a regional outage. With Global Cluster Failover, you can convert a secondary region into the new primary region in typically a minute and also maintain the multi-region Global Cluster configuration. An Amazon DocumentDB Global Cluster is a single cluster that can span up to 6 AWS Regions, enabling disaster recovery from region-wide outages and low latency global reads.\nCombined with Global Cluster Switchover, you can easily promote a secondary region to a primary region for both unplanned and planned events. Global Cluster Switchover is a fully managed cross-region database failover experience meant for planned events such as regional rotations. See our documentation to learn more about Global Cluster Failover and Switchover.\nAmazon DocumentDB makes it easy and cost effective to operate critical document workloads in a highly-available manner at virtually any scale without managing infrastructure. To get started with Amazon DocumentDB, take a look at our getting started page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-documentdb-mongodb-compatibility-global-clusters-failover",
+    "postDateTime": "2024-08-22 13:50:00-04:00",
+    "postDate": "2024-08-22",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon DocumentDB (with MongoDB Compatibility) Global Clusters introduces Failover",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-documentdb",
+            "name": "amazon-documentdb",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-documentdb"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        }
+    ]
+}

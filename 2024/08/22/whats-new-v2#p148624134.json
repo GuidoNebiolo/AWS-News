@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p148624134",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-gtongknCP8fUnmX5f7q6Pg",
+    "dateCreated": "2024-08-22 16:29:53+00:00",
+    "dateUpdated": "2024-08-22 19:22:26+00:00",
+    "postBody": "Amazon Connect Contact Lens now provides an audit trail to review the changes made to an agent performance evaluation when it is re-submitted. This launch displays the audit trail, which was previously available within a customer’s S3 bucket, directly in the Amazon Connect UI. When an evaluator submits changes to an existing evaluation form, managers can now view an audit trail of who submitted the original evaluation, who re-submitted the evaluation, and what changes they made. Contact center managers can use this information to perform internal audits and improve consistency across evaluators.\nThis feature is available in all regions where Contact Lens performance evaluations is already available. To learn more, please visit our documentation and our webpage. For information about Contact Lens pricing, please visit our pricing page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-contact-lens-audit-trail-agent-evaluation/",
+    "postDateTime": "2024-08-22 10:00:00-07:00",
+    "postDate": "2024-08-22",
+    "contentType": null,
+    "headline": "Amazon Connect Contact Lens now provides an audit trail for changes to an agent performance evaluation",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#messaging",
+            "name": "messaging",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/messaging"
+        }
+    ]
+}
