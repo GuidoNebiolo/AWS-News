@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p148583343",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-qYNdeQ8FZmJqZbcaFskLcE",
+    "dateCreated": "2024-08-22 20:23:37+00:00",
+    "dateUpdated": "2024-08-23 19:18:45+00:00",
+    "postBody": "Knowledge Bases for Amazon Bedrock securely connects foundation models (FMs) to internal company data sources for Retrieval Augmented Generation (RAG) to deliver relevant, context-specific, and accurate responses. Anthropic’s Claude 3.5 Sonnet foundation model is now generally available on Knowledge Bases.\nAnthropic’s Claude 3.5 Sonnet—the first model in the forthcoming Claude 3.5 model family—has a 200,000 context window (roughly 150,000 words, or around 300 pages of material) and raises the industry bar for intelligence, outperforming other generative AI models on a wide range of evaluations. Claude 3.5 Sonnet is well-suited for tasks that require complex reasoning, quick outputs, and RAG. Additionally, Claude 3.5 Sonnet is supported through the fully managed RetrieveAndGenerate API.\nAnthropic’s Claude 3.5 Sonnet model support for Amazon Bedrock Knowledge Bases is now generally available in the US East (N. Virginia), US West (Oregon), Europe (Frankfurt) and Asia Pacific (Tokyo) AWS Regions. To learn more, read the AWS News launch blog and Claude in Amazon Bedrock product page. To get started, refer to the Knowledge Bases for Amazon Bedrock documentation and visit the Amazon Bedrock console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/knowledge-bases-amazon-bedrock-anthropics-claude-3-5-sonnet/",
+    "postDateTime": "2024-08-23 12:00:00-07:00",
+    "postDate": "2024-08-23",
+    "contentType": null,
+    "headline": "Knowledge Bases for Amazon Bedrock supports Anthropic’s Claude 3.5 Sonnet",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p140044581",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "8kJB4rB8FLV8eN3Nf2wmaN",
+    "dateCreated": "2024-08-23 12:47:44+00:00",
+    "dateUpdated": "2024-08-23 20:56:07+00:00",
+    "postBody": "Amazon Connect now allows you to configure flows to take actions on callbacks prior their creation and while they are in queue. For example, you can now automate sending a notification to a customer via SMS before calling them back, update callback attributes based on latest customer data for agents to reference, or even terminate the callback if the issue has already been resolved. You can also now run flows to dynamically re-prioritize and transfer callbacks to another queue based on customer information from Customer profiles or third-party applications, or if it’s just taking too long for the callback queue to drain.\nThis feature is available in all AWS regions where Amazon Connect is offered. To learn more about this feature, see the Amazon Connect administrator guide. To learn more about Amazon Connect, the AWS cloud-based contact center, please visit the Amazon Connect website.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-configure-callbacks",
+    "postDateTime": "2024-08-23 13:00:00-04:00",
+    "postDate": "2024-08-23",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon Connect provides new ways to configure callbacks",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#messaging",
+            "name": "messaging",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/messaging"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}
