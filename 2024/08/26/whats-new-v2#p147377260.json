@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p147377260",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "iWWfUTF1FAgk5deHdLJAzm",
+    "dateCreated": "2024-08-19 15:56:06+00:00",
+    "dateUpdated": "2024-08-26 16:59:45+00:00",
+    "postBody": "Amazon QuickSight now supports sharing views of embedded dashboards. This feature allows developers to enable more collaborative capabilities in their application with embedded QuickSight dashboards. Additionally, they can enable personalization capabilities such as bookmarks for anonymous users.\nThis feature enables embedded dashboards readers to collaborate easily. They can share a unique link that displays only their changes while staying within the application. When an embedded dashboard reader wants to share their view with another user of the application, the application developer can pass this intent to QuickSight SDK. This will generate a shareable reference to the current state of the embedded dashboard. When a different reader lands on that shareable link, developers can load the QuickSight dashboard with that particular shared state. For more information, click here.\nThis feature is now available in all supported Amazon QuickSight regions - US East (Ohio and N. Virginia), US West (Oregon), Asia Pacific (Mumbai, Seoul, Singapore, Sydney and Tokyo), Canada (Central), Europe (Frankfurt, Ireland and London), South America (São Paulo) and the AWS GovCloud (US-West) Region.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-quicksight-sharing-views-embedded-dashboards",
+    "postDateTime": "2024-08-26 13:00:00-04:00",
+    "postDate": "2024-08-26",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon QuickSight now supports sharing views of embedded dashboards",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-quicksight",
+            "name": "amazon-quicksight",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-quicksight"
+        }
+    ]
+}

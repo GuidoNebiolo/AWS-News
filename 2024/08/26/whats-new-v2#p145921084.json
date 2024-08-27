@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p145921084",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "tjeBc3j4VYTKyPFk3fznni",
+    "dateCreated": "2024-08-14 17:36:06+00:00",
+    "dateUpdated": "2024-08-26 17:01:15+00:00",
+    "postBody": "Amazon Web Services (AWS) is announcing a streamlined Federated and SSO sign in process for the AWS Console Mobile App. AWS customers who use Federated or SSO authentication methods with the AWS Console Mobile App can now select their sign in URL from a list of recently used URLs when they setup a subsequent identity to access an account.\nThe Console Mobile App lets users view and manage a select set of resources to stay informed and connected with their AWS resources while on-the-go. The sign in process supports device password managers and biometrics authentication, making access to AWS resources simple, secure, and quick.\nVisit the product page for more information about the Console Mobile App.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-streamlined-federated-sso-sign-in-process-console-mobile-app",
+    "postDateTime": "2024-08-26 13:00:00-04:00",
+    "postDate": "2024-08-26",
+    "contentType": "Launch Announcement",
+    "headline": "AWS announces a streamlined Federated and SSO sign in process for the AWS Console Mobile App",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#mobile-services",
+            "name": "mobile-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/mobile-services"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-console-mobile-application",
+            "name": "aws-console-mobile-application",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-console-mobile-application"
+        }
+    ]
+}

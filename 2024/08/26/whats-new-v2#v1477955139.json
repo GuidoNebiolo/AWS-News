@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1477955139",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "9yFrvWrFeYyKBSf4DeTBh4",
+    "dateCreated": "2024-08-12 18:03:15+00:00",
+    "dateUpdated": "2024-08-26 17:55:20+00:00",
+    "postBody": "Amazon Braket, the quantum computing service from AWS, now offers Rigetti Computing’s latest 84-qubit Ankaa-2 system in the US West (N. California) Region. Ankaa-2 is the highest qubit-count gate-based quantum device available on Amazon Braket, enabling customers to tackle larger and more complex problems while pushing the boundaries of what's possible with today's quantum hardware. Ankaa-2 allows customers to submit their quantum tasks and hybrid jobs at any time, opening up new possibilities for uninterrupted experiments and a more efficient use of quantum hardware resources, all on a pay-as-you-go basis.\nBraket's core mission is to accelerate research and innovation in quantum computing by making quantum hardware available to customers on-demand, with pay-as-you-go pricing, via a unified interface and access model. With this launch, customers can now use the familiar Braket SDK and APIs to access the latest 84-qubit system from Rigetti, which is designed to offer significantly faster gate operation times, improved fidelities, and four-fold qubit connectivity enabling customers to run deeper circuits. Researchers requiring access to lower levels of control over the hardware to explore use cases such as studying noise, developing new and more robust gates, and devising error mitigation schemes can access Ankaa-2 using Braket Pulse.\nTo get started with Rigetti Ankaa-2, refer to the Amazon Braket Rigetti device page for device details, the Amazon Braket Documentation for guides and resources, and the Amazon Braket Pricing page for pricing information.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-braket-rigettis-84-qubit-ankaa-2-system",
+    "postDateTime": "2024-08-26 14:00:00-04:00",
+    "postDate": "2024-08-26",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon Braket adds support for Rigetti's 84-Qubit Ankaa™-2 system, our largest gate-based superconducting device",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-braket",
+            "name": "amazon-braket",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-braket"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#quantum-technologies",
+            "name": "quantum-technologies",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/quantum-technologies"
+        }
+    ]
+}
