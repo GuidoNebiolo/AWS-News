@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1365726699",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "jsN7Kt2Y7DTQpoEnKepHpr",
+    "dateCreated": "2024-05-21 21:08:32+00:00",
+    "dateUpdated": "2024-08-27 21:52:04+00:00",
+    "postBody": "Starting today, you can leverage Amazon EC2 status checks to directly monitor if the EBS volumes attached to your instances are reachable and able to complete I/O operations. You can use this new status check to quickly detect attachment issues or volume impairments that may impact the performance of your applications running on Amazon EC2 instances. You can further integrate these status checks within Auto Scaling groups to monitor the health of EC2 instances and replace impacted instances to ensure high availability and reliability of your applications. Attached EBS status checks can be used along with the instance status and system status checks to monitor the health of your instances.\nPrior to today, you could only monitor the health of your EBS volume attachments by configuring and enabling a specific CloudWatch metric. Now with this capability, you can monitor the health of EBS volume attachments to your instance directly from EC2 Console or describe-instance-status API without any additional configuration or action from your side.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-status-checks-reachability-health-ebs-volume",
+    "postDateTime": "2024-08-27 17:50:00-04:00",
+    "postDate": "2024-08-27",
+    "contentType": "launch announcement",
+    "headline": "Amazon EC2 status checks now support reachability health of attached EBS volumes",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-ec2",
+            "name": "amazon-ec2",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ec2"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

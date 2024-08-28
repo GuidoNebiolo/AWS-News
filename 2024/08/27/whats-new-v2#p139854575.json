@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p139854575",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-xtXqzUSmGr9UqGc96YfPpu",
+    "dateCreated": "2024-08-13 16:36:00+00:00",
+    "dateUpdated": "2024-08-27 16:57:22+00:00",
+    "postBody": "Amazon Relational Database Service (RDS) for PostgreSQL announces Amazon RDS Extended Support minor version 11.22-RDS.20240808. We recommend that you upgrade to this version to fix known security vulnerabilities and bugs in prior versions of PostgreSQL. Learn more about the updates and patches in this Extended Support minor version in the Amazon RDS User Guide.\nAmazon RDS Extended Support provides you more time, up to three years, to upgrade to a new major version to help you meet your business requirements. During Extended Support, Amazon RDS will provide critical security and bug fixes for your RDS for PostgreSQL databases after the community ends support for a major version. You can run your PostgreSQL databases on Amazon RDS with Extended Support for up to three years beyond a major version’s end of standard support date. Learn more about Extended Support in the Amazon RDS User Guide.\nYou are able to leverage automatic minor version upgrades to automatically upgrade your databases to more recent minor versions during scheduled maintenance windows. Learn more about upgrading your database instances, including minor and major version upgrades, in the Amazon RDS User Guide.\nAmazon RDS for PostgreSQL makes it simple to set up, operate, and scale PostgreSQL deployments in the cloud. See Amazon RDS for PostgreSQL Pricing for pricing details and regional availability. Create or update a fully managed Amazon RDS database in the Amazon RDS Management Console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-postgresql-minor-11-22-rds-20240808/",
+    "postDateTime": "2024-08-27 10:00:00-07:00",
+    "postDate": "2024-08-27",
+    "contentType": null,
+    "headline": "Amazon RDS for PostgreSQL announces Extended Support minor 11.22-RDS.20240808",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds",
+            "name": "amazon-rds",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds"
+        }
+    ]
+}

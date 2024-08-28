@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1423932138",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-kbKt7QT4RJ1b8g1oPSexc3",
+    "dateCreated": "2024-08-16 19:00:28+00:00",
+    "dateUpdated": "2024-08-27 22:34:47+00:00",
+    "postBody": "Today, Amazon Bedrock announces support for cross-region inference, an optional feature that enables developers to seamlessly manage traffic bursts by utilizing compute across different AWS Regions. By using cross-region inference, Bedrock customers using on-demand mode will be able to get higher throughput limits (up to 2x their allocated in-region quotas) and enhanced resilience during periods of peak demand. By opting in, developers no longer have to spend time and effort predicting demand fluctuations. Instead, cross-region inference dynamically routes traffic across multiple regions, ensuring optimal availability for each request and smoother performance during high-usage periods.\nCustomers can control where their inference data flows by selecting from a pre-defined set of regions, helping them comply with applicable data residency requirements and sovereignty laws. Moreover, this capability prioritizes the connected Bedrock API source region when possible, helping to minimize latency and improve responsiveness. As a result, customers can enhance their applications' reliability, performance, and efficiency.\nThere's no additional routing cost for using cross-region inference and you will be charged based on the region you made the request in (source region). Please find the list of supported models and pre-defined regions here. To learn more about the feature and how to get started, refer to the Amazon Bedrock documentation or this blog.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-cross-region-inference/",
+    "postDateTime": "2024-08-27 10:00:00-07:00",
+    "postDate": "2024-08-27",
+    "contentType": null,
+    "headline": "Amazon Bedrock now supports cross-region inference",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        }
+    ]
+}

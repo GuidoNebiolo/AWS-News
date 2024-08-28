@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p145689199",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-ckY6inPVErL4GNfWuwjVJi",
+    "dateCreated": "2024-08-08 16:00:40+00:00",
+    "dateUpdated": "2024-08-27 17:25:12+00:00",
+    "postBody": "Amazon Q Business is a fully managed, generative AI–powered assistant that enhances workforce productivity by answering questions, providing summaries, generating content, and completing tasks based on customers’ enterprise data. Customers create and manage their workforce user identity using identity providers of their choice. Previously, customers had to sync their user identity information from their identity provider into AWS IAM Identity Center, and then connect their Amazon Q Business applications to IAM Identity Center for user authentication.\nStarting today, customers can use the Amazon Q Business IAM federation feature to connect their applications directly to their identity provider to source user identity and user attributes for these applications.\nAt launch, Amazon Q Business IAM federation will support the OpenID Connect (OIDC) and SAML2.0 protocols for identity provider connectivity. Amazon Q Business applications built using IAM federation will support advanced features including custom plugins, Amazon Q Apps, and personalization. Amazon Q Business IAM federation is available in all AWS Regions where Amazon Q Business is available. To learn more, visit the documentation. To explore Amazon Q Business, visit the website.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-q-business-iam-user-authentication/",
+    "postDateTime": "2024-08-27 10:00:00-07:00",
+    "postDate": "2024-08-27",
+    "contentType": null,
+    "headline": "Amazon Q Business launches IAM federation for user identity authentication",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-q",
+            "name": "amazon-q",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-q"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        }
+    ]
+}

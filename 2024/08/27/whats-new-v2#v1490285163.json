@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1490285163",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "9HvJFk3evX71Q4D6SwXyR5",
+    "dateCreated": "2024-08-20 18:15:42+00:00",
+    "dateUpdated": "2024-08-27 18:58:09+00:00",
+    "postBody": "Starting today, Amazon EC2 C6gd and R6gd instances are available in the AWS Europe (Spain) region. These instances are powered by AWS Graviton2 processors and are built on the AWS Nitro System. The Nitro System is a collection of AWS designed hardware and software innovations that enables the delivery of efficient, flexible, and secure cloud services with isolated multi-tenancy, private networking, and fast local storage.\nC6gd instances are ideal for compute-intensive workloads such as high performance computing (HPC), batch processing, and CPU-based machine learning inference. R6gd instances are built for running memory-intensive workloads such as open-source databases, in-memory caches, and real time big data analytics. The local SSD storage provided on these instances will benefit applications that need access to high-speed, low latency storage, as well as for temporary storage of data such as batch and log processing, and for high-speed caches and scratch files. These instances offer up to 25 Gbps of network bandwidth, and up to 19 Gbps of bandwidth to the Amazon Elastic Block Store (Amazon EBS). C6gd and R6gd instances offer up to 3.8 TB of NVMe-based SSD storage.\nTo learn more about the instances, see Amazon EC2 C6gd and R6gd. To get started with AWS Graviton2-based instances, visit the AWS Management Console, AWS Command Line Interface (CLI), and AWS SDKs.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-c6gd-r6gd-instances-available-spain",
+    "postDateTime": "2024-08-27 15:00:00-04:00",
+    "postDate": "2024-08-27",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon EC2 C6gd and R6gd instances are now available in AWS Europe (Spain) region",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ec2",
+            "name": "amazon-ec2",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ec2"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

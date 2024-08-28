@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p143329030",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "4T33fefRFzp5Soqztcgooi",
+    "dateCreated": "2024-08-06 19:52:19+00:00",
+    "dateUpdated": "2024-08-27 17:16:06+00:00",
+    "postBody": "Amazon WorkSpaces Personal now supports Microsoft Entra ID and Intune. With this launch, customers using Amazon WorkSpaces Personal can now provision virtual desktops joined with Entra ID and enrolled in Intune, without requiring Microsoft Active Directory. By integrating with AWS IAM Identity Center, the launch also allows customers the flexibility to use other cloud-based identity and endpoint management solutions with WorkSpaces including JumpCloud.\nWith the launch, WorkSpaces Personal now supports both AD and non-AD domain joined virtual desktops. For customers who want to use Entra ID for identity management, AWS IAM Identity Center is used to ensure user identity data is automatically synchronized from Entra ID to AWS. Leveraging Windows Autopilot user-driven mode, Windows 10 and 11 virtual desktops are automatically enrolled to Intune during provisioning and joined to Entra ID during Windows Out of Box Experience (OOBE). End users log into their virtual desktops as Entra ID users, so they can access Microsoft 365 Apps for enterprise without another Entra ID login. In addition, with non-AD domain joined WorkSpaces, customers now have the option to use JumpCloud which is a native cloud directory platform which provides identity, access, and device management.\nThe feature is generally available today in all regions where Amazon WorkSpaces Personal is offered, except for Africa (Cape Town), Israel (Tel Aviv), and China regions. There is no extra cost for using the feature and IAM Identity Center.\nTo learn more about the feature, see Amazon WorkSpaces Administration Guide. To get started with the feature, log on to AWS Management Console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-microsoft-entra-id-intune-amazon-workspaces-personal",
+    "postDateTime": "2024-08-27 13:00:00-04:00",
+    "postDate": "2024-08-27",
+    "contentType": "Launch Announcement",
+    "headline": "AWS announces support for Microsoft Entra ID and Microsoft Intune on Amazon WorkSpaces Personal",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-workspaces",
+            "name": "amazon-workspaces",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-workspaces"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-iam-identity-center",
+            "name": "aws-iam-identity-center",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-iam-identity-center"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#mobile-services",
+            "name": "mobile-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/mobile-services"
+        }
+    ]
+}

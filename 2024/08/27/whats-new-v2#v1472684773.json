@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1472684773",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "knJwys2tWJGYoHL1GcY7YA",
+    "dateCreated": "2024-08-19 16:00:23+00:00",
+    "dateUpdated": "2024-08-27 21:42:12+00:00",
+    "postBody": "Today, we are excited to announce the general availability of two female-sounding Amazon Polly voices for two new locales: Czechia and Switzerland.\nAmazon Polly is a managed service that turns text into lifelike speech, allowing you to create applications that talk and to build speech-enabled products depending on your business needs.\nWe have developed a Swiss Standard German voice Sabrina and a Czech voice Jitka using a well-established neural TTS technology allowing our customers to synthesize natural human-like speech. With these voices, we bring Polly to two new countries and expand our language offerings. Sabrina and Jitka are conversational voices that can be used in Interactive Voice Response technology and more.\nSabrina and Jitka voices are accessible in all Polly regions and complement the other types of voices that are already available for developing speech products for a variety of use cases.\nFor more details, please read the Amazon Polly documentation and visit our pricing page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/polly-voices-new-locales",
+    "postDateTime": "2024-08-27 17:40:00-04:00",
+    "postDate": "2024-08-27",
+    "contentType": "Launch Announcement",
+    "headline": "Polly Voices for two new locales: Czechia and Switzerland",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-polly",
+            "name": "amazon-polly",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-polly"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}
