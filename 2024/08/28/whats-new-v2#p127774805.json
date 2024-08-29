@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p127774805",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "8sjXXY3DoEapBFwGp8ezpJ",
+    "dateCreated": "2024-07-25 16:38:45+00:00",
+    "dateUpdated": "2024-08-28 16:59:57+00:00",
+    "postBody": "We are excited to announce that Amazon OpenSearch Serverless is expanding availability to the Amazon OpenSearch Serverless, now available in the AWS GovCloud (US-West) Region. OpenSearch Serverless is a serverless deployment option for Amazon OpenSearch Service that makes it simple to run search and analytics workloads without the complexities of infrastructure management. OpenSearch Serverless’ compute capacity used for data ingestion, search, and query is measured in OpenSearch Compute Units (OCUs).\nThe support for OpenSearch Serverless is now available in 14 regions globally: US East (Ohio), US East (N. Virginia), US West (Oregon), Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Frankfurt), Europe (Ireland), Europe West (Paris), Europe West (London), Asia Pacific South (Mumbai), South America (Sao Paulo), Canada Central (Montreal) and the AWS GovCloud (US-West) Region. Please refer to the AWS Regional Services List for more information about Amazon OpenSearch Service availability. To learn more about OpenSearch Serverless, see the documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-opensearch-serverless-aws-govcloud-us-west-region",
+    "postDateTime": "2024-08-28 13:00:00-04:00",
+    "postDate": "2024-08-28",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon OpenSearch Serverless now available in the AWS GovCloud (US-West) Region",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#customer-enablement",
+            "name": "customer-enablement",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/customer-enablement"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-opensearch-service",
+            "name": "amazon-opensearch-service",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-opensearch-service"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#serverless",
+            "name": "serverless",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/serverless"
+        }
+    ]
+}

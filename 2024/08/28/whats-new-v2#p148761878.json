@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p148761878",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-3khTb2pawUEHeDesEM7b7k",
+    "dateCreated": "2024-08-26 16:31:27+00:00",
+    "dateUpdated": "2024-08-28 22:20:00+00:00",
+    "postBody": "Starting today, customers can provision Amazon-provided contiguous IPv4 blocks using Amazon VPC IP Address Manager (IPAM), to simplify network management and security.\nCustomers want to use Amazon-provided contiguous IPv4 blocks in their networking and security constructs like access control lists, route tables, security groups, and firewalls as opposed to using many individual discontiguous public IPv4 addresses that can be cumbersome to manage. Within IPAM, customers can provision Amazon-provided contiguous IPv4 blocks into IPv4 publicly scoped regional pools. They can then create Elastic IP addresses from these pools, and use them with AWS resources, such as EC2 instances, Network Load Balancers and NAT gateways.\nCustomers are charged for all public IPv4 addresses in the Amazon-provided contiguous IPv4 block. To learn about pricing for this feature, please see the Amazon-provided contiguous IPv4 block tab in the VPC pricing page.\nAmazon-provided contiguous IPv4 blocks are available in all AWS commercial regions and the AWS GovCloud (US) Regions, in both Free Tier and Advanced Tier of VPC IPAM. When used with the Advanced Tier of VPC IPAM, customers can share their Amazon-provided contiguous IPv4 blocks across two or more accounts. To get started please see the IPAM documentation page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-provided-contiguous-ipv4-blocks/",
+    "postDateTime": "2024-08-28 10:00:00-07:00",
+    "postDate": "2024-08-28",
+    "contentType": null,
+    "headline": "AWS announces Amazon-provided contiguous IPv4 blocks",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#networking-and-content-delivery",
+            "name": "networking-and-content-delivery",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/networking-and-content-delivery"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-vpc",
+            "name": "amazon-vpc",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-vpc"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

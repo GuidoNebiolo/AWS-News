@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1493818509",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-kngTS3JeXw2c2fMMsDN4gg",
+    "dateCreated": "2024-08-28 17:08:12+00:00",
+    "dateUpdated": "2024-08-28 18:18:15+00:00",
+    "postBody": "Amazon Location Service has launched a Migration SDK that enables users to easily and quickly migrate their existing application from Google Maps Platform to Amazon Location Service.\nThe Migration SDK provides an option for your application built using the Google Maps SDK for JavaScript to use Amazon Location Service without needing to rewrite any of the application or business logic if Amazon Location supports the capabilities used. Customers can compare their current Google Maps API usage with the Migration SDK’s list of supported APIs to determine if the Migration SDK is right for them. The Migration SDK will receive updates as Amazon Location Service extends its Maps/Places/Routes feature set.\nTo learn more, visit the Migration SDK instructions and check for currently supported Google APIs here.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-location-service-migration-sdk/",
+    "postDateTime": "2024-08-28 10:00:00-07:00",
+    "postDate": "2024-08-28",
+    "contentType": null,
+    "headline": "Amazon Location Service announces Migration SDK",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-location-service",
+            "name": "amazon-location-service",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-location-service"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#mobile-services",
+            "name": "mobile-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/mobile-services"
+        }
+    ]
+}

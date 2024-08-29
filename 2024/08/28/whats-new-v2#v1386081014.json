@@ -1,0 +1,52 @@
+{
+    "id": "whats-new-v2#v1386081014",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "iGpjUvrwdYpe2SELHMxJ8T",
+    "dateCreated": "2024-08-19 16:13:04+00:00",
+    "dateUpdated": "2024-08-28 19:51:54+00:00",
+    "postBody": "AWS Network Firewall now supports GeoIP Filtering on ingress and egress Amazon Virtual Private Cloud (VPC) traffic. This new feature makes it easy for customers to block traffic coming from or going to specific countries and meet compliance requirements. Previously, maintaining compliance with regulations was time-consuming because you have to maintain a list of IP addresses associated with specific countries and update your firewall rules regularly. GeoIP Filtering saves time and reduces operational complexity by enabling you to filter traffic on Network Firewall using the country name.\nAWS Network Firewall is a managed firewall service that makes it easy to deploy essential network protections for all your Amazon VPCs. GeoIP Filtering allows you to enforce your AWS Network Firewall rules and policies consistently across your entire network, making it easier to meet business or regulatory compliance requirements and improve your network security posture.\nGeoIP Filtering is supported in all AWS Regions where AWS Network Firewall is available today, including the AWS GovCloud (US) Regions. For more information about the AWS Regions where AWS Network Firewall is available, see the AWS Region table.\nThere is no additional cost to enable GeoIP Filtering on AWS Network Firewall. You can configure GeoIP Filtering using the AWS Management Console, AWS CLI, AWS SDK, or the AWS Network Firewall API. To learn more about configuring GeoIP Filtering, please refer to the service documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-network-firewall-geoip-filtering",
+    "postDateTime": "2024-08-28 15:50:00-04:00",
+    "postDate": "2024-08-28",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Network Firewall introduces GeoIP Filtering to inspect traffic based on geographic location",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#networking",
+            "name": "networking",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/networking"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-vpc",
+            "name": "amazon-vpc",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-vpc"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-network-firewall",
+            "name": "aws-network-firewall",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-network-firewall"
+        }
+    ]
+}
