@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p137323230",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-k9cUZtNchJffY9H6wtnFor",
+    "dateCreated": "2024-07-01 15:53:57+00:00",
+    "dateUpdated": "2024-08-29 16:53:57+00:00",
+    "postBody": "AWS Global Accelerator now supports traffic through a new AWS edge location in Cairo, Egypt. With the addition of the edge location, Global Accelerator is now available through 121 Points of Presence globally and supports application endpoints in 29 AWS Regions.\nAWS Global Accelerator is a service that is designed to improve the availability, security, and performance of your internet-facing applications. By using the congestion-free AWS network, end-user traffic to your applications benefits from increased availability, DDoS protection at the edge, and higher performance relative to the public internet. Global Accelerator provides static IP addresses that act as fixed entry endpoints for your application resources in one or more AWS Regions, such as your Application Load Balancers, Network Load Balancers, Amazon EC2 instances, or Elastic IPs. Global Accelerator continually monitors the health of your application endpoints and offers deterministic fail-over for multi-region workloads without any DNS dependencies.\nTo get started, visit the AWS Global Accelerator website and review its documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-global-accelerator-edge-cairo-egypt/",
+    "postDateTime": "2024-08-29 10:00:00-07:00",
+    "postDate": "2024-08-29",
+    "contentType": null,
+    "headline": "AWS Global Accelerator launches new edge location in Cairo, Egypt",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#networking-and-content-delivery",
+            "name": "networking-and-content-delivery",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/networking-and-content-delivery"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-global-accelerator",
+            "name": "aws-global-accelerator",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-global-accelerator"
+        }
+    ]
+}

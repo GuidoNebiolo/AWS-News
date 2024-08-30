@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p150261318",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-8txGFS1YH34chzzc77zCbL",
+    "dateCreated": "2024-08-29 16:05:53+00:00",
+    "dateUpdated": "2024-08-29 16:58:49+00:00",
+    "postBody": "Amazon Redshift Serverless, which allows you to run and scale analytics without having to provision and manage data warehouse clusters, is now generally available in the AWS Asia Pacific (Jakarta) region. With Amazon Redshift Serverless, all users, including data analysts, developers, and data scientists, can use Amazon Redshift to get insights from data in seconds. Amazon Redshift Serverless automatically provisions and intelligently scales data warehouse capacity to deliver high performance for all your analytics. You only pay for the compute used for the duration of the workloads on a per-second basis. You can benefit from this simplicity without making any changes to your existing analytics and business intelligence applications.\nWith a few clicks in the AWS Management Console, you can get started with querying data using the Query Editor V2 or your tool of choice with Amazon Redshift Serverless. There is no need to choose node types, node count, workload management, scaling, and other manual configurations. You can create databases, schemas, and tables, and load your own data from Amazon S3, access data using Amazon Redshift data shares, or restore an existing Amazon Redshift provisioned cluster snapshot. With Amazon Redshift Serverless, you can directly query data in open formats, such as Apache Parquet, in Amazon S3 data lakes. Amazon Redshift Serverless provides unified billing for queries on any of these data sources, helping you efficiently monitor and manage costs.\nTo get started, see the Amazon Redshift Serverless feature page, user documentation, and API Reference.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-serverless-jakarta-region/",
+    "postDateTime": "2024-08-29 10:00:00-07:00",
+    "postDate": "2024-08-29",
+    "contentType": null,
+    "headline": "Amazon Redshift Serverless is now available in the AWS Asia Pacific (Jakarta) region",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-redshift",
+            "name": "amazon-redshift",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-redshift"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

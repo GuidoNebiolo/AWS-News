@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1497483616",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-8Ex22YtNKs1dYNpLwrTbS3",
+    "dateCreated": "2024-08-29 18:16:28+00:00",
+    "dateUpdated": "2024-08-29 18:45:23+00:00",
+    "postBody": "Amazon SageMaker Projects now allows you to reuse deleted project names. This launch enhances the project deletion process by removing the project names and metadata instead of only marking them as deleted. This capability is available via SageMaker Projects API, SageMaker Studio, and Amazon SageMaker Python SDK.\nCustomers use SageMaker Projects to preconfigure and bootstrap all the resources required to run their ML workflow (e.g. code repositories, model training instances, ML Pipelines). This enhances the productivity of data scientists and accelerates the journey of generative AI and ML workflows from prototyping to production. With this launch, whenever customers delete a SageMaker Project all the metadata associated with it will be automatically deleted. They can reuse the name for new SageMaker Projects created in the future.\nThis capability is available in all regions where Amazon SageMaker Projects is available. To learn more, see the SageMaker Projects Developer Guide\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-sagemaker-projects-names-deleted-projects/",
+    "postDateTime": "2024-08-29 10:00:00-07:00",
+    "postDate": "2024-08-29",
+    "contentType": null,
+    "headline": "Amazon SageMaker Projects now allows you to reuse names of previously deleted Projects",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-sagemaker",
+            "name": "amazon-sagemaker",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-sagemaker"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p150019921",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "gKgJwoatUi3ZTYN3fjPnpv",
+    "dateCreated": "2024-08-26 16:08:58+00:00",
+    "dateUpdated": "2024-08-29 21:49:54+00:00",
+    "postBody": "Amazon Relational Database Service (RDS) for MySQL announces Amazon RDS Extended Support minor version 5.7.44-RDS.20240808. We recommend that you upgrade to this version to fix known security vulnerabilities and bugs in prior versions of MySQL. Learn more about the bug fixes and patches in this version in the Amazon RDS User Guide.\nAmazon RDS Extended Support provides you more time, up to three years, to upgrade to a new major version to help you meet your business requirements. During Extended Support, Amazon RDS will provide critical security and bug fixes for your RDS for MySQL databases after the community ends support for a major version. You can run your MySQL databases on Amazon RDS with Extended Support for up to three years beyond a major version’s end of standard support date. Learn more about Extended Support in the Amazon RDS User Guide and the Pricing FAQs.\nAmazon RDS for MySQL makes it simple to set up, operate, and scale MySQL deployments in the cloud. See Amazon RDS for MySQL Pricing for pricing details and regional availability. Create or update a fully managed Amazon RDS database in the Amazon RDS Management Console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-mysql-extended-support-minor-5-7-44-rds-20240808",
+    "postDateTime": "2024-08-29 17:50:00-04:00",
+    "postDate": "2024-08-29",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20240808",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds-for-mysql",
+            "name": "amazon-rds-for-mysql",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds-for-mysql"
+        }
+    ]
+}

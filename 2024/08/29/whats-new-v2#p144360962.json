@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p144360962",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "o8eLF9VjYeofjW1ji6gtJf",
+    "dateCreated": "2024-08-13 18:19:46+00:00",
+    "dateUpdated": "2024-08-29 20:53:24+00:00",
+    "postBody": "Today, AWS announces support for running Windows Server 2022 on workers in service-managed fleets in AWS Deadline Cloud. AWS Deadline Cloud is a fully managed service that simplifies render management for teams creating computer-generated 2D/3D graphics and visual effects for films, TV shows, commercials, games, and industrial design.\nNow you can build pipelines for 3D graphics and visual effects using digital content creation (DCC) software that requires Windows - like Adobe After Effects, and KeyShot - without having to set up, configure, or manage the worker infrastructure yourself. Deadline Cloud service-managed fleets can be set up in minutes to run either Windows or Linux, expanding the DCC software you can use within a fully managed render farm.\nWindows Server 2022 is supported in service-managed fleets in all AWS Regions where Deadline Cloud is available.\nFor more information, please visit the Deadline Cloud product page, and see the Deadline Cloud pricing page for price details.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-deadline-cloud-windows-server-2022-service-managed-fleets",
+    "postDateTime": "2024-08-29 16:52:00-04:00",
+    "postDate": "2024-08-29",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Deadline Cloud now supports Windows Server 2022 in service-managed fleets",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#media-services",
+            "name": "media-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/media-services"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-deadline-cloud",
+            "name": "aws-deadline-cloud",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-deadline-cloud"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

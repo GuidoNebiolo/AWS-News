@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#v1440088045",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "bwLdm6m81aHkJTgrVUBYiJ",
+    "dateCreated": "2024-08-21 17:31:50+00:00",
+    "dateUpdated": "2024-08-29 19:29:39+00:00",
+    "postBody": "Customers can now enable deletion protection on AWS AppConfig resources, including Configuration Profiles and Environments. AWS AppConfig helps engineers move faster and resolve issues more quickly with managed feature flags and dynamic configuration. However, deleting any configuration data, for application hygiene or compliance reasons, should always be done very carefully to avoid unexpected behavior. With AWS AppConfig deletion protection enabled, a customer’s account will not be allowed to delete a recently-used resource without explicitly bypassing deletion protection in the AWS Management Console, CLI, or API call. In addition, customers can set the amount of time that is considered “recently-used” to tailor to their organization’s workflows.\nAWS AppConfig already has many safety guardrails to be able to update feature flags and configuration data with confidence. With AWS AppConfig, customers can gradually deploy changes to measure and limit impact; customers can set up an alarm to automatically rollback an in-process deployment; customers can validate configuration data syntactically and semantically prior to pushing out updates. With deletion protection, customers now have an additional safety guardrail to ensure their use of feature flags and dynamic configuration is as expected.\nDeletion protection for AWS AppConfig resources is available in all AWS Regions, including the AWS GovCloud (US) Regions. To get started, use the AWS AppConfig Getting Started Guide, or learn about AWS AppConfig deletion protection.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-appconfig-deletion-protection-additional-guardrails",
+    "postDateTime": "2024-08-29 15:20:00-04:00",
+    "postDate": "2024-08-29",
+    "contentType": "Launch Announcement",
+    "headline": "AWS AppConfig now provides deletion protection for additional guardrails",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-appconfig",
+            "name": "aws-appconfig",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-appconfig"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#developer-tools",
+            "name": "developer-tools",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/developer-tools"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p140336767",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "49wjYSQgc52C8mm8Ugzwah",
+    "dateCreated": "2024-08-15 17:53:23+00:00",
+    "dateUpdated": "2024-08-29 20:15:10+00:00",
+    "postBody": "AWS Step Functions announces a new Validation API for your AWS Step Functions workflows. The Validation API enables you to perform semantic checks on your workflows as you author them, helping you find syntactical errors sooner, shortening development cycles. AWS Step Functions is a visual workflow service capable of orchestrating virtually any AWS service to automate business processes and data processing workloads.\nWith the Validation API, you can perform semantic checks on your workflows before you run or deploy them to catch issues sooner. Simply validate a workflow by creating, updating, or directly calling the ValidateStateMachineDefinition API. Now with the Validation API you can catch common syntactical errors in workflows such as missing .$ on a field that uses a JSONPath or Intrinsic Function. We have also included suggestions for field names that are incorrect, but have a close match. For example, in the event of potential case sensitivity errors when calling AWS services such as Amazon Simple Notification Service, or Amazon Simple Queue Service, we will suggest the correct alphabetical case for a service name when a mismatch is detected, saving you time.\nYou can get started with the Validation API in the AWS console, using the AWS-SDK, or the AWS Command Line Interface (CLI). To learn more, see the AWS Step Functions Developer Guide to get started.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/validation-api-step-functions",
+    "postDateTime": "2024-08-29 16:15:00-04:00",
+    "postDate": "2024-08-29",
+    "contentType": "Launch Announcement",
+    "headline": "Announcing Validation API for AWS Step Functions",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#application-services",
+            "name": "application-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/application-services"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-step-functions",
+            "name": "aws-step-functions",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-step-functions"
+        }
+    ]
+}
