@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1491633695",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "bx7GtworF6qqbA24HrXDaK",
+    "dateCreated": "2024-08-21 19:32:04+00:00",
+    "dateUpdated": "2024-08-30 16:59:38+00:00",
+    "postBody": "AWS Config conformance packs and organization-level management capabilities for conformance packs and individual AWS Config rules are now available in 12 additional Regions. Conformance packs allow you to bundle AWS Config rules and their associated remediation actions into a single package, simplifying deployment at scale. You can deploy and manage these conformance packs throughout your AWS environment. With this launch, these capabilities have been added to the following Regions: Asia Pacific (Jakarta), Africa (Cape Town), Middle East (UAE), Asia Pacific (Hyderabad), Asia Pacific (Osaka), Europe (Milan), Israel (Tel Aviv), Canada West (Calgary), Europe (Spain), and Europe (Zurich).\nConformance packs provide a general-purpose compliance framework designed to enable you to create security, operational, or cost-optimization governance checks using managed or custom AWS Config rules and AWS Config remediation actions. This allows you to monitor compliance based on your own groupings and also apply remediation automatically. With this launch, you can also manage the AWS Config conformance packs and individual AWS Config rules at the organization level which simplifies the compliance management across your AWS Organization.\nTo get started, you can either use the provided sample conformance pack templates or craft a custom YAML file from scratch based on a custom conformance pack. Conformance pack deployment can be done through the AWS Config console, AWS CLI, or via AWS CloudFormation.\nYou will be charged per conformance pack evaluation in your AWS account per AWS Region. Visit the AWS Config pricing page for more details. To learn more about AWS Config conformance packs, see our documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-config-conformance-packs-additional-regions",
+    "postDateTime": "2024-08-30 13:00:00-04:00",
+    "postDate": "2024-08-30",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Config conformance packs now available in 12 additional AWS Regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-config",
+            "name": "aws-config",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-config"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        }
+    ]
+}

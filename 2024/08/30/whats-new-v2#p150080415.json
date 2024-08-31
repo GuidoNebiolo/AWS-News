@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p150080415",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "naVuDi5QtdymJPBbRJ9T6u",
+    "dateCreated": "2024-08-30 19:37:08+00:00",
+    "dateUpdated": "2024-08-30 20:32:23+00:00",
+    "postBody": "Amazon Redshift Serverless now supports AWS PrivateLink (interface VPC endpoint) to connect to Amazon Redshift Serverless. You can now connect directly to the Amazon Redshift Serverless and Amazon Redshift Serverless API services using AWS PrivateLink in your virtual private cloud (VPC) instead of connecting over the internet.\nWhen you use an AWS PrivateLink, communication between your VPC and Amazon Redshift Serverless is conducted entirely within the AWS network, which can provide greater security and protecting your sensitive information. An AWS PrivateLink endpoint connects your VPC directly to Amazon Redshift Serverless. The instances in your VPC don't need public IP addresses to communicate with the Amazon Redshift Serverless API. To use Amazon Redshift Serverless through your VPC, you have two options. One is to connect from an instance that is inside your VPC. The other is to connect your private network to your VPC by using an AWS VPN option or AWS Direct Connect. You can create an AWS PrivateLink to connect to Amazon Redshift Serverless using the AWS Management Console or AWS Command Line Interface (AWS CLI) commands. For more information, see Creating an Interface Endpoint.\nAmazon Redshift Serverless support for AWS PrivateLink is available in all AWS regions where Amazon Redshift Serverless is available.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-serverless-aws-privatelink",
+    "postDateTime": "2024-08-30 16:15:00-04:00",
+    "postDate": "2024-08-30",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon Redshift Serverless now supports AWS PrivateLink",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-privatelink",
+            "name": "aws-privatelink",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-privatelink"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-redshift",
+            "name": "amazon-redshift",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-redshift"
+        }
+    ]
+}

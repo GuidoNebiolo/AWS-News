@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1470170548",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-sDkqMWyKp4r8EhUbcUU13n",
+    "dateCreated": "2024-08-13 16:17:10+00:00",
+    "dateUpdated": "2024-08-30 16:53:57+00:00",
+    "postBody": "AWS WAF now supports setting lower rate limit thresholds for rate-based rules. Customers can now configure rate-based rules with rate limits as low as 10 requests per evaluation window, compared to the previous minimum of 100 requests.\nWith AWS WAF rate-based rules, customers can count incoming requests and limit traffic that exceeds a defined request rate. Now, in addition to existing threshold options, customers can set rate-based rule thresholds as low as 10 requests per the evaluation time window. This granular control allows customers to more effectively detect and respond to traffic spikes targeting sensitive applications and APIs, enabling quicker mitigation of sudden usage increases or malicious activity.\nTo use lower rate thresholds, simply set the 'Rate limit' to any value between 10 and 100 when configuring rate-based rules. Existing rules will remain unchanged. To customize, edit your rule to select a lower threshold then save. To learn more, see the AWS WAF developer guide. There is no additional cost for using this feature, however standard AWS WAF charges still apply. For details, visit the AWS WAF Pricing page.\nThis feature is available in all AWS Commercial Regions, except Asia Pacific (Hyderabad), Europe (Spain), Australia (Melbourne), Europe (Zurich), Israel (Tel Aviv), US-GovCloud and China Regions.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-waf-rate-based-rules-lower-rate-limits/",
+    "postDateTime": "2024-08-30 10:00:00-07:00",
+    "postDate": "2024-08-30",
+    "contentType": null,
+    "headline": "AWS WAF enhances rate-based rules to support lower rate limits",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-waf",
+            "name": "aws-waf",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-waf"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

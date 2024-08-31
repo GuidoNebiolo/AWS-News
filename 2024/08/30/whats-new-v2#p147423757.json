@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p147423757",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "f4q444ZXjBfswgbVNSW43W",
+    "dateCreated": "2024-08-26 20:30:52+00:00",
+    "dateUpdated": "2024-08-30 17:01:53+00:00",
+    "postBody": "Today, we are announcing the availability of AWS Backup support for cross-Region backup of Amazon Neptune backups in Asia Pacific (Hong Kong), Israel (Tel Aviv), and Middle East (Bahrain, UAE). Cross-Region backup enables customers to copy backups from one AWS Region to a different AWS Region, helping increase data resiliency. AWS Backup is a policy-based, fully managed and cost-effective solution that enables you to centralize and automate data protection of Amazon Neptune along with other AWS services (spanning compute, storage, and databases) and third-party applications.\nWith Cross-Region backup, customers can copy data from a source backup vault to a destination backup vault in another AWS Region, either on-demand or as part of a scheduled backup plan. Cross-Region backup helps customers meet their compliance requirements and disaster recovery needs by storing copies of backup data in a separate Region to their production data. Customers can also recover from backups in the new Region, reducing the risk of downtime and ensuring business continuity requirements are met.\nAWS Backup for Amazon Neptune is available in all Regions where Amazon Neptune is available except for Africa (Cape Town) and Asia Pacific (Osaka). With today’s launch, cross-Region backup is available for Amazon Neptune backups in all Regions where AWS Backup supports Amazon Neptune. For more information on regional availability, feature availability, and pricing, see the AWS Backup pricing page and the AWS Backup Feature Availability page.\nTo learn more about AWS Backup support for Amazon Neptune, visit AWS Backup’s technical documentation. To get started, visit the AWS Backup console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-backup-support-cross-region-backup-amazon-neptune",
+    "postDateTime": "2024-08-30 13:00:00-04:00",
+    "postDate": "2024-08-30",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Backup extends support for Cross-Region backup with Amazon Neptune",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-neptune",
+            "name": "amazon-neptune",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-neptune"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-backup",
+            "name": "aws-backup",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-backup"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1499928426",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "j2fWVn89XCggDumY1ActRH",
+    "dateCreated": "2024-08-30 18:41:18+00:00",
+    "dateUpdated": "2024-08-30 20:00:26+00:00",
+    "postBody": "AWS IoT SiteWise now supports asset model and component model versioning. This new capability is designed to help industrial customers and integrators manage the evolution of their asset models and component models more effectively.\nWith asset model and component model versioning, industrial customers can now fetch the active version of their asset model and component model. This helps them recover from failed states and avoid losing changes due to conflicting updates. The versioning feature also enables optimistic locking when updating to safely make changes to models without the risk of overwriting each other's work.\nThe asset models and component models versioning feature is available in all regions where AWS IoT SiteWise is available.\nAWS IoT SiteWise is a managed service that makes it easy to collect, store, organize, and monitor data from industrial equipment at scale to help you make data-driven decisions. To learn more about this new feature and how it can benefit your business, please visit the developer guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-iot-sitewise-models-support-versioning",
+    "postDateTime": "2024-08-30 16:00:00-04:00",
+    "postDate": "2024-08-30",
+    "contentType": null,
+    "headline": "AWS IoT SiteWise models now support versioning",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#internet-of-things",
+            "name": "internet-of-things",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/internet-of-things"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-iot-sitewise",
+            "name": "aws-iot-sitewise",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-iot-sitewise"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

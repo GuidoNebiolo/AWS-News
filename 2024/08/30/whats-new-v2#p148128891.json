@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p148128891",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-a81Bkk1rcbXs6Fsw2nUFhv",
+    "dateCreated": "2024-08-26 19:22:17+00:00",
+    "dateUpdated": "2024-08-30 17:53:39+00:00",
+    "postBody": "AWS Amplify now offers two new features for its Functions capability: Scheduled Cron Jobs and Streaming Logs. Cron Jobs allow developers to configure serverless functions to run at specific intervals, while Streaming Logs enable developers to quickly iterate and test function execution by streaming logs directly to their terminal.\nThe scheduling feature allows developers to use natural language or cron expressions to configure their serverless functions to run automatically at specified intervals or times. This is particularly useful for tasks such as data processing, batch operations, or scheduled maintenance. Additionally, streaming logs provides real-time visibility into function execution logs, enabling developers to monitor and debug their functions more effectively.\nTo learn more about Scheduling and Streaming Logs, visit the Amplify documentation. Explore the comprehensive guides, code samples, and best practices to get started with these new features.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-amplify-function-cron-jobs-streaming-logs/",
+    "postDateTime": "2024-08-30 10:00:00-07:00",
+    "postDate": "2024-08-30",
+    "contentType": null,
+    "headline": "AWS Amplify introduces new function capabilities with scheduled cron jobs and streaming logs",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-amplify",
+            "name": "aws-amplify",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-amplify"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#mobile-services",
+            "name": "mobile-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/mobile-services"
+        }
+    ]
+}

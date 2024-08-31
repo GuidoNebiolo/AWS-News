@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1497756810",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-vnaxuxiFz2M1DP117M1qZX",
+    "dateCreated": "2024-08-29 17:11:31+00:00",
+    "dateUpdated": "2024-08-30 18:39:53+00:00",
+    "postBody": "AWS Security Hub has released 8 new security controls, increasing the total number of controls offered to 423. With this release, Security Hub now supports controls for additional AWS services such as Amazon WorkSpaces and AWS DataSync . Security Hub also released new controls against previously supported services like AWS CodeBuild and Amazon Athena. For the full list of recently released controls and the AWS Regions in which they are available, visit the Security Hub user guide.\nTo use the new controls, turn on the standard they belong to. Security Hub will then start evaluating your security posture and monitoring your resources for the relevant security controls. You can use central configuration to do so across all your organization accounts and linked Regions with a single action. If you are already using the relevant standards and have Security Hub configured to automatically enable new controls, these new controls will run without taking any additional action.\nTo get started, consult the following list of resources:\nLearn more about Security Hub capabilities and features in the AWS Security Hub user guide\nSubscribe to the Security Hub SNS topic to receive notifications about new Security Hub features and controls\nTry Security Hub at no cost for 30 days\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/aws-security-hub-8-new-security-controls/",
+    "postDateTime": "2024-08-30 14:35:00-04:00",
+    "postDate": "2024-08-30",
+    "contentType": null,
+    "headline": "AWS Security Hub launches 8 new security controls",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-security-hub",
+            "name": "aws-security-hub",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-security-hub"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        }
+    ]
+}

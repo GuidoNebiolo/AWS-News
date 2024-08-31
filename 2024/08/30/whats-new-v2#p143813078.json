@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p143813078",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-2rgWZeKJsFwriY64P8Mf75",
+    "dateCreated": "2024-08-19 18:38:29+00:00",
+    "dateUpdated": "2024-08-30 16:52:05+00:00",
+    "postBody": "Amazon Personalize is excited to introduce the ability for developers to modify automatic training configurations after a Personalize solution has been created. With this launch, developers gain greater flexibility over the automatic training process for both new and existing solutions. Previously, changing configurations like training frequency required re-creating the solution entirely. Now, you can easily modify automatic training settings of any solution via API or console. When updating a solution's configuration, you can choose to enable or disable automatic retraining, as well as adjust the training frequency as needed.\nAutomatic training mitigates model drift and makes sure recommendations align with users’ evolving behaviors and preferences. Modifying the configuration of solution training allows you to adapt model retraining to your evolving business needs and data volumes. For example, you can increase training cadence during peak seasons to further optimize the relevance of recommendations. This saves time and resources by making incremental adjustments as needed, rather than re-creating the entire solution. The automatic training will continue at the new cadence until you make another update or disable automatic training entirely. Existing solutions will remain unchanged unless you modify the training configuration.\nAmazon Personalize helps companies elevate the customer experience with AI-powered personalization and deliver hyper- personalized user experiences in real-time with precision and scale to improve user engagement, customer loyalty, and business results. Modifications for automatic solution training is supported in all service regions. To learn more, visit our documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-personalize-automatic-solution-training/",
+    "postDateTime": "2024-08-30 10:00:00-07:00",
+    "postDate": "2024-08-30",
+    "contentType": null,
+    "headline": "Amazon Personalize enhances automatic solution training",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-personalize",
+            "name": "amazon-personalize",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-personalize"
+        }
+    ]
+}

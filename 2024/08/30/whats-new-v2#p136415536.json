@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p136415536",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "qfyEK9HXR5Yg5882mcHgzK",
+    "dateCreated": "2024-06-24 18:37:15+00:00",
+    "dateUpdated": "2024-08-30 21:29:19+00:00",
+    "postBody": "AWS Control Tower now allows you to register Organizational Units (OUs) containing up to 1,000 accounts. With this launch, you can implement governance best practices and standardize configurations across the accounts in your OUs at greater scale. When you register an OU or enable the AWS Control Tower baseline on an OU, member accounts receive best practice configurations, controls, and baseline resources such as AWS IAM roles, AWS CloudTrail, AWS Config, AWS Identity Center, required for AWS Control Tower governance.\nUntil today, you could only register OUs with 300 accounts or less. Now, you can enroll up to 1,000 AWS accounts under AWS Control Tower governance in a single OU. This allows greater flexibility to preserve your existing OU structure when migrating to AWS Control Tower, and increased ability to scale in-place. Performance enhancements to the OU registration and re-registration processes also enable you to deploy AWS Control Tower baseline resources into your member accounts more efficiently.\nThe maximum number of accounts in an OU may differ depending on the number enabled controls and the number of regions you have under governance. To learn more, visit Limitations based on underlying AWS services in the AWS Control Tower User Guide. For a full list of AWS regions where AWS Control Tower is available, see AWS Region Table.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/organizational-units-aws-control-tower-1000-accounts",
+    "postDateTime": "2024-08-30 17:20:00-04:00",
+    "postDate": "2024-08-30",
+    "contentType": "launch announcement",
+    "headline": "Organizational Units in AWS Control Tower can now contain up to 1,000 accounts",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-control-tower",
+            "name": "aws-control-tower",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-control-tower"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

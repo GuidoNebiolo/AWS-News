@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p123137503",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "gvF1g4Ce9nEXRpXCLWYRD8",
+    "dateCreated": "2024-05-30 19:35:22+00:00",
+    "dateUpdated": "2024-08-30 17:03:47+00:00",
+    "postBody": "Today, we are excited to announce a new enhancement in EMR Managed Scaling that improves application resiliency and scales the cluster based on executor and ApplicationMasters demand by adding support for Yarn Node Labels. Amazon EMR by default ensures that the processes that controls running jobs and needs to stay alive for the life of the job (ApplicationMasters) can run on both core and task nodes. However, many customers specially who use Spot Instances to run task nodes choose to run ApplicationMasters only on On-Demand core nodes to ensure running jobs do not fail if application masters running on Spot Instances are interrupted. With today’s launch, EMR Managed Scaling will now scale the clusters based on the demand for the individual AM’s or executors requests as defined by YARN node labels. Intelligently scaling the cluster based on AM's or executors demand leads to better performance, utilization and lower cost.\nAs part of today’s launch, with EMR release 7.2 and later, Amazon EMR will also let you specify application level YARN node labels expressions by market type i.e. On-Demand vs Spot. Previously, customers were only able to specify YARN node labels expressions by node type level i.e. Core vs Task. Now, with this new enhancement customers will have the additional flexibility to better suit the needs of your cluster workloads.\nThis feature is available with Amazon EMR release 7.2 and above in all the AWS Regions where Amazon EMR Managed Scaling is available. Review our Managed Scaling documentation to learn more.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-emr-managed-scaling-application-master-placement-aware",
+    "postDateTime": "2024-08-30 13:00:00-04:00",
+    "postDate": "2024-08-30",
+    "contentType": "launch announcement",
+    "headline": "Amazon EMR Managed Scaling is now Application Master placement aware",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-emr",
+            "name": "amazon-emr",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-emr"
+        }
+    ]
+}
