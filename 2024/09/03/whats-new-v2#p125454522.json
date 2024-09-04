@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p125454522",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "qEuMFuwvA119UxY3hH6bJ2",
+    "dateCreated": "2024-08-05 20:32:55+00:00",
+    "dateUpdated": "2024-09-03 20:37:25+00:00",
+    "postBody": "Amazon EBS direct APIs now support the Internet Protocol version 6 (IPv6) protocol when you connect your Virtual Private Cloud (VPC) to EBS Direct APIs using AWS PrivateLink. EBS direct APIs can help customers to simplify their backup and recovery workflows by directly creating and reading EBS snapshots via APIs. Through AWS PrivateLink, customers can access EBS direct APIs as if it were in your VPC. This change can support customers with their IPv6 compliance needs, integrate with existing IPv6-based on-premises applications, and remove the need for expensive networking equipment to handle the address translation between IPv4 and IPv6.\nTo use this new capability, you can configure your applications to use the Amazon EBS direct API IPv6 endpoints, or dual-stack Amazon EBS direct APIs endpoints which support both IPv4 and IPv6. When you make a request to a dual-stack Amazon EBS direct APIs endpoint, the endpoint resolves to an IPv6 or an IPv4 address, depending on the protocol used by your network and client.\nYou can access Amazon EBS direct APIs with the IPv6 protocol through AWS PrivateLink in all AWS Regions where EBS direct APIs are available. To learn more about EBS Direct APIs please visit our product page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ebs-direct-apis-ipv6-aws-privatelink",
+    "postDateTime": "2024-09-03 16:30:00-04:00",
+    "postDate": "2024-09-03",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon EBS direct APIs now supports IPv6 in AWS PrivateLink",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-privatelink",
+            "name": "aws-privatelink",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-privatelink"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-elastic-block-store",
+            "name": "amazon-elastic-block-store",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-elastic-block-store"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p148403135",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-shQJ2PDArWuUBgCpWW3ADk",
+    "dateCreated": "2024-08-26 18:37:52+00:00",
+    "dateUpdated": "2024-09-03 20:21:43+00:00",
+    "postBody": "Today AWS Network Load Balancer (NLB) is launching a new capability that allows you to align the TCP idle timeout value of NLB with clients and target applications. Using this capability you can now reduce TCP connection retries and latency in applications that use long-lived flows, such as telemetry reporting devices, databases, streaming services and ERP systems, when using NLB.\nPrior to this launch, TCP idle timeout was a fixed value of 350 seconds, which could cause TCP connection handshake retries for the long-lived traffic flows of some applications and add latency. With this launch, you now have the flexibility to configure NLB’s TCP idle timeout to be a value between 60 seconds and 6000 seconds, with the default remaining at 350 seconds for backward compatibility. This configuration can help reduce latency for long-lived traffic flows by maintaining target stickiness for the optimal duration based on the needs of your application. You can configure the TCP idle timeout value using the 'tcp.idle_timeout.seconds' listener attribute on your existing and newly created NLBs.\nThis capability is available in all AWS commercial and AWS GovCloud (US) regions.\nFor more information on how to use this feature, see this AWS blog post and product documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-network-load-balancer-tcp-idle-timeout/",
+    "postDateTime": "2024-09-03 10:00:00-07:00",
+    "postDate": "2024-09-03",
+    "contentType": null,
+    "headline": "AWS Network Load Balancer now supports configurable TCP idle timeout ",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#networking-and-content-delivery",
+            "name": "networking-and-content-delivery",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/networking-and-content-delivery"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-elastic-load-balancing",
+            "name": "amazon-elastic-load-balancing",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-elastic-load-balancing"
+        }
+    ]
+}

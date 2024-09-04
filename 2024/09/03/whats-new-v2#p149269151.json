@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p149269151",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-mYPtXcyXBdAD3H1g6r5dQG",
+    "dateCreated": "2024-09-03 15:54:56+00:00",
+    "dateUpdated": "2024-09-03 17:02:07+00:00",
+    "postBody": "AWS has expanded the AI recommendations for descriptions capability in Amazon DataZone to four new regions: South America (Sao Paulo), Europe (London), Asia Pacific (Sydney), and Canada (Central). This expansion helps improve data discovery, understanding, and usage by enriching the business data catalog. With a single click, data producers can generate comprehensive business data descriptions and context, highlight impactful columns, and include recommendations on analytical use cases.\nWith AI recommendations for descriptions in Amazon DataZone, data consumers can identify data tables and columns enhancing, which enhances data discoverability and cuts down on back-and-forth communications with data producers. Data consumers (such as data analysts, data engineers, and data scientists) have more contextualized data at their fingertips to inform their analysis. The auto-generated descriptions enable a richer search experience, as search results are now also based on detailed descriptions, possible use cases, and key columns. Data producers can also use APIs to programmatically generate descriptions for assets.\nAmazon DataZone AI recommendations for descriptions is generally available in Amazon DataZone domains provisioned in the following AWS Regions: US East (N. Virginia), US West (Oregon), Europe (Frankfurt), Asia Pacific (Tokyo), South America (Sao Paulo), Europe (London), Asia Pacific (Sydney), and Canada (Central).\nTo learn more, see the Amazon DataZone Automate Data Discovery webpage, and User Guide. For pricing information, see the pricing page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/ai-descriptions-amazon-datazone-more-regions/",
+    "postDateTime": "2024-09-03 10:00:00-07:00",
+    "postDate": "2024-09-03",
+    "contentType": null,
+    "headline": "AI recommendations for descriptions in Amazon DataZone expanded to more regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-datazone",
+            "name": "amazon-datazone",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-datazone"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1447792107",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "64iKBdUNdZi7idx9P1bMfh",
+    "dateCreated": "2024-08-01 20:51:56+00:00",
+    "dateUpdated": "2024-09-03 21:15:57+00:00",
+    "postBody": "Today, AWS adds job queuing for AWS Glue jobs. This new capability enables you to submit AWS Glue job runs without needing to manage account level quotas and limits.\nAWS Glue job queuing monitors your account level quotas and limits. If quotas or limits are insufficient to start a Glue job run, AWS Glue will automatically queue the job and wait for limits to free up. Once limits become available, AWS Glue will retry the job run. Glue jobs will queue for limits like max concurrent job runs per account, max concurrent Data Processing Units (DPU), and resource unavailable due to IP address exhaustion in Amazon Virtual Private Cloud (Amazon VPC). AWS Glue job queuing can be enabled on your jobs via the AWS Management console or API/CLI.\nAWS Glue job queuing is available in all AWS commercial regions where AWS Glue is generally available. To learn more, visit the AWS Glue product page, our documentation, or blog post.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-glue-job-queuing",
+    "postDateTime": "2024-09-03 17:15:00-04:00",
+    "postDate": "2024-09-03",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Glue now provides job queuing",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-glue",
+            "name": "aws-glue",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-glue"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        }
+    ]
+}

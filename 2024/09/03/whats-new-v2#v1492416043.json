@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1492416043",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "a9hAzyCFiyKU1V5cr3vfhb",
+    "dateCreated": "2024-08-29 17:36:04+00:00",
+    "dateUpdated": "2024-09-03 17:53:27+00:00",
+    "postBody": "Amazon DynamoDB now supports Attribute-Based Access Control (ABAC) for tables and indexes. ABAC is an authorization strategy that defines access permissions based on tags attached to users, roles, and AWS resources.\nWith ABAC, you can now use your tags to configure access permissions and policies. Tag-based access conditions can be used to allow or deny specific actions, when AWS Identity and Access Management (IAM) principals’ tags match the tags on an Amazon DynamoDB table. With the flexibility of using tag-based conditions, you can now set more granular access permissions based on your organizational structures. ABAC allows you to scale your tag-based permissions to new employees and changing resource structures, without rewriting policies as organizations grow. ABAC is supported through the AWS Management Console, AWS API, AWS CLI, AWS SDK, and AWS CloudFormation.\nAttribute-Based Access Control for Amazon DynamoDB is now available in limited preview in the US East (Ohio), US East (Virginia), and US West (N. California) Regions. To request access to the limited preview, visit the preview page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-dynamodb-attribute-based-access-control",
+    "postDateTime": "2024-09-03 13:50:00-04:00",
+    "postDate": "2024-09-03",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon DynamoDB announces support for Attribute-Based Access Control",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-dynamodb",
+            "name": "amazon-dynamodb",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-dynamodb"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p148365391",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-64uZ6vhVVCMapTqTbQPqvd",
+    "dateCreated": "2024-08-26 20:25:11+00:00",
+    "dateUpdated": "2024-09-03 16:56:16+00:00",
+    "postBody": "Amazon Connect now provides a weekly view of agent schedules, making it easier for contact center managers to get an at-a-glance view of staffing for an entire week. With this launch, you can now ensure there is required coverage each day via daily aggregated metrics including service level, occupancy, and forecasted versus scheduled hours. For example, from the weekly view you can easily identify if there is overstaffing on Wednesday and understaffing on Friday. You can then move agent shifts from Wednesday to Friday within the weekly view. Weekly view also makes it easy to verify that agents receive the appropriate shifts each day (e.g. each agent has an 8-hour shift) and that they are not working too many days in a row (e.g. each agent gets at least 2 days off every week). Weekly view improves manager productivity by reducing time spent on day to day management of agent shifts and makes it easier to review staffing for multiple days in a single view.\nThis feature is available in all AWS Regions where Amazon Connect agent scheduling is available. To get started with Amazon Connect agent scheduling, click here.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-weekly-view-agent-schedules/",
+    "postDateTime": "2024-09-03 10:00:00-07:00",
+    "postDate": "2024-09-03",
+    "contentType": null,
+    "headline": "Amazon Connect now provides a weekly view of agent schedules",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#messaging",
+            "name": "messaging",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/messaging"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        }
+    ]
+}

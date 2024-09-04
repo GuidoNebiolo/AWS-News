@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1380148283",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "sDQviXpgxQBgSbGg2mrB7n",
+    "dateCreated": "2024-06-13 18:49:25+00:00",
+    "dateUpdated": "2024-09-03 17:00:53+00:00",
+    "postBody": "Today, Amazon Redshift launches session reuse feature in Data API that enables you to access data efficiently from Amazon Redshift data warehouses by eliminating the need to manage database drivers, connections, network configurations, data buffering, and more. Data API session reuse allows you to retain the context of a session from one query execution to another, which reduces connection setup latency on repeated queries to the same data warehouse.\nWith session reuse, you can utilize session context on objects like variables or temporary tables, which you create once and use multiple times for various queries. This reduces the overall execution time for your queries. To reuse sessions, you must specify in seconds how long a session should be kept for after a query finishes and any subsequent queries can reference this session until the time expires, or it’s extended.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/session-reuse-amazon-redshift-data-api",
+    "postDateTime": "2024-09-03 13:00:00-04:00",
+    "postDate": "2024-09-03",
+    "contentType": "launch announcement",
+    "headline": "AWS announces session reuse with Amazon Redshift Data API",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-redshift",
+            "name": "amazon-redshift",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-redshift"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        }
+    ]
+}

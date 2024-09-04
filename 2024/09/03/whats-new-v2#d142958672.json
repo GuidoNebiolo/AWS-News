@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#d142958672",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "9mTv9bCuWyDWRXKXceR8XB",
+    "dateCreated": "2024-08-01 20:03:51+00:00",
+    "dateUpdated": "2024-09-03 21:13:39+00:00",
+    "postBody": "AWS Fault Injection Service (FIS) now provides additional safety control with a safety lever that, when engaged, stops all running experiments and prevents new experiments from starting. Customers can now prevent fault injection during certain time periods, such as sales events or product launches, or in response to application health alarms.\nFIS has built-in safety guardrails, including “stop conditions” that automatically stop experiments and remove faults when alarms are triggered. Today we add another important guardrail, the “safety lever”. When engaged, a safety lever stops all experiments running in the account, including multi-account experiments. The safety lever will remain engaged until manually disengaged by the customer, such as when the application has returned to a healthy state or a planned peak event has concluded.\nSafety levers are generally available in all AWS Regions where FIS is available, including the AWS GovCloud (US) Regions, at no additional costs.\nTo get started, visit the safety levers user guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-fault-injection-service-additional-safety-control",
+    "postDateTime": "2024-09-03 18:10:00-04:00",
+    "postDate": "2024-09-03",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Fault Injection Service introduces additional safety control",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-fault-injection-simulator",
+            "name": "aws-fault-injection-simulator",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-fault-injection-simulator"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#developer-tools",
+            "name": "developer-tools",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/developer-tools"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

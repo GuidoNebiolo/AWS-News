@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p146678998",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-9pRfeZbqYEKFk2oZZjdow7",
+    "dateCreated": "2024-08-26 19:12:39+00:00",
+    "dateUpdated": "2024-09-03 17:00:10+00:00",
+    "postBody": "Amazon Connect Contact Lens can now generate transcriptions in 10 new languages that include Catalan (Spain), Danish (Denmark), Dutch (Netherlands), Finnish (Finland), Indonesian (Indonesia), Malay (Malaysia), Norwegian Bokmål (Norway), Polish (Poland), Swedish (Sweden), and Tagalog/Filipino (Philippines). With this launch, Contact Lens conversational analytics now provides transcription support for 33 languages.\nAmazon Connect Contact Lens helps you to monitor, measure, and continuously improve contact quality and agent performance for a better overall customer experience. With Contact Lens conversational analytics, you can transcribe customer calls, analyze customer sentiment, discover top contact drivers, help redact sensitive data, and more, all natively within Amazon Connect.\nTranscription support for these 10 new languages is available for post-call scenarios and across all regions where Contact Lens conversational analytics is available. To learn more, please visit our documentation and our webpage. This feature is included with Contact Lens conversational analytics at no additional charge. For information about Contact Lens pricing, please visit our pricing page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-contact-lens-transcriptions-10-languages/",
+    "postDateTime": "2024-09-03 10:00:00-07:00",
+    "postDate": "2024-09-03",
+    "contentType": null,
+    "headline": "Amazon Connect Contact Lens can now generate transcriptions in 10 new languages",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#messaging",
+            "name": "messaging",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/messaging"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        }
+    ]
+}

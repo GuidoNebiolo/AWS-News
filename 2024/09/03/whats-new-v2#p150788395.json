@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p150788395",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "tud13et5bX7EDDGD99iBcR",
+    "dateCreated": "2024-08-30 19:55:48+00:00",
+    "dateUpdated": "2024-09-03 20:42:40+00:00",
+    "postBody": "Amazon SageMaker is excited to announce sagemaker-core, a new Python SDK that provides an object-oriented interface for interacting with SageMaker resources such as TrainingJob, Model, and Endpoint resource classes. The resource chaining feature in sagemaker-core lets developers pass resource objects as parameters, eliminating the need to manually specify complex parameters. The SDK also abstracts low-level details like resource state transitions and polling logic. It achieves full parity with SageMaker APIs, allowing developers to leverage all SageMaker capabilities directly through the SDK. Additional key usability improvements include auto code completion in popular IDEs, comprehensive documentation, and type hints.\nThe dedicated resource classes in sagemaker-core provide an intuitive object-oriented view of available functionalities, reducing cognitive load for developers and minimizing the need to manage complex parameter structures. Comprehensive documentation, and type hints help developers write code faster and with fewer errors without needing to navigate complex API documentation. By handling resource state management automatically, developers can focus on building and deploying machine learning models without getting bogged down by lower level resource monitoring tasks. When used with intelligent defaults, sagemaker-core alleviates the burden of repeatedly specifying common parameters. The combined effects of these features result in more readable and maintainable code along with increased developer productivity.\nTo get started, check out our example notebooks and technical documentation. We're excited to bring sagemaker-core to the SageMaker community and look forward to your contributions in making it even better.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/sagemaker-core-object-oriented-sdk-amazon-sagemaker",
+    "postDateTime": "2024-09-03 16:00:00-04:00",
+    "postDate": "2024-09-03",
+    "contentType": "Launch Announcement",
+    "headline": "Introducing sagemaker-core: A New Object-Oriented SDK for Amazon SageMaker",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-sagemaker",
+            "name": "amazon-sagemaker",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-sagemaker"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        }
+    ]
+}
