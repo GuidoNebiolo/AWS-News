@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p151240075",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "cqYktsQp7Ge4Svc7DANuwS",
+    "dateCreated": "2024-09-03 19:57:10+00:00",
+    "dateUpdated": "2024-09-04 19:21:47+00:00",
+    "postBody": "You can now run petabyte-scale data analytics and machine learning on Amazon EMR Serverless directly from Amazon SageMaker Studio notebooks. EMR Serverless automatically provisions and scales the required resources, allowing you to focus on your data and models without having to configure, optimize, tune, or manage clusters. EMR Serverless automatically installs and configures open source frameworks and provides a performance-optimized runtime that is compatible with and faster than standard open source.\nWith this release, you can now visually create and browse EMR Serverless applications directly from SageMaker Studio and connect to them in a few simple clicks. Once connected to an EMR Serverless application, you can use Spark SQL, Scala, Python to interactively query, explore and visualize data, and run Apache Spark jobs to process data directly from Studio Notebooks. Jobs run fast because they use EMR’s performance-optimized versions of Spark. For e.g. Spark on EMR 7.1 is 4.5x faster than it’s open source equivalent. EMR Serverless offers fine-grained automatic scaling, which provisions and quickly scales the compute and memory resources to match the requirements of your application and you pay for only what you use.\nThese features are supported on SageMaker Distribution 1.10 and above, and are generally available in all AWS Regions where SageMaker Studio is available. To learn more, read the blog Use LangChain with PySpark for Processing documents at massive scale with Amazon SageMaker Studio and EMR Serverless, or the SageMaker Studio documentation here.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/apache-spark-amazon-emr-serverless-sagemaker-studio",
+    "postDateTime": "2024-09-04 15:20:00-04:00",
+    "postDate": "2024-09-04",
+    "contentType": "launch announcement",
+    "headline": "Use Apache Spark on Amazon EMR Serverless directly from Amazon Sagemaker Studio",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-sagemaker-studio",
+            "name": "amazon-sagemaker-studio",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-sagemaker-studio"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-emr",
+            "name": "amazon-emr",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-emr"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        }
+    ]
+}

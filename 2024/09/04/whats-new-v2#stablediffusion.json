@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#stablediffusion",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "2zmba2D5XG5tTij63pK4Kw",
+    "dateCreated": "2024-07-03 17:05:12+00:00",
+    "dateUpdated": "2024-09-04 17:18:30+00:00",
+    "postBody": "Stable Image Ultra, Stable Diffusion 3 Large (SD3 Large), and Stable Image Core models from Stability AI are now generally available in Amazon Bedrock. These models will empower customers in various industries, including media, marketing, retail, and game development, to generate high-quality visuals with unprecedented speed and precision.\nAll three of these models are capable of generating stunningly photo-realistic images with exceptional detail, color accuracy, and lifelike lighting. Each model caters to diverse use cases:\nStable Image Ultra – produces the highest quality, photo-realistic outputs, making it perfect for professional print media and large-format applications. This model excels at rendering exceptional detail and realism.\nStable Diffusion 3 Large – strikes an ideal balance between generation speed and output quality, making it ideal for creating high-volume, high-quality digital assets like websites, newsletters, and marketing materials.\nStable Image Core – optimized for fast and affordable image generation, making it great for rapidly iterating on concepts during the ideation phase.\nThese models enable customers to streamline creative processes, swiftly adapt to market trends, drive innovation through visual brainstorming, and gain a competitive advantage by boosting productivity, reducing costs, and improving visual communication across business functions.\nStability AI’s Stable Image Ultra, SD3 Large, and Stable Image Core models are now available in Amazon Bedrock in the US West (Oregon) AWS region. To learn more read the AWS News Blog or visit the Stability AI in Amazon Bedrock product page, and documentation. To get started with SD3 in Amazon Bedrock, visit the Amazon Bedrock console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/stability-ais-text-to-image-models-amazon-bedrock",
+    "postDateTime": "2024-09-04 13:00:00-04:00",
+    "postDate": "2024-09-04",
+    "contentType": "launch announcement",
+    "headline": "Stability AI’s Top 3 Text-to-Image Models Now Available in Amazon Bedrock",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-machine-learning",
+            "name": "amazon-machine-learning",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-machine-learning"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        }
+    ]
+}

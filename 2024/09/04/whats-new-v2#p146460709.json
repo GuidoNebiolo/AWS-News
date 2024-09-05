@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p146460709",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "bvbX788bYhfgAb53AJ9SPc",
+    "dateCreated": "2024-08-21 18:24:28+00:00",
+    "dateUpdated": "2024-09-04 19:38:03+00:00",
+    "postBody": "Today, AWS announces the addition of DEBUG and INFO logging levels for AWS AppSync GraphQL APIs. These new logging levels provide more granular control over log verbosity and make it easier to troubleshoot your APIs while optimizing readability and costs.\nWith DEBUG and INFO levels, alongside the existing ERROR and ALL levels, customers now have greater flexibility to capture relevant log information at the appropriate level of detail. This allows customers to more precisely pinpoint and resolve issues by sending just the right amount of information to their Amazon CloudWatch Logs. Customers can now log messages from their code with the “error”, “log”, and “debug” functions and configure the level at which logs will be sent to CloudWatch Logs on their API. The API logging level can be changed at any time without having to change any resolver or function code. For example, an API’s logging level can be set to DEBUG during development and troubleshooting but changed to INFO in production. The logging level can be set to ALL to see additional trace information.\nThe new logging levels are available in all AWS Regions where AppSync is supported.\nTo learn more about AppSync's new logging levels and how to implement them in your GraphQL APIs, see the AWS AppSync Developer Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-appsync-api-monitoring-debug-info-logging-levels",
+    "postDateTime": "2024-09-04 15:30:00-04:00",
+    "postDate": "2024-09-04",
+    "contentType": "Launch Announcement",
+    "headline": "AWS AppSync enhances API monitoring with new DEBUG and INFO logging levels",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-appsync",
+            "name": "aws-appsync",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-appsync"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#mobile-services",
+            "name": "mobile-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/mobile-services"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

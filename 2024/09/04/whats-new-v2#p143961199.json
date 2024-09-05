@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p143961199",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-hQM69sex5tUzFsvxKtS41J",
+    "dateCreated": "2024-08-19 17:03:30+00:00",
+    "dateUpdated": "2024-09-04 21:59:52+00:00",
+    "postBody": "Starting today, memory-optimized Amazon Compute Cloud (Amazon EC2) X2idn instances are available in Middle East (Bahrain) region. These instances, powered by 3rd generation Intel Xeon Scalable Processors and built with AWS Nitro System, are designed for memory-intensive workloads. They deliver improvements in performance, price performance, and cost per GiB of memory compared to previous generation X1 instances. These instances are SAP-certified for running Business Suite on HANA, SAP S/4HANA, Data Mart Solutions on HANA, Business Warehouse on HANA, SAP BW/4HANA, and SAP NetWeaver workloads on any database.\nWith this launch, X2idn are available in the following AWS Regions: US East (Ohio, N. Virginia), US West (Oregon, N. California), Africa (Cape Town), Asia Pacific (Hyderabad, Jakarta, Malaysia, Mumbai, Osaka, Seoul, Singapore, Sydney, Tokyo), China (Beijing, Nginxia), Middle East (Bahrain, Dubai), Europe (Frankfurt, Ireland, London, Milan, Paris, Stockholm, Spain, Zurich), Canada (Central), South America (São Paulo), and the AWS GovCloud (US-East, US-West) Regions. X2idn is available for purchase with Savings Plans, Reserved Instances, Convertible Reserved, On-Demand, and Spot instances, or as Dedicated instances or Dedicated hosts. To learn more, visit the EC2 X2i Instances Page, or connect with your AWS Support contacts.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-x2idn-instances-bahrain-region/",
+    "postDateTime": "2024-09-04 10:00:00-07:00",
+    "postDate": "2024-09-04",
+    "contentType": null,
+    "headline": "Amazon EC2 X2idn instances now available in Middle East (Bahrain) region",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ec2",
+            "name": "amazon-ec2",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ec2"
+        }
+    ]
+}

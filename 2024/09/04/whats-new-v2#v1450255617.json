@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1450255617",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "d2F1SV7rPfHrSKd1sw2VgR",
+    "dateCreated": "2024-08-26 16:21:20+00:00",
+    "dateUpdated": "2024-09-04 20:30:16+00:00",
+    "postBody": "Today, Amazon Simple Email Service (SES) launched enhancements to its onboarding experience to help customers easily discover and activate key SES features. The SES console now features an adaptive setup page that brings recommendations for optimal setup to the forefront. Additionally, the update introduces the option to enable the Virtual Deliverability Manager (VDM) within the initial onboarding wizard, offering maximum guidance from the beginning of the setup process.\nPreviously, the SES onboarding process focused primarily on the initial steps of authenticating domains and attaining production access. With an on-demand advisor check, this workflow guides customers to begin sending authenticated email that meets mailbox provider requirements with DKIM-alignment, SPF-alignment, and a DMARC policy. Now, the enhanced onboarding experience empowers customers to optimize their email deliverability from the start. Customers can easily configure email monitoring, provision dedicated IP addresses, and adjust sending limits to meet their projected volume - all through the adaptive setup page that detects their current configuration and provides tailored recommendations. With these enhancements, SES customers can be confident they are setting up their email infrastructure for long-term success from the beginning of their SES journey.\nSES offers a guided onboarding experience in all AWS regions where SES is available.\nFor more information, please visit the documentation for getting started with SES.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ses-onboarding-setup-wizard-virtual-manager/",
+    "postDateTime": "2024-09-04 10:00:00-07:00",
+    "postDate": "2024-09-04",
+    "contentType": null,
+    "headline": "Amazon SES announces enhanced onboarding with adaptive setup wizard and Virtual Deliverability Manager",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-simple-email-service",
+            "name": "amazon-simple-email-service",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-simple-email-service"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#messaging",
+            "name": "messaging",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/messaging"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p152318058",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "enbDd8Wd2dPDKhsxxFwrFM",
+    "dateCreated": "2024-09-03 20:01:07+00:00",
+    "dateUpdated": "2024-09-04 20:40:47+00:00",
+    "postBody": "Agents for Amazon Bedrock enable developers to create generative AI-based applications that can complete complex tasks for a wide range of use cases and deliver answers based on company knowledge sources. In order to complete complex tasks, with high accuracy, reasoning capabilities of the underlying foundational model (FM) play a critical role.\nToday, Amazon Bedrock customers in US East (N. Virginia), US West (Oregon), Europe (Frankfurt), Asia Pacific (Tokyo), and Asia Pacific (Singapore) can leverage Claude 3.5 Sonnet with their Bedrock Agents.\nClaude 3.5 Sonnet is Anthropic’s latest foundation model and ranks among the best in the world. Claude 3.5 Sonnet delivers improved speed, performance and agentic reasoning compared with Claude 3 Opus. Additionally, with this model, Bedrock Agents now supports the Anthropic recommended tool use for function calling which leads to an improved developer and end user experience.\nTo learn more, read the Claude in Amazon Bedrock product page and documentation. To get started with Claude 3.5 Sonnet in Amazon Bedrock, visit the Amazon Bedrock console. To learn more about the list of models supported on Bedrock Agents, visit the documentation page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/bedrock-agents-sonnet-3-5",
+    "postDateTime": "2024-09-04 16:40:00-04:00",
+    "postDate": "2024-09-04",
+    "contentType": "launch announcement",
+    "headline": "Bedrock Agents on Sonnet 3.5",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}
