@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1486707834",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "dZ5SjwyVCSbAb78zffCGBM",
+    "dateCreated": "2024-08-28 17:32:01+00:00",
+    "dateUpdated": "2024-09-05 21:41:10+00:00",
+    "postBody": "Amazon Web Services announces the ability to setup Amazon WorkSpaces Pools powered by Microsoft Windows 10 and 11 operating systems using Bring Your Own License (BYOL). Now, customers can bring their Windows 10 or 11 licenses (provided they meet Microsoft's licensing requirements) to support their eligible Microsoft 365 Apps for enterprise, providing a consistent desktop experience to their users when they switch between on-premise and virtual desktops.\nWorkSpaces Pools simplifies management across a customer’s WorkSpaces environment by providing a single console and set of clients to manage the various desktop hardware configurations, storage, and applications for their users. With BYOL, the operating system is hosted on hardware that is dedicated to admin’s AWS account and they can automatically scale a pool of virtual desktops based on real-time usage metrics or predefined schedules. WorkSpaces Pools offers pay-as-you-go hourly pricing that excludes any operating system fees, providing significant savings.\nTo take advantage of this option, the organization must meet the Microsoft licensing requirements, and must commit to running a minimum number of WorkSpaces in a given AWS Region each month. BYOL for Windows 10 and 11 is supported for Standard, Performance, Power and PowerPro bundles. For the best experience with video conferencing we recommend using Power or PowerPro bundles only. For Region availability details, see AWS Regions and Availability Zones for WorkSpaces Pools. To learn more about this option and the eligibility requirements, please see the Amazon WorkSpaces BYOL documentation and FAQs on BYOL.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-workspaces-pools-windows-10-11-licenses",
+    "postDateTime": "2024-09-05 17:35:00-04:00",
+    "postDate": "2024-09-05",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon WorkSpaces Pools now allows you to bring your Windows 10 or 11 licenses ",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-workspaces",
+            "name": "amazon-workspaces",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-workspaces"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#desktop-and-app-streaming",
+            "name": "desktop-and-app-streaming",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/desktop-and-app-streaming"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

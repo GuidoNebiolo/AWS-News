@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1500889701",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-4CmMqtGCsW54rDRtgMomwB",
+    "dateCreated": "2024-09-05 16:13:36+00:00",
+    "dateUpdated": "2024-09-05 20:11:43+00:00",
+    "postBody": "Amazon RDS Custom for SQL Server now supports copying database snapshots, either created automatically or manually, across commercial AWS Regions. This enables you to seamlessly move database snapshots for your RDS Custom for SQL Server instances to different Regions, which can be used to build a robust disaster recovery solution for your mission-critical data.\nRDS Custom for SQL Server is a managed database service that allows you to bring your own licensed SQL Server software and customize the underlying operating system. With today's launch, you can manually copy RDS Custom for SQL Server database snapshots to other AWS Regions, enabling data retention, compliance, and disaster recovery for your applications deployed across multiple Regions. For more information see Copying an Amazon RDS Custom for SQL Server DB snapshot.\nWhen you create a snapshot of your RDS Custom for SQL Server instance, it captures the entire database instance, not just individual databases. To copy the snapshot in a different AWS region, select the snapshot, choose “Copy Snapshot” from the Snapshot actions menu, pick a destination region, and enter a name for the new snapshot. You can initiate the snapshot copy process from the AWS Management Console, the AWS Command Line Interface (CLI), or through the Amazon RDS Custom for SQL Server APIs.\nAmazon RDS Custom for SQL Server with cross-region snapshot copying is available in all commercial AWS Regions where RDS Custom for SQL Server is offered.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-custom-sql-server-cross-region-snapshot-copying/",
+    "postDateTime": "2024-09-05 10:00:00-07:00",
+    "postDate": "2024-09-05",
+    "contentType": null,
+    "headline": "Amazon RDS Custom for SQL Server supports Cross-region Snapshot Copying",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-rds",
+            "name": "amazon-rds",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        }
+    ]
+}

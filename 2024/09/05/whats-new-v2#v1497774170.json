@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1497774170",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-gyXPhJrDmpxDQXNG1rb1aF",
+    "dateCreated": "2024-09-03 18:22:47+00:00",
+    "dateUpdated": "2024-09-05 21:41:21+00:00",
+    "postBody": "Amazon S3 is announcing the alpha release of Storage Browser for S3, an open source component that you can add to your web applications to provide your end users with a simple interface for data stored in S3. With Storage Browser for S3, you can provide authorized end users access to easily browse, download, and upload data in S3 directly from your own applications. Storage Browser for S3 is available in the AWS Amplify JavaScript and React client libraries.\nStorage Browser for S3 only displays the data that your end users are authorized to access and automatically optimizes requests to deliver high throughput data transfer. You can control access to your data based on your end user’s identity using AWS security and identity services or your own managed services. You can also customize Storage Browser for S3 to match your existing application’s design and branding.\nWe are making the alpha release of Storage Browser for S3 available to collect early feedback and incorporate community input into the design and implementation. To get started with Storage Browser for S3, visit the GitHub page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/storage-browser-amazon-s3-alpha-release/",
+    "postDateTime": "2024-09-05 10:00:00-07:00",
+    "postDate": "2024-09-05",
+    "contentType": null,
+    "headline": "Announcing Storage Browser for Amazon S3 for your web applications (alpha release)",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-s3",
+            "name": "amazon-s3",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-s3"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p150024237",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "82AshvyHF7bky8VfLQGg2T",
+    "dateCreated": "2024-09-03 17:41:52+00:00",
+    "dateUpdated": "2024-09-05 16:58:33+00:00",
+    "postBody": "Amazon RDS for Oracle now supports Oracle Enterprise Manager (OEM) and Oracle Label Security (OLS) option with Oracle Multitenant configuration. OEM enables monitoring and managing the Oracle infrastructure from a single console. OLS provides fine-grained control of access to individual tables or rows, and helps you enforce regulatory compliance with a policy-based administration.\nTo enable OEM on your Amazon RDS for Oracle database instance with multitenant configuration, you can add an option to a new or existing option group. You can use OEM option for OEM Database Express for a lightweight tool for managing a single database instance, or OEM_AGENT for OEM Cloud Control for an enterprise-level tool for managing a large environment. To learn more about enabling OEM, please refer to Amazon RDS for Oracle documentation.\nTo enable the OLS option on your Amazon RDS for Oracle database instance with multitenant configuration, you can add the option to a new or existing option group. In order to use the OLS option, you need to have a valid Oracle Label Security option license, in addition to an Oracle Enterprise Edition license with “Software Update License & Support”. To learn more about enabling OLS, please refer to Amazon RDS for Oracle documentation.\nAmazon RDS for Oracle allows you to set up, operate, and scale Oracle database deployments in the cloud. See Amazon RDS for Oracle Pricing for up-to-date pricing and regional availability.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-oracle-oem-ols-options-multitenant-configuration",
+    "postDateTime": "2024-09-05 13:00:00-04:00",
+    "postDate": "2024-09-05",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon RDS for Oracle now supports OEM and OLS options with Multitenant configuration",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds-for-oracle",
+            "name": "amazon-rds-for-oracle",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds-for-oracle"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#d148801593",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-vMAGV6dt4KhrSAnhztJb1c",
+    "dateCreated": "2024-09-03 18:30:35+00:00",
+    "dateUpdated": "2024-09-05 18:15:38+00:00",
+    "postBody": "Amazon Managed Service for Apache Flink now supports Apache Flink minor version 1.20. This version is expected to be be the last 1.x minor version released by the Flink community before Flink 2.0. We recommend that you upgrade to Flink 1.20 to benefit from bug fixes, performance improvements, and new functionality added by the Flink community. You can use in-place version upgrades for Apache Flink to upgrade your existing application to this new version.\nAmazon Managed Service for Apache Flink makes it easier to transform and analyze streaming data in real time with Apache Flink. Apache Flink is an open source framework and engine for processing data streams. Amazon Managed Service for Apache Flink reduces the complexity of building and managing Apache Flink applications and integrates with Amazon Managed Streaming for Apache Kafka (Amazon MSK), Amazon Kinesis Data Streams, Amazon OpenSearch Service, Amazon DynamoDB streams, Amazon S3, custom integrations, and more using built-in connectors. Create or update an Amazon Managed Service for Apache Flink application in the Amazon Managed Service for Apache Flink console.\nYou can learn more about Apache Flink 1.20 in Amazon Managed Service for Apache Flink in our documentation. To learn more about open source Apache Flink visit the official website. For Amazon Managed Service for Apache Flink region availability, refer to the AWS Region Table.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-managed-service-apache-flink-1-20/",
+    "postDateTime": "2024-09-05 10:00:00-07:00",
+    "postDate": "2024-09-05",
+    "contentType": null,
+    "headline": "Amazon Managed Service for Apache Flink now supports Apache Flink 1.20",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-managed-service-for-apache-flink",
+            "name": "amazon-managed-service-for-apache-flink",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-managed-service-for-apache-flink"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        }
+    ]
+}

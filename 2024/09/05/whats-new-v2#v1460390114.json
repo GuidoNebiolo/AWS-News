@@ -1,0 +1,58 @@
+{
+    "id": "whats-new-v2#v1460390114",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "43YD1cbLj5Uhm5yXC1u9aj",
+    "dateCreated": "2024-08-26 16:45:35+00:00",
+    "dateUpdated": "2024-09-05 22:01:08+00:00",
+    "postBody": "Amazon S3 Access Grants now support ListCallerAccessGrants, a new API that allows AWS Identity and Access Management (IAM) principals and AWS IAM Identity Center end users to list all S3 buckets, prefixes, and objects they can access, as defined by their S3 Access Grants. Customers can use ListCallerAccessGrants to build applications that identify and then take action on data that is accessible to specific end users. For example, the Storage Browser for Amazon S3, an open source UI component that customers can add to their applications to provide end users with a simple interface for data stored in S3, uses ListCallerAccessGrants to present end users with the data that they have access to in S3, based on their S3 Access Grants.\nS3 Access Grants map identities in AWS IAM or Identity Providers (IdPs) to your datasets in S3. When customers call the ListCallerAccessGrants action, S3 identifies the IAM principal or IAM Identity Center user and their associated groups. The API then returns the S3 Access Grants for the end user and their groups based on group membership in AWS IAM or an IdP.\nThe ListCallerAccessGrants API is available in all AWS Regions where AWS IAM Identity Center is available. For pricing details, visit Amazon S3 pricing. To learn more about S3 Access Grants, visit the S3 User Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-s3-access-grants-listcalleraccessgrants-api",
+    "postDateTime": "2024-09-05 17:50:00-04:00",
+    "postDate": "2024-09-05",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon S3 Access Grants introduce the ListCallerAccessGrants API",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-s3",
+            "name": "amazon-s3",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-s3"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-iam-identity-center",
+            "name": "aws-iam-identity-center",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-iam-identity-center"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-iam",
+            "name": "aws-iam",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-iam"
+        }
+    ]
+}
