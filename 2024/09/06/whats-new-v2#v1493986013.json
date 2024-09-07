@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1493986013",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-2qAtKQrJoZPUNUg1sbupsJ",
+    "dateCreated": "2024-09-04 20:01:59+00:00",
+    "dateUpdated": "2024-09-06 20:25:03+00:00",
+    "postBody": "CloudWatch Application Signals, which helps troubleshoot issues quickly by providing out-of-the-box dashboards that correlate telemetry across metrics, traces, and logs for your applications and their dependencies, now supports Service Level Objectives (SLOs) calculated based on the request count i.e. the fraction of good or bad requests of the total operations performed by any service. This allows for more precise tracking of how many requests met the defined SLO criteria (e.g., latency under 200ms) out of the total requests received by a service.\nSLOs represent a commitment to maintain a certain level of service quality, typically expressed as percentage attainment of performance goals within a given time interval. The existing offering of period-based SLOs measures performance during each time period in an interval and aggregates proportion of good periods that meet a specified performance threshold. The release of request-based SLOs allows you to track error tolerance in terms of requests. This enables fine-grained monitoring based on customer traffic, particularly useful for applications prone to high fluctuations in request volume, where performance shortfall during period of low traffic can lead to a quick erosion of the error budget.\nRequest-based SLOs are available in all regions where Application Signals is generally available - 28 commercial AWS Regions except CA West (Calgary) Region. For pricing, see Amazon CloudWatch pricing.\nSee SLO documentation to learn more, or refer to the user guide and AWS One Observability Workshop to get started with Application Signals.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/cloudwatch-application-signals-service-level-objectives/",
+    "postDateTime": "2024-09-06 10:00:00-07:00",
+    "postDate": "2024-09-06",
+    "contentType": null,
+    "headline": "CloudWatch Application Signals now supports request based Service Level Objectives (SLOs) ",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-cloudwatch",
+            "name": "amazon-cloudwatch",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-cloudwatch"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#management-and-governance",
+            "name": "management-and-governance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/management-and-governance"
+        }
+    ]
+}

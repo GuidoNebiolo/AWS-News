@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1497691827",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-7Apm7L7qnBT9XCUAGHBLvV",
+    "dateCreated": "2024-09-06 16:06:19+00:00",
+    "dateUpdated": "2024-09-06 17:33:28+00:00",
+    "postBody": "You can now use Amazon Timestream for InfluxDB in the Canada (Central), Europe (London) and Europe (Paris) AWS regions. Timestream for InfluxDB makes it easy for application developers and DevOps teams to run fully managed InfluxDB databases on AWS for real-time time-series applications using open-source APIs.\nTo migrate to Timestream for InfluxDB from a self-managed InfluxDB instance, you can use our sample migration script by following this guide. Timestream for InfluxDB offers the full feature set available in the InfluxDB 2.7 release of the open-source version, and adds deployment options with Multi-AZ high availability and enhanced durability. For high availability, Timestream for InfluxDB allows you to automatically create a primary database instance and synchronously replicate the data to an instance in a different Availability Zone. When it detects a failure, Amazon Timestream automatically fails over to a standby instance without manual intervention.\nWith the latest release, customers can use Amazon Timestream for InfluxDB in the following regions: US East (Ohio), US East (N. Virginia), US West (Oregon), Canada (Central), Asia Pacific (Mumbai), Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Paris), Europe (Frankfurt), Europe (Ireland), Europe (London), and Europe (Stockholm). To get started with Amazon Timestream, visit our product page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-timestream-influxdb-canada-london-paris-regions/",
+    "postDateTime": "2024-09-06 10:00:00-07:00",
+    "postDate": "2024-09-06",
+    "contentType": null,
+    "headline": "Amazon Timestream for InfluxDB is now available in the Canada, London and Paris AWS regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-timestream",
+            "name": "amazon-timestream",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-timestream"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1501292741",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "8FySL4wFzGBQ1WcgPHURnT",
+    "dateCreated": "2024-09-04 15:41:06+00:00",
+    "dateUpdated": "2024-09-06 18:17:01+00:00",
+    "postBody": "Amazon RDS Custom for SQL Server is a managed database service that allows you to bring your own licensed SQL Server media and have access to the underlying operating system and database environment. This service is now available in the AWS Regions of US West (N. California), Asia Pacific (Osaka), and Europe (Paris).\nBy using Amazon RDS Custom for SQL Server, you can benefit from the agility of a managed database service, including features such as managed high availability (MAZ), automated backups and point-in-time recovery, and cross-region snapshot copying. You can choose to deploy RDS Custom for SQL Server using your own licensed SQL Server media or with License Included (LI) instances. It can help you save time on the undifferentiated heavy lifting of database management and focus on more business-impacting tasks.\nTo learn more about Amazon RDS Custom, please see the Amazon RDS Custom for SQL Server User Guide and Amazon RDS Custom Pricing for pricing details and availability in the additional regions.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-custom-sql-server-additional-aws-regions",
+    "postDateTime": "2024-09-06 14:15:00-04:00",
+    "postDate": "2024-09-06",
+    "contentType": "launch announcement",
+    "headline": "Amazon RDS Custom for SQL Server is now available in 3 additional AWS Regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds-for-sql-server",
+            "name": "amazon-rds-for-sql-server",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds-for-sql-server"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        }
+    ]
+}

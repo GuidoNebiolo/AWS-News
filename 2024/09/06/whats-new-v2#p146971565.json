@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p146971565",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-tzkFfzusfhRRLFz7NYbcKP",
+    "dateCreated": "2024-09-03 19:12:28+00:00",
+    "dateUpdated": "2024-09-06 18:37:52+00:00",
+    "postBody": "Amazon Elastic Container Service (Amazon ECS) now supports AWS Graviton-based compute with AWS Fargate Spot. This capability helps you run fault-tolerant Arm-based applications with up to 70% discount compared to Fargate prices. AWS Graviton processors are custom-built by AWS to deliver the best price-performance for cloud workloads.\nAmazon ECS with AWS Fargate enables customers to deploy and build workloads at scale in a serverless manner. Customers can get better price-performance by running Arm-based workloads. Starting today, customers can further optimize for costs by running fault-tolerant Arm-based workloads on AWS Fargate Spot. To get started, just configure your task definition just like you do today with cpu-architecture = ARM64 and choose FARGATE_SPOT as the capacity provider to run your Amazon ECS service or a standalone task. Amazon ECS will leverage spare AWS Graviton-based compute capacity available in the AWS cloud for running your service or task. You can now get the simplicity of serverless compute with familiar cost optimization levers of Spot capacity with Graviton-based compute.\nThis capability is now available for Amazon ECS tasks running on AWS Fargate platform version 1.4.0 or higher in all commercial and the AWS GovCloud (US) Regions. To learn more about usage and pricing of AWS Fargate Spot, see Fargate Capacity Providers documentation and the AWS Fargate pricing page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ecs-graviton-based-spot-compute-fargate/",
+    "postDateTime": "2024-09-06 10:00:00-07:00",
+    "postDate": "2024-09-06",
+    "contentType": null,
+    "headline": "Amazon ECS now supports AWS Graviton-based Spot compute with AWS Fargate",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#containers",
+            "name": "containers",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/containers"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ecs",
+            "name": "amazon-ecs",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ecs"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

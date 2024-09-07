@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p152587110",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "pWhLjUMPRbdyT7Enm67i5z",
+    "dateCreated": "2024-09-06 16:13:58+00:00",
+    "dateUpdated": "2024-09-06 17:07:01+00:00",
+    "postBody": "Amazon Relational Database Service (Amazon RDS) for MariaDB now supports MariaDB minor versions 10.11.9, 10.6.19, and 10.5.26. We recommend that you upgrade to the latest minor versions to fix known security vulnerabilities in prior versions of MariaDB, and to benefit from the bug fixes, performance improvements, and new functionality added by the MariaDB community.\nYou can leverage automatic minor version upgrades to automatically upgrade your databases to more recent minor versions during scheduled maintenance windows. You can also leverage Amazon RDS Managed Blue/Green deployments for safer, simpler, and faster updates to your MariaDB instances. Learn more about upgrading your database instances, including automatic minor version upgrades and Blue/Green Deployments, in the Amazon RDS User Guide.\nAmazon RDS for MariaDB makes it straightforward to set up, operate, and scale MariaDB deployments in the cloud. Learn more about pricing details and regional availability at Amazon RDS for MariaDB. Create or update a fully managed Amazon RDS database in the Amazon RDS Management Console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-mariadb-minors-10/",
+    "postDateTime": "2024-09-06 10:00:00-07:00",
+    "postDate": "2024-09-06",
+    "contentType": null,
+    "headline": "Amazon RDS for MariaDB supports minors 10.11.9, 10.6.19, 10.5.26",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds",
+            "name": "amazon-rds",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        }
+    ]
+}
