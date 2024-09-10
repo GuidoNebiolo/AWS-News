@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#p147392703",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "7gqzFD2qTwUQo1BWLdwAz9",
+    "dateCreated": "2024-08-19 16:24:00+00:00",
+    "dateUpdated": "2024-09-09 17:03:08+00:00",
+    "postBody": "AWS Resource Access Manager (AWS RAM) now supports AWS PrivateLink, allowing you to create and manage your resource shares from within your Amazon Virtual Private Cloud (VPC) without traversing the public internet.\nAWS RAM helps you securely share your resources across your organization, with specific organizational units (OUs), or with individual AWS accounts. You can centrally create a resource and then share that resource using AWS RAM to reduce the operational overhead of managing resources in a multi-account environment.\nAWS RAM support for AWS PrivateLink is available in the AWS Commercial Regions, the AWS GovCloud (US) Regions, and the China Regions. To get started with using AWS RAM to share resources, visit the AWS Resource Access Manager Console.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-resource-access-manager-privatelink",
+    "postDateTime": "2024-09-09 13:00:00-04:00",
+    "postDate": "2024-09-09",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Resource Access Manager now supports AWS PrivateLink",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-privatelink",
+            "name": "aws-privatelink",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-privatelink"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-resource-access-manager",
+            "name": "aws-resource-access-manager",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-resource-access-manager"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p147923658",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-i8fEM7zSXyYfE3Z89oAVdQ",
+    "dateCreated": "2024-08-27 16:18:51+00:00",
+    "dateUpdated": "2024-09-09 16:58:36+00:00",
+    "postBody": "You can now monitor your sources and get instant visual feedback for AWS Elemental MediaConnect flows with thumbnail images via the AWS Management Console or API. Thumbnails are also available in the Workflow Monitor tool.\nInput thumbnails provide a visual representation of your live content. Rather than relying solely on metadata or metrics, you can now glance at a thumbnail to verify that your sources are operating as expected. This makes it easier to detect issues, troubleshoot problems, confirm the right input source is being sent, and ensure the quality of your live video. For more information on thumbnail access, visit the MediaConnect documentation. Input thumbnails in MediaConnect are available at no additional cost.\nAWS Elemental MediaConnect is a reliable, secure, and flexible transport service for live video that enables broadcasters and content owners to build live video workflows and securely share live content with partners and customers. MediaConnect helps customers transport high-value live video streams into, through, and out of the AWS Cloud. MediaConnect can function as a standalone service or as part of a larger video workflow with other AWS Elemental Media Services, a family of services that form the foundation of cloud-based workflows to transport, transcode, package, and deliver video.\nVisit the AWS Region Table for a full list of AWS Regions where MediaConnect is available. To learn more about MediaConnect, please visit here.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elemental-mediaconnect-input-thumbnail-images/",
+    "postDateTime": "2024-09-09 10:00:00-07:00",
+    "postDate": "2024-09-09",
+    "contentType": null,
+    "headline": "AWS Elemental MediaConnect adds support for input thumbnail images",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-elemental-mediaconnect",
+            "name": "aws-elemental-mediaconnect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-elemental-mediaconnect"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#media-services",
+            "name": "media-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/media-services"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p146739378",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-kFFt8DnP2U8NLrM7tHfCox",
+    "dateCreated": "2024-09-09 21:28:43+00:00",
+    "dateUpdated": "2024-09-09 21:50:14+00:00",
+    "postBody": "Today, AWS announces the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P5e instances, powered by the latest NVIDIA H200 Tensor Core GPUs. Available via EC2 Capacity Blocks, these instances deliver the highest performance in Amazon EC2 for deep learning and generative AI inference.\nYou can use Amazon EC2 P5e instances for training and deploying increasingly complex large language models (LLMs) and diffusion models powering the most demanding generative AI applications. You can also use P5e instances to deploy demanding HPC applications at scale in pharmaceutical discovery, seismic analysis, weather forecasting, and financial modeling.\nP5e instances feature 8 H200 GPUs which have 1.7x GPU memory size and 1.5x GPU memory bandwidth than H100 GPUs featured in P5 instances. They provide market-leading scale-out capabilities for distributed training and tightly coupled HPC workloads with up to 3,200 Gbps of networking using second-generation Elastic Fabric Adapter (EFA) technology. To address customer needs for large scale at low latency, P5e instances are deployed in Amazon EC2 UltraClusters.\nP5e instances are now available in the US East (Ohio) AWS Region in the p5e.48xlarge sizes through EC2 Capacity Blocks for ML.\nTo learn more about P5e instances, see Amazon EC2 P5e Instances.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-p5e-instances-ec2-capacity-blocks/",
+    "postDateTime": "2024-09-09 10:00:00-07:00",
+    "postDate": "2024-09-09",
+    "contentType": null,
+    "headline": " Amazon EC2 P5e instances are generally available via EC2 Capacity Blocks ",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-ec2",
+            "name": "amazon-ec2",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ec2"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}

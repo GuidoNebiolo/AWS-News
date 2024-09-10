@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1497599872",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-gdVgMcY2DmkinKtkfvT6dP",
+    "dateCreated": "2024-09-03 17:57:29+00:00",
+    "dateUpdated": "2024-09-09 19:35:57+00:00",
+    "postBody": "Starting today, you can use RTMP (Real-Time Messaging Protocol) and the encrypted version, RTMPS, to broadcast to your Amazon Interactive Video Service (Amazon IVS) stages. This new protocol complements the currently supported WHIP (WebRTC-HTTP Ingestion Protocol). RTMP ingest enhances compatibility with a wide range of software and hardware encoders for increased flexibility in your broadcasting.\nAmazon IVS is a managed live streaming solution that is designed to be quick and easy to set up, and ideal for creating interactive video experiences. Video ingest and delivery are available around the world over a managed network of infrastructure optimized for live video. Visit the AWS region table for a full list of AWS Regions where the Amazon IVS console and APIs for control and creation of video streams are available.\nTo learn more, please visit the Amazon IVS RTMP ingest documentation page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ivs-real-time-streaming-rtmp-ingest/",
+    "postDateTime": "2024-09-09 10:00:00-07:00",
+    "postDate": "2024-09-09",
+    "contentType": null,
+    "headline": "Amazon IVS Real-Time Streaming now supports RTMP ingest",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#media-services",
+            "name": "media-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/media-services"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ivs",
+            "name": "amazon-ivs",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ivs"
+        }
+    ]
+}

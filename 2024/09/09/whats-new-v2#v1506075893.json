@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1506075893",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "1oiZ8hRC5ePKmd7mLCMHz7",
+    "dateCreated": "2024-09-04 18:46:22+00:00",
+    "dateUpdated": "2024-09-09 17:02:13+00:00",
+    "postBody": "AWS Elastic Beanstalk now supports dual-stack public service endpoints and dual-stack VPC endpoints, including VPC endpoints integrated with AWS PrivateLink.\nThis capability allows you to configure your Elastic Beanstalk VPC endpoints to accept dual-stack incoming traffic (via IPv6 and IPV4). You can also send requests to the Elastic Beanstalk service using the AWS CLI or the AWS SDK specifying an IPv4 endpoint or a dual-stack endpoint. For a list of public endpoints, see Elastic Beanstalk service endpoints in the Amazon Web Services General Reference.\nElastic Beanstalk support for IPv6 and IPv4 dual-stack functionality is available in all of the AWS Commercial Regions and AWS GovCloud (US) Regions that Elastic Beanstalk supports. For a complete list of regions and service offerings, see AWS Regions.\nFor more information about Elastic Beanstalk dual-stack traffic support, see IPV6 support in the AWS Elastic Beanstalk Developer Guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elastic-beanstalk-ipv6-inbound-traffic-service-endpoints",
+    "postDateTime": "2024-09-09 17:40:00-04:00",
+    "postDate": "2024-09-09",
+    "contentType": "launch announcement",
+    "headline": "AWS Elastic Beanstalk adds support for IPv6 inbound traffic to service endpoints",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-elastic-beanstalk",
+            "name": "aws-elastic-beanstalk",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-elastic-beanstalk"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#compute",
+            "name": "compute",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/compute"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        }
+    ]
+}

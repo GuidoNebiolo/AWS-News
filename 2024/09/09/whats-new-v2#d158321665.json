@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#d158321665",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "vxzaMvTZ5gYYKk2NhPhoKj",
+    "dateCreated": "2024-09-04 17:06:18+00:00",
+    "dateUpdated": "2024-09-09 18:41:55+00:00",
+    "postBody": "Today, we’re announcing the general availability of secondary sensor support for AWS IoT SiteWise. Through an integration with AWS Partner CloudRail, customers can now ingest data from over 12,000 sensors from vendors like ifm, SICK, Turck, and Pepperl+Fuchs using either IO-Link or Modbus TCP/IP protocols. Secondary sensors enable data collection from isolated brownfield equipment and for customers to digitally integrate it with their other operational data. Previously, ingesting data from brownfield equipment required either upgrading equipment or manual processes for data collection resulting in manual errors, additional cost and time to value.\nThrough a simple drop-down selection in the AWS Console, users add AWS Partner CloudRail software as a data source on their AWS IoT SiteWise Edge gateway and configure the desired sensor signals and protocols in the partner application. After deploying configurations, the equipment data flows to AWS IoT SiteWise Edge for local monitoring, storage, and access and on to AWS IoT SiteWise for integration with other industrial data and other AWS Cloud services.\nAWS IoT SiteWise is a managed service that makes it easy to collect, store, organize and monitor data from industrial equipment at scale. AWS IoT SiteWise Edge extends cloud capabilities to on-premises applications.\nThis feature is generally available in the following AWS Regions: US East (N. Virginia), US East (Ohio), US West (Oregon), Europe (Ireland), Europe (Frankfurt), Asia Pacific (Mumbai), Asia Pacific (Tokyo), Asia Pacific (Singapore), Asia Pacific (Seoul), Asia Pacific (Sydney) and Canada (Central).\nTo learn more, visit the AWS IoT SiteWise user guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/secondary-sensor-aws-iot-sitewise-edge-cloudrail",
+    "postDateTime": "2024-09-09 14:40:00-04:00",
+    "postDate": "2024-09-09",
+    "contentType": "launch announcement",
+    "headline": "Secondary sensor support for AWS IoT SiteWise Edge through CloudRail",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#internet-of-things",
+            "name": "internet-of-things",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/internet-of-things"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-iot-sitewise",
+            "name": "aws-iot-sitewise",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-iot-sitewise"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        }
+    ]
+}
