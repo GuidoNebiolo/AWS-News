@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p145116576",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "atRSj6DXwc34xnW3K8wL7e",
+    "dateCreated": "2024-08-19 17:54:12+00:00",
+    "dateUpdated": "2024-09-11 17:12:00+00:00",
+    "postBody": "Amazon Redshift now lets you alter sort keys of tables replicated through zero-ETL integration. Sort keys play a crucial role in determining the physical sorting order of rows within a table, and optimizing them can significantly enhance query performance, especially for queries using range-bound filters on sort key columns.\nAmazon Redshift's zero-ETL integration helps you derive holistic insights across many applications and break down data silos in your organization, making it simpler to analyze data from different operational databases. You can now modify the sort keys of your tables replicated through the zero-ETL integration, and achieve faster and more efficient querying of your replicated data in Amazon Redshift. Furthermore, you can even set the sort key of zero-ETL tables to AUTO and allow Amazon Redshift to observe your workload and automatically set a sort key based on your evolving workload and data patterns.\nTo learn more and get started with zero-ETL integration, visit the getting started guides for Amazon Redshift. To learn more about how Amazon Redshift sort’s data, see documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-altering-sort-keys-tables-zero-etl-integration",
+    "postDateTime": "2024-09-11 13:00:00-04:00",
+    "postDate": "2024-09-11",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon Redshift now supports altering sort keys on tables in zero-ETL integration",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-redshift",
+            "name": "amazon-redshift",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-redshift"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-aurora",
+            "name": "amazon-aurora",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-aurora"
+        }
+    ]
+}

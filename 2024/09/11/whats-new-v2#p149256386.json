@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p149256386",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-m36sS8XLDZcYZ94NqREwq2",
+    "dateCreated": "2024-09-03 19:19:51+00:00",
+    "dateUpdated": "2024-09-11 18:07:16+00:00",
+    "postBody": "Amazon EventBridge Pipes now supports AWS Key Management Service (KMS) customer managed keys, allowing you to encrypt Pipes filter patterns, enrichment parameters, and target parameters with your own keys instead of default AWS owned keys. Using keys that you create, own, and manage can satisfy your organization’s security and governance requirements.\nAmazon EventBridge lets you use events to connect application components, making it easier to build scalable event-driven applications. EventBridge Pipes provides a simple, consistent, and cost-effective way to create point-to-point integrations between event producers and consumers. Pipes enables you to send data from one of 6 different event sources to any of the 20+ targets supported by the EventBridge Event Bus, including HTTPS endpoints through EventBridge API Destinations and event buses themselves. With support for Customer Managed Keys, you have more fine-grained security control over your Pipe’s configuration data to more easily meet your organization's regulatory and compliance requirements. You can also audit and track usage of your encryption keys with AWS CloudTrail.\nCustomer managed key support for EventBridge Pipes is available in all AWS Regions where EventBridge Pipes is available.\nTo get started, follow the directions provided in the EventBridge Pipes documentation. To learn more about customer managed keys, visit the AWS Key Management Service documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eventbridge-pipes-customer-managed-keys/",
+    "postDateTime": "2024-09-11 10:00:00-07:00",
+    "postDate": "2024-09-11",
+    "contentType": null,
+    "headline": "Amazon EventBridge Pipes now supports customer managed KMS keys",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#application-services",
+            "name": "application-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/application-services"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-eventbridge",
+            "name": "amazon-eventBridge",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-eventBridge"
+        }
+    ]
+}

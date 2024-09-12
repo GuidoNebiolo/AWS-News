@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1486280389",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "hpZXYgNen5K2GF18yRrooq",
+    "dateCreated": "2024-08-19 18:29:19+00:00",
+    "dateUpdated": "2024-09-11 17:02:24+00:00",
+    "postBody": "The AWS access portal provides AWS IAM Identity Center users with single sign-on access to all their assigned AWS applications and AWS accounts. Today, AWS IAM Identity Center added support for user preferences on language and visual mode in the AWS access portal.\nWhen customers need to access AWS applications and resources through the AWS access portal, having the ability to work with their preferred language and visual mode improves their efficiency and comfort. AWS access portal now supports 12 different language options, allowing users to work in their most natural and comfortable language. Users can now switch the visual mode of their AWS access portal to dark mode, helping reduce eye strain and improving readability in bright environments. AWS access portal inherits language and visual mode preferences from browser settings by default and allow users to customize further if needed.\nThe language and visual mode preferences for AWS access portal are available in all AWS regions where AWS IAM Identity Center is available.\nIAM Identity Center helps customers connect or create their workforce identities, and manage their access to multiple AWS applications and AWS accounts. IAM Identity Center is available to customers at no additional cost. To learn more about IAM Identity Center, visit the product detail page. To get started with using the AWS access portal, please refer to the user guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-iam-identity-center-language-visual-mode-preferences-access-portal",
+    "postDateTime": "2024-09-11 13:00:00-04:00",
+    "postDate": "2024-09-11",
+    "contentType": "Launch Announcement",
+    "headline": "AWS IAM Identity Center now supports language and visual mode preferences in the AWS access portal",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-iam-identity-center",
+            "name": "aws-iam-identity-center",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-iam-identity-center"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        }
+    ]
+}
