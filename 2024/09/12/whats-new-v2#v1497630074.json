@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1497630074",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-riYpSYReQCu1VksSp5eU4b",
+    "dateCreated": "2024-09-03 18:53:59+00:00",
+    "dateUpdated": "2024-09-12 22:00:25+00:00",
+    "postBody": "Today, AWS Backup announces a new AWS Backup Audit Manager control, allowing you to audit and check if a resource's backup data is in a logically air-gapped vault. With this launch, you can assess if a backup was copied inside a logically air-gapped within a specified time frame, and evaluate whether it meets your business or compliance requirements.\nTo use the new AWS Backup Audit Manager control, resources are inside a logically air-gapped vault,  simply enable it in your existing AWS Backup Audit Manager frameworks or create a new framework. Once you enable this control, AWS Backup Audit Manager automatically runs it on a daily basis, monitoring if a backup was successfully copied inside your logically air-gapped vault based on the specified time frame for your selected resources. You can also generate auditor-ready reports to help prove compliance of your data protection policies to organizational or industry-specific regulatory requirements.\nGet started with AWS Backup Audit Manager using the AWS Management console, SDKs, or CLI. AWS Backup Audit Manager is available in US East (Ohio, N. Virginia), US West (N. California, Oregon), Canada (Central), Europe (Frankfurt, Ireland, London, Milan, Paris, Stockholm), South America (Sao Paulo), Middle East (Bahrain), Africa (Cape Town), and Asia Pacific (Hong Kong, Mumbai, Seoul, Singapore, Sydney, Tokyo). To learn more about AWS Backup Audit Manager, visit the AWS Backup product page and documentation. For more information on AWS Backup availability and pricing, see the AWS Regional Services List and pricing page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-backup-audit-manager-control-audit-resources/",
+    "postDateTime": "2024-09-12 10:00:00-07:00",
+    "postDate": "2024-09-12",
+    "contentType": null,
+    "headline": "AWS Backup Audit Manager adds new control to audit resources inside logically air-gapped vault",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-backup",
+            "name": "aws-backup",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-backup"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#storage",
+            "name": "storage",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/storage"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#launchmarketingintake1069",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "fTvLUcri79MS6gmNGjZxpP",
+    "dateCreated": "2024-07-15 20:17:56+00:00",
+    "dateUpdated": "2024-09-12 21:51:54+00:00",
+    "postBody": "Amazon Relational Database Service (Amazon RDS) for MySQL zero-ETL integration with Amazon Redshift is now generally available, enabling near real-time analytics and machine learning (ML) on petabytes of transactional data. With this launch, you can create multiple zero-ETL integrations from a single Amazon RDS database, and you can apply data filtering for each integration to include or exclude specific databases and tables, tailoring replication to your needs. You can also use AWS CloudFormation to automate the configuration and deployment of resources needed for zero-ETL integration.\nZero-ETL integrations make it simpler to analyze data from Amazon RDS to Amazon Redshift by removing the need for you to build and manage complex data pipelines and helping you derive holistic insights across many applications. Within seconds of data being written to Amazon RDS for MySQL, the data is replicated to Amazon Redshift. Using zero-ETL, you can enhance data analysis on near real-time data with the rich analytics capabilities of Amazon Redshift, including integrated ML, Spark support, and materialized views.\nThis zero-ETL integration is available for RDS for MySQL versions 8.0.32 and later, Amazon Redshift Serverless, and Amazon Redshift RA3 instance types in supported AWS Regions. \nTo learn more about this zero-ETL integration, visit the documentation for Amazon RDS and Amazon Redshift. To get started with the latest enhancements in minutes, check out the AWS News Blog.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-mysql-zero-etl-integration-redshift-generally-available",
+    "postDateTime": "2024-09-12 17:50:00-04:00",
+    "postDate": "2024-09-12",
+    "contentType": "Launch Announcement",
+    "headline": "Amazon RDS for MySQL zero-ETL integration with Amazon Redshift is now generally available",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-rds-for-mysql",
+            "name": "amazon-rds-for-mysql",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds-for-mysql"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-redshift",
+            "name": "amazon-redshift",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-redshift"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        }
+    ]
+}

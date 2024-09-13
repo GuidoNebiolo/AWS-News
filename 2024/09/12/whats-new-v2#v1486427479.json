@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#v1486427479",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-g52v6oJwcNg3z6fgXNAa6c",
+    "dateCreated": "2024-09-09 17:24:18+00:00",
+    "dateUpdated": "2024-09-12 19:02:00+00:00",
+    "postBody": "Amazon Elastic Container Registry (ECR) now supports dual-layer server-side encryption in the AWS GovCloud (US) Regions. This capability allows you to apply two independent layers of server-side encryption to images stored in Amazon ECR. Dual-layer server-side encryption with keys stored in AWS Key Management Service (DSSE-KMS) enables you to meet stronger compliance and regulatory requirements of applying multiple layers of encryption to your container images.\nECR supports server-side encryption of ECR images using either Amazon S3-managed encryption keys or keys stored in Amazon Key Management Service (KMS). This often meets your security requirements as it protects data at rest, however, if you operate in highly regulated environments that require rigorous security standards, you may require a second layer of encryption for your images. Now with DSSE-KMS, you can easily apply two layers of encryption and control the keys used for both layers. Once this feature is enabled, ECR automatically encrypts your images twice when pushed and decrypts twice when pulled using your encryption keys managed by Amazon Key Management Service (KMS). AWS KMS is a simple to use key management service that makes it easy for you to create, manage, and control keys by setting permissions per key and specifying key rotation schedules.\nDSSE-KMS with ECR is available for use in the AWS GovCloud (US) Regions at an additional cost. For pricing information, visit the Amazon ECR pricing page. To learn more about all available encryption options on Amazon ECR and get started with this feature, visit our user guide.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ecr-dual-layer-server-side-encryption-govcloud/",
+    "postDateTime": "2024-09-12 10:00:00-07:00",
+    "postDate": "2024-09-12",
+    "contentType": null,
+    "headline": "Amazon ECR announces support for dual-layer server-side encryption in the AWS GovCloud (US) Regions ",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-ecr",
+            "name": "amazon-ecr",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-ecr"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#containers",
+            "name": "containers",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/containers"
+        }
+    ]
+}

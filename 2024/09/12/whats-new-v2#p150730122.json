@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p150730122",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-k7uHN17tfgnE7ajLRZVpkL",
+    "dateCreated": "2024-09-03 19:01:28+00:00",
+    "dateUpdated": "2024-09-12 17:00:42+00:00",
+    "postBody": "Today, AWS announces the general availability of AWS Elemental MediaLive Anywhere, which allows you to run live video transcoding on your on-premises hardware. MediaLive Anywhere brings the cloud control and pay-as-you-go pricing of AWS Elemental MediaLive to compute resources you manage. With MediaLive Anywhere, you can take advantage of MediaLive's centralized configuration, control, and monitoring capabilities while processing live video on premises close to video sources and outputs.\nWith MediaLive Anywhere, you deploy the same broadcast-grade video encoding engine used in AWS Elemental MediaLive on your hardware. MediaLive Anywhere supports a wide range of hardware configurations and can ingest video from multicast, SDI, and standard internet-based transport protocols. You get a consistent set of APIs, channel profiles, logs, and monitoring metrics across your cloud and on-premises live video workflows.\nAWS Elemental MediaLive Anywhere is available in all AWS Regions where AWS Elemental MediaLive is available.\nTo learn more, visit the AWS Elemental MediaLive Anywhere page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elemental-medialive-anywhere-video-encoding-hardware/",
+    "postDateTime": "2024-09-12 10:00:00-07:00",
+    "postDate": "2024-09-12",
+    "contentType": null,
+    "headline": "Announcing AWS Elemental MediaLive Anywhere for live video encoding on your own hardware",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-elemental-medialive",
+            "name": "aws-elemental-medialive",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-elemental-medialive"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#media-services",
+            "name": "media-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/media-services"
+        }
+    ]
+}

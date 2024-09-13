@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p147424714",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-dJK7dZzzkUXnNhN5g9mX1T",
+    "dateCreated": "2024-08-16 19:18:00+00:00",
+    "dateUpdated": "2024-09-12 20:21:08+00:00",
+    "postBody": "AWS Glue Data Catalog now supports storage optimization of Apache Iceberg tables by automatically removing data files that are no longer needed. Each write to an Iceberg table creates a new snapshot, or version, of a table. In addition, any failures during writing to Iceberg tables will create data files that aren't referenced in snapshots known as “orphan” files that further increases storage costs. AWS Glue catalog’s new storage optimizations along with automated compaction will help you reduce metadata overhead, control storage costs and improve query performance.\nWith this launch, you can enable AWS Glue catalog table optimization to include snapshot and orphan data management. You can optimize Amazon S3 layout by providing configuration such as default retention period and days to keep orphan files. Once enabled, AWS Glue catalog periodically monitors tables, removes snapshots from table metadata, removes the Amazon S3 data files, and orphan files that are no longer needed. You can view history of number of data, manifest, manifest lists and orphan files deleted from the table optimization tab in the Glue catalog console.\nIn addition to the AWS console, customers can also use AWS CLI or AWS SDKs to enable table optimization of Apache Iceberg tables. Automatic optimization for Iceberg tables is available in 13 AWS regions US East (N. Virginia, Ohio), US West (Oregon), Europe (Ireland, London, Frankfurt, Stockholm), Asia Pacific (Tokyo, Seoul, Mumbai, Singapore, Sydney), South America (São Paulo). To learn more, read the blog, and visit the AWS Glue Data Catalog documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-glue-data-catalog-optimization-apache-iceberg-tables/",
+    "postDateTime": "2024-09-12 10:00:00-07:00",
+    "postDate": "2024-09-12",
+    "contentType": null,
+    "headline": "AWS Glue Data Catalog now supports storage optimization of Apache Iceberg tables",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-glue",
+            "name": "aws-glue",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-glue"
+        }
+    ]
+}

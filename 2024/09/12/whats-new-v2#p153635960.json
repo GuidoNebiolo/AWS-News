@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p153635960",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "v5Tm4BGnuwMGx77H8kLz9x",
+    "dateCreated": "2024-09-09 19:20:20+00:00",
+    "dateUpdated": "2024-09-12 21:39:02+00:00",
+    "postBody": "Amazon Redshift Serverless, which allows you to run and scale analytics without having to provision and manage data warehouse clusters, is now generally available in the AWS Asia Pacific (Hong Kong) and Israel (Tel Aviv) regions. With Amazon Redshift Serverless, all users, including data analysts, developers, and data scientists, can use Amazon Redshift to get insights from data in seconds. Amazon Redshift Serverless automatically provisions and intelligently scales data warehouse capacity to deliver high performance for all your analytics. You only pay for the compute used for the duration of the workloads on a per-second basis. You can benefit from this simplicity without making any changes to your existing analytics and business intelligence applications.\nWith a few clicks in the AWS Management Console, you can get started with querying data using the Query Editor V2 or your tool of choice with Amazon Redshift Serverless. There is no need to choose node types, node count, workload management, scaling, and other manual configurations. You can create databases, schemas, and tables, and load your own data from Amazon S3, access data using Amazon Redshift data shares, or restore an existing Amazon Redshift provisioned cluster snapshot. With Amazon Redshift Serverless, you can directly query data in open formats, such as Apache Parquet, in Amazon S3 data lakes. Amazon Redshift Serverless provides unified billing for queries on any of these data sources, helping you efficiently monitor and manage costs.\nTo get started, see the Amazon Redshift Serverless feature page, user documentation, and API Reference.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-serverless-aws-asia-pacific-hong-kong-israel-tel-aviv-regions",
+    "postDateTime": "2024-09-12 17:35:00-04:00",
+    "postDate": "2024-09-12",
+    "contentType": "launch announcement",
+    "headline": "Amazon Redshift Serverless is now available in the AWS Asia Pacific (Hong Kong) and Israel (Tel Aviv) Regions",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-redshift",
+            "name": "amazon-redshift",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-redshift"
+        }
+    ]
+}

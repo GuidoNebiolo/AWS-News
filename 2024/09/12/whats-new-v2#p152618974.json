@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p152618974",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "r8ufhhP9VnLbHszreGK7w4",
+    "dateCreated": "2024-09-04 16:11:21+00:00",
+    "dateUpdated": "2024-09-12 19:51:13+00:00",
+    "postBody": "Today, we are announcing the availability of sticky session routing on Amazon SageMaker Inference which helps customers improve the performance and user experience of their generative AI applications by leveraging their previously processed information. Amazon SageMaker makes it easier to deploy ML models including foundation models (FMs) to make inference requests at the best price performance for any use case.\nBy enabling sticky sessions, all requests for the same session will be routed to the same instance, allowing your ML application to reuse previously processed information to reduce latency and improve user experience. This is particularly valuable when customers want to use large data payloads or have the need for seamless interactive experiences. By leveraging their previous inference requests, customers can now take advantage of this feature to build innovative state-aware AI applications on SageMaker. To do this customers will have to create a session id with their first request and then use that session id to indicate that SageMaker should route all the subsequent requests to the same instance. Sessions can also be deleted when done to free up resources for new sessions.\nThis feature is available in all regions where SageMaker is available. You can learn more about deploying models on SageMaker here and more about this feature in our documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/sticky-session-routing-amazon-sagemaker-inference",
+    "postDateTime": "2024-09-12 15:50:00-04:00",
+    "postDate": "2024-09-12",
+    "contentType": "launch announcement",
+    "headline": "Announcing sticky session routing for Amazon SageMaker Inference",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-sagemaker",
+            "name": "amazon-sagemaker",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-sagemaker"
+        }
+    ]
+}

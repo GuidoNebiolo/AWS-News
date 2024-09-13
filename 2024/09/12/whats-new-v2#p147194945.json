@@ -1,0 +1,52 @@
+{
+    "id": "whats-new-v2#p147194945",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "1yKa3SR8ALWzBpetwWFUNT",
+    "dateCreated": "2024-09-03 18:58:30+00:00",
+    "dateUpdated": "2024-09-12 19:14:27+00:00",
+    "postBody": "AWS Network Firewall now supports AWS PrivateLink. Customers can now access and manage their Network Firewalls privately, without going through the public internet. AWS PrivateLink provides private connectivity between VPCs, AWS services, and on-premises applications, securely over the Amazon network. When AWS PrivateLink is used with AWS Network Firewall, all management and control traffic between clients and Network Firewall flows over a private network.\nAWS Network Firewall is a managed firewall service that makes it easy to deploy essential network protections for all your Amazon VPCs. Customers can use AWS PrivateLink with Network Firewall in regions where AWS Network Firewall is available today, including the AWS GovCloud (US) Regions. For more information about the AWS Regions where AWS Network Firewall is available, see the AWS Region table.\nTo learn more about configuring AWS Network Firewall, please refer to the service documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-network-firewall-privatelink",
+    "postDateTime": "2024-09-12 14:44:00-04:00",
+    "postDate": "2024-09-12",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Network Firewall now supports AWS PrivateLink",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#networking",
+            "name": "networking",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/networking"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-privatelink",
+            "name": "aws-privatelink",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-privatelink"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-network-firewall",
+            "name": "aws-network-firewall",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-network-firewall"
+        }
+    ]
+}

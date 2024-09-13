@@ -1,0 +1,52 @@
+{
+    "id": "whats-new-v2#p150786711",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "hFi8gHgPGnKCWn4uKVPyaM",
+    "dateCreated": "2024-09-03 18:23:40+00:00",
+    "dateUpdated": "2024-09-12 17:00:10+00:00",
+    "postBody": "The AV1 video codec is now supported in the AWS Elemental Media Services. You can use AV1 in AWS Elemental MediaLive, MediaPackage, MediaTailor, and MediaConvert to produce both live and on-demand streams with ad insertion.\nThis launch enables live streaming and packaging of AV1 encoded content, preparation of AV1 VOD assets and ads, and ad insertion into AV1 encoded videos. AV1 provides a lower bitrate with a similar viewing experience when compared to HEVC and AVC, reducing both the bandwidth required to deliver live events and CDN costs. AV1 can also deliver better video quality for viewing on mobile devices and in network constrained environments.\nAWS Media Services enable you to transport, prepare, process, and deliver live and on-demand content in the cloud. These managed services let you build and adapt video workflows quickly, eliminate capacity planning, easily scale with growth, and benefit from pay-as-you-go pricing. Connect with other AWS services and third-party applications for live and on demand video streaming, media storage, machine learning, content protection, advertising and monetization, and more.\nTo learn how the AV1 codec can reduce bandwidth and improve the viewing experience, read the blog post. For more information about live AV1 pricing, please review the AWS Elemental MediaLive pricing page. To learn more about the services, please visit the AWS Media Services page.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elemental-media-services-live-av1-encoding",
+    "postDateTime": "2024-09-12 13:00:00-04:00",
+    "postDate": "2024-09-12",
+    "contentType": "Launch Announcement",
+    "headline": "AWS Elemental Media Services now support live AV1 encoding",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-elemental-mediaconvert",
+            "name": "aws-elemental-mediaconvert",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-elemental-mediaconvert"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#media-services",
+            "name": "media-services",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/media-services"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-elemental-mediatailor",
+            "name": "aws-elemental-mediatailor",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-elemental-mediatailor"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-elemental-medialive",
+            "name": "aws-elemental-medialive",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-elemental-medialive"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-elemental-mediapackage",
+            "name": "aws-elemental-mediapackage",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-elemental-mediapackage"
+        }
+    ]
+}
