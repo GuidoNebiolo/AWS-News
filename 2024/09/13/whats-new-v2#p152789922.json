@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#p152789922",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "ma3CPqib2wNfPA1USKbSbp",
+    "dateCreated": "2024-09-06 17:18:26+00:00",
+    "dateUpdated": "2024-09-13 19:06:57+00:00",
+    "postBody": "Today, Amazon QuickSight is announcing the general availability of Direct Query feature for its Google BigQuery data source. This launch is an extension of the feature here wherein QuickSight launched BigQuery connector support through SPICE (Super-fast, Parallel, In-memory Calculation Engine).\nDirect Query mode allows customers to perform near real-time querying of their BigQuery data. The feature doesn’t have a limitation on the number of rows or the data size that could be imported for a dataset. Direct queries also enable customers to extract data directly from BigQuery instead of having to cache it in SPICE.\nGoogle BigQuery Direct Query functionality in QuickSight is now available in all supported Amazon QuickSight regions here.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-quicksight-direct-query-functionality-google-bigquery-connector",
+    "postDateTime": "2024-09-13 15:00:00-04:00",
+    "postDate": "2024-09-13",
+    "contentType": "launch announcement",
+    "headline": "Amazon QuickSight now supports Direct Query for Google BigQuery connector",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#amazon-quicksight",
+            "name": "amazon-quicksight",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-quicksight"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        }
+    ]
+}

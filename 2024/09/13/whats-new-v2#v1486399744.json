@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#v1486399744",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "rYbAksaif2aAzwHC1dXER1",
+    "dateCreated": "2024-09-05 15:53:39+00:00",
+    "dateUpdated": "2024-09-13 20:20:53+00:00",
+    "postBody": "AWS WAF introduces a new version of Bot Control Managed Rule Group with enhanced features to help customers better manage and protect their web applications from bot activity. This includes:\nToken reuse detection: Identifies the reuse of WAF tokens across autonomous system numbers (ASNs) and geographic locations, in addition to existing IP-based detection. Customizable sensitivity levels – High, Medium, and Low – enable you to take mitigation actions based on your use cases. For example, customers with mobile users who frequently change IPs may allow higher token reuse, while those with more static applications can enforce stricter controls at lower thresholds.\nExpanded Bot Categories: 19 new bots, including several verified AI bots, added to various categories.\nCloud Service Provider Labels: New labels that allow customers to selectively allow or block traffic from specific cloud service providers.\nAutomated Browser Extension Labels: Labels to detect the presence of browser extensions that assist in web automation, such as Selenium IDE, complementing the existing automated browser signals.\nImproved CloudWatch Visibility: WAF label is now emitted for each matched rule, enhancing visibility in CloudWatch logs. This change is also included in the new 1.1 versions of the AWS WAF Fraud Control rule groups.\nAWS WAF Bot Control Managed Rule group is available in all AWS Regions, except the AWS GovCloud (US) Regions and the China Regions. To use the latest versions, you will have to manually change the version number of Bot Control Managed Rule group. To learn more, please review the documentation.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/aws-waf-bot-control-managed-rule-bot-detection-capabilities",
+    "postDateTime": "2024-09-13 16:10:00-04:00",
+    "postDate": "2024-09-13",
+    "contentType": "launch announcement",
+    "headline": "AWS WAF Bot Control Managed Rule expands bot detection capabilities",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-waf",
+            "name": "aws-waf",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-waf"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        }
+    ]
+}

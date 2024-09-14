@@ -1,0 +1,46 @@
+{
+    "id": "whats-new-v2#v1493662649",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "9usUvQA53tYs2DbSMLQgNR",
+    "dateCreated": "2024-09-03 19:15:44+00:00",
+    "dateUpdated": "2024-09-13 17:46:39+00:00",
+    "postBody": "Amazon Connect now supports AWS CloudFormation for agent status, in addition to other resources used to configure a contact center like routing profiles, queues, Amazon S3 buckets, and AWS Lambda. You can use CloudFormation templates to programmatically deploy Amazon Connect agent statuses in a secure, efficient, and repeatable way, allowing you to ensure consistent configurations. CloudFormation allows you to track changes over time, apply updates in a controlled and automated manner, and includes version controls so you can easy roll back changes if needed.\nCloudFormation support for agent status is available in all AWS regions where Amazon Connect is offered. To learn more about Amazon Connect, the AWS cloud-based contact center, please visit the Amazon Connect website.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-aws-cloudformation-agent-status",
+    "postDateTime": "2024-09-13 13:46:00-04:00",
+    "postDate": "2024-09-13",
+    "contentType": "launch announcement",
+    "headline": "Amazon Connect launches AWS CloudFormation support for agent status",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#messaging",
+            "name": "messaging",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/messaging"
+        },
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-connect",
+            "name": "amazon-connect",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-connect"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#business-productivity",
+            "name": "business-productivity",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/business-productivity"
+        }
+    ]
+}

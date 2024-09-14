@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p143047180",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-reikVPBDtBkSVa54z7sqmq",
+    "dateCreated": "2024-09-10 16:52:23+00:00",
+    "dateUpdated": "2024-09-13 16:51:28+00:00",
+    "postBody": "Amazon Cognito has expanded multi-factor authentication (MFA) functionality to include email as an additional factor. You now have a choice of delivering one-time passwords (OTP) using email, in addition to the preexisting support for text messages (SMS) and time-based one-time passwords (TOTP). You can enable email MFA either as part of the sign in process or as a challenge for adaptive authentication.\nWith Amazon Cognito, it's easier to integrate authentication, authorization, and user management into your web and mobile apps. Amazon Cognito provides authentication for applications with millions of users and supports sign-in with social identity providers such as Apple, Facebook, Google, and Amazon, and enterprise identity providers via standards such as SAML 2.0 and OpenID Connect.\nThis new feature is now available as part of Cognito advanced security features in all AWS Regions, except AWS GovCloud (US) Regions.\nTo get started, see the following resources:\nAdding MFA to a user pool\nAmazon Cognito advanced security features pricing\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-cognito-user-pools-email-authentication-option/",
+    "postDateTime": "2024-09-13 10:00:00-07:00",
+    "postDate": "2024-09-13",
+    "contentType": null,
+    "headline": "Amazon Cognito user pools now offer email as a multi-factor authentication (MFA) option ",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#security-identity-and-compliance",
+            "name": "security-identity-and-compliance",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/security-identity-and-compliance"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-cognito",
+            "name": "amazon-cognito",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-cognito"
+        }
+    ]
+}

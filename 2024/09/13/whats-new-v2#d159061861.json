@@ -1,0 +1,40 @@
+{
+    "id": "whats-new-v2#d159061861",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-75ZMrJt6ErMzQ1aZGsdCxV",
+    "dateCreated": "2024-09-13 15:52:35+00:00",
+    "dateUpdated": "2024-09-13 17:41:10+00:00",
+    "postBody": "New minor versions of Microsoft SQL Server are now available on Amazon RDS for SQL Server, providing performance enhancements and security fixes. Amazon RDS for SQL Server now supports these latest minor versions of SQL Server 2019 and 2022 across the Express, Web, Standard, and Enterprise editions.\nWe encourage you to upgrade your Amazon RDS for SQL Server database instances at your convenience. You can upgrade with just a few clicks in the Amazon RDS Management Console or by using the AWS CLI. Learn more about upgrading your database instances from the Amazon RDS User Guide. The new minor versions include:\nSQL Server 2019 CU28 - 15.0.4385.2\nSQL Server 2022 CU14 - 16.0.4135.4\nThese minor versions are available in all AWS commercial regions where Amazon RDS for SQL Server databases are available, including the AWS GovCloud (US) Regions.\nAmazon RDS for SQL Server makes it simple to set up, operate, and scale SQL Server deployments in the cloud. See Amazon RDS for SQL Server Pricing for pricing details and regional availability.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-sql-server-minor-versions-cu28-cu14/",
+    "postDateTime": "2024-09-13 10:00:00-07:00",
+    "postDate": "2024-09-13",
+    "contentType": null,
+    "headline": "Amazon RDS for SQL Server Supports Minor Versions 2019 CU28, 2022 CU14",
+    "tags": [
+        {
+            "id": "whats-new-v2#general-products#aws-govcloud-us",
+            "name": "aws-govcloud-us",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/aws-govcloud-us"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#databases",
+            "name": "databases",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/databases"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-rds",
+            "name": "amazon-rds",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-rds"
+        }
+    ]
+}

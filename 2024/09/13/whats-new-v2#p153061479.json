@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p153061479",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "giSWrKvz3B3fwhwCQVNj48",
+    "dateCreated": "2024-09-11 20:01:48+00:00",
+    "dateUpdated": "2024-09-13 17:00:10+00:00",
+    "postBody": "Amazon Bedrock Knowledge Bases announces support for cross-region inference, an optional feature that enables developers to seamlessly manage traffic bursts by utilizing compute across different AWS Regions.\nBy using cross-region inference, Amazon Bedrock Knowledge Base customers using RetrieveAndGenerate API will be able to get higher throughput limits and enhanced resilience during periods of peak demand. By opting in, developers no longer have to spend time and effort predicting demand fluctuations. Instead, cross-region inference dynamically routes traffic across multiple regions, ensuring optimal availability for each request and smoother performance during high-usage periods. To use cross-region inference, customers need to specify an inference profile as the “modelARN“ in the request of RetrieveAndGenerate API. There's no additional routing cost for using cross-region inference and you will be charged based on the region you made the request in (source region).\nPlease find the list of supported models and pre-defined regions here. To learn more about the feature and how to get started, refer to the Amazon Bedrock documentation or this blog.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-bedrock-knowledge-bases-cross-region-inference",
+    "postDateTime": "2024-09-13 13:00:00-04:00",
+    "postDate": "2024-09-13",
+    "contentType": "launch announcement",
+    "headline": "Amazon Bedrock Knowledge Bases now supports cross-region inference",
+    "tags": [
+        {
+            "id": "whats-new-v2#marketing-marchitecture#artificial-intelligence",
+            "name": "artificial-intelligence",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/artificial-intelligence"
+        },
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-bedrock",
+            "name": "amazon-bedrock",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-bedrock"
+        }
+    ]
+}

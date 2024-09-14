@@ -1,0 +1,34 @@
+{
+    "id": "whats-new-v2#p130067136",
+    "locale": "en_US",
+    "directoryId": "whats-new-v2",
+    "name": "launch-b6r2YeGttLMDvmK9QsWWTd",
+    "dateCreated": "2024-09-12 17:35:30+00:00",
+    "dateUpdated": "2024-09-13 16:49:16+00:00",
+    "postBody": "Amazon Redshift Serverless now allows you to set a higher data warehouse base capacity configuration up to 1024 Redshift Processing Units (RPUs). Amazon Redshift Serverless measures data warehouse capacity in RPUs, and you pay only for the duration of workloads run in RPU-hours on a per-second basis. Previously, the highest base capacity was 512 RPUs. With the new higher base capacity of 1024 RPUs, you now have even more flexibility to support workloads of large complexity, processing terabytes or petabytes in size to accelerate data loading and querying based on your price performance requirements. You now have a base capacity range from 8 to 1024 RPUs.\nThe large base capacity of Amazon Redshift Serverless can improve performance for your workloads serving use cases such as complex and long queries, large numbers of columns, queries with joins and aggregations requiring high memory, data lake queries scanning large amounts of data, and ingesting large datasets into the data warehouse.\nThe support for 1024 RPUs higher base capacity configuration is now available for Amazon Redshift Serverless through the Amazon Redshift Console, API and CLI, and is available in the AWS Regions: US East (N. Virginia), US East (Ohio), US West (Oregon). To get started, see the Amazon Redshift Serverless feature page, user documentation, and API Reference.\n",
+    "headlineUrl": "https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-serverless-capacity-1024-processing-units/",
+    "postDateTime": "2024-09-13 10:00:00-07:00",
+    "postDate": "2024-09-13",
+    "contentType": null,
+    "headline": "Amazon Redshift Serverless now supports higher base capacity of 1024 Redshift Processing Units",
+    "tags": [
+        {
+            "id": "whats-new-v2#year#2024",
+            "name": "2024",
+            "tagNamespaceId": "whats-new-v2#year",
+            "description": "year#2024"
+        },
+        {
+            "id": "whats-new-v2#marketing-marchitecture#analytics",
+            "name": "analytics",
+            "tagNamespaceId": "whats-new-v2#marketing-marchitecture",
+            "description": "marketing:marchitecture/analytics"
+        },
+        {
+            "id": "whats-new-v2#general-products#amazon-redshift",
+            "name": "amazon-redshift",
+            "tagNamespaceId": "whats-new-v2#general-products",
+            "description": "general:products/amazon-redshift"
+        }
+    ]
+}
